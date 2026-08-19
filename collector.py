@@ -1,3 +1,5 @@
+import os
+import re
 import requests
 import trafilatura
 from bs4 import BeautifulSoup
@@ -19,7 +21,6 @@ for link in soup.find_all("a", href=True):
 
     if "/eng/xw/fyrbt/" in full_url and full_url.endswith(".html") and title:
 
-        # Avoid duplicate URLs
         if not any(article["url"] == full_url for article in articles):
             articles.append({
                 "title": title,
@@ -30,21 +31,21 @@ for link in soup.find_all("a", href=True):
         break
 
 
-print(f"Found {len(articles)} articles.\n")
+# Create folder for saved articles
+os.makedirs("articles/mfa", exist_ok=True)
 
 
-# Extract text from each article
-for number, article in enumerate(articles, start=1):
+def clean_filename(title):
+    # Remove characters that are unsafe in filenames
+    title = re.sub(r'[\\/:*?"<>|]', '', title)
 
-    print("=" * 80)
-    print(f"ARTICLE {number}")
-    print("=" * 80)
+    # Remove extra spaces
+    title = re.sub(r'\s+', ' ', title).strip()
 
-    print("\nTITLE:")
-    print(article["title"])
+    return title
 
-    print("\nURL:")
-    print(article["url"])
+
+for article in articles:
 
     try:
         article_response = requests.get(
@@ -61,11 +62,22 @@ for number, article in enumerate(articles, start=1):
             include_links=False
         )
 
-        print("\nARTICLE TEXT:")
-        print(article_text)
+        filename = clean_filename(article["title"]) + ".txt"
+
+        filepath = os.path.join(
+            "articles",
+            "mfa",
+            filename
+        )
+
+        with open(filepath, "w", encoding="utf-8") as file:
+            file.write(f"TITLE:\n{article['title']}\n\n")
+            file.write(f"SOURCE:\nPRC Ministry of Foreign Affairs\n\n")
+            file.write(f"URL:\n{article['url']}\n\n")
+            file.write("ARTICLE TEXT:\n")
+            file.write(article_text or "")
+
+        print(f"Saved: {filepath}")
 
     except Exception as error:
-        print("\nERROR:")
-        print(error)
-
-    print("\n")
+        print(f"Error collecting {article['url']}: {error}")
