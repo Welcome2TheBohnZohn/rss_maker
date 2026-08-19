@@ -3,6 +3,9 @@ name: Test Collector
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -21,6 +24,7 @@ jobs:
 
       - name: Run collector
         run: python collector.py
+
       - name: Save collected articles
         run: |
           git config user.name "github-actions[bot]"
