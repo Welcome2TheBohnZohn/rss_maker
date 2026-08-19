@@ -10,7 +10,7 @@ url = "https://www.mfa.gov.cn/eng/xw/fyrbt/"
 response = requests.get(url, timeout=30)
 response.raise_for_status()
 
-soup = BeautifulSoup(response.text, "html.parser")
+soup = BeautifulSoup(response.content, "html.parser")
 
 articles = []
 
