@@ -3,6 +3,10 @@ name: Test Collector
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: "17 */6 * * *"
+      timezone: "America/New_York"
+
 permissions:
   contents: write
 
