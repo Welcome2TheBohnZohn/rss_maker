@@ -10,36 +10,62 @@ response.raise_for_status()
 
 soup = BeautifulSoup(response.text, "html.parser")
 
-# Find the first recent article
-article_url = None
-article_title = None
+articles = []
 
+# Find the 10 most recent article links
 for link in soup.find_all("a", href=True):
     title = link.get_text(" ", strip=True)
     full_url = urljoin(url, link["href"])
 
     if "/eng/xw/fyrbt/" in full_url and full_url.endswith(".html") and title:
-        article_url = full_url
-        article_title = title
+
+        # Avoid duplicate URLs
+        if not any(article["url"] == full_url for article in articles):
+            articles.append({
+                "title": title,
+                "url": full_url
+            })
+
+    if len(articles) >= 10:
         break
 
-print("ARTICLE TITLE:")
-print(article_title)
 
-print("\nARTICLE URL:")
-print(article_url)
+print(f"Found {len(articles)} articles.\n")
 
-# Download the article
-article_response = requests.get(article_url, timeout=30)
-article_response.raise_for_status()
 
-# Extract the main article text
-article_text = trafilatura.extract(
-    article_response.text,
-    url=article_url,
-    include_comments=False,
-    include_links=False
-)
+# Extract text from each article
+for number, article in enumerate(articles, start=1):
 
-print("\nARTICLE TEXT:")
-print(article_text)
+    print("=" * 80)
+    print(f"ARTICLE {number}")
+    print("=" * 80)
+
+    print("\nTITLE:")
+    print(article["title"])
+
+    print("\nURL:")
+    print(article["url"])
+
+    try:
+        article_response = requests.get(
+            article["url"],
+            timeout=30
+        )
+
+        article_response.raise_for_status()
+
+        article_text = trafilatura.extract(
+            article_response.text,
+            url=article["url"],
+            include_comments=False,
+            include_links=False
+        )
+
+        print("\nARTICLE TEXT:")
+        print(article_text)
+
+    except Exception as error:
+        print("\nERROR:")
+        print(error)
+
+    print("\n")
