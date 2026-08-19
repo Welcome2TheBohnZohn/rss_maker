@@ -1,0 +1,33 @@
+TITLE:
+NORINCO to debut Fuxi special-purpose humanoid robot, enabling remote human control and on-site robotic operations
+
+SOURCE:
+Global Times Military
+
+CATEGORY:
+Military
+
+URL:
+https://www.globaltimes.cn/page/202608/1368491.shtml
+
+ARTICLE TEXT:
+The Fuxi humanoid robots
+China North Industries Group Corporation (NORINCO Group), a state-owned defense company, is set to showcase its Fuxi special-purpose humanoid robot, which can conduct all-weather reconnaissance, intelligent patrols and operations in hazardous areas, while allowing human operators to remotely control the robot's movements in real time.
+Together with a specially developed teleoperation solution, the robot is designed to establish a new model of human-machine coordination featuring "remote human control and on-site robotic operations," Global Times learned from the NORINCO Group on Tuesday.
+The robot will be showcased at the 2026 World Robot Conference, which runs from Wednesday through Sunday in Beijing. The World Robot Expo, held alongside the conference, is expected to feature more than 2,000 exhibits from over 300 exhibitors, including more than 150 products making their debut, according to information released by Beijing authorities in July.
+The NORINCO Group, which is leading the central state-owned enterprise (SOE) exhibition area, will present products from several affiliated institutes, including the Fuxi humanoid robot. The broader display also includes intelligent military equipment covering individual protection, intelligent computing and situational awareness, according to the NORINCO Group. 
+The opening ceremony will also feature a video announcement of the establishment of a central SOE robot innovation consortium led by the group.
+The Fuxi is a full-size humanoid robot independently developed by NORINCO's innovation institute and featuring fully domestically developed technologies, the company said.
+Its development focuses on key technologies including human-motion sensing, motion transfer across different robotic platforms and coordinated whole-body control. The robot is capable of personnel identification and issuing alerts in abnormal situations as part of sentry duties.
+It is also designed for tasks including all-weather reconnaissance, intelligent patrols and substitute operations in hazardous areas. Multiple Fuxi robots can work together in formation, while each robot can accurately reproduce a human operator's movements in real time during remote operations, according to the company.
+This remote-operation capability is supported by a special teleoperation system dubbed "external avatar," which the release described as China's first independently controllable teleoperation solution for full-size humanoid robots weighing around 90 kilograms.
+The system has achieved breakthroughs in real-time human-motion remapping and teleoperation technologies. Designed particularly for high-risk and complex environments, it can support remote reconnaissance, unmanned operations and specialized response operations.
+By combining remote human operation with robots performing tasks on site, the system provides a new solution for unmanned applications in special-purpose scenarios, according to the NORINCO Group. 
+A formation of Fuxi robots will also demonstrate nighttime urban inspection tasks, showcasing multi-robot coordination. According to the release, the demonstration features "multi-robot coordinated management, intelligent assessment and closed-loop response," with the aim of accelerating the application of frontier technologies in real-world operations.
+Beyond the Fuxi humanoid robot, the Hangzhou Zhiyuan Research Institute has developed an intelligent military equipment system covering individual protection, intelligent computing and situational awareness, further expanding the military-oriented part of NORINCO's display.
+Its new lightweight protective equipment includes ballistic helmets and ballistic plates that meet multiple domestic and international protection standards. Together, they form an integrated protection system covering both the head and body, and are designed for scenarios including counterterrorism and emergency response, overseas peacekeeping and special-operations training, the company said.
+The institute has also developed a mobile, resilient edge-cloud product, which the release described as the first edge-cloud product in China's defense industry to receive trusted-cloud certification. The product is fully domestically developed and independently controllable, and is designed to provide an intelligent computing foundation for the coordinated operation of large-scale unmanned swarms.
+Another piece of equipment, enhanced-vision glasses, integrates an augmented-reality see-through display, fusion of low-light and infrared thermal imaging, millimeter-level spatial positioning and multimodal hands-free control. The glasses are designed to keep users' hands free throughout operations and support coordination between manned and unmanned systems, according to the company.
+Beyond its military-oriented equipment, the institute will also showcase other intelligent products at the conference, including a walking-assistance exoskeleton, a wearable ducted-fan aircraft, a two-seat intelligent hybrid aircraft, a power-assisted towing robot and an intelligent robotic guide dog.
+Overall, 18 NORINCO-affiliated units are taking part in the exhibition, presenting 68 products covering robotics and related intelligent technologies, according to the NORINCO Group. The exhibits range from humanoid robots and intelligent military equipment to exoskeletons, aircraft and other robotic products designed for different operational and application scenarios.
+The display comes as this year's World Robot Conference puts greater emphasis on real-world applications. Organizers said the event will launch a "Global Robot Application Exploration Initiative," inviting leading companies to bring their mass-produced humanoid robots, quadruped robots and dexterous hands to undergo trials by innovation teams in real-world scenarios.

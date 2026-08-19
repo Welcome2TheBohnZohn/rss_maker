@@ -1,0 +1,247 @@
+PRC RSS COLLECTOR STATUS REPORT
+======================================================================
+
+SOURCE: MFA English
+URL: https://www.mfa.gov.cn/eng/xw/fyrbt/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/mfa-en.xml
+
+----------------------------------------------------------------------
+
+SOURCE: MFA Chinese
+URL: https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/mfa-cn.xml
+
+----------------------------------------------------------------------
+
+SOURCE: China Military English
+URL: http://eng.chinamil.com.cn/index.html
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/chinamil-en.xml
+
+----------------------------------------------------------------------
+
+SOURCE: 81 CN
+URL: http://www.81.cn/?big=jian
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/81-cn.xml
+
+----------------------------------------------------------------------
+
+SOURCE: CCTV 7
+URL: https://tv.cctv.com/cctv7/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/cctv7.xml
+
+----------------------------------------------------------------------
+
+SOURCE: Global Times Military
+URL: https://www.globaltimes.cn/china/military/index.html
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/globaltimes-military.xml
+
+----------------------------------------------------------------------
+
+SOURCE: MOFCOM English
+URL: https://english.mofcom.gov.cn/
+STATUS: SOURCE FAILED
+ARTICLE LINKS FOUND: 0
+ARTICLES WITH TEXT: 0
+RSS FEED: feeds/mofcom-en.xml
+ERROR: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+----------------------------------------------------------------------
+
+SOURCE: MOFCOM Chinese
+URL: https://www.mofcom.gov.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 9
+RSS FEED: feeds/mofcom-cn.xml
+
+----------------------------------------------------------------------
+
+SOURCE: National Bureau Statistics English
+URL: https://www.stats.gov.cn/english/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 6
+RSS FEED: feeds/stats-en.xml
+
+----------------------------------------------------------------------
+
+SOURCE: National Bureau Statistics Chinese
+URL: https://www.stats.gov.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/stats-cn.xml
+
+----------------------------------------------------------------------
+
+SOURCE: Taiwan Affairs Office
+URL: https://www.gwytb.gov.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/gwyta-cn.xml
+
+----------------------------------------------------------------------
+
+SOURCE: Taiwan CN English
+URL: https://eng.taiwan.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/taiwan-en.xml
+
+----------------------------------------------------------------------
+
+SOURCE: Taiwan CN Chinese
+URL: https://www.taiwan.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/taiwan-cn.xml
+
+----------------------------------------------------------------------
+
+SOURCE: Global Times
+URL: https://www.globaltimes.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/globaltimes.xml
+
+----------------------------------------------------------------------
+
+SOURCE: People Daily English
+URL: https://en.people.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/people-en.xml
+
+----------------------------------------------------------------------
+
+SOURCE: People Daily Chinese
+URL: https://www.people.com.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 9
+RSS FEED: feeds/people-cn.xml
+
+----------------------------------------------------------------------
+
+SOURCE: People Military
+URL: http://military.people.com.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/people-military.xml
+
+----------------------------------------------------------------------
+
+SOURCE: Qiushi English
+URL: https://en.qstheory.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 9
+RSS FEED: feeds/qiushi-en.xml
+
+----------------------------------------------------------------------
+
+SOURCE: Qiushi Chinese
+URL: https://www.qstheory.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/qiushi-cn.xml
+
+----------------------------------------------------------------------
+
+SOURCE: Xinhua English
+URL: https://english.news.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/xinhua-en.xml
+
+----------------------------------------------------------------------
+
+SOURCE: Xinhua Chinese
+URL: https://www.news.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/xinhua-cn.xml
+
+----------------------------------------------------------------------
+
+SOURCE: China Daily English
+URL: https://www.chinadaily.com.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/chinadaily-en.xml
+
+----------------------------------------------------------------------
+
+SOURCE: China Daily Chinese
+URL: https://cn.chinadaily.com.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/chinadaily-cn.xml
+
+----------------------------------------------------------------------
+
+SOURCE: CCTV English
+URL: https://english.cctv.com/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/cctv-en.xml
+
+----------------------------------------------------------------------
+
+SOURCE: CCTV Chinese
+URL: https://www.cctv.com/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 8
+RSS FEED: feeds/cctv-cn.xml
+
+----------------------------------------------------------------------
+
+SOURCE: PRC Government English
+URL: https://english.www.gov.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/gov-en.xml
+
+----------------------------------------------------------------------
+
+SOURCE: PRC Government Chinese
+URL: https://www.gov.cn/
+STATUS: WORKING
+ARTICLE LINKS FOUND: 10
+ARTICLES WITH TEXT: 10
+RSS FEED: feeds/gov-cn.xml
+
+----------------------------------------------------------------------
+

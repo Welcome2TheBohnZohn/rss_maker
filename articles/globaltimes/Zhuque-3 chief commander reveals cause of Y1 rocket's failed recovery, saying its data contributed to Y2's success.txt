@@ -1,0 +1,26 @@
+TITLE:
+Zhuque-3 chief commander reveals cause of Y1 rocket's failed recovery, saying its data contributed to Y2's success
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1368582.shtml
+
+ARTICLE TEXT:
+ZQ-3 Y1 rocket took off for maiden flight from the Dongfeng Commercial Aerospace Innovation Test Zone at noon time on December 3, 2025. Photo: courtesy of LandSpace
+The cause of an unsatisfying recovery of the Zhuque-3 Y1 carrier rocket has recently been revealed by Zhuque-3's chief commander, who said an abnormal combustion occurred during a landing ignition as the rocket descended toward the ground, state broadcaster China Central Television (CCTV) News reported on Wednesday.
+The recovery of the first stage of Zhuque-3, China's first reusable carrier rocket developed by LandSpace, was failed during a test flight back on December 3, 2025, while the second stage of the rocket managed to successfully enter the designated orbit, according to the Xinhua News Agency.
+Dai Zheng, chief commander of Zhuque-3, said that when the rocket was about 3.3 kilometers above the ground, it needs to perform a rapid deceleration maneuver by reigniting its engine, a process known as a "landing ignition."
+"The ignition sequence was completed and the engine did ignite, but abnormal combustion occurred afterward. The rocket eventually crashed near the edge of the landing pad," Dai said, according to CCTV.
+Although the rocket did not achieve a successful recovery, the mission, China's first orbital-class rocket first-stage recovery test, collected telemetry data during the return phase, provided a clearer picture of the flight environment throughout the recovery process, and yielded a large amount of valuable first-hand test data, per CCTV. 
+Drawing on the data collected from the Zhuque-3 Y1 mission, the development team made improvements to the Y2 launch vehicle.
+Eight months after the Y1's unsatisfying recovery, the Zhuque-3 Y2 reusable launch vehicle on Wednesday conducted a flight test, carrying not only a satellite payload but also successfully carried out a 
+major test
+ of China's emerging reusable rocket capabilities. After completing its orbital mission, the rocket's first stage attempted a controlled return and recovery.
+The Y2 mission was conducted on the basis of experience accumulated from the previous flight test, with improvements focused on recovery reliability, flight control and engine performance.
+LandSpace said it optimized the first-stage landing propulsion scheme by reducing the number of engines used during landing ignition, simplifying system design and improving reliability during the recovery phase. The company also added an autonomous safety control function capable of predicting landing points based on flight conditions and making corresponding safety adjustments.  
+Global Times
