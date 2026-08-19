@@ -25,10 +25,10 @@ jobs:
       - name: Run collector
         run: python collector.py
 
-      - name: Save collected articles
+      - name: Save collected articles and feeds
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add articles
-          git diff --cached --quiet || git commit -m "Update collected articles"
+          git add articles feeds
+          git diff --cached --quiet || git commit -m "Update collected articles and RSS feeds"
           git push
