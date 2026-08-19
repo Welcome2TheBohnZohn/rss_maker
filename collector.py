@@ -249,7 +249,12 @@ sources = [
 # SETTINGS
 # ============================================================
 
-ARTICLE_LIMIT = 10
+# Number of successfully extracted articles we want in each RSS feed
+ARTICLE_TARGET = 10
+
+# Number of possible article links we'll inspect to get those 10
+CANDIDATE_LIMIT = 30
+
 MAX_RETRIES = 4
 REQUEST_TIMEOUT = 30
 
@@ -269,7 +274,7 @@ HEADERS = {
 
 
 # ============================================================
-# HTTP REQUEST WITH AUTOMATIC RETRIES
+# HTTP REQUEST WITH RETRIES
 # ============================================================
 
 def get_with_retry(url):
@@ -298,9 +303,7 @@ def get_with_retry(url):
 
             last_error = error
 
-            print(
-                f"Request failed: {error}"
-            )
+            print(f"Request failed: {error}")
 
             if attempt < MAX_RETRIES:
 
@@ -336,11 +339,7 @@ def clean_filename(title):
     return title[:180]
 
 
-def valid_article_link(
-    source,
-    title,
-    full_url
-):
+def valid_article_link(source, title, full_url):
 
     if not title:
         return False
@@ -350,10 +349,7 @@ def valid_article_link(
 
     parsed = urlparse(full_url)
 
-    if parsed.scheme not in (
-        "http",
-        "https"
-    ):
+    if parsed.scheme not in ("http", "https"):
         return False
 
     hostname = parsed.hostname or ""
@@ -383,9 +379,7 @@ def valid_article_link(
         ".js",
     )
 
-    if lower_url.endswith(
-        bad_extensions
-    ):
+    if lower_url.endswith(bad_extensions):
         return False
 
     bad_titles = {
@@ -400,10 +394,7 @@ def valid_article_link(
         "contact us",
     }
 
-    if (
-        title.lower().strip()
-        in bad_titles
-    ):
+    if title.lower().strip() in bad_titles:
         return False
 
     article_patterns = [
@@ -456,7 +447,7 @@ def extract_text(article_url):
         include_links=False
     )
 
-    # Fallback extraction method
+    # Fallback to paragraph extraction
     if (
         not text
         or len(text.strip()) < 100
@@ -477,7 +468,6 @@ def extract_text(article_url):
             )
 
             if len(paragraph_text) > 30:
-
                 paragraphs.append(
                     paragraph_text
                 )
@@ -506,7 +496,8 @@ def collect_source(source):
         "slug": source["slug"],
         "url": source["url"],
         "status": "UNKNOWN",
-        "links_found": 0,
+        "candidates_found": 0,
+        "articles_attempted": 0,
         "articles_extracted": 0,
         "articles_failed": 0,
         "error": "",
@@ -526,10 +517,7 @@ def collect_source(source):
     except Exception as error:
 
         result["status"] = "SOURCE FAILED"
-
-        result["error"] = str(
-            error
-        )
+        result["error"] = str(error)
 
         print(
             f"SOURCE FAILED: {error}"
@@ -545,10 +533,10 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # FIND ARTICLE LINKS
+    # FIND UP TO 30 POSSIBLE ARTICLE LINKS
     # --------------------------------------------------------
 
-    articles = []
+    candidates = []
     seen_urls = set()
 
 
@@ -567,9 +555,7 @@ def collect_source(source):
             link["href"]
         )
 
-        full_url = full_url.split(
-            "#"
-        )[0]
+        full_url = full_url.split("#")[0]
 
         if full_url in seen_urls:
             continue
@@ -580,29 +566,24 @@ def collect_source(source):
             full_url
         ):
 
-            seen_urls.add(
-                full_url
-            )
+            seen_urls.add(full_url)
 
-            articles.append({
+            candidates.append({
                 "title": title,
                 "url": full_url
             })
 
-        if (
-            len(articles)
-            >= ARTICLE_LIMIT
-        ):
+        if len(candidates) >= CANDIDATE_LIMIT:
             break
 
 
-    result["links_found"] = len(
-        articles
+    result["candidates_found"] = len(
+        candidates
     )
 
     print(
-        f"Article links found: "
-        f"{len(articles)}"
+        f"Candidate article links found: "
+        f"{len(candidates)}"
     )
 
 
@@ -630,16 +611,28 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # DOWNLOAD ARTICLES
+    # TRY CANDIDATES UNTIL WE GET 10 GOOD ARTICLES
     # --------------------------------------------------------
 
-    for article in articles:
+    for article in candidates:
+
+        # Stop once we have 10 successfully extracted articles
+        if (
+            result["articles_extracted"]
+            >= ARTICLE_TARGET
+        ):
+            break
+
+
+        result["articles_attempted"] += 1
+
 
         print()
         print(
             f"Trying article: "
             f"{article['title']}"
         )
+
 
         try:
 
@@ -648,26 +641,24 @@ def collect_source(source):
             )
 
 
-            # Only count real extracted text
+            # Skip pages that don't contain enough real text
             if (
                 not article_text
                 or len(article_text.strip()) < 100
             ):
 
-                result[
-                    "articles_failed"
-                ] += 1
-
                 print(
-                    "Article text was too short."
+                    "Skipped: not enough article text."
                 )
 
                 continue
 
 
-            result[
-                "articles_extracted"
-            ] += 1
+            # ------------------------------------------------
+            # SUCCESS
+            # ------------------------------------------------
+
+            result["articles_extracted"] += 1
 
 
             filename = (
@@ -733,10 +724,6 @@ def collect_source(source):
 
         except Exception as error:
 
-            result[
-                "articles_failed"
-            ] += 1
-
             print(
                 f"ARTICLE FAILED: "
                 f"{article['url']}"
@@ -745,6 +732,13 @@ def collect_source(source):
             print(
                 f"ERROR: {error}"
             )
+
+
+    # Calculate failures consistently
+    result["articles_failed"] = (
+        result["articles_attempted"]
+        - result["articles_extracted"]
+    )
 
 
     # --------------------------------------------------------
@@ -813,9 +807,7 @@ def collect_source(source):
     # DETERMINE STATUS
     # --------------------------------------------------------
 
-    if (
-        result["links_found"] == 0
-    ):
+    if result["candidates_found"] == 0:
 
         result["status"] = (
             "NO ARTICLES FOUND"
@@ -823,14 +815,12 @@ def collect_source(source):
 
     elif (
         result["articles_extracted"]
-        == result["links_found"]
+        >= ARTICLE_TARGET
     ):
 
         result["status"] = "WORKING"
 
-    elif (
-        result["articles_extracted"] > 0
-    ):
+    elif result["articles_extracted"] > 0:
 
         result["status"] = "PARTIAL"
 
@@ -845,6 +835,16 @@ def collect_source(source):
     print(
         f"STATUS: "
         f"{result['status']}"
+    )
+
+    print(
+        f"Successful articles: "
+        f"{result['articles_extracted']}"
+    )
+
+    print(
+        f"Articles attempted: "
+        f"{result['articles_attempted']}"
     )
 
     print(
@@ -881,7 +881,8 @@ for source in sources:
             "slug": source["slug"],
             "url": source["url"],
             "status": "SCRIPT ERROR",
-            "links_found": 0,
+            "candidates_found": 0,
+            "articles_attempted": 0,
             "articles_extracted": 0,
             "articles_failed": 0,
             "error": str(error),
@@ -931,8 +932,13 @@ with open(
         )
 
         report.write(
-            f"ARTICLE LINKS FOUND: "
-            f"{result['links_found']}\n"
+            f"CANDIDATE LINKS FOUND: "
+            f"{result['candidates_found']}\n"
+        )
+
+        report.write(
+            f"ARTICLES ATTEMPTED: "
+            f"{result['articles_attempted']}\n"
         )
 
         report.write(
@@ -941,7 +947,7 @@ with open(
         )
 
         report.write(
-            f"ARTICLES FAILED: "
+            f"ARTICLES SKIPPED/FAILED: "
             f"{result['articles_failed']}\n"
         )
 
