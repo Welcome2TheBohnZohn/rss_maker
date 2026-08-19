@@ -7,22 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 20:10:02 +0000</lastBuildDate>
-    <item>
-      <title>Quarterly Data</title>
-      <link>https://www.stats.gov.cn/english/Statisticaldata/QuarterlyData/</link>
-      <guid isPermaLink="false">https://www.stats.gov.cn/english/Statisticaldata/QuarterlyData/</guid>
-    </item>
-    <item>
-      <title>Monthly Data</title>
-      <link>https://www.stats.gov.cn/english/Statisticaldata/MonthlyData/</link>
-      <guid isPermaLink="false">https://www.stats.gov.cn/english/Statisticaldata/MonthlyData/</guid>
-    </item>
-    <item>
-      <title>Statistical Database</title>
-      <link>https://data.stats.gov.cn/dg/website/page.html</link>
-      <guid isPermaLink="false">https://data.stats.gov.cn/dg/website/page.html</guid>
-    </item>
+    <lastBuildDate>Wed, 19 Aug 2026 20:22:32 +0000</lastBuildDate>
     <item>
       <title>National Economy Maintained Steady Momentum with Innovation-driven and High-quality Development in the First Seven Months</title>
       <link>https://www.stats.gov.cn/english/PressRelease/202608/t20260817_1965057.html</link>
@@ -215,11 +200,6 @@ Latest Releases
 15.Investment in Real Estate Development from January to June 2026
 2026-07-16</description>
       <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
-    </item>
-    <item>
-      <title>Classifications &amp; Methods</title>
-      <link>http://www.stats.gov.cn/english/ClassificationsMethods/</link>
-      <guid isPermaLink="false">http://www.stats.gov.cn/english/ClassificationsMethods/</guid>
     </item>
     <item>
       <title>Legal Framework</title>

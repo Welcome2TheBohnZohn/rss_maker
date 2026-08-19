@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 20:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:23:45 +0000</lastBuildDate>
     <item>
       <title>CHINA &amp; THE WORLD</title>
       <link>https://en.qstheory.cn/chinaandtheworld.html</link>
@@ -95,11 +95,6 @@
       We will not sell or lease your personal information to third parties unless we have your permission or are
         required by law to do so.</description>
       <guid isPermaLink="false">https://en.qstheory.cn/policyanalysis.html</guid>
-    </item>
-    <item>
-      <title>Xi’s Works</title>
-      <link>https://en.qstheory.cn/XisWorks.html</link>
-      <guid isPermaLink="false">https://en.qstheory.cn/XisWorks.html</guid>
     </item>
     <item>
       <title>Xi’s Speeches</title>
