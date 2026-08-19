@@ -8,160 +8,219 @@ from urllib.parse import urljoin
 from feedgen.feed import FeedGenerator
 
 
-url = "https://www.mfa.gov.cn/eng/xw/fyrbt/"
+sources = [
+    {
+        "name": "PRC Ministry of Foreign Affairs - English",
+        "url": "https://www.mfa.gov.cn/eng/xw/fyrbt/",
+        "path_match": "/eng/xw/fyrbt/",
+        "article_folder": "articles/mfa",
+        "feed_file": "feeds/mfa-en.xml",
+        "language": "en",
+    },
+    {
+        "name": "PRC Ministry of Foreign Affairs - Chinese",
+        "url": "https://www.mfa.gov.cn/web/wjdt_674879/fyrbt_674889/",
+        "path_match": "/web/wjdt_674879/fyrbt_674889/",
+        "article_folder": "articles/mfa-cn",
+        "feed_file": "feeds/mfa-cn.xml",
+        "language": "zh",
+    },
+]
 
-response = requests.get(url, timeout=30)
-response.raise_for_status()
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 Chrome/131 Safari/537.36"
+    )
+}
 
-soup = BeautifulSoup(response.content, "html.parser")
-
-articles = []
-
-
-# Find the 10 most recent article links
-for link in soup.find_all("a", href=True):
-
-    title = link.get_text(" ", strip=True)
-    full_url = urljoin(url, link["href"])
-
-    if (
-        "/eng/xw/fyrbt/" in full_url
-        and full_url.endswith(".html")
-        and title
-    ):
-
-        if not any(article["url"] == full_url for article in articles):
-
-            articles.append({
-                "title": title,
-                "url": full_url
-            })
-
-    if len(articles) >= 10:
-        break
-
-
-# Create folders
-os.makedirs("articles/mfa", exist_ok=True)
-os.makedirs("feeds", exist_ok=True)
+ARTICLE_LIMIT = 10
 
 
 def clean_filename(title):
-
     title = re.sub(r'[\\/:*?"<>|]', '', title)
-
     title = re.sub(r'\s+', ' ', title).strip()
-
     return title
 
 
-rss_items = []
+def collect_source(source):
 
+    print(f"\nCollecting: {source['name']}")
 
-# Download and save each article
-for article in articles:
+    response = requests.get(
+        source["url"],
+        headers=HEADERS,
+        timeout=30
+    )
+    response.raise_for_status()
 
-    try:
+    soup = BeautifulSoup(
+        response.content,
+        "html.parser"
+    )
 
-        article_response = requests.get(
-            article["url"],
-            timeout=30
+    articles = []
+
+    for link in soup.find_all("a", href=True):
+
+        title = link.get_text(" ", strip=True)
+
+        full_url = urljoin(
+            source["url"],
+            link["href"]
         )
 
-        article_response.raise_for_status()
+        if (
+            source["path_match"] in full_url
+            and full_url.endswith(".html")
+            and title
+        ):
 
-        article_text = trafilatura.extract(
-            article_response.text,
-            url=article["url"],
-            include_comments=False,
-            include_links=False
-        )
+            if not any(
+                article["url"] == full_url
+                for article in articles
+            ):
+                articles.append({
+                    "title": title,
+                    "url": full_url
+                })
 
-        article_text = article_text or ""
+        if len(articles) >= ARTICLE_LIMIT:
+            break
 
-        filename = clean_filename(article["title"]) + ".txt"
+    print(f"Found {len(articles)} articles.")
 
-        filepath = os.path.join(
-            "articles",
-            "mfa",
-            filename
-        )
+    os.makedirs(
+        source["article_folder"],
+        exist_ok=True
+    )
 
-        with open(filepath, "w", encoding="utf-8") as file:
+    os.makedirs(
+        "feeds",
+        exist_ok=True
+    )
 
-            file.write(f"TITLE:\n{article['title']}\n\n")
+    rss_items = []
 
-            file.write(
-                "SOURCE:\n"
-                "PRC Ministry of Foreign Affairs\n\n"
+    for article in articles:
+
+        try:
+
+            article_response = requests.get(
+                article["url"],
+                headers=HEADERS,
+                timeout=30
             )
 
-            file.write(f"URL:\n{article['url']}\n\n")
+            article_response.raise_for_status()
 
-            file.write("ARTICLE TEXT:\n")
+            article_text = trafilatura.extract(
+                article_response.content,
+                url=article["url"],
+                include_comments=False,
+                include_links=False
+            )
 
-            file.write(article_text)
+            article_text = article_text or ""
 
+            filename = clean_filename(
+                article["title"]
+            ) + ".txt"
 
-        rss_items.append({
-            "title": article["title"],
-            "url": article["url"],
-            "text": article_text
-        })
+            filepath = os.path.join(
+                source["article_folder"],
+                filename
+            )
 
-        print(f"Saved: {filepath}")
+            with open(
+                filepath,
+                "w",
+                encoding="utf-8"
+            ) as file:
 
+                file.write(
+                    f"TITLE:\n{article['title']}\n\n"
+                )
 
-    except Exception as error:
+                file.write(
+                    f"SOURCE:\n{source['name']}\n\n"
+                )
 
-        print(
-            f"Error collecting "
-            f"{article['url']}: {error}"
+                file.write(
+                    f"URL:\n{article['url']}\n\n"
+                )
+
+                file.write(
+                    "ARTICLE TEXT:\n"
+                )
+
+                file.write(article_text)
+
+            rss_items.append({
+                "title": article["title"],
+                "url": article["url"],
+                "text": article_text
+            })
+
+            print(
+                f"Saved: {filepath}"
+            )
+
+        except Exception as error:
+
+            print(
+                f"Error collecting "
+                f"{article['url']}: {error}"
+            )
+
+    feed = FeedGenerator()
+
+    feed.id(source["url"])
+
+    feed.title(source["name"])
+
+    feed.description(
+        f"Recent articles from {source['name']}."
+    )
+
+    feed.link(
+        href=source["url"],
+        rel="alternate"
+    )
+
+    feed.language(
+        source["language"]
+    )
+
+    for article in rss_items:
+
+        entry = feed.add_entry()
+
+        entry.id(
+            article["url"]
         )
 
+        entry.title(
+            article["title"]
+        )
 
-# Build RSS feed
-feed = FeedGenerator()
+        entry.link(
+            href=article["url"]
+        )
 
-feed.id(url)
+        entry.description(
+            article["text"]
+        )
 
-feed.title(
-    "PRC Ministry of Foreign Affairs - English"
-)
-
-feed.description(
-    "Recent articles from the PRC Ministry "
-    "of Foreign Affairs English website."
-)
-
-feed.link(
-    href=url,
-    rel="alternate"
-)
-
-feed.language("en")
-
-
-for article in rss_items:
-
-    entry = feed.add_entry()
-
-    entry.id(article["url"])
-
-    entry.title(article["title"])
-
-    entry.link(
-        href=article["url"]
+    feed.rss_file(
+        source["feed_file"],
+        pretty=True
     )
 
-    entry.description(
-        article["text"]
+    print(
+        f"Created RSS feed: {source['feed_file']}"
     )
 
 
-feed.rss_file(
-    "feeds/mfa-en.xml",
-    pretty=True
-)
-
-print("Created RSS feed: feeds/mfa-en.xml")
+for source in sources:
+    collect_source(source)
