@@ -1,5 +1,6 @@
 import os
 import re
+import time
 import requests
 import trafilatura
 
@@ -249,14 +250,69 @@ sources = [
 # ============================================================
 
 ARTICLE_LIMIT = 10
+MAX_RETRIES = 4
+REQUEST_TIMEOUT = 30
 
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 "
-        "Chrome/131.0 Safari/537.36"
-    )
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/131.0.0.0 Safari/537.36"
+    ),
+    "Accept": (
+        "text/html,application/xhtml+xml,application/xml;"
+        "q=0.9,image/avif,image/webp,*/*;q=0.8"
+    ),
+    "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8",
+    "Connection": "close",
 }
+
+
+# ============================================================
+# HTTP REQUEST WITH AUTOMATIC RETRIES
+# ============================================================
+
+def get_with_retry(url):
+
+    last_error = None
+
+    for attempt in range(1, MAX_RETRIES + 1):
+
+        try:
+
+            print(
+                f"Request attempt {attempt}/{MAX_RETRIES}: {url}"
+            )
+
+            response = requests.get(
+                url,
+                headers=HEADERS,
+                timeout=REQUEST_TIMEOUT
+            )
+
+            response.raise_for_status()
+
+            return response
+
+        except requests.RequestException as error:
+
+            last_error = error
+
+            print(
+                f"Request failed: {error}"
+            )
+
+            if attempt < MAX_RETRIES:
+
+                wait_seconds = attempt * 5
+
+                print(
+                    f"Retrying in {wait_seconds} seconds..."
+                )
+
+                time.sleep(wait_seconds)
+
+    raise last_error
 
 
 # ============================================================
@@ -265,15 +321,26 @@ HEADERS = {
 
 def clean_filename(title):
 
-    title = re.sub(r'[\\/:*?"<>|]', '', title)
+    title = re.sub(
+        r'[\\/:*?"<>|]',
+        '',
+        title
+    )
 
-    title = re.sub(r'\s+', ' ', title).strip()
+    title = re.sub(
+        r'\s+',
+        ' ',
+        title
+    ).strip()
 
-    # Prevent extremely long filenames
     return title[:180]
 
 
-def valid_article_link(source, title, full_url):
+def valid_article_link(
+    source,
+    title,
+    full_url
+):
 
     if not title:
         return False
@@ -283,7 +350,10 @@ def valid_article_link(source, title, full_url):
 
     parsed = urlparse(full_url)
 
-    if parsed.scheme not in ("http", "https"):
+    if parsed.scheme not in (
+        "http",
+        "https"
+    ):
         return False
 
     hostname = parsed.hostname or ""
@@ -291,13 +361,14 @@ def valid_article_link(source, title, full_url):
     if source["domain"] not in hostname:
         return False
 
-    # Don't treat the source homepage itself as an article
-    if full_url.rstrip("/") == source["url"].rstrip("/"):
+    if (
+        full_url.rstrip("/")
+        == source["url"].rstrip("/")
+    ):
         return False
 
     lower_url = full_url.lower()
 
-    # Ignore obvious non-article files
     bad_extensions = (
         ".jpg",
         ".jpeg",
@@ -312,10 +383,11 @@ def valid_article_link(source, title, full_url):
         ".js",
     )
 
-    if lower_url.endswith(bad_extensions):
+    if lower_url.endswith(
+        bad_extensions
+    ):
         return False
 
-    # Ignore obvious navigation text
     bad_titles = {
         "home",
         "english",
@@ -328,10 +400,12 @@ def valid_article_link(source, title, full_url):
         "contact us",
     }
 
-    if title.lower().strip() in bad_titles:
+    if (
+        title.lower().strip()
+        in bad_titles
+    ):
         return False
 
-    # Prefer links that look like articles
     article_patterns = [
         ".html",
         ".shtml",
@@ -344,31 +418,36 @@ def valid_article_link(source, title, full_url):
         "t20",
     ]
 
-    if any(pattern in lower_url for pattern in article_patterns):
+    if any(
+        pattern in lower_url
+        for pattern in article_patterns
+    ):
         return True
 
-    # Allow deeper URLs with meaningful titles
     path_parts = [
         part
         for part in parsed.path.split("/")
         if part
     ]
 
-    if len(path_parts) >= 2 and len(title) >= 12:
+    if (
+        len(path_parts) >= 2
+        and len(title) >= 12
+    ):
         return True
 
     return False
 
 
+# ============================================================
+# ARTICLE TEXT EXTRACTION
+# ============================================================
+
 def extract_text(article_url):
 
-    response = requests.get(
-        article_url,
-        headers=HEADERS,
-        timeout=30
+    response = get_with_retry(
+        article_url
     )
-
-    response.raise_for_status()
 
     text = trafilatura.extract(
         response.content,
@@ -377,8 +456,11 @@ def extract_text(article_url):
         include_links=False
     )
 
-    # Fallback if Trafilatura cannot identify the article body
-    if not text or len(text.strip()) < 100:
+    # Fallback extraction method
+    if (
+        not text
+        or len(text.strip()) < 100
+    ):
 
         soup = BeautifulSoup(
             response.content,
@@ -387,23 +469,28 @@ def extract_text(article_url):
 
         paragraphs = []
 
-        for p in soup.find_all("p"):
+        for paragraph in soup.find_all("p"):
 
-            paragraph = p.get_text(
+            paragraph_text = paragraph.get_text(
                 " ",
                 strip=True
             )
 
-            if len(paragraph) > 30:
-                paragraphs.append(paragraph)
+            if len(paragraph_text) > 30:
 
-        text = "\n\n".join(paragraphs)
+                paragraphs.append(
+                    paragraph_text
+                )
+
+        text = "\n\n".join(
+            paragraphs
+        )
 
     return text or ""
 
 
 # ============================================================
-# COLLECT SOURCE
+# COLLECT ONE SOURCE
 # ============================================================
 
 def collect_source(source):
@@ -421,25 +508,32 @@ def collect_source(source):
         "status": "UNKNOWN",
         "links_found": 0,
         "articles_extracted": 0,
+        "articles_failed": 0,
         "error": "",
     }
 
+
+    # --------------------------------------------------------
+    # DOWNLOAD SOURCE PAGE
+    # --------------------------------------------------------
+
     try:
 
-        response = requests.get(
-            source["url"],
-            headers=HEADERS,
-            timeout=30
+        response = get_with_retry(
+            source["url"]
         )
-
-        response.raise_for_status()
 
     except Exception as error:
 
         result["status"] = "SOURCE FAILED"
-        result["error"] = str(error)
 
-        print(f"SOURCE FAILED: {error}")
+        result["error"] = str(
+            error
+        )
+
+        print(
+            f"SOURCE FAILED: {error}"
+        )
 
         return result
 
@@ -450,11 +544,18 @@ def collect_source(source):
     )
 
 
+    # --------------------------------------------------------
+    # FIND ARTICLE LINKS
+    # --------------------------------------------------------
+
     articles = []
     seen_urls = set()
 
 
-    for link in soup.find_all("a", href=True):
+    for link in soup.find_all(
+        "a",
+        href=True
+    ):
 
         title = link.get_text(
             " ",
@@ -466,8 +567,9 @@ def collect_source(source):
             link["href"]
         )
 
-        # Remove fragments
-        full_url = full_url.split("#")[0]
+        full_url = full_url.split(
+            "#"
+        )[0]
 
         if full_url in seen_urls:
             continue
@@ -478,18 +580,25 @@ def collect_source(source):
             full_url
         ):
 
-            seen_urls.add(full_url)
+            seen_urls.add(
+                full_url
+            )
 
             articles.append({
                 "title": title,
                 "url": full_url
             })
 
-        if len(articles) >= ARTICLE_LIMIT:
+        if (
+            len(articles)
+            >= ARTICLE_LIMIT
+        ):
             break
 
 
-    result["links_found"] = len(articles)
+    result["links_found"] = len(
+        articles
+    )
 
     print(
         f"Article links found: "
@@ -498,7 +607,7 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # FOLDERS
+    # CREATE OUTPUT FOLDERS
     # --------------------------------------------------------
 
     article_folder = os.path.join(
@@ -521,13 +630,15 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # ARTICLE EXTRACTION
+    # DOWNLOAD ARTICLES
     # --------------------------------------------------------
 
     for article in articles:
 
+        print()
         print(
-            f"Trying: {article['title']}"
+            f"Trying article: "
+            f"{article['title']}"
         )
 
         try:
@@ -536,58 +647,76 @@ def collect_source(source):
                 article["url"]
             )
 
-            if article_text:
 
-                result["articles_extracted"] += 1
+            # Only count real extracted text
+            if (
+                not article_text
+                or len(article_text.strip()) < 100
+            ):
 
+                result[
+                    "articles_failed"
+                ] += 1
 
-                filename = (
-                    clean_filename(
-                        article["title"]
-                    )
-                    + ".txt"
+                print(
+                    "Article text was too short."
                 )
 
+                continue
 
-                filepath = os.path.join(
-                    article_folder,
-                    filename
+
+            result[
+                "articles_extracted"
+            ] += 1
+
+
+            filename = (
+                clean_filename(
+                    article["title"]
+                )
+                + ".txt"
+            )
+
+
+            filepath = os.path.join(
+                article_folder,
+                filename
+            )
+
+
+            with open(
+                filepath,
+                "w",
+                encoding="utf-8"
+            ) as file:
+
+                file.write(
+                    f"TITLE:\n"
+                    f"{article['title']}\n\n"
                 )
 
+                file.write(
+                    f"SOURCE:\n"
+                    f"{source['name']}\n\n"
+                )
 
-                with open(
-                    filepath,
-                    "w",
-                    encoding="utf-8"
-                ) as file:
+                file.write(
+                    f"CATEGORY:\n"
+                    f"{source['category']}\n\n"
+                )
 
-                    file.write(
-                        f"TITLE:\n"
-                        f"{article['title']}\n\n"
-                    )
+                file.write(
+                    f"URL:\n"
+                    f"{article['url']}\n\n"
+                )
 
-                    file.write(
-                        f"SOURCE:\n"
-                        f"{source['name']}\n\n"
-                    )
+                file.write(
+                    "ARTICLE TEXT:\n"
+                )
 
-                    file.write(
-                        f"CATEGORY:\n"
-                        f"{source['category']}\n\n"
-                    )
-
-                    file.write(
-                        f"URL:\n"
-                        f"{article['url']}\n\n"
-                    )
-
-                    file.write(
-                        "ARTICLE TEXT:\n"
-                    )
-
-                    file.write(
-                        article_text
-                    )
+                file.write(
+                    article_text
+                )
 
 
             rss_items.append({
@@ -597,17 +726,29 @@ def collect_source(source):
             })
 
 
+            print(
+                f"Saved: {filepath}"
+            )
+
+
         except Exception as error:
+
+            result[
+                "articles_failed"
+            ] += 1
 
             print(
                 f"ARTICLE FAILED: "
-                f"{article['url']} "
-                f"{error}"
+                f"{article['url']}"
+            )
+
+            print(
+                f"ERROR: {error}"
             )
 
 
     # --------------------------------------------------------
-    # RSS FEED
+    # CREATE RSS FEED
     # --------------------------------------------------------
 
     feed = FeedGenerator()
@@ -652,7 +793,7 @@ def collect_source(source):
         )
 
         entry.description(
-            article["text"] or ""
+            article["text"]
         )
 
 
@@ -668,21 +809,42 @@ def collect_source(source):
     )
 
 
-    if result["articles_extracted"] > 0:
+    # --------------------------------------------------------
+    # DETERMINE STATUS
+    # --------------------------------------------------------
+
+    if (
+        result["links_found"] == 0
+    ):
+
+        result["status"] = (
+            "NO ARTICLES FOUND"
+        )
+
+    elif (
+        result["articles_extracted"]
+        == result["links_found"]
+    ):
 
         result["status"] = "WORKING"
 
-    elif result["links_found"] > 0:
+    elif (
+        result["articles_extracted"] > 0
+    ):
 
-        result["status"] = "LINKS FOUND - TEXT FAILED"
+        result["status"] = "PARTIAL"
 
     else:
 
-        result["status"] = "NO ARTICLES FOUND"
+        result["status"] = (
+            "LINKS FOUND - TEXT FAILED"
+        )
 
 
+    print()
     print(
-        f"STATUS: {result['status']}"
+        f"STATUS: "
+        f"{result['status']}"
     )
 
     print(
@@ -694,7 +856,7 @@ def collect_source(source):
 
 
 # ============================================================
-# RUN EVERYTHING
+# RUN ALL SOURCES
 # ============================================================
 
 results = []
@@ -721,6 +883,7 @@ for source in sources:
             "status": "SCRIPT ERROR",
             "links_found": 0,
             "articles_extracted": 0,
+            "articles_failed": 0,
             "error": str(error),
         })
 
@@ -753,15 +916,18 @@ with open(
     for result in results:
 
         report.write(
-            f"SOURCE: {result['name']}\n"
+            f"SOURCE: "
+            f"{result['name']}\n"
         )
 
         report.write(
-            f"URL: {result['url']}\n"
+            f"URL: "
+            f"{result['url']}\n"
         )
 
         report.write(
-            f"STATUS: {result['status']}\n"
+            f"STATUS: "
+            f"{result['status']}\n"
         )
 
         report.write(
@@ -775,6 +941,11 @@ with open(
         )
 
         report.write(
+            f"ARTICLES FAILED: "
+            f"{result['articles_failed']}\n"
+        )
+
+        report.write(
             f"RSS FEED: "
             f"feeds/{result['slug']}.xml\n"
         )
@@ -782,16 +953,19 @@ with open(
         if result["error"]:
 
             report.write(
-                f"ERROR: {result['error']}\n"
+                f"ERROR: "
+                f"{result['error']}\n"
             )
 
         report.write(
-            "\n" + "-" * 70 + "\n\n"
+            "\n"
+            + "-" * 70
+            + "\n\n"
         )
 
 
 # ============================================================
-# SUMMARY
+# FINAL SUMMARY
 # ============================================================
 
 working = sum(
@@ -800,7 +974,17 @@ working = sum(
     if result["status"] == "WORKING"
 )
 
-failed = len(results) - working
+partial = sum(
+    1
+    for result in results
+    if result["status"] == "PARTIAL"
+)
+
+failed = (
+    len(results)
+    - working
+    - partial
+)
 
 
 print()
@@ -809,13 +993,18 @@ print("COLLECTION COMPLETE")
 print("=" * 80)
 
 print(
-    f"Working sources: "
+    f"Fully working: "
     f"{working}/{len(results)}"
 )
 
 print(
-    f"Sources needing attention: "
-    f"{failed}"
+    f"Partial: "
+    f"{partial}/{len(results)}"
+)
+
+print(
+    f"Failed: "
+    f"{failed}/{len(results)}"
 )
 
 print(
