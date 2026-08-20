@@ -2262,8 +2262,51 @@ def extract_article(
         article_url
     )
 
+    # --------------------------------------------------------
+    # TAIWAN.CN ENCODING FIX
+    # --------------------------------------------------------
+    #
+    # Some Taiwan.cn Chinese article pages use legacy Chinese
+    # encodings or inconsistent charset declarations. Passing
+    # the raw bytes directly to Trafilatura can produce
+    # mojibake in the extracted article body.
+    #
+    # Only taiwan-cn gets this special handling so the other
+    # working feeds keep their existing behavior.
+    # --------------------------------------------------------
+
+    if source["slug"] == "taiwan-cn":
+
+        detected_encoding = (
+            response.apparent_encoding
+            or response.encoding
+            or "gb18030"
+        )
+
+        try:
+
+            extraction_input = response.content.decode(
+                detected_encoding,
+                errors="replace"
+            )
+
+        except (
+            LookupError,
+            UnicodeDecodeError
+        ):
+
+            extraction_input = response.content.decode(
+                "gb18030",
+                errors="replace"
+            )
+
+    else:
+
+        extraction_input = response.content
+
+
     article_text = trafilatura.extract(
-        response.content,
+        extraction_input,
         url=article_url,
         include_comments=False,
         include_links=False
@@ -2277,7 +2320,7 @@ def extract_article(
     ):
 
         soup = BeautifulSoup(
-            response.content,
+            extraction_input,
             "html.parser"
         )
 
