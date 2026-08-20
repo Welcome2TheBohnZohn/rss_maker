@@ -2,7 +2,7 @@ TITLE:
 China urges US to immediately withdraw Section 232 tariffs on drones
 
 PUBLISHED:
-Unknown
+2026-08-20 16:39:00
 
 SOURCE:
 Global Times
@@ -15,8 +15,18 @@ https://www.globaltimes.cn/page/202608/1368626.shtml
 
 ARTICLE TEXT:
 The Ministry of Commerce of China File photo: VCG
-China on Thursday expressed firm opposition to US Section 232 measures, which it believed, amounted to unilateralism and protectionism under the pretext of national security, urging the US to immediately withdraw the relevant Section 232 tariffs targeting imported drones and drone components, a spokesperson for China's Ministry of Commerce (MOFCOM) said.  
-He Yadong, spokesperson for the MOFCOM, made the remarks at a regular press conference on Thursday in response to a media inquiry for comment on the US president's recent proclamation imposing ad valorem tariffs ranging from 10 percent to 100 percent on imported drones and drone components, citing the need to address a "national security crisis." 
-In fact, China's drone exports to the US are mainly used for civilian purposes, including agriculture, equipment inspection, film and entertainment, He said. 
-The US Section 232 measures overreach the concept of national security, impose differentiated tariff rates on trading partners, and discriminate against relevant Chinese products, seriously harming the interests of Chinese companies, disrupting cooperation across global drone industrial and supply chains, and further undermining a fair and competitive market environment, the spokesperson said.
-Global Times
+China on Thursday expressed firm opposition to US Section 232 measures, which it believed amounted to unilateralism and protectionism under the pretext of national security, and it urged the US to immediately withdraw the relevant Section 232 tariffs targeting imported drones and drone components, a spokesperson of China's Ministry of Commerce (MOFCOM) said.  
+He Yadong, spokesperson for the MOFCOM, made the remarks at a regular press conference on Thursday in response to a media request for comment on the US president's recent proclamation imposing 
+ad valorem
+ tariffs ranging from 10 percent to 100 percent on imported drones and drone components, citing the need to address a "national security crisis." 
+In fact, China's drone exports to the US are mainly used for civilian purposes, including agriculture, equipment inspection, film and entertainment, He Yadong said. 
+The US Section 232 measures overstretch the concept of national security, impose differentiated tariff rates on trading partners, and discriminate against relevant Chinese products, seriously harming the interests of Chinese companies, disrupting cooperation across global drone industrial and supply chains, and further undermining a fair and competitive market environment, the MOFCOM spokesperson said.
+US President Donald Trump said on August 13 local time that he will impose tariffs on imports of drones and their components, including from some key US allies, with the administration saying that the country was "too reliant" on foreign sources of drones, Reuters reported.
+The latest unilateral decision represents another move by Washington to invoke so-called national security concerns to shield domestic industries from competition, with varying tariff rates adding further uncertainty to global supply chains, He Weiwen, a senior fellow at the Center for China and Globalization, told the Global Times on Thursday.
+The Chinese expert said that in practice, Chinese companies are expected to be among those most affected, given their substantial share of the global drone market, significant presence in the US market and strong competitiveness.
+China accounts for the vast majority of US commercial drone sales. Washington has increasingly cracked down on Chinese drones over the last few years. DJI, the world's largest drone manufacturer, sells more than half of all US commercial drones, Reuters reported.
+A recent report by the Financial Times also described the latest measures as tariffs "targeting Chinese drone technology," and saying they were intended to reduce US reliance on Chinese drone technology.
+"Drones are widely used in US agriculture and other civilian applications. The tariffs could raise procurement costs for farmers and other users while leaving them with fewer alternative suppliers," He Weiwen said.
+The US tariffs on drones and their components also represent an abuse of Section 232, He Weiwen said, noting that Section 232 differs from Section 301 measures in that it generally targets products horizontally rather than being inherently country-specific, while allowing exemptions or differentiated treatment for particular trading partners.
+A World Trade Organization (WTO) panel has previously found US steel and aluminum tariffs imposed under Section 232 to be inconsistent with WTO rules. In a 2022 case brought by China, the panel found that the duties exceeded the US bound tariff rates, while exemptions granted to certain countries violated most favored nation treatment requirements. It also concluded that the measures were not imposed "in time of war or other emergency in international relations." 
+The precedent shows that invoking national security does not give the US a free hand to impose tariffs, and such measures can still be challenged under WTO rules, He Weiwen said. He warned that the tariffs could undermine global supply chains instead of driving manufacturing back to the US, and called on Washington to address differences through dialogue and cooperation.

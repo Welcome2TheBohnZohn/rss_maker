@@ -2,7 +2,7 @@ TITLE:
 Xinhua Headlines
 
 PUBLISHED:
-2026-08-19
+2026-08-20
 
 SOURCE:
 Xinhua English
@@ -18,6 +18,8 @@ Produced by Xinhuanet
 Xinhua Headlines: Xi urges advancing socialism with Chinese characteristics on centenary of late leader Jiang Zemin
 Xi calls for equitable global AI governance, unveils new cooperation body
 Xinhua Headlines: Xi hails CPC's 105-year "epic," urges building modern socialist China
+2026-08-20
+Xinhua Headlines: U.S. record 40 trillion-dollar debts fuel global financial risks
 2026-08-19
 Xinhua Headlines: Lives saved, lives changed -- Chinese doctors mark their days in Africa
 2026-08-18
@@ -56,7 +58,5 @@ Xinhua Headlines: Former industrial base in northeast China finds new ambition i
 Xinhua Headlines: PLA celebrates 99th founding anniversary in march toward world-class military, with peace as enduring mission
 2026-07-31
 Xinhua Headlines: Chinese plateau salmon expands into global markets
-2026-07-30
-Xinhua Headlines: AI, broadband and drones: How Chinese digital technologies are reshaping daily life in Africa
 More
 Copyright © 2000- XINHUANET.com All rights reserved.
