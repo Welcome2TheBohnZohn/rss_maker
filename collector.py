@@ -1666,6 +1666,300 @@ def extract_publication_timestamp(
 
 
 # ============================================================
+# CCTV TEXT CLEANUP
+# ============================================================
+
+def normalize_text_lines(text):
+
+    if not text:
+        return []
+
+    lines = []
+
+    for raw_line in text.replace("\r", "\n").split("\n"):
+
+        line = re.sub(
+            r'\s+',
+            ' ',
+            raw_line
+        ).strip()
+
+        if line:
+            lines.append(line)
+
+    return lines
+
+
+def extract_cctv_news_body(soup):
+
+    # CCTV news pages commonly place the article body in one
+    # of these containers. Prefer paragraph text from the
+    # dedicated body instead of page navigation.
+    container = (
+        soup.select_one("div.content_area")
+        or soup.select_one("div.cnt_bd")
+    )
+
+    if not container:
+        return ""
+
+    paragraphs = []
+
+    for paragraph in container.find_all("p"):
+
+        text = paragraph.get_text(
+            " ",
+            strip=True
+        )
+
+        text = re.sub(
+            r'\s+',
+            ' ',
+            text
+        ).strip()
+
+        if len(text) >= 20:
+            paragraphs.append(text)
+
+    body = "\n\n".join(paragraphs).strip()
+
+    if len(body) >= 80:
+        return body
+
+    # Some CCTV templates place text directly in the container
+    # without wrapping every paragraph in <p> tags.
+    body = container.get_text(
+        "\n",
+        strip=True
+    )
+
+    cleaned_lines = []
+
+    for line in normalize_text_lines(body):
+
+        if re.match(
+            r'^(来源|编辑|责任编辑|原标题|分享|返回|扫一扫|A[-+]?)[:：]?',
+            line,
+            re.I
+        ):
+            continue
+
+        if line in {
+            "正在加载",
+            "正在加载...",
+            "点击收起全文",
+            "加载更多",
+            "最新推荐",
+            "精彩图集",
+        }:
+            continue
+
+        cleaned_lines.append(line)
+
+    body = "\n\n".join(cleaned_lines).strip()
+
+    if len(body) >= 80:
+        return body
+
+    return ""
+
+
+def extract_cctv_video_summary(soup):
+
+    # CCTV video pages expose a clean summary after the
+    # "视频简介" label. Stop before the program/navigation block.
+    page_lines = normalize_text_lines(
+        soup.get_text(
+            "\n",
+            strip=True
+        )
+    )
+
+    for index, line in enumerate(page_lines):
+
+        if line != "视频简介":
+            continue
+
+        summary_lines = []
+
+        for candidate in page_lines[index + 1:]:
+
+            if candidate in {
+                "栏目信息",
+                "栏目名称：",
+                "栏目名称:",
+                "栏目介绍：",
+                "栏目介绍:",
+                "播放列表",
+                "精彩看点",
+                "往期节目",
+            }:
+                break
+
+            if candidate in {
+                "关注",
+                "内容简介",
+                "简介",
+                "正在加载",
+                "正在加载...",
+            }:
+                continue
+
+            if re.match(
+                r'^来源\s*[:：]',
+                candidate
+            ):
+                continue
+
+            if re.match(
+                r'^20\d{2}[-年/]\d{1,2}',
+                candidate
+            ):
+                continue
+
+            summary_lines.append(candidate)
+
+        summary = "\n\n".join(
+            summary_lines
+        ).strip()
+
+        if len(summary) >= 20:
+            return summary
+
+    return ""
+
+
+def clean_cctv_article_text(
+    source,
+    article_url,
+    response,
+    article_text
+):
+
+    if source["slug"] not in {
+        "cctv7",
+        "cctv-cn",
+        "cctv-en",
+    }:
+        return article_text
+
+    soup = BeautifulSoup(
+        response.content,
+        "html.parser"
+    )
+
+    hostname = (
+        urlparse(article_url).hostname
+        or ""
+    ).lower()
+
+    # --------------------------------------------------------
+    # CCTV CHINESE NEWS ARTICLES
+    # --------------------------------------------------------
+
+    if (
+        source["slug"] == "cctv-cn"
+        and hostname == "news.cctv.com"
+    ):
+
+        body = extract_cctv_news_body(
+            soup
+        )
+
+        if body:
+            return body
+
+    # --------------------------------------------------------
+    # CCTV VIDEO PAGES
+    # --------------------------------------------------------
+
+    if hostname == "tv.cctv.com":
+
+        # CCTV Chinese pages that are mostly player/navigation
+        # markup are much cleaner when we use the page's own
+        # video-summary field.
+        if source["slug"] == "cctv-cn":
+
+            video_summary = (
+                extract_cctv_video_summary(
+                    soup
+                )
+            )
+
+            if video_summary:
+                return video_summary
+
+    # --------------------------------------------------------
+    # SAFE LINE-BASED CLEANUP
+    # --------------------------------------------------------
+
+    lines = normalize_text_lines(
+        article_text
+    )
+
+    cleaned = []
+
+    exact_noise = {
+        "节目官网",
+        "收藏",
+        "播放列表",
+        "正在播放",
+        "热播榜",
+        "内容简介",
+        "关注",
+        "栏目信息",
+        "栏目名称：",
+        "栏目名称:",
+        "栏目介绍：",
+        "栏目介绍:",
+        "正在加载",
+        "正在加载...",
+        "更多 >",
+        "更多",
+        "关闭",
+        "返回顶部",
+        "相关推荐",
+        "加载更多",
+        "Share this:",
+    }
+
+    for line in lines:
+
+        # For CCTV-7, everything after the program-information
+        # marker is boilerplate in the pages we've observed.
+        if (
+            source["slug"] == "cctv7"
+            and line in {
+                "栏目名称：",
+                "栏目名称:",
+                "栏目介绍：",
+                "栏目介绍:",
+            }
+        ):
+            break
+
+        if line in exact_noise:
+            continue
+
+        if re.match(
+            r'^(编辑|责任编辑)\s*[:：]',
+            line
+        ):
+            continue
+
+        cleaned.append(line)
+
+    cleaned_text = "\n\n".join(
+        cleaned
+    ).strip()
+
+    if cleaned_text:
+        return cleaned_text
+
+    return article_text
+
+
+# ============================================================
 # ARTICLE EXTRACTION
 # ============================================================
 
@@ -1718,6 +2012,13 @@ def extract_article(
         article_text = "\n\n".join(
             paragraphs
         )
+
+    article_text = clean_cctv_article_text(
+        source,
+        article_url,
+        response,
+        article_text or ""
+    )
 
     published = (
         extract_publication_timestamp(
