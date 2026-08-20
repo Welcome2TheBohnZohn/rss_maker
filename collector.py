@@ -1692,82 +1692,289 @@ def normalize_text_lines(text):
 
 def extract_cctv_news_body(soup):
 
-    # CCTV news pages commonly place the article body in one
-    # of these containers. Prefer paragraph text from the
-    # dedicated body instead of page navigation.
-    container = (
-        soup.select_one("div.content_area")
-        or soup.select_one("div.cnt_bd")
-    )
+    # CCTV has several news-page templates. Try a group of
+    # known/likely article-body containers before falling back.
+    selectors = [
+        "div.content_area",
+        "div.cnt_bd",
+        "div#content_area",
+        "div#content",
+        "div.article_content",
+        "div.article-body",
+        "div.article_body",
+        "div.text_area",
+        "div.text-box",
+        "div.content_detail",
+        "div#text_area",
+    ]
 
-    if not container:
-        return ""
+    navigation_markers = {
+        "新闻",
+        "新闻频道",
+        "中国新闻",
+        "点击收起全文",
+        "返回央视网首页",
+        "返回新闻频道",
+        "分享",
+        "扫一扫 分享到微信",
+        "手机看",
+        "扫一扫 手机继续看",
+        "最新推荐",
+        "精彩图集",
+        "正在阅读：",
+        "A-",
+        "A+",
+    }
 
-    paragraphs = []
+    def clean_lines(raw_text):
 
-    for paragraph in container.find_all("p"):
+        cleaned = []
 
-        text = paragraph.get_text(
-            " ",
-            strip=True
+        for line in normalize_text_lines(
+            raw_text
+        ):
+
+            if line in navigation_markers:
+                continue
+
+            if re.match(
+                r'^(来源|编辑|责任编辑|原标题|分享|返回|扫一扫|望海热线)[:：]?',
+                line,
+                re.I
+            ):
+                continue
+
+            if re.fullmatch(
+                r'[>|｜|]+',
+                line
+            ):
+                continue
+
+            if (
+                "xinwenxiansuo@" in line.lower()
+            ):
+                continue
+
+            cleaned.append(line)
+
+        return cleaned
+
+    # --------------------------------------------------------
+    # 1. Dedicated article containers
+    # --------------------------------------------------------
+
+    for selector in selectors:
+
+        container = soup.select_one(
+            selector
         )
 
-        text = re.sub(
-            r'\s+',
-            ' ',
-            text
+        if not container:
+            continue
+
+        paragraphs = []
+
+        for paragraph in container.find_all(
+            "p"
+        ):
+
+            value = paragraph.get_text(
+                " ",
+                strip=True
+            )
+
+            value = re.sub(
+                r'\s+',
+                ' ',
+                value
+            ).strip()
+
+            if len(value) >= 20:
+                paragraphs.append(value)
+
+        candidate = "\n\n".join(
+            clean_lines(
+                "\n".join(paragraphs)
+            )
         ).strip()
 
-        if len(text) >= 20:
-            paragraphs.append(text)
-
-    body = "\n\n".join(paragraphs).strip()
-
-    if len(body) >= 80:
-        return body
-
-    # Some CCTV templates place text directly in the container
-    # without wrapping every paragraph in <p> tags.
-    body = container.get_text(
-        "\n",
-        strip=True
-    )
-
-    cleaned_lines = []
-
-    for line in normalize_text_lines(body):
-
-        if re.match(
-            r'^(来源|编辑|责任编辑|原标题|分享|返回|扫一扫|A[-+]?)[:：]?',
-            line,
-            re.I
+        if (
+            len(candidate) >= 120
+            and not looks_like_navigation_text(
+                candidate
+            )
         ):
+            return candidate
+
+        candidate = "\n\n".join(
+            clean_lines(
+                container.get_text(
+                    "\n",
+                    strip=True
+                )
+            )
+        ).strip()
+
+        if (
+            len(candidate) >= 120
+            and not looks_like_navigation_text(
+                candidate
+            )
+        ):
+            return candidate
+
+    # --------------------------------------------------------
+    # 2. JSON-LD articleBody
+    # --------------------------------------------------------
+
+    for script in soup.find_all(
+        "script",
+        type="application/ld+json"
+    ):
+
+        try:
+
+            data = json.loads(
+                script.string
+                or script.get_text()
+            )
+
+        except Exception:
             continue
 
-        if line in {
-            "正在加载",
-            "正在加载...",
-            "点击收起全文",
-            "加载更多",
-            "最新推荐",
-            "精彩图集",
-        }:
-            continue
+        stack = [data]
 
-        cleaned_lines.append(line)
+        while stack:
 
-    body = "\n\n".join(cleaned_lines).strip()
+            item = stack.pop()
 
-    if len(body) >= 80:
-        return body
+            if isinstance(
+                item,
+                dict
+            ):
+
+                for key, value in item.items():
+
+                    if (
+                        key.lower()
+                        == "articlebody"
+                        and isinstance(
+                            value,
+                            str
+                        )
+                    ):
+
+                        candidate = "\n\n".join(
+                            clean_lines(value)
+                        ).strip()
+
+                        if (
+                            len(candidate) >= 120
+                            and not looks_like_navigation_text(
+                                candidate
+                            )
+                        ):
+                            return candidate
+
+                    elif isinstance(
+                        value,
+                        (dict, list)
+                    ):
+                        stack.append(value)
+
+            elif isinstance(
+                item,
+                list
+            ):
+
+                stack.extend(item)
+
+    # --------------------------------------------------------
+    # 3. Metadata description
+    #
+    # Better to publish a clean summary than navigation junk.
+    # --------------------------------------------------------
+
+    for attrs in (
+        {"property": "og:description"},
+        {"name": "description"},
+        {"name": "Description"},
+    ):
+
+        tag = soup.find(
+            "meta",
+            attrs=attrs
+        )
+
+        if (
+            tag
+            and tag.get("content")
+        ):
+
+            candidate = re.sub(
+                r'\s+',
+                ' ',
+                tag.get("content")
+            ).strip()
+
+            if (
+                len(candidate) >= 80
+                and not looks_like_navigation_text(
+                    candidate
+                )
+            ):
+                return candidate
 
     return ""
 
 
+def looks_like_navigation_text(text):
+
+    if not text:
+        return True
+
+    navigation_terms = [
+        "返回央视网首页",
+        "返回新闻频道",
+        "扫一扫 分享到微信",
+        "手机继续看",
+        "最新推荐",
+        "精彩图集",
+        "正在阅读",
+        "A-",
+        "A+",
+    ]
+
+    hits = sum(
+        1
+        for term in navigation_terms
+        if term in text
+    )
+
+    if (
+        hits >= 3
+        and len(text) < 1200
+    ):
+        return True
+
+    prose_markers = (
+        text.count("。")
+        + text.count("！")
+        + text.count("？")
+        + text.count(". ")
+    )
+
+    if (
+        len(text) >= 120
+        and prose_markers == 0
+    ):
+        return True
+
+    return False
+
+
 def extract_cctv_video_summary(soup):
 
-    # CCTV video pages expose a clean summary after the
-    # "视频简介" label. Stop before the program/navigation block.
     page_lines = normalize_text_lines(
         soup.get_text(
             "\n",
@@ -1775,25 +1982,106 @@ def extract_cctv_video_summary(soup):
         )
     )
 
-    for index, line in enumerate(page_lines):
+    stop_exact = {
+        "编辑",
+        "责任编辑",
+        "全部评论",
+        "查看更多评论",
+        "热播榜",
+        "更多>",
+        "更多 >",
+        "相关推荐",
+        "加载更多",
+        "央视网首页",
+        "央视节目官网首页",
+        "中央广播电视总台",
+        "央视网",
+        "版权所有",
+        "栏目信息",
+        "栏目名称：",
+        "栏目名称:",
+        "栏目介绍：",
+        "栏目介绍:",
+        "播放列表",
+        "精彩看点",
+        "往期节目",
+    }
 
-        if line != "视频简介":
-            continue
+    def is_stop(line):
+
+        if line in stop_exact:
+            return True
+
+        if re.match(
+            r'^(编辑|责任编辑)\s*[:：]',
+            line
+        ):
+            return True
+
+        if re.match(
+            r'^京ICP备',
+            line
+        ):
+            return True
+
+        return False
+
+    # --------------------------------------------------------
+    # Prefer the actual "主要内容" section.
+    # --------------------------------------------------------
+
+    if "主要内容" in page_lines:
+
+        index = page_lines.index(
+            "主要内容"
+        )
+
+        content_lines = []
+
+        for candidate in page_lines[
+            index + 1:
+        ]:
+
+            if is_stop(candidate):
+                break
+
+            if candidate in {
+                "正在加载",
+                "正在加载...",
+            }:
+                continue
+
+            content_lines.append(
+                candidate
+            )
+
+        content = "\n\n".join(
+            content_lines
+        ).strip()
+
+        if len(content) >= 20:
+            return content
+
+    # --------------------------------------------------------
+    # Fallback to "视频简介".
+    # --------------------------------------------------------
+
+    if "视频简介" in page_lines:
+
+        index = page_lines.index(
+            "视频简介"
+        )
 
         summary_lines = []
 
-        for candidate in page_lines[index + 1:]:
+        for candidate in page_lines[
+            index + 1:
+        ]:
 
-            if candidate in {
-                "栏目信息",
-                "栏目名称：",
-                "栏目名称:",
-                "栏目介绍：",
-                "栏目介绍:",
-                "播放列表",
-                "精彩看点",
-                "往期节目",
-            }:
+            if (
+                candidate == "主要内容"
+                or is_stop(candidate)
+            ):
                 break
 
             if candidate in {
@@ -1811,13 +2099,9 @@ def extract_cctv_video_summary(soup):
             ):
                 continue
 
-            if re.match(
-                r'^20\d{2}[-年/]\d{1,2}',
+            summary_lines.append(
                 candidate
-            ):
-                continue
-
-            summary_lines.append(candidate)
+            )
 
         summary = "\n\n".join(
             summary_lines
@@ -1868,6 +2152,11 @@ def clean_cctv_article_text(
 
         if body:
             return body
+
+        # Do not knowingly publish CCTV navigation as an article.
+        # Returning an empty string causes this candidate to be
+        # skipped and the collector will try the next one.
+        return ""
 
     # --------------------------------------------------------
     # CCTV VIDEO PAGES
