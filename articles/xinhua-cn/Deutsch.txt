@@ -1,6 +1,9 @@
 TITLE:
 Deutsch
 
+PUBLISHED:
+Unknown
+
 SOURCE:
 Xinhua Chinese
 
@@ -11,6 +14,6 @@ URL:
 https://german.news.cn/index.htm
 
 ARTICLE TEXT:
+Ausstellung über antike chinesische Zivilisation in Kirgisistan eröffnet
 Fotoreportage: Deutscher Handwerker baut sich zweites Leben in Shanghai auf
 Wasserfest in Baoting in Chinas Hainan abgehalten
-Fotoreportage: Chinesische Hilfsgüter für Erdbebenhilfe erreichen Kolumbien

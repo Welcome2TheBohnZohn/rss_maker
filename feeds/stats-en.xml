@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:49:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:35:08 +0000</lastBuildDate>
     <item>
       <title>Total Retail Sales of Consumer Goods from January to July 2026</title>
       <link>https://www.stats.gov.cn/english/PressRelease/202608/t20260819_1965078.html</link>
@@ -79,6 +79,7 @@ In accordance with the automatic correction results based on the seasonal adjust
 6. Explanation of Adjustments to Indicators
 To reflect the development of the online consumption market in a more comprehensive way, the statistical indicators for online consumption have been improved, with the coverage of the online service platforms expanded to strengthen the measurement of the online services retail sales in line with the evolving momentum of online consumption. Accordingly, the original indicator “online retail sales” has been adjusted to “online retail sales of goods and services”, with the definition unchanged and the statistical coverage expanded. The indicator “online retail sales of physical goods” has been adjusted to “online retail sales of goods,” with the definition and statistical coverage unchanged, and the indicator “online retail sales of services” has been introduced as a new indicator. The online retail sales of goods and services are not comparable with the online retail sales.</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260819_1965078.html</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Investment in Real Estate Development from January to July 2026</title>
@@ -165,6 +166,7 @@ The eastern region includes 10 provinces (municipalities), namely, Beijing, Tian
 5. Explanation of Year-on-Year Growth Rate
 In compliance with the real estate development statistical rules, statistical law enforcement inspections, and other regulations, the data on the investment in real estate development and the floor space of newly built commercial buildings sold, among others, for the same period of the previous year have been revised. The growth rates are calculated on a comparable basis.</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260819_1965077.html</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Investment in Fixed Assets from January to July 2026</title>
@@ -257,6 +259,7 @@ According to the results of automatic correction based on the seasonal adjustmen
 7. Explanation of Year-on-Year Growth Rate
 In accordance with the reform of investment statistical methods, statistical law enforcement inspections, and other regulations, the data on investment in fixed assets for the same period of the previous year have been revised, and the growth rates of investment in fixed assets were calculated on a comparable basis.</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260818_1965072.html</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Industrial Production Operation in July 2026</title>
@@ -372,6 +375,7 @@ According to the results of automatic correction based on the seasonal adjustmen
 |  | June | 0.76 | 
 |  | July | 0.11 |</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260818_1965071.html</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>National Economy Maintained Steady Momentum with Innovation-driven and High-quality Development in the First Seven Months</title>
@@ -414,6 +418,7 @@ According to the reform of the statistical program and methodology of investment
 8. Due to the rounding-off reasons, the subentries may not add up to the aggregate totals.
 In case of any differences between English translation and the original Chinese text, the Chinese edition shall prevail.</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260817_1965057.html</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Understanding Statistics</title>
@@ -639,6 +644,7 @@ Medium
 |
 Small</description>
       <guid isPermaLink="false">http://www.stats.gov.cn/english/AI/OS/202208/t20220824_1887612.html</guid>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

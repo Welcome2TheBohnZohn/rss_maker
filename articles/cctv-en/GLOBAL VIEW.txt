@@ -1,6 +1,9 @@
 TITLE:
 GLOBAL VIEW
 
+PUBLISHED:
+Unknown
+
 SOURCE:
 CCTV English
 

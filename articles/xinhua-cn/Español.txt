@@ -1,6 +1,9 @@
 TITLE:
 Español
 
+PUBLISHED:
+Unknown
+
 SOURCE:
 Xinhua Chinese
 
@@ -11,6 +14,6 @@ URL:
 https://spanish.news.cn/index.htm
 
 ARTICLE TEXT:
-China se prepara para lanzar sonda lunar Chang'e-7
-China lanza Zhuque-3 y logra su primera recuperación de cohete en tierra
 Conferencia Mundial de Robots 2026 comienza en Beijing, capital de China
+Turistas visitan la aldea de Hongcun en Anhui
+Paisaje de nubes después de la lluvia en la sección Jinshanling de la Gran Muralla en el norte de China

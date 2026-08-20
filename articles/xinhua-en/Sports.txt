@@ -1,6 +1,9 @@
 TITLE:
 Sports
 
+PUBLISHED:
+2026-08-20
+
 SOURCE:
 Xinhua English
 
@@ -12,6 +15,8 @@ https://english.news.cn/sports/index.htm
 
 ARTICLE TEXT:
 Sports
+Borussia Monchengladbach brings back Japan defender Itakura
+2026-08-20 18:55:00
 Preview: Arsenal favorite to retain title as Premier League gets underway
 2026-08-20 17:42:15
 F1: Verstappen extends Red Bull contract to 2030
@@ -50,6 +55,4 @@ Fullkrug returns to Werder Bremen on loan
 2026-08-19 09:15:45
 Dortmund signs Netherlands midfielder Veerman from PSV
 2026-08-19 09:11:00
-Barcelona signs Spain midfielder Rodri from Man City
-2026-08-19 08:49:16
 More

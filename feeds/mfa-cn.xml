@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:48:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:33:18 +0000</lastBuildDate>
     <item>
       <title>常驻国际海事组织代表处</title>
       <link>https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/202601/t20260113_11811681.shtml</link>
@@ -21,6 +21,7 @@ Permanent Mission of the People’s Republic of China to the International Marit
 传 真：+44-20-72998421
 邮 箱：China.imo2023@gmail.com</description>
       <guid isPermaLink="false">https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/202601/t20260113_11811681.shtml</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>常驻联合国人居署代表处</title>
@@ -35,6 +36,7 @@ Permanent Mission of the People's Republic of China to the United Nations Human 
 传 真：254-20-2726402
 邮 箱：cm_unhabitat@163.com</description>
       <guid isPermaLink="false">https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/202601/t20260113_11811679.shtml</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>常驻联合国环境署代表处</title>
@@ -49,6 +51,7 @@ Permanent Mission of the People's Republic of China to the United Nations Enviro
 传 真：254-20-2726402
 邮 箱：c.m.unep@mee.gov.cn</description>
       <guid isPermaLink="false">https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/202601/t20260113_11811677.shtml</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>常驻国际民航组织理事会代表处</title>
@@ -63,6 +66,7 @@ Permanent Mission of The People’s Republic of China to The International Civil
 传 真：+1-514-9548319
 邮 箱：china@icao-delegations.org</description>
       <guid isPermaLink="false">https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/202601/t20260113_11811598.shtml</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>常驻联合国教科文组织代表团</title>
@@ -77,6 +81,7 @@ Permanent Delegation of the People’s Republic of China to United Nations Educa
 传 真：+33-01-42190199
 邮 箱：dl.china@unesco-delegations.org</description>
       <guid isPermaLink="false">https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/202601/t20260113_11811597.shtml</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>常驻联合国粮农机构代表团</title>
@@ -91,6 +96,7 @@ Permanent Mission of the People's Republic of China to the United Nations Agenci
 传 真：0039-06-59193130
 邮 箱：chinamission@chinamission.it</description>
       <guid isPermaLink="false">https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/202601/t20260113_11811595.shtml</guid>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>常驻联合国亚洲及太平洋经济和社会委员会代表处</title>
@@ -105,6 +111,7 @@ Permanent Mission of the People's Republic of China to the United Nations Econom
 传 真：（662）248-5898
 电子邮箱： escap@mfa.gov.cn</description>
       <guid isPermaLink="false">https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/200712/t20071213_7679656.shtml</guid>
+      <pubDate>Thu, 13 Dec 2007 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>常驻维也纳联合国和其他国际组织代表团</title>
@@ -119,6 +126,7 @@ PERMANENT MISSION OF THE PEOPLE'S REPUBLIC OF CHINA TO THE UNITED NATIONS AND OT
 电 话：4861635
 传 真：4841633</description>
       <guid isPermaLink="false">https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/200607/t20060711_7679659.shtml</guid>
+      <pubDate>Tue, 11 Jul 2006 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>常驻联合国日内瓦办事处和瑞士其他国际组织代表团</title>
@@ -134,6 +142,7 @@ PERMANENT MISSION OF THE PEOPLE'S REPUBLIC OF CHINA TO THE UNITED NATIONS OFFICE
 传 真：0041-22-7937014
 电子邮箱：chinamission_gva@mfa.gov.cn</description>
       <guid isPermaLink="false">https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/200707/t20070703_7679663.shtml</guid>
+      <pubDate>Tue, 03 Jul 2007 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>常驻联合国代表团</title>
@@ -341,6 +350,7 @@ PERMANENT MISSION OF THE PEOPLE'S REPUBLIC OF CHINA TO THE UNITED NATIONS OFFICE
 - 重要链接
 - 干部考录</description>
       <guid isPermaLink="false">https://www.mfa.gov.cn/web/zwjg_674741/zwtc_674771/200011/t20001107_7679672.shtml</guid>
+      <pubDate>Sat, 11 Oct 2008 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

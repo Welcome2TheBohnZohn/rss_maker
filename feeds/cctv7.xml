@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 20 Aug 2026 10:48:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:33:47 +0000</lastBuildDate>
     <item>
       <title>中国诗词大会</title>
       <link>https://tv.cctv.com/2024/03/10/VIDArZULlYIYouBET8cVrcOr240310.shtml</link>
@@ -22,6 +22,7 @@
 PC客户端下载
 移动客户端下载</description>
       <guid isPermaLink="false">https://tv.cctv.com/2024/03/10/VIDArZULlYIYouBET8cVrcOr240310.shtml</guid>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>典籍里的中国</title>
@@ -37,6 +38,7 @@ PC客户端下载
 PC客户端下载
 移动客户端下载</description>
       <guid isPermaLink="false">https://tv.cctv.com/2022/09/24/VIDAUDolTYXWlwFLFnC8Rj9G220924.shtml</guid>
+      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>第一动画乐园</title>
@@ -2138,6 +2140,7 @@ ai美食
 正在加载...
 正在加载...</description>
       <guid isPermaLink="false">https://tv.cctv.com/2026/08/17/VIDEv5ExpnrOEXpDZw8cQljS260817.shtml</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>雏鹰启航·逐梦长空——我的第一架飞机</title>
@@ -2149,6 +2152,7 @@ ai美食
 正在加载...
 正在加载...</description>
       <guid isPermaLink="false">https://tv.cctv.com/2026/08/18/VIDEDHXHQHVNq4V8bEfwxkpt260818.shtml</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>探秘拜科努尔航天发射场</title>
@@ -2160,6 +2164,7 @@ ai美食
 正在加载...
 正在加载...</description>
       <guid isPermaLink="false">https://tv.cctv.com/2026/08/19/VIDEAgTHAZY4cBF69qEZbYa9260819.shtml</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

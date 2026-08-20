@@ -1,6 +1,9 @@
 TITLE:
 World News
 
+PUBLISHED:
+2026-08-20
+
 SOURCE:
 China Military English
 
@@ -28,6 +31,8 @@ MULTIMEDIA
 Photo
 Video
 News
+Israeli defense minister warns Türkiye against "dangerous adventures" in Syria
+2026-08-20 18:54
 U.S.-ROK military exercise pushes Korean Peninsula again to "threshold of war" -- KCNA
 2026-08-20 17:04
 As 60-day deadline for peace deal expires, U.S., Iran further apart over way forward
@@ -46,5 +51,3 @@ Houthi drone strike kills 3 soldiers amid escalation in Yemen
 2026-08-10 23:50
 Japanese PM reiterates ambiguous remarks on non-nuclear principles as Nagasaki marks 81st anniversary of atomic bombing
 2026-08-09 18:01
-Japan's defense ministry to request record-high budget for FY2027
-2026-08-08 19:27
