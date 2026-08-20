@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 04:56:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:50:48 +0000</lastBuildDate>
     <item>
       <title>Specials</title>
       <link>http://en.people.cn/102775/index.html</link>
@@ -74,7 +74,15 @@ Latest News
 Exclusive
 - More
 People's Daily Online Exclusives
+- China Buzz: Discover Beijing through the craft of ronghua 2026-08-20 16:01
+- Shouguang dancer proves confidence is what makes you shine 2026-08-20 14:45
+- Robot lions take the spotlight at Beijing's World Robot Conference 2026-08-20 14:45
+- Major Songhua River bridge joins together in Harbin, boosting local transport and tourism 2026-08-20 14:39
+- Shenzhen's Huaqiangbei: A global gateway for Chinese smart technology 2026-08-20 14:05
+- China accelerates 6G development 2026-08-20 13:41
+- 2026 World Robot Conference opens in Beijing, 311 new products unveiled 2026-08-20 11:28
 - China's hydrogen industry moves into large-scale commercialization 2026-08-20 11:04
+- Young people build careers by reviving Li brocade 2026-08-20 09:14
 - A romantic Qixi: Let's watch the meteor shower together! 2026-08-19 17:03
 - China achieves first land recovery of Zhuque-3 rocket's first stage 2026-08-19 14:45
 - Spectacular meteors streak across Yunnan's night sky 2026-08-19 14:35
@@ -86,14 +94,6 @@ People's Daily Online Exclusives
 - Over 80 days aboard Tiangong: Shenzhou‑23 crew presses ahead with space experiments 2026-08-18 13:16
 - Galloping horses splash through a river on Hulun Buir grasslands 2026-08-18 13:04
 - Chinese robot sets new benchmark with 2-meter standing jump 2026-08-18 11:18
-- Mission Unlock | Ep 7: What one pear reveals about the future of farming 2026-08-18 10:34
-- Clued-in | Japan's military ambitions drain the public purse 2026-08-18 10:01
-- Xinjiang Diary, Day 6: Shihezi, an oasis built generation by generation 2026-08-17 20:22
-- Ride the world's first driverless SkyShuttle in Chongqing 2026-08-17 14:06
-- Raccoons frolic in the water at Dongguan zoo 2026-08-17 14:02
-- Long March-2C rocket sends SEO satellite into orbit 2026-08-17 13:55
-- County in C China's Henan turns rock salt into high-value chemical industry chain 2026-08-17 11:09
-- Mission Unlock | Ep 6: How does a mural step outside a cave? 2026-08-17 10:13
 - Chinese
 - Japanese
 - French
@@ -281,6 +281,11 @@ Latest News
 Exclusive
 - More
 Sci-Tech
+- China honors Shenzhou-21 mission astronauts with medals 2026-08-20 16:50
+- Tesla integrates Chinese Doubao AI model for in-vehicle systems 2026-08-20 16:08
+- Chinese, Azerbaijani technicians jointly conduct survey in Caspian Sea 2026-08-20 14:16
+- Shenzhen's Huaqiangbei: A global gateway for Chinese smart technology 2026-08-20 14:05
+- 2026 World Robot Conference opens in Beijing, 311 new products unveiled 2026-08-20 11:28
 - From the stage to the shop floor: China's embodied AI shines at WRC 2026 2026-08-20 08:45
 - 2026 World Robot Conference kicks off in Beijing 2026-08-19 16:54
 - Interview: China's humanoid robotics advances open new opportunities for practical applications: AI expert 2026-08-19 16:53
@@ -296,11 +301,6 @@ Sci-Tech
 - Chinese scientists unveil soybean-specific AI model 'Fengshu' 2.0 2026-08-17 14:10
 - China wins 3 golds, 1 silver at informatics Olympiad 2026-08-16 15:58
 - China's Long March-12 rocket launches new internet satellite group 2026-08-16 15:36
-- Chinese researchers uncover "ripple" structures in Milky Way 2026-08-14 10:05
-- China advances global AI governance in a comprehensive manner 2026-08-14 10:01
-- 3 scientists win 2026 Future Science Prize 2026-08-14 08:35
-- Robot participation quadruples at 2nd World Humanoid Robot Games 2026-08-14 08:18
-- Wuxi's "Token Supermarket": A one-stop AI model platform for local businesses 2026-08-13 15:57
 - Chinese
 - Japanese
 - French
@@ -350,7 +350,9 @@ Latest News
 Exclusive
 - More
 Culture
+- China Buzz: Discover Beijing through the craft of ronghua 2026-08-20 16:01
 - Exhibition on ancient Chinese civilization opens in Kyrgyzstan 2026-08-20 11:09
+- Young people build careers by reviving Li brocade 2026-08-20 09:14
 - Water festival held in Baoting, China's Hainan 2026-08-20 08:50
 - Chinese university opens branch campus in Uzbekistan 2026-08-19 16:02
 - Xinjiang Diary, Day 7: Xinjiang, where differences come together 2026-08-18 17:09
@@ -368,8 +370,6 @@ Culture
 - Posters: Jingdezhen porcelain — beyond blue and white 2026-08-13 17:30
 - 2026 Shanghai Book Fair opens 2026-08-13 09:33
 - Feature: From Amman to Beijing: Young sinologist builds a literary bridge between Arab and Chinese cultures 2026-08-12 13:57
-- Xinjiang Diary, Day 1: Hami, the gateway 2026-08-12 09:22
-- Shenyang Palace Museum marks its centenary with exhibition featuring 100 exhibits 2026-08-12 09:11
 - Chinese
 - Japanese
 - French
@@ -419,6 +419,9 @@ Latest News
 Exclusive
 - More
 China Society
+- Feature: From 5,000 USD to 50,000 trees: an American teacher and a Chinese woman's efforts to green a desert 2026-08-20 16:10
+- Explainer: How China turns sand into green, taking its ecological playbook global 2026-08-20 14:03
+- China cracks down on apps for infringement of personal information 2026-08-20 13:30
 - In Hainan's Tanmen, fishing village rides new waves of tourism 2026-08-20 10:59
 - From barefoot to high-tech: How Chinese doctors shaped a healthier nation 2026-08-20 10:48
 - China to expand education support for people with disabilities in Xizang 2026-08-20 10:01
@@ -436,9 +439,6 @@ China Society
 - Foreigners find careers and a home in Taizhou 2026-08-18 16:37
 - Macao SAR releases economic, social development plan for 2026-2030 period 2026-08-18 16:24
 - China highlights AI-related content in crackdown on online rumors targeting businesses 2026-08-18 14:23
-- Chinese court sentences men in case solved through China-U.S. counter-narcotics cooperation 2026-08-18 10:49
-- Mission Unlock | Ep 7: What one pear reveals about the future of farming 2026-08-18 10:34
-- JD.com launches 24-hour unmanned coffee shop in Beijing, serving 202 cups in one hour 2026-08-17 14:16
 - Chinese
 - Japanese
 - French
@@ -563,6 +563,7 @@ Latest News
 Exclusive
 - More
 Opinion
+- Commentary: Macao's new five-year plan charts course for high-quality development 2026-08-20 11:24
 - When the West is struggling with direction, China’s robotics takes another step forward: Global Times editorial 2026-08-20 08:41
 - Commentary: U.S. debt monster spirals out of control 2026-08-20 08:17
 - Commentary: Unitree's successful IPO a vote of confidence in China's high-tech future 2026-08-20 08:05
@@ -582,7 +583,6 @@ Opinion
 - China advances global AI governance in a comprehensive manner 2026-08-14 10:01
 - Japan's new defense white paper only about ambition, lies 2026-08-14 08:21
 - Xinjiang Diary, Day 2: Turpan, where the heat provides 2026-08-13 19:15
-- Xi's commitment to the people: CPC must keep itself competent and strong 2026-08-13 16:07
 - Chinese
 - Japanese
 - French

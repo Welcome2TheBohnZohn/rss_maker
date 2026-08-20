@@ -8,7 +8,7 @@ CATEGORY:
 Economic
 
 URL:
-https://www.stats.gov.cn/english/InternationalCooperation/
+http://www.stats.gov.cn/english/InternationalCooperation/
 
 ARTICLE TEXT:
 Chinese(GB)

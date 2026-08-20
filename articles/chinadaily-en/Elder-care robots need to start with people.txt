@@ -1,0 +1,48 @@
+TITLE:
+Elder-care robots need to start with people
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202608/20/WS6a866414a3106bc57421c815.html
+
+ARTICLE TEXT:
+Elder-care robots need to start with people
+Imagine the future of elder care and it is easy to envision a robot. Perhaps it is humanoid, standing patiently beside an old person, helping the senior get out of bed, carrying a tray, cleaning the floor or leading a morning exercise session.
+In a country where the population is growing older and families are getting smaller, this image has obvious appeal.
+China is turning that vision into a thriving industry. The country's aging population has created a vast market called the "silver economy", attracting attention from investors and technology companies. Rehabilitation robots help people with limited mobility exercise, while transfer robots handle the heavy lifting that exhausts caregivers.
+Other machines clean homes, provide entertainment, play sports with older people or offer massage and other wellness services.
+While technology is advancing rapidly, the question is whether our understanding of old age is moving in tandem.
+For years, making technology "age-friendly" meant modifying existing products to make them less challenging for elderly users — larger fonts, fewer buttons, higher volume.
+Essentially, products designed for everyone else were slightly adjusted before being handed to seniors. This approach now looks outdated.
+Seniors don't necessarily need simplified versions of products designed for 30-year-olds. They may need entirely different products. Consider the difference between making a robot easy to operate and making it truly useful in an elderly person's daily life.
+An old person may move more slowly, tire more easily or have difficulty with certain kinds of instructions. A caregiver may perform physically demanding tasks several times in a day. A robot that ignores these realities may work perfectly in a laboratory and still fail in a home.
+This is where the industry faces a less glamorous challenge than artificial intelligence or advanced robotics: listening.
+Surprisingly, we still lack systematic knowledge about what seniors and their caregivers actually need from machines.
+Research on everyday care scenarios is limited, and very few engineers have a deep understanding of aging.
+There is a simple reason for this: we have all been young, but nobody experiences old age until they reach it.
+That creates a peculiar blind spot in product design. Engineers can study how a robot moves, how much weight it can carry and how accurately it recognizes an object.
+It is much harder to teach a machine — or its designer — what it feels like to hesitate before standing up from a chair, to feel embarrassed about needing help, or to rely on someone for basic mobility.
+This is why elder-care robotics needs more than better hardware. It demands better fieldwork. A robot intended for a nursing home should not be treated as the one intended for a family apartment.
+Companies should spend more time observing actual care delivery, breaking down everyday tasks into their smallest movements and talking to both older people and caregivers. Surveys and interviews are important, but so is observing how people get through an ordinary day.
+The fundamental questions for companies should be: Who will use this machine? What problem will the robot address? What makes that problem challenging? Is a robot really the best solution?
+Answering these questions could save the industry from the expensive mistake of producing impressive machines that search for a market.
+Getting a robot into production is only half the job. An elder-care robot is not a refrigerator that can be delivered, plugged in and forgotten.
+It enters a person's home, sometimes at a moment of considerable physical vulnerability. An old person needs to know how to use it, caregivers need to know how to maintain it and homes and nursing facilities may need rearranging for the machine to function safely.
+Then there is the human aspect. As robots become more capable, some families may start relying on them for tasks once performed by relatives or professional caregivers.
+This can be useful, but it can also be unsettling.
+A machine can remind an old person to take a walk, assist with an exercise routine, or carry something too heavy to lift.
+But it should not pretend to be a daughter, a son, a nurse or a friend.
+This distinction matters because elder care is not just about physical tasks. It is also about dignity, reassurance and human interaction. The industry will need clear guidelines on privacy, data and the limits of what machines do.
+A robot operating in someone's bedroom or living room is not merely an appliance. It has access to intimate details of a person's life.
+This is not an argument against robots. In fact, it is quite the opposite. If designed well, robots could make an enormous difference, particularly as societies struggle with fewer caregivers and longer life spans.
+But the industry should resist measuring progress by how humanlike a robot looks or how many tasks it can perform.
+The more meaningful question is a simpler one: Does the robot make an old person's day easier?
+If the answer is yes, elder-care robots have a promising future. The most successful ones will not be the machines that replace people. They will be the ones that quietly take the hardest jobs off their hands, giving caregivers more time to care — and seniors more time to live their lives on their own terms.
+The author is deputy head of the Aging Society Research Center at the Pangoal Institution.
+The views don't necessarily reflect those of China Daily.
+If you have a specific expertise, or would like to share your thought about our stories, then send us your writings at opinion@chinadaily.com.cn, and comment@chinadaily.com.cn.
