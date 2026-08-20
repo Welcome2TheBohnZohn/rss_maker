@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:47:57 +0000</lastBuildDate>
     <item>
       <title>Total Retail Sales of Consumer Goods from January to July 2026</title>
       <link>https://www.stats.gov.cn/english/PressRelease/202608/t20260819_1965078.html</link>
@@ -382,6 +382,58 @@ According to the results of automatic correction based on the seasonal adjustmen
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260818_1965071.html</guid>
     </item>
     <item>
+      <title>Latest Releases</title>
+      <link>http://www.stats.gov.cn/english/PressRelease/</link>
+      <description>Published: 2026-08-18
+
+Chinese(GB)
+RSS
+Organizational Chart
+Data
+Communiqués
+Legal Framework
+Classifications &amp; Methods
+Latest Releases
+International Cooperation
+Understanding Statistics
+Agency
+Release Calendar
+Home
+&gt;
+Latest Releases
+1.Industrial Production Operation in July 2026
+2026-08-18
+2.Investment in Fixed Assets from January to July 2026
+2026-08-18
+3.Investment in Real Estate Development from January to July 2026
+2026-08-18
+4.Total Retail Sales of Consumer Goods from January to July 2026
+2026-08-18
+5.Energy Production in July 2026
+2026-08-18
+6.National Economy Maintained Steady Momentum with Innovation-driven and High-quality Dev...
+2026-08-17
+7.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
+2026-08-17
+8.Market Prices of Important Means of Production in Circulation, August 1-10, 2026
+2026-08-14
+9.Consumer Price Index in July 2026
+2026-08-10
+10.Industrial Producer Price Indexes in July 2026
+2026-08-10
+11.Market Prices of Important Means of Production in Circulation, July 21-31, 2026
+2026-08-04
+12.Purchasing Managers’ Index for July 2026
+2026-08-01
+13.The Value Added of the “Three New” Economy in 2025
+2026-07-31
+14.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
+2026-07-31
+15.Profits of Industrial Enterprises above the Designated Size from January to June in 2026
+2026-07-28</description>
+      <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
+    </item>
+    <item>
       <title>National Economy Maintained Steady Momentum with Innovation-driven and High-quality Development in the First Seven Months</title>
       <link>https://www.stats.gov.cn/english/PressRelease/202608/t20260817_1965057.html</link>
       <description>Published: 2026-08-17 15:00:00
@@ -424,6 +476,89 @@ According to the reform of the statistical program and methodology of investment
 8. Due to the rounding-off reasons, the subentries may not add up to the aggregate totals.
 In case of any differences between English translation and the original Chinese text, the Chinese edition shall prevail.</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260817_1965057.html</guid>
+    </item>
+    <item>
+      <title>International Cooperation</title>
+      <link>http://www.stats.gov.cn/english/InternationalCooperation/</link>
+      <description>Published: 2026-07-21
+
+Chinese(GB)
+RSS
+Organizational Chart
+Data
+Communiqués
+Legal Framework
+Classifications &amp; Methods
+Latest Releases
+International Cooperation
+Understanding Statistics
+Agency
+International Cooperation
+Home
+&gt;
+International Cooperation
+1.Kang Yi Meets with Delegation from the Statistics and Census Service of the Macao SAR G...
+2026-07-21
+2.Kang Yi Meets with IMF Deputy Managing Director Li Bo and Signs Memorandum of Understan...
+2026-07-01
+3.Kang Yi Meets with Director-General of Eurostat and Signs the Administrative Arrangemen...
+2025-10-09
+4.Kang Yi Met with the Delegation of Bulgarian National Statistical Institute
+2025-06-23
+5.Kang Yi Held a Videoconference with Director of the United Nations Statistics Division
+2025-06-23
+6.Kang Yi Met with the Delegation of Statistics Korea
+2025-05-30
+7.Kang Yi Met with the Delegation of Instituto Brasileiro de Geografia e Estatística
+2025-05-30
+8.Kang Yi Met with with Aleksandr Chervyakov, Belarusian Ambassador to China
+2025-05-30
+9.Kang Yi Met with the Delegation of General Statistics Office of Vietnam
+2025-01-24
+10.Kang Yi Met with He Xuming，President of International Statistical Institute
+2024-11-15
+11.Kang Yi Met with Batdavaa Batmunkh, Chairman of the National Statistics Office of Mongo...
+2024-10-30
+12.Kang Yi Met with Márcio Pochmann， President of IBGE， and the Two Sides Singed a Memo...
+2024-10-14
+13.Kang Yi Met with the Delegation of the United Nations Statistics Division
+2024-04-29
+14.Kang Yi Met with Kanasugi Kenji, Japanese Ambassador to China
+2024-04-03
+15.Kang Yi Met with the Delegation of the Agency for Strategic Planning and Reforms of the...
+2024-02-01</description>
+      <guid isPermaLink="false">http://www.stats.gov.cn/english/InternationalCooperation/</guid>
+    </item>
+    <item>
+      <title>Organizational Chart</title>
+      <link>http://www.stats.gov.cn/english/AI/OS/202208/t20220824_1887612.html</link>
+      <description>Published: 2022-08-24
+
+Chinese(GB)
+RSS
+Organizational Chart
+Data
+Communiqués
+Legal Framework
+Classifications &amp; Methods
+Latest Releases
+International Cooperation
+Understanding Statistics
+Agency
+Home
+&gt;
+Organizational Structure
+Organizational Chart
+National Bureau of Statistics of China
+2022-08-25 13:41
+Print
+|
+Large
+|
+Medium
+|
+Small</description>
+      <guid isPermaLink="false">http://www.stats.gov.cn/english/AI/OS/202208/t20220824_1887612.html</guid>
     </item>
     <item>
       <title>Understanding Statistics</title>
@@ -479,110 +614,6 @@ Understanding Statistics
       <guid isPermaLink="false">http://www.stats.gov.cn/english/understanding/</guid>
     </item>
     <item>
-      <title>International Cooperation</title>
-      <link>http://www.stats.gov.cn/english/InternationalCooperation/</link>
-      <description>Published: 2026-07-21
-
-Chinese(GB)
-RSS
-Organizational Chart
-Data
-Communiqués
-Legal Framework
-Classifications &amp; Methods
-Latest Releases
-International Cooperation
-Understanding Statistics
-Agency
-International Cooperation
-Home
-&gt;
-International Cooperation
-1.Kang Yi Meets with Delegation from the Statistics and Census Service of the Macao SAR G...
-2026-07-21
-2.Kang Yi Meets with IMF Deputy Managing Director Li Bo and Signs Memorandum of Understan...
-2026-07-01
-3.Kang Yi Meets with Director-General of Eurostat and Signs the Administrative Arrangemen...
-2025-10-09
-4.Kang Yi Met with the Delegation of Bulgarian National Statistical Institute
-2025-06-23
-5.Kang Yi Held a Videoconference with Director of the United Nations Statistics Division
-2025-06-23
-6.Kang Yi Met with the Delegation of Statistics Korea
-2025-05-30
-7.Kang Yi Met with the Delegation of Instituto Brasileiro de Geografia e Estatística
-2025-05-30
-8.Kang Yi Met with with Aleksandr Chervyakov, Belarusian Ambassador to China
-2025-05-30
-9.Kang Yi Met with the Delegation of General Statistics Office of Vietnam
-2025-01-24
-10.Kang Yi Met with He Xuming，President of International Statistical Institute
-2024-11-15
-11.Kang Yi Met with Batdavaa Batmunkh, Chairman of the National Statistics Office of Mongo...
-2024-10-30
-12.Kang Yi Met with Márcio Pochmann， President of IBGE， and the Two Sides Singed a Memo...
-2024-10-14
-13.Kang Yi Met with the Delegation of the United Nations Statistics Division
-2024-04-29
-14.Kang Yi Met with Kanasugi Kenji, Japanese Ambassador to China
-2024-04-03
-15.Kang Yi Met with the Delegation of the Agency for Strategic Planning and Reforms of the...
-2024-02-01</description>
-      <guid isPermaLink="false">http://www.stats.gov.cn/english/InternationalCooperation/</guid>
-    </item>
-    <item>
-      <title>Latest Releases</title>
-      <link>http://www.stats.gov.cn/english/PressRelease/</link>
-      <description>Published: 2026-08-18
-
-Chinese(GB)
-RSS
-Organizational Chart
-Data
-Communiqués
-Legal Framework
-Classifications &amp; Methods
-Latest Releases
-International Cooperation
-Understanding Statistics
-Agency
-Release Calendar
-Home
-&gt;
-Latest Releases
-1.Industrial Production Operation in July 2026
-2026-08-18
-2.Investment in Fixed Assets from January to July 2026
-2026-08-18
-3.Investment in Real Estate Development from January to July 2026
-2026-08-18
-4.Total Retail Sales of Consumer Goods from January to July 2026
-2026-08-18
-5.Energy Production in July 2026
-2026-08-18
-6.National Economy Maintained Steady Momentum with Innovation-driven and High-quality Dev...
-2026-08-17
-7.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
-2026-08-17
-8.Market Prices of Important Means of Production in Circulation, August 1-10, 2026
-2026-08-14
-9.Consumer Price Index in July 2026
-2026-08-10
-10.Industrial Producer Price Indexes in July 2026
-2026-08-10
-11.Market Prices of Important Means of Production in Circulation, July 21-31, 2026
-2026-08-04
-12.Purchasing Managers’ Index for July 2026
-2026-08-01
-13.The Value Added of the “Three New” Economy in 2025
-2026-07-31
-14.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
-2026-07-31
-15.Profits of Industrial Enterprises above the Designated Size from January to June in 2026
-2026-07-28</description>
-      <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
-    </item>
-    <item>
       <title>Legal Framework</title>
       <link>http://www.stats.gov.cn/english/LF/</link>
       <description>Published: 2012-09-21
@@ -628,37 +659,6 @@ More
 9.Interim Measures for Administration of Foreign-related Social Survey Activities
 2002-04-02</description>
       <guid isPermaLink="false">http://www.stats.gov.cn/english/LF/</guid>
-    </item>
-    <item>
-      <title>Organizational Chart</title>
-      <link>http://www.stats.gov.cn/english/AI/OS/202208/t20220824_1887612.html</link>
-      <description>Published: 2022-08-25 13:41:00
-
-Chinese(GB)
-RSS
-Organizational Chart
-Data
-Communiqués
-Legal Framework
-Classifications &amp; Methods
-Latest Releases
-International Cooperation
-Understanding Statistics
-Agency
-Home
-&gt;
-Organizational Structure
-Organizational Chart
-National Bureau of Statistics of China
-2022-08-25 13:41
-Print
-|
-Large
-|
-Medium
-|
-Small</description>
-      <guid isPermaLink="false">http://www.stats.gov.cn/english/AI/OS/202208/t20220824_1887612.html</guid>
     </item>
   </channel>
 </rss>
