@@ -8,7 +8,7 @@ import trafilatura
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 from feedgen.feed import FeedGenerator
-from datetime import date, datetime, timedelta, timezone
+from datetime import datetime, timedelta, timezone
 
 
 # ============================================================
@@ -250,16 +250,9 @@ sources = [
 # ============================================================
 # SOURCE-SPECIFIC FILTERS
 # ============================================================
-#
-# These override the generic article detector only for sites
-# where we found false positives.
-#
-# Existing feed filenames/URLs are NOT changed.
-# ============================================================
 
 SOURCE_FILTERS = {
 
-    # Only actual Chinese MFA press-conference articles
     "mfa-cn": {
         "allow_url_regex": (
             r"^https?://www\.mfa\.gov\.cn/"
@@ -268,7 +261,6 @@ SOURCE_FILTERS = {
         )
     },
 
-    # Only dated CCTV-7 video pages
     "cctv7": {
         "allow_url_regex": (
             r"^https?://tv\.cctv\.com/"
@@ -277,7 +269,6 @@ SOURCE_FILTERS = {
         )
     },
 
-    # People's Daily Online actual English articles
     "people-en": {
         "allow_url_regex": (
             r"^https?://en\.people\.cn/"
@@ -286,7 +277,6 @@ SOURCE_FILTERS = {
         )
     },
 
-    # People's Daily Chinese articles across people.com.cn sections
     "people-cn": {
         "allow_url_regex": (
             r"^https?://(?:[a-zA-Z0-9-]+\.)*"
@@ -296,7 +286,6 @@ SOURCE_FILTERS = {
         )
     },
 
-    # Qiushi English article structure
     "qiushi-en": {
         "allow_url_regex": (
             r"^https?://en\.qstheory\.cn/"
@@ -305,7 +294,6 @@ SOURCE_FILTERS = {
         )
     },
 
-    # Xinhua English actual wire/news articles
     "xinhua-en": {
         "allow_url_regex": (
             r"^https?://english\.news\.cn/"
@@ -315,7 +303,6 @@ SOURCE_FILTERS = {
         )
     },
 
-    # Xinhua Chinese central-site articles only
     "xinhua-cn": {
         "allow_url_regex": (
             r"^https?://www\.news\.cn/"
@@ -326,7 +313,6 @@ SOURCE_FILTERS = {
         )
     },
 
-    # China Daily actual article structure
     "chinadaily-en": {
         "allow_url_regex": (
             r"^https?://www\.chinadaily\.com\.cn/"
@@ -335,7 +321,6 @@ SOURCE_FILTERS = {
         )
     },
 
-    # CCTV English actual article/video pages
     "cctv-en": {
         "allow_url_regex": (
             r"^https?://english\.cctv\.com/"
@@ -344,7 +329,6 @@ SOURCE_FILTERS = {
         )
     },
 
-    # CCTV Chinese actual news/video pages
     "cctv-cn": {
         "allow_url_regex": (
             r"^https?://(?:news|tv)\.cctv\.com/"
@@ -352,27 +336,6 @@ SOURCE_FILTERS = {
             r"(?:ARTI|VIDE)[^/]+\.shtml$"
         )
     },
-}
-
-
-# ============================================================
-# CCTV-7 MILITARY PROGRAMS
-# ============================================================
-#
-# CCTV-7's homepage dynamically loads much of its newest
-# material. We therefore also inspect these military program
-# pages for recent dated video URLs.
-# ============================================================
-
-CCTV7_PROGRAM_TITLES = {
-    "国防军事早报",
-    "正午国防军事",
-    "军事报道",
-    "防务新观察",
-    "军迷行天下",
-    "军武零距离",
-    "军事制高点",
-    "军事科技",
 }
 
 
@@ -529,9 +492,7 @@ def valid_article_link(source, title, full_url):
     ):
         return False
 
-
     lower_url = full_url.lower()
-
 
     bad_extensions = (
         ".jpg",
@@ -551,7 +512,6 @@ def valid_article_link(source, title, full_url):
         bad_extensions
     ):
         return False
-
 
     bad_titles = {
         "home",
@@ -583,12 +543,9 @@ def valid_article_link(source, title, full_url):
         "한국어",
     }
 
-
     if title.lower() in bad_titles:
         return False
 
-
-    # Source-specific rules are stricter than generic rules.
     if not passes_source_filter(
         source,
         title,
@@ -596,12 +553,8 @@ def valid_article_link(source, title, full_url):
     ):
         return False
 
-
-    # If this source has a strict URL rule and passed it,
-    # it is an article.
     if source["slug"] in SOURCE_FILTERS:
         return True
-
 
     article_patterns = [
         ".html",
@@ -615,13 +568,11 @@ def valid_article_link(source, title, full_url):
         "t20",
     ]
 
-
     if any(
         pattern in lower_url
         for pattern in article_patterns
     ):
         return True
-
 
     path_parts = [
         part
@@ -629,13 +580,11 @@ def valid_article_link(source, title, full_url):
         if part
     ]
 
-
     if (
         len(path_parts) >= 2
         and len(title) >= 12
     ):
         return True
-
 
     return False
 
@@ -661,7 +610,6 @@ def find_candidate_links(
 
     candidates = []
 
-
     for link in soup.find_all(
         "a",
         href=True
@@ -679,10 +627,8 @@ def find_candidate_links(
 
         full_url = full_url.split("#")[0]
 
-
         if full_url in existing_urls:
             continue
-
 
         if valid_article_link(
             source,
@@ -699,10 +645,8 @@ def find_candidate_links(
                 "url": full_url
             })
 
-
         if len(candidates) >= CANDIDATE_LIMIT:
             break
-
 
     return candidates
 
@@ -710,38 +654,28 @@ def find_candidate_links(
 # ============================================================
 # CCTV-7 SPECIAL DISCOVERY
 # ============================================================
+#
+# IMPORTANT:
+# We only use dated VIDEO links directly exposed by the
+# CCTV-7 homepage.
+#
+# We DO NOT crawl program archive pages anymore.
+# ============================================================
 
 def discover_cctv7_candidates(
     source,
     homepage_response
 ):
 
-    seen_urls = set()
-    candidates = []
-
-
-    # First grab direct dated military videos on homepage
-    direct = find_candidate_links(
-        source,
-        source["url"],
-        homepage_response,
-        seen_urls
-    )
-
-    candidates.extend(direct)
-
-
-    homepage_soup = BeautifulSoup(
+    soup = BeautifulSoup(
         homepage_response.content,
         "html.parser"
     )
 
+    candidates = []
+    seen_urls = set()
 
-    program_pages = []
-
-
-    # Find only the named CCTV-7 military program pages.
-    for link in homepage_soup.find_all(
+    for link in soup.find_all(
         "a",
         href=True
     ):
@@ -751,70 +685,67 @@ def discover_cctv7_candidates(
             strip=True
         )
 
-
-        if title not in CCTV7_PROGRAM_TITLES:
-            continue
-
-
-        program_url = urljoin(
+        full_url = urljoin(
             source["url"],
             link["href"]
         )
 
+        full_url = full_url.split("#")[0]
 
-        if program_url not in program_pages:
+        # Only allow real dated CCTV video pages
+        if not re.search(
+            r"^https?://tv\.cctv\.com/"
+            r"20\d{2}/\d{2}/\d{2}/"
+            r"VIDE[^/]+\.shtml$",
+            full_url,
+            re.I
+        ):
+            continue
 
-            program_pages.append(
-                program_url
+        if full_url in seen_urls:
+            continue
+
+        if not title:
+            continue
+
+        seen_urls.add(
+            full_url
+        )
+
+        candidates.append({
+            "title": title,
+            "url": full_url
+        })
+
+    # --------------------------------------------------------
+    # SORT NEWEST FIRST USING DATE IN URL
+    # --------------------------------------------------------
+
+    def video_date(item):
+
+        match = re.search(
+            r"/(20\d{2})/(\d{2})/(\d{2})/",
+            item["url"]
+        )
+
+        if match:
+
+            return (
+                int(match.group(1)),
+                int(match.group(2)),
+                int(match.group(3))
             )
 
+        return (
+            0,
+            0,
+            0
+        )
 
-    # Each list is finite, so there is no recursive crawling.
-    for program_url in program_pages:
-
-        if len(candidates) >= CANDIDATE_LIMIT:
-            break
-
-
-        try:
-
-            print(
-                f"CCTV-7 program page: {program_url}"
-            )
-
-            response = get_with_retry(
-                program_url
-            )
-
-
-            found = find_candidate_links(
-                source,
-                program_url,
-                response,
-                seen_urls
-            )
-
-
-            for candidate in found:
-
-                candidates.append(
-                    candidate
-                )
-
-                if (
-                    len(candidates)
-                    >= CANDIDATE_LIMIT
-                ):
-                    break
-
-
-        except Exception as error:
-
-            print(
-                f"CCTV-7 program page failed: "
-                f"{program_url} - {error}"
-            )
-
+    candidates.sort(
+        key=video_date,
+        reverse=True
+    )
 
     return candidates[:CANDIDATE_LIMIT]
 
@@ -862,16 +793,13 @@ def timezone_from_string(value):
     if value == "Z":
         return timezone.utc
 
-
     match = re.fullmatch(
         r'([+-])(\d{2}):?(\d{2})',
         value
     )
 
-
     if not match:
         return None
-
 
     sign = (
         1
@@ -879,12 +807,10 @@ def timezone_from_string(value):
         else -1
     )
 
-
     offset = timedelta(
         hours=int(match.group(2)),
         minutes=int(match.group(3))
     )
-
 
     return timezone(
         offset * sign
@@ -925,14 +851,12 @@ def timestamp_result(
             "%Y-%m-%d"
         )
 
-
     if dt.tzinfo is not None:
 
         offset = format_timezone(dt)
 
         if offset:
             display += " " + offset
-
 
     return {
         "display": display,
@@ -949,7 +873,6 @@ def parse_timestamp(value):
     if not value:
         return None
 
-
     value = str(value).strip()
 
     value = re.sub(
@@ -957,7 +880,6 @@ def parse_timestamp(value):
         ' ',
         value
     )
-
 
     # --------------------------------------------------------
     # YYYY-MM-DD HH:MM[:SS]
@@ -975,7 +897,6 @@ def parse_timestamp(value):
         value,
         re.I
     )
-
 
     if match:
 
@@ -1001,7 +922,6 @@ def parse_timestamp(value):
         except ValueError:
             pass
 
-
     # --------------------------------------------------------
     # Chinese YYYY年MM月DD日 HH:MM
     # --------------------------------------------------------
@@ -1017,7 +937,6 @@ def parse_timestamp(value):
         r')?',
         value
     )
-
 
     if match:
 
@@ -1044,10 +963,8 @@ def parse_timestamp(value):
         except ValueError:
             pass
 
-
     # --------------------------------------------------------
     # HH:MM, August 20, 2026
-    # People's Daily Online often uses this order.
     # --------------------------------------------------------
 
     month_names = (
@@ -1055,7 +972,6 @@ def parse_timestamp(value):
         "August|September|October|November|December|"
         "Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec"
     )
-
 
     match = re.search(
         rf'(\d{{1,2}}):(\d{{2}})'
@@ -1067,7 +983,6 @@ def parse_timestamp(value):
         value,
         re.I
     )
-
 
     if match:
 
@@ -1097,11 +1012,9 @@ def parse_timestamp(value):
                 ):
                     hour = 0
 
-
             month = MONTHS[
                 match.group(4).lower()
             ]
-
 
             dt = datetime(
                 int(match.group(6)),
@@ -1110,7 +1023,6 @@ def parse_timestamp(value):
                 hour,
                 minute
             )
-
 
             return timestamp_result(
                 dt,
@@ -1122,7 +1034,6 @@ def parse_timestamp(value):
             KeyError
         ):
             pass
-
 
     # --------------------------------------------------------
     # August 20, 2026 [HH:MM]
@@ -1140,7 +1051,6 @@ def parse_timestamp(value):
         value,
         re.I
     )
-
 
     if match:
 
@@ -1164,7 +1074,6 @@ def parse_timestamp(value):
 
             am_pm = match.group(7)
 
-
             if am_pm:
 
                 if (
@@ -1179,7 +1088,6 @@ def parse_timestamp(value):
                 ):
                     hour = 0
 
-
             dt = datetime(
                 int(match.group(3)),
                 month,
@@ -1188,7 +1096,6 @@ def parse_timestamp(value):
                 minute,
                 second
             )
-
 
             return timestamp_result(
                 dt,
@@ -1201,7 +1108,6 @@ def parse_timestamp(value):
         ):
             pass
 
-
     # --------------------------------------------------------
     # Numeric date only
     # --------------------------------------------------------
@@ -1212,7 +1118,6 @@ def parse_timestamp(value):
         r'(?!\d)',
         value
     )
-
 
     if match:
 
@@ -1231,7 +1136,6 @@ def parse_timestamp(value):
 
         except ValueError:
             pass
-
 
     # --------------------------------------------------------
     # Compact YYYYMMDD
@@ -1244,7 +1148,6 @@ def parse_timestamp(value):
         value
     )
 
-
     if match:
 
         try:
@@ -1262,7 +1165,6 @@ def parse_timestamp(value):
 
         except ValueError:
             pass
-
 
     return None
 
@@ -1284,7 +1186,6 @@ def find_timestamp_in_json(data):
         "uploaddate",
     }
 
-
     if isinstance(data, dict):
 
         for key, value in data.items():
@@ -1298,7 +1199,6 @@ def find_timestamp_in_json(data):
                 if result:
                     return result
 
-
         for value in data.values():
 
             result = find_timestamp_in_json(
@@ -1307,7 +1207,6 @@ def find_timestamp_in_json(data):
 
             if result:
                 return result
-
 
     elif isinstance(data, list):
 
@@ -1319,7 +1218,6 @@ def find_timestamp_in_json(data):
 
             if result:
                 return result
-
 
     return None
 
@@ -1337,7 +1235,6 @@ def extract_publication_timestamp(
         response.content,
         "html.parser"
     )
-
 
     # --------------------------------------------------------
     # META
@@ -1358,7 +1255,6 @@ def extract_publication_timestamp(
         "dcterms.date",
     }
 
-
     for meta in soup.find_all("meta"):
 
         key = (
@@ -1368,7 +1264,6 @@ def extract_publication_timestamp(
             or ""
         ).lower()
 
-
         if key in meta_keys:
 
             result = parse_timestamp(
@@ -1377,7 +1272,6 @@ def extract_publication_timestamp(
 
             if result:
                 return result
-
 
     # --------------------------------------------------------
     # JSON-LD
@@ -1397,7 +1291,6 @@ def extract_publication_timestamp(
 
             data = json.loads(raw)
 
-
             result = find_timestamp_in_json(
                 data
             )
@@ -1405,10 +1298,8 @@ def extract_publication_timestamp(
             if result:
                 return result
 
-
         except Exception:
             pass
-
 
     # --------------------------------------------------------
     # <time>
@@ -1429,7 +1320,6 @@ def extract_publication_timestamp(
         if result:
             return result
 
-
     # --------------------------------------------------------
     # COMMON DATE/TIME CLASSES
     # --------------------------------------------------------
@@ -1439,9 +1329,7 @@ def extract_publication_timestamp(
         re.I
     )
 
-
     checked = 0
-
 
     for element in soup.find_all(True):
 
@@ -1458,34 +1346,27 @@ def extract_publication_timestamp(
             ]
         )
 
-
         if not date_pattern.search(
             attributes
         ):
             continue
-
 
         text = element.get_text(
             " ",
             strip=True
         )
 
-
         result = parse_timestamp(
             text
         )
 
-
         if result:
             return result
 
-
         checked += 1
-
 
         if checked >= 40:
             break
-
 
     # --------------------------------------------------------
     # SEARCH VISIBLE PAGE TEXT NEAR TOP
@@ -1496,15 +1377,12 @@ def extract_publication_timestamp(
         strip=True
     )
 
-
     result = parse_timestamp(
         page_text[:5000]
     )
 
-
     if result:
         return result
-
 
     # --------------------------------------------------------
     # URL FALLBACK
@@ -1514,10 +1392,8 @@ def extract_publication_timestamp(
         article_url
     )
 
-
     if result:
         return result
-
 
     return None
 
@@ -1532,14 +1408,12 @@ def extract_article(article_url):
         article_url
     )
 
-
     article_text = trafilatura.extract(
         response.content,
         url=article_url,
         include_comments=False,
         include_links=False
     )
-
 
     if (
         not article_text
@@ -1553,7 +1427,6 @@ def extract_article(article_url):
 
         paragraphs = []
 
-
         for paragraph in soup.find_all(
             "p"
         ):
@@ -1563,18 +1436,15 @@ def extract_article(article_url):
                 strip=True
             )
 
-
             if len(text) > 30:
 
                 paragraphs.append(
                     text
                 )
 
-
         article_text = "\n\n".join(
             paragraphs
         )
-
 
     published = (
         extract_publication_timestamp(
@@ -1582,7 +1452,6 @@ def extract_article(article_url):
             article_url
         )
     )
-
 
     return (
         article_text or "",
@@ -1602,7 +1471,6 @@ def collect_source(source):
     print(source["url"])
     print("=" * 80)
 
-
     result = {
         "name": source["name"],
         "slug": source["slug"],
@@ -1617,7 +1485,6 @@ def collect_source(source):
         "timezone_found": 0,
         "error": "",
     }
-
 
     # --------------------------------------------------------
     # SOURCE PAGE
@@ -1640,7 +1507,6 @@ def collect_source(source):
         )
 
         return result
-
 
     # --------------------------------------------------------
     # DISCOVERY
@@ -1665,17 +1531,14 @@ def collect_source(source):
             )
         )
 
-
     result["candidates_found"] = len(
         candidates
     )
-
 
     print(
         f"Candidate links found: "
         f"{len(candidates)}"
     )
-
 
     # --------------------------------------------------------
     # OUTPUT FOLDERS
@@ -1686,21 +1549,17 @@ def collect_source(source):
         source["slug"]
     )
 
-
     os.makedirs(
         article_folder,
         exist_ok=True
     )
-
 
     os.makedirs(
         "feeds",
         exist_ok=True
     )
 
-
     rss_items = []
-
 
     # --------------------------------------------------------
     # ARTICLES
@@ -1708,25 +1567,21 @@ def collect_source(source):
 
     for article in candidates:
 
-
         if (
             result["articles_extracted"]
             >= ARTICLE_TARGET
         ):
             break
 
-
         result[
             "articles_attempted"
         ] += 1
-
 
         print()
         print(
             f"Trying: "
             f"{article['title']}"
         )
-
 
         try:
 
@@ -1735,7 +1590,6 @@ def collect_source(source):
                     article["url"]
                 )
             )
-
 
             if (
                 not article_text
@@ -1750,16 +1604,13 @@ def collect_source(source):
 
                 continue
 
-
             result[
                 "articles_extracted"
             ] += 1
 
-
             published_display = (
                 "Unknown"
             )
-
 
             if published:
 
@@ -1771,7 +1622,6 @@ def collect_source(source):
                     "published_found"
                 ] += 1
 
-
                 if published[
                     "has_time"
                 ]:
@@ -1779,7 +1629,6 @@ def collect_source(source):
                     result[
                         "times_found"
                     ] += 1
-
 
                 if published[
                     "has_timezone"
@@ -1789,12 +1638,10 @@ def collect_source(source):
                         "timezone_found"
                     ] += 1
 
-
             print(
                 f"Published: "
                 f"{published_display}"
             )
-
 
             # ------------------------------------------------
             # SAVE ARTICLE
@@ -1807,12 +1654,10 @@ def collect_source(source):
                 + ".txt"
             )
 
-
             filepath = os.path.join(
                 article_folder,
                 filename
             )
-
 
             with open(
                 filepath,
@@ -1820,46 +1665,38 @@ def collect_source(source):
                 encoding="utf-8"
             ) as file:
 
-
                 file.write(
                     f"TITLE:\n"
                     f"{article['title']}\n\n"
                 )
-
 
                 file.write(
                     f"PUBLISHED:\n"
                     f"{published_display}\n\n"
                 )
 
-
                 file.write(
                     f"SOURCE:\n"
                     f"{source['name']}\n\n"
                 )
-
 
                 file.write(
                     f"CATEGORY:\n"
                     f"{source['category']}\n\n"
                 )
 
-
                 file.write(
                     f"URL:\n"
                     f"{article['url']}\n\n"
                 )
 
-
                 file.write(
                     "ARTICLE TEXT:\n"
                 )
 
-
                 file.write(
                     article_text
                 )
-
 
             rss_items.append({
                 "title": article["title"],
@@ -1868,26 +1705,21 @@ def collect_source(source):
                 "published": published,
             })
 
-
         except Exception as error:
-
 
             print(
                 f"ARTICLE FAILED: "
                 f"{article['url']}"
             )
 
-
             print(
                 f"ERROR: {error}"
             )
-
 
     result["articles_failed"] = (
         result["articles_attempted"]
         - result["articles_extracted"]
     )
-
 
     # --------------------------------------------------------
     # RSS
@@ -1895,54 +1727,43 @@ def collect_source(source):
 
     feed = FeedGenerator()
 
-
     feed.id(
         source["url"]
     )
 
-
     feed.title(
         source["name"]
     )
-
 
     feed.description(
         f"{source['category']} feed generated "
         f"from {source['url']}"
     )
 
-
     feed.link(
         href=source["url"],
         rel="alternate"
     )
 
-
     feed.language(
         source["language"]
     )
 
-
     for article in rss_items:
 
-
         entry = feed.add_entry()
-
 
         entry.id(
             article["url"]
         )
 
-
         entry.title(
             article["title"]
         )
 
-
         entry.link(
             href=article["url"]
         )
-
 
         if article["published"]:
 
@@ -1961,14 +1782,10 @@ def collect_source(source):
                 article["text"]
             )
 
-
         entry.description(
             rss_description
         )
 
-
-        # Formal RSS pubDate only when an explicit timezone
-        # was supplied by the original page.
         if (
             article["published"]
             and article[
@@ -1982,18 +1799,15 @@ def collect_source(source):
                 ]["datetime"]
             )
 
-
     feed_path = os.path.join(
         "feeds",
         source["slug"] + ".xml"
     )
 
-
     feed.rss_file(
         feed_path,
         pretty=True
     )
-
 
     # --------------------------------------------------------
     # STATUS
@@ -2008,7 +1822,6 @@ def collect_source(source):
             "NO ARTICLES FOUND"
         )
 
-
     elif (
         result["articles_extracted"]
         >= ARTICLE_TARGET
@@ -2017,7 +1830,6 @@ def collect_source(source):
         result["status"] = (
             "WORKING"
         )
-
 
     elif (
         result["articles_extracted"]
@@ -2028,13 +1840,11 @@ def collect_source(source):
             "PARTIAL"
         )
 
-
     else:
 
         result["status"] = (
             "LINKS FOUND - TEXT FAILED"
         )
-
 
     return result
 
@@ -2045,9 +1855,7 @@ def collect_source(source):
 
 results = []
 
-
 for source in sources:
-
 
     try:
 
@@ -2055,14 +1863,11 @@ for source in sources:
             source
         )
 
-
         results.append(
             result
         )
 
-
     except Exception as error:
-
 
         results.append({
             "name": source["name"],
@@ -2089,102 +1894,84 @@ report_path = os.path.join(
     "status-report.txt"
 )
 
-
 with open(
     report_path,
     "w",
     encoding="utf-8"
 ) as report:
 
-
     report.write(
         "PRC RSS COLLECTOR STATUS REPORT\n"
     )
-
 
     report.write(
         "=" * 70
         + "\n\n"
     )
 
-
     for result in results:
-
 
         report.write(
             f"SOURCE: "
             f"{result['name']}\n"
         )
 
-
         report.write(
             f"URL: "
             f"{result['url']}\n"
         )
-
 
         report.write(
             f"STATUS: "
             f"{result['status']}\n"
         )
 
-
         report.write(
             f"CANDIDATE LINKS FOUND: "
             f"{result['candidates_found']}\n"
         )
-
 
         report.write(
             f"ARTICLES ATTEMPTED: "
             f"{result['articles_attempted']}\n"
         )
 
-
         report.write(
             f"ARTICLES WITH TEXT: "
             f"{result['articles_extracted']}\n"
         )
-
 
         report.write(
             f"ARTICLES WITH PUB DATE: "
             f"{result['published_found']}\n"
         )
 
-
         report.write(
             f"ARTICLES WITH PUB TIME: "
             f"{result['times_found']}\n"
         )
-
 
         report.write(
             f"ARTICLES WITH EXPLICIT TIMEZONE: "
             f"{result['timezone_found']}\n"
         )
 
-
         report.write(
             f"ARTICLES SKIPPED/FAILED: "
             f"{result['articles_failed']}\n"
         )
-
 
         report.write(
             f"RSS FEED: "
             f"feeds/{result['slug']}.xml\n"
         )
 
-
         if result["error"]:
-
 
             report.write(
                 f"ERROR: "
                 f"{result['error']}\n"
             )
-
 
         report.write(
             "\n"
@@ -2204,7 +1991,6 @@ working = sum(
     == "WORKING"
 )
 
-
 partial = sum(
     1
     for result in results
@@ -2212,37 +1998,31 @@ partial = sum(
     == "PARTIAL"
 )
 
-
 failed = (
     len(results)
     - working
     - partial
 )
 
-
 print()
 print("=" * 80)
 print("COLLECTION COMPLETE")
 print("=" * 80)
-
 
 print(
     f"Fully working: "
     f"{working}/{len(results)}"
 )
 
-
 print(
     f"Partial: "
     f"{partial}/{len(results)}"
 )
 
-
 print(
     f"Failed: "
     f"{failed}/{len(results)}"
 )
-
 
 print(
     "See feeds/status-report.txt "
