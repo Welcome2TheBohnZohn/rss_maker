@@ -248,6 +248,135 @@ sources = [
 
 
 # ============================================================
+# SOURCE-SPECIFIC FILTERS
+# ============================================================
+#
+# These override the generic article detector only for sites
+# where we found false positives.
+#
+# Existing feed filenames/URLs are NOT changed.
+# ============================================================
+
+SOURCE_FILTERS = {
+
+    # Only actual Chinese MFA press-conference articles
+    "mfa-cn": {
+        "allow_url_regex": (
+            r"^https?://www\.mfa\.gov\.cn/"
+            r"web/wjdt_674879/fyrbt_674889/"
+            r"\d{6}/t\d+_\d+\.shtml$"
+        )
+    },
+
+    # Only dated CCTV-7 video pages
+    "cctv7": {
+        "allow_url_regex": (
+            r"^https?://tv\.cctv\.com/"
+            r"20\d{2}/\d{2}/\d{2}/"
+            r"VIDE[^/]+\.shtml$"
+        )
+    },
+
+    # People's Daily Online actual English articles
+    "people-en": {
+        "allow_url_regex": (
+            r"^https?://en\.people\.cn/"
+            r"n3/20\d{2}/\d{4}/"
+            r"c\d+-\d+\.html$"
+        )
+    },
+
+    # People's Daily Chinese articles across people.com.cn sections
+    "people-cn": {
+        "allow_url_regex": (
+            r"^https?://(?:[a-zA-Z0-9-]+\.)*"
+            r"people\.com\.cn/"
+            r"n1/20\d{2}/\d{4}/"
+            r"c\d+-\d+\.html$"
+        )
+    },
+
+    # Qiushi English article structure
+    "qiushi-en": {
+        "allow_url_regex": (
+            r"^https?://en\.qstheory\.cn/"
+            r"20\d{2}-\d{2}/\d{2}/"
+            r"c_\d+\.htm$"
+        )
+    },
+
+    # Xinhua English actual wire/news articles
+    "xinhua-en": {
+        "allow_url_regex": (
+            r"^https?://english\.news\.cn/"
+            r"20\d{6}/"
+            r"[0-9a-fA-F]+/"
+            r"c\.html$"
+        )
+    },
+
+    # Xinhua Chinese central-site articles only
+    "xinhua-cn": {
+        "allow_url_regex": (
+            r"^https?://www\.news\.cn/"
+            r"(?:[^/]+/)?"
+            r"20\d{6}/"
+            r"[0-9a-fA-F]+/"
+            r"c\.html$"
+        )
+    },
+
+    # China Daily actual article structure
+    "chinadaily-en": {
+        "allow_url_regex": (
+            r"^https?://www\.chinadaily\.com\.cn/"
+            r"a/20\d{4}/\d{2}/"
+            r"WS[^/]+\.html$"
+        )
+    },
+
+    # CCTV English actual article/video pages
+    "cctv-en": {
+        "allow_url_regex": (
+            r"^https?://english\.cctv\.com/"
+            r"20\d{2}/\d{2}/\d{2}/"
+            r"(?:ARTI|VIDE)[^/]+\.shtml$"
+        )
+    },
+
+    # CCTV Chinese actual news/video pages
+    "cctv-cn": {
+        "allow_url_regex": (
+            r"^https?://(?:news|tv)\.cctv\.com/"
+            r"20\d{2}/\d{2}/\d{2}/"
+            r"(?:ARTI|VIDE)[^/]+\.shtml$"
+        )
+    },
+}
+
+
+# ============================================================
+# CCTV-7 MILITARY PROGRAMS
+# ============================================================
+#
+# CCTV-7's homepage dynamically loads much of its newest
+# material. We therefore also inspect these military program
+# pages for recent dated video URLs.
+# ============================================================
+
+CCTV7_PROGRAM_TITLES = {
+    "国防军事早报",
+    "正午国防军事",
+    "军事报道",
+    "防务新观察",
+    "军迷行天下",
+    "军武零距离",
+    "军事制高点",
+    "军事科技",
+}
+
+
+# ============================================================
 # SETTINGS
 # ============================================================
 
@@ -273,7 +402,7 @@ HEADERS = {
 
 
 # ============================================================
-# REQUESTS
+# HTTP REQUESTS
 # ============================================================
 
 def get_with_retry(url):
@@ -318,7 +447,7 @@ def get_with_retry(url):
 
 
 # ============================================================
-# GENERAL HELPERS
+# FILENAME
 # ============================================================
 
 def clean_filename(title):
@@ -338,14 +467,55 @@ def clean_filename(title):
     return title[:180]
 
 
+# ============================================================
+# SOURCE FILTER
+# ============================================================
+
+def passes_source_filter(source, title, full_url):
+
+    rules = SOURCE_FILTERS.get(
+        source["slug"]
+    )
+
+    if not rules:
+        return True
+
+    allow_regex = rules.get(
+        "allow_url_regex"
+    )
+
+    if allow_regex:
+
+        if not re.search(
+            allow_regex,
+            full_url,
+            re.I
+        ):
+            return False
+
+    return True
+
+
+# ============================================================
+# GENERIC ARTICLE LINK CHECK
+# ============================================================
+
 def valid_article_link(source, title, full_url):
 
-    if not title or len(title.strip()) < 6:
+    if not title:
+        return False
+
+    title = title.strip()
+
+    if len(title) < 6:
         return False
 
     parsed = urlparse(full_url)
 
-    if parsed.scheme not in ("http", "https"):
+    if parsed.scheme not in (
+        "http",
+        "https"
+    ):
         return False
 
     hostname = parsed.hostname or ""
@@ -359,16 +529,29 @@ def valid_article_link(source, title, full_url):
     ):
         return False
 
+
     lower_url = full_url.lower()
 
+
     bad_extensions = (
-        ".jpg", ".jpeg", ".png", ".gif",
-        ".svg", ".pdf", ".zip",
-        ".mp3", ".mp4", ".css", ".js"
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif",
+        ".svg",
+        ".pdf",
+        ".zip",
+        ".mp3",
+        ".mp4",
+        ".css",
+        ".js",
     )
 
-    if lower_url.endswith(bad_extensions):
+    if lower_url.endswith(
+        bad_extensions
+    ):
         return False
+
 
     bad_titles = {
         "home",
@@ -380,10 +563,45 @@ def valid_article_link(source, title, full_url):
         "previous",
         "about us",
         "contact us",
+        "search",
+        "site search",
+        "video & live",
+        "special reports",
+        "global view",
+        "we are china",
+        "exclusive",
+        "xi's moments",
+        "xi’s moments",
+        "xi's works",
+        "xi’s works",
+        "deutsch",
+        "русский язык",
+        "español",
+        "français",
+        "português",
+        "日本語",
+        "한국어",
     }
 
-    if title.lower().strip() in bad_titles:
+
+    if title.lower() in bad_titles:
         return False
+
+
+    # Source-specific rules are stricter than generic rules.
+    if not passes_source_filter(
+        source,
+        title,
+        full_url
+    ):
+        return False
+
+
+    # If this source has a strict URL rule and passed it,
+    # it is an article.
+    if source["slug"] in SOURCE_FILTERS:
+        return True
+
 
     article_patterns = [
         ".html",
@@ -397,11 +615,13 @@ def valid_article_link(source, title, full_url):
         "t20",
     ]
 
+
     if any(
         pattern in lower_url
         for pattern in article_patterns
     ):
         return True
+
 
     path_parts = [
         part
@@ -409,17 +629,198 @@ def valid_article_link(source, title, full_url):
         if part
     ]
 
+
     if (
         len(path_parts) >= 2
         and len(title) >= 12
     ):
         return True
 
+
     return False
 
 
 # ============================================================
-# DATE AND TIME PARSING
+# FIND LINKS ON A PAGE
+# ============================================================
+
+def find_candidate_links(
+    source,
+    page_url,
+    response,
+    existing_urls=None
+):
+
+    if existing_urls is None:
+        existing_urls = set()
+
+    soup = BeautifulSoup(
+        response.content,
+        "html.parser"
+    )
+
+    candidates = []
+
+
+    for link in soup.find_all(
+        "a",
+        href=True
+    ):
+
+        title = link.get_text(
+            " ",
+            strip=True
+        )
+
+        full_url = urljoin(
+            page_url,
+            link["href"]
+        )
+
+        full_url = full_url.split("#")[0]
+
+
+        if full_url in existing_urls:
+            continue
+
+
+        if valid_article_link(
+            source,
+            title,
+            full_url
+        ):
+
+            existing_urls.add(
+                full_url
+            )
+
+            candidates.append({
+                "title": title,
+                "url": full_url
+            })
+
+
+        if len(candidates) >= CANDIDATE_LIMIT:
+            break
+
+
+    return candidates
+
+
+# ============================================================
+# CCTV-7 SPECIAL DISCOVERY
+# ============================================================
+
+def discover_cctv7_candidates(
+    source,
+    homepage_response
+):
+
+    seen_urls = set()
+    candidates = []
+
+
+    # First grab direct dated military videos on homepage
+    direct = find_candidate_links(
+        source,
+        source["url"],
+        homepage_response,
+        seen_urls
+    )
+
+    candidates.extend(direct)
+
+
+    homepage_soup = BeautifulSoup(
+        homepage_response.content,
+        "html.parser"
+    )
+
+
+    program_pages = []
+
+
+    # Find only the named CCTV-7 military program pages.
+    for link in homepage_soup.find_all(
+        "a",
+        href=True
+    ):
+
+        title = link.get_text(
+            " ",
+            strip=True
+        )
+
+
+        if title not in CCTV7_PROGRAM_TITLES:
+            continue
+
+
+        program_url = urljoin(
+            source["url"],
+            link["href"]
+        )
+
+
+        if program_url not in program_pages:
+
+            program_pages.append(
+                program_url
+            )
+
+
+    # Each list is finite, so there is no recursive crawling.
+    for program_url in program_pages:
+
+        if len(candidates) >= CANDIDATE_LIMIT:
+            break
+
+
+        try:
+
+            print(
+                f"CCTV-7 program page: {program_url}"
+            )
+
+            response = get_with_retry(
+                program_url
+            )
+
+
+            found = find_candidate_links(
+                source,
+                program_url,
+                response,
+                seen_urls
+            )
+
+
+            for candidate in found:
+
+                candidates.append(
+                    candidate
+                )
+
+                if (
+                    len(candidates)
+                    >= CANDIDATE_LIMIT
+                ):
+                    break
+
+
+        except Exception as error:
+
+            print(
+                f"CCTV-7 program page failed: "
+                f"{program_url} - {error}"
+            )
+
+
+    return candidates[:CANDIDATE_LIMIT]
+
+
+# ============================================================
+# DATE / TIME PARSING
 # ============================================================
 
 MONTHS = {
@@ -461,25 +862,33 @@ def timezone_from_string(value):
     if value == "Z":
         return timezone.utc
 
+
     match = re.fullmatch(
         r'([+-])(\d{2}):?(\d{2})',
         value
     )
 
+
     if not match:
         return None
 
-    sign = 1 if match.group(1) == "+" else -1
 
-    hours = int(match.group(2))
-    minutes = int(match.group(3))
+    sign = (
+        1
+        if match.group(1) == "+"
+        else -1
+    )
+
 
     offset = timedelta(
-        hours=hours,
-        minutes=minutes
-    ) * sign
+        hours=int(match.group(2)),
+        minutes=int(match.group(3))
+    )
 
-    return timezone(offset)
+
+    return timezone(
+        offset * sign
+    )
 
 
 def format_timezone(dt):
@@ -499,7 +908,10 @@ def format_timezone(dt):
     )
 
 
-def timestamp_result(dt, has_time):
+def timestamp_result(
+    dt,
+    has_time
+):
 
     if has_time:
 
@@ -513,12 +925,14 @@ def timestamp_result(dt, has_time):
             "%Y-%m-%d"
         )
 
+
     if dt.tzinfo is not None:
 
         offset = format_timezone(dt)
 
         if offset:
             display += " " + offset
+
 
     return {
         "display": display,
@@ -535,6 +949,7 @@ def parse_timestamp(value):
     if not value:
         return None
 
+
     value = str(value).strip()
 
     value = re.sub(
@@ -545,12 +960,7 @@ def parse_timestamp(value):
 
 
     # --------------------------------------------------------
-    # ISO / NUMERIC DATE + TIME
-    #
-    # Examples:
-    # 2026-08-19 15:42
-    # 2026-08-19T15:42:18
-    # 2026/08/19 15:42:18 +08:00
+    # YYYY-MM-DD HH:MM[:SS]
     # --------------------------------------------------------
 
     match = re.search(
@@ -566,35 +976,21 @@ def parse_timestamp(value):
         re.I
     )
 
+
     if match:
 
         try:
 
-            year = int(match.group(1))
-            month = int(match.group(2))
-            day = int(match.group(3))
-
-            hour = int(match.group(4))
-            minute = int(match.group(5))
-
-            second = (
-                int(match.group(6))
-                if match.group(6)
-                else 0
-            )
-
-            tz = timezone_from_string(
-                match.group(7)
-            )
-
             dt = datetime(
-                year,
-                month,
-                day,
-                hour,
-                minute,
-                second,
-                tzinfo=tz
+                int(match.group(1)),
+                int(match.group(2)),
+                int(match.group(3)),
+                int(match.group(4)),
+                int(match.group(5)),
+                int(match.group(6) or 0),
+                tzinfo=timezone_from_string(
+                    match.group(7)
+                )
             )
 
             return timestamp_result(
@@ -607,9 +1003,7 @@ def parse_timestamp(value):
 
 
     # --------------------------------------------------------
-    # CHINESE DATE + TIME
-    #
-    # 2026年8月19日 15:42
+    # Chinese YYYY年MM月DD日 HH:MM
     # --------------------------------------------------------
 
     match = re.search(
@@ -620,59 +1014,31 @@ def parse_timestamp(value):
         r'(?:\s+'
         r'(\d{1,2}):(\d{2})'
         r'(?::(\d{2}))?'
-        r'\s*(Z|[+-]\d{2}:?\d{2})?'
         r')?',
-        value,
-        re.I
+        value
     )
+
 
     if match:
 
         try:
 
-            year = int(match.group(1))
-            month = int(match.group(2))
-            day = int(match.group(3))
-
-            if match.group(4):
-
-                hour = int(match.group(4))
-                minute = int(match.group(5))
-
-                second = (
-                    int(match.group(6))
-                    if match.group(6)
-                    else 0
-                )
-
-                tz = timezone_from_string(
-                    match.group(7)
-                )
-
-                dt = datetime(
-                    year,
-                    month,
-                    day,
-                    hour,
-                    minute,
-                    second,
-                    tzinfo=tz
-                )
-
-                return timestamp_result(
-                    dt,
-                    True
-                )
+            has_time = bool(
+                match.group(4)
+            )
 
             dt = datetime(
-                year,
-                month,
-                day
+                int(match.group(1)),
+                int(match.group(2)),
+                int(match.group(3)),
+                int(match.group(4) or 0),
+                int(match.group(5) or 0),
+                int(match.group(6) or 0)
             )
 
             return timestamp_result(
                 dt,
-                False
+                has_time
             )
 
         except ValueError:
@@ -680,10 +1046,8 @@ def parse_timestamp(value):
 
 
     # --------------------------------------------------------
-    # ENGLISH MONTH DATE
-    #
-    # August 19, 2026
-    # August 19, 2026 3:42 PM
+    # HH:MM, August 20, 2026
+    # People's Daily Online often uses this order.
     # --------------------------------------------------------
 
     month_names = (
@@ -691,6 +1055,78 @@ def parse_timestamp(value):
         "August|September|October|November|December|"
         "Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec"
     )
+
+
+    match = re.search(
+        rf'(\d{{1,2}}):(\d{{2}})'
+        rf'(?:\s*(AM|PM))?'
+        rf'\s*,?\s*'
+        rf'({month_names})\s+'
+        rf'(\d{{1,2}}),?\s+'
+        rf'(20\d{{2}})',
+        value,
+        re.I
+    )
+
+
+    if match:
+
+        try:
+
+            hour = int(
+                match.group(1)
+            )
+
+            minute = int(
+                match.group(2)
+            )
+
+            am_pm = match.group(3)
+
+            if am_pm:
+
+                if (
+                    am_pm.upper() == "PM"
+                    and hour != 12
+                ):
+                    hour += 12
+
+                elif (
+                    am_pm.upper() == "AM"
+                    and hour == 12
+                ):
+                    hour = 0
+
+
+            month = MONTHS[
+                match.group(4).lower()
+            ]
+
+
+            dt = datetime(
+                int(match.group(6)),
+                month,
+                int(match.group(5)),
+                hour,
+                minute
+            )
+
+
+            return timestamp_result(
+                dt,
+                True
+            )
+
+        except (
+            ValueError,
+            KeyError
+        ):
+            pass
+
+
+    # --------------------------------------------------------
+    # August 20, 2026 [HH:MM]
+    # --------------------------------------------------------
 
     match = re.search(
         rf'\b({month_names})\s+'
@@ -700,11 +1136,11 @@ def parse_timestamp(value):
         r'(\d{1,2}):(\d{2})'
         r'(?::(\d{2}))?'
         r'\s*(AM|PM)?'
-        r'\s*(Z|[+-]\d{2}:?\d{2})?'
         r')?',
         value,
         re.I
     )
+
 
     if match:
 
@@ -714,72 +1150,60 @@ def parse_timestamp(value):
                 match.group(1).lower()
             ]
 
-            day = int(match.group(2))
-            year = int(match.group(3))
+            hour = int(
+                match.group(4) or 0
+            )
 
-            if match.group(4):
+            minute = int(
+                match.group(5) or 0
+            )
 
-                hour = int(match.group(4))
-                minute = int(match.group(5))
+            second = int(
+                match.group(6) or 0
+            )
 
-                second = (
-                    int(match.group(6))
-                    if match.group(6)
-                    else 0
-                )
+            am_pm = match.group(7)
 
-                am_pm = match.group(7)
 
-                if am_pm:
+            if am_pm:
 
-                    if (
-                        am_pm.upper() == "PM"
-                        and hour != 12
-                    ):
-                        hour += 12
+                if (
+                    am_pm.upper() == "PM"
+                    and hour != 12
+                ):
+                    hour += 12
 
-                    elif (
-                        am_pm.upper() == "AM"
-                        and hour == 12
-                    ):
-                        hour = 0
+                elif (
+                    am_pm.upper() == "AM"
+                    and hour == 12
+                ):
+                    hour = 0
 
-                tz = timezone_from_string(
-                    match.group(8)
-                )
-
-                dt = datetime(
-                    year,
-                    month,
-                    day,
-                    hour,
-                    minute,
-                    second,
-                    tzinfo=tz
-                )
-
-                return timestamp_result(
-                    dt,
-                    True
-                )
 
             dt = datetime(
-                year,
+                int(match.group(3)),
                 month,
-                day
+                int(match.group(2)),
+                hour,
+                minute,
+                second
             )
+
 
             return timestamp_result(
                 dt,
-                False
+                bool(match.group(4))
             )
 
-        except (ValueError, KeyError):
+        except (
+            ValueError,
+            KeyError
+        ):
             pass
 
 
     # --------------------------------------------------------
-    # NUMERIC DATE ONLY
+    # Numeric date only
     # --------------------------------------------------------
 
     match = re.search(
@@ -788,6 +1212,7 @@ def parse_timestamp(value):
         r'(?!\d)',
         value
     )
+
 
     if match:
 
@@ -809,9 +1234,7 @@ def parse_timestamp(value):
 
 
     # --------------------------------------------------------
-    # COMPACT DATE
-    #
-    # 20260819
+    # Compact YYYYMMDD
     # --------------------------------------------------------
 
     match = re.search(
@@ -820,6 +1243,7 @@ def parse_timestamp(value):
         r'(?!\d)',
         value
     )
+
 
     if match:
 
@@ -844,7 +1268,7 @@ def parse_timestamp(value):
 
 
 # ============================================================
-# JSON-LD DATE/TIME
+# JSON-LD TIMESTAMP SEARCH
 # ============================================================
 
 def find_timestamp_in_json(data):
@@ -857,7 +1281,9 @@ def find_timestamp_in_json(data):
         "publicationdate",
         "publish_time",
         "publishtime",
+        "uploaddate",
     }
+
 
     if isinstance(data, dict):
 
@@ -871,6 +1297,7 @@ def find_timestamp_in_json(data):
 
                 if result:
                     return result
+
 
         for value in data.values():
 
@@ -893,11 +1320,12 @@ def find_timestamp_in_json(data):
             if result:
                 return result
 
+
     return None
 
 
 # ============================================================
-# EXTRACT PUBLICATION DATE/TIME
+# PUBLICATION DATE/TIME EXTRACTION
 # ============================================================
 
 def extract_publication_timestamp(
@@ -912,7 +1340,7 @@ def extract_publication_timestamp(
 
 
     # --------------------------------------------------------
-    # 1. META TAGS
+    # META
     # --------------------------------------------------------
 
     meta_keys = {
@@ -940,6 +1368,7 @@ def extract_publication_timestamp(
             or ""
         ).lower()
 
+
         if key in meta_keys:
 
             result = parse_timestamp(
@@ -951,7 +1380,7 @@ def extract_publication_timestamp(
 
 
     # --------------------------------------------------------
-    # 2. JSON-LD
+    # JSON-LD
     # --------------------------------------------------------
 
     for script in soup.find_all(
@@ -968,6 +1397,7 @@ def extract_publication_timestamp(
 
             data = json.loads(raw)
 
+
             result = find_timestamp_in_json(
                 data
             )
@@ -975,15 +1405,18 @@ def extract_publication_timestamp(
             if result:
                 return result
 
+
         except Exception:
             pass
 
 
     # --------------------------------------------------------
-    # 3. HTML TIME ELEMENTS
+    # <time>
     # --------------------------------------------------------
 
-    for time_tag in soup.find_all("time"):
+    for time_tag in soup.find_all(
+        "time"
+    ):
 
         result = parse_timestamp(
             time_tag.get("datetime")
@@ -998,59 +1431,89 @@ def extract_publication_timestamp(
 
 
     # --------------------------------------------------------
-    # 4. COMMON DATE/TIME ELEMENTS
+    # COMMON DATE/TIME CLASSES
     # --------------------------------------------------------
 
     date_pattern = re.compile(
-        r"(date|time|publish|pubtime|timestamp)",
+        r"(date|time|publish|pubtime|timestamp|updated)",
         re.I
     )
 
+
     checked = 0
+
 
     for element in soup.find_all(True):
 
         attributes = " ".join(
             [
-                str(element.get("id") or ""),
+                str(
+                    element.get("id")
+                    or ""
+                ),
                 " ".join(
-                    element.get("class") or []
+                    element.get("class")
+                    or []
                 ),
             ]
         )
+
 
         if not date_pattern.search(
             attributes
         ):
             continue
 
+
         text = element.get_text(
             " ",
             strip=True
         )
 
+
         result = parse_timestamp(
             text
         )
 
+
         if result:
             return result
 
+
         checked += 1
 
-        if checked >= 30:
+
+        if checked >= 40:
             break
 
 
     # --------------------------------------------------------
-    # 5. ARTICLE URL FALLBACK
-    #
-    # Usually gives date only.
+    # SEARCH VISIBLE PAGE TEXT NEAR TOP
+    # --------------------------------------------------------
+
+    page_text = soup.get_text(
+        " ",
+        strip=True
+    )
+
+
+    result = parse_timestamp(
+        page_text[:5000]
+    )
+
+
+    if result:
+        return result
+
+
+    # --------------------------------------------------------
+    # URL FALLBACK
     # --------------------------------------------------------
 
     result = parse_timestamp(
         article_url
     )
+
 
     if result:
         return result
@@ -1069,6 +1532,7 @@ def extract_article(article_url):
         article_url
     )
 
+
     article_text = trafilatura.extract(
         response.content,
         url=article_url,
@@ -1077,7 +1541,6 @@ def extract_article(article_url):
     )
 
 
-    # Fallback article text extraction
     if (
         not article_text
         or len(article_text.strip()) < 100
@@ -1090,24 +1553,34 @@ def extract_article(article_url):
 
         paragraphs = []
 
-        for paragraph in soup.find_all("p"):
+
+        for paragraph in soup.find_all(
+            "p"
+        ):
 
             text = paragraph.get_text(
                 " ",
                 strip=True
             )
 
+
             if len(text) > 30:
-                paragraphs.append(text)
+
+                paragraphs.append(
+                    text
+                )
+
 
         article_text = "\n\n".join(
             paragraphs
         )
 
 
-    published = extract_publication_timestamp(
-        response,
-        article_url
+    published = (
+        extract_publication_timestamp(
+            response,
+            article_url
+        )
     )
 
 
@@ -1118,7 +1591,7 @@ def extract_article(article_url):
 
 
 # ============================================================
-# COLLECT SOURCE
+# COLLECT ONE SOURCE
 # ============================================================
 
 def collect_source(source):
@@ -1146,6 +1619,10 @@ def collect_source(source):
     }
 
 
+    # --------------------------------------------------------
+    # SOURCE PAGE
+    # --------------------------------------------------------
+
     try:
 
         response = get_with_retry(
@@ -1154,69 +1631,39 @@ def collect_source(source):
 
     except Exception as error:
 
-        result["status"] = "SOURCE FAILED"
-        result["error"] = str(error)
+        result["status"] = (
+            "SOURCE FAILED"
+        )
+
+        result["error"] = str(
+            error
+        )
 
         return result
 
 
-    soup = BeautifulSoup(
-        response.content,
-        "html.parser"
-    )
-
-
     # --------------------------------------------------------
-    # CANDIDATE LINKS
+    # DISCOVERY
     # --------------------------------------------------------
 
-    candidates = []
-    seen_urls = set()
+    if source["slug"] == "cctv7":
 
-
-    for link in soup.find_all(
-        "a",
-        href=True
-    ):
-
-        title = link.get_text(
-            " ",
-            strip=True
-        )
-
-        full_url = urljoin(
-            source["url"],
-            link["href"]
-        )
-
-        full_url = full_url.split("#")[0]
-
-
-        if full_url in seen_urls:
-            continue
-
-
-        if valid_article_link(
-            source,
-            title,
-            full_url
-        ):
-
-            seen_urls.add(
-                full_url
+        candidates = (
+            discover_cctv7_candidates(
+                source,
+                response
             )
+        )
 
-            candidates.append({
-                "title": title,
-                "url": full_url
-            })
+    else:
 
-
-        if (
-            len(candidates)
-            >= CANDIDATE_LIMIT
-        ):
-            break
+        candidates = (
+            find_candidate_links(
+                source,
+                source["url"],
+                response
+            )
+        )
 
 
     result["candidates_found"] = len(
@@ -1231,7 +1678,7 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # FOLDERS
+    # OUTPUT FOLDERS
     # --------------------------------------------------------
 
     article_folder = os.path.join(
@@ -1239,10 +1686,12 @@ def collect_source(source):
         source["slug"]
     )
 
+
     os.makedirs(
         article_folder,
         exist_ok=True
     )
+
 
     os.makedirs(
         "feeds",
@@ -1267,12 +1716,15 @@ def collect_source(source):
             break
 
 
-        result["articles_attempted"] += 1
+        result[
+            "articles_attempted"
+        ] += 1
 
 
         print()
         print(
-            f"Trying: {article['title']}"
+            f"Trying: "
+            f"{article['title']}"
         )
 
 
@@ -1287,7 +1739,9 @@ def collect_source(source):
 
             if (
                 not article_text
-                or len(article_text.strip()) < 100
+                or len(
+                    article_text.strip()
+                ) < 100
             ):
 
                 print(
@@ -1297,14 +1751,14 @@ def collect_source(source):
                 continue
 
 
-            result["articles_extracted"] += 1
+            result[
+                "articles_extracted"
+            ] += 1
 
 
-            # ------------------------------------------------
-            # PUBLICATION INFORMATION
-            # ------------------------------------------------
-
-            published_display = "Unknown"
+            published_display = (
+                "Unknown"
+            )
 
 
             if published:
@@ -1343,7 +1797,7 @@ def collect_source(source):
 
 
             # ------------------------------------------------
-            # SAVE ARTICLE FILE
+            # SAVE ARTICLE
             # ------------------------------------------------
 
             filename = (
@@ -1366,34 +1820,41 @@ def collect_source(source):
                 encoding="utf-8"
             ) as file:
 
+
                 file.write(
                     f"TITLE:\n"
                     f"{article['title']}\n\n"
                 )
+
 
                 file.write(
                     f"PUBLISHED:\n"
                     f"{published_display}\n\n"
                 )
 
+
                 file.write(
                     f"SOURCE:\n"
                     f"{source['name']}\n\n"
                 )
+
 
                 file.write(
                     f"CATEGORY:\n"
                     f"{source['category']}\n\n"
                 )
 
+
                 file.write(
                     f"URL:\n"
                     f"{article['url']}\n\n"
                 )
 
+
                 file.write(
                     "ARTICLE TEXT:\n"
                 )
+
 
                 file.write(
                     article_text
@@ -1410,10 +1871,12 @@ def collect_source(source):
 
         except Exception as error:
 
+
             print(
                 f"ARTICLE FAILED: "
                 f"{article['url']}"
             )
+
 
             print(
                 f"ERROR: {error}"
@@ -1432,23 +1895,28 @@ def collect_source(source):
 
     feed = FeedGenerator()
 
+
     feed.id(
         source["url"]
     )
 
+
     feed.title(
         source["name"]
     )
+
 
     feed.description(
         f"{source['category']} feed generated "
         f"from {source['url']}"
     )
 
+
     feed.link(
         href=source["url"],
         rel="alternate"
     )
+
 
     feed.language(
         source["language"]
@@ -1457,27 +1925,32 @@ def collect_source(source):
 
     for article in rss_items:
 
+
         entry = feed.add_entry()
+
 
         entry.id(
             article["url"]
         )
 
+
         entry.title(
             article["title"]
         )
+
 
         entry.link(
             href=article["url"]
         )
 
 
-        # Put publication value visibly in RSS description
         if article["published"]:
 
             rss_description = (
                 "Published: "
-                + article["published"]["display"]
+                + article[
+                    "published"
+                ]["display"]
                 + "\n\n"
                 + article["text"]
             )
@@ -1494,19 +1967,19 @@ def collect_source(source):
         )
 
 
-        # Proper RSS <pubDate> requires a timezone.
-        # Only use it when the website actually supplied one.
+        # Formal RSS pubDate only when an explicit timezone
+        # was supplied by the original page.
         if (
             article["published"]
-            and article["published"][
-                "has_timezone"
-            ]
+            and article[
+                "published"
+            ]["has_timezone"]
         ):
 
             entry.pubDate(
-                article["published"][
-                    "datetime"
-                ]
+                article[
+                    "published"
+                ]["datetime"]
             )
 
 
@@ -1526,22 +1999,35 @@ def collect_source(source):
     # STATUS
     # --------------------------------------------------------
 
-    if result["candidates_found"] == 0:
+    if (
+        result["candidates_found"]
+        == 0
+    ):
 
         result["status"] = (
             "NO ARTICLES FOUND"
         )
+
 
     elif (
         result["articles_extracted"]
         >= ARTICLE_TARGET
     ):
 
-        result["status"] = "WORKING"
+        result["status"] = (
+            "WORKING"
+        )
 
-    elif result["articles_extracted"] > 0:
 
-        result["status"] = "PARTIAL"
+    elif (
+        result["articles_extracted"]
+        > 0
+    ):
+
+        result["status"] = (
+            "PARTIAL"
+        )
+
 
     else:
 
@@ -1562,13 +2048,21 @@ results = []
 
 for source in sources:
 
+
     try:
 
-        results.append(
-            collect_source(source)
+        result = collect_source(
+            source
         )
 
+
+        results.append(
+            result
+        )
+
+
     except Exception as error:
+
 
         results.append({
             "name": source["name"],
@@ -1607,59 +2101,75 @@ with open(
         "PRC RSS COLLECTOR STATUS REPORT\n"
     )
 
+
     report.write(
-        "=" * 70 + "\n\n"
+        "=" * 70
+        + "\n\n"
     )
 
 
     for result in results:
 
-        report.write(
-            f"SOURCE: {result['name']}\n"
-        )
 
         report.write(
-            f"URL: {result['url']}\n"
+            f"SOURCE: "
+            f"{result['name']}\n"
         )
 
+
         report.write(
-            f"STATUS: {result['status']}\n"
+            f"URL: "
+            f"{result['url']}\n"
         )
+
+
+        report.write(
+            f"STATUS: "
+            f"{result['status']}\n"
+        )
+
 
         report.write(
             f"CANDIDATE LINKS FOUND: "
             f"{result['candidates_found']}\n"
         )
 
+
         report.write(
             f"ARTICLES ATTEMPTED: "
             f"{result['articles_attempted']}\n"
         )
+
 
         report.write(
             f"ARTICLES WITH TEXT: "
             f"{result['articles_extracted']}\n"
         )
 
+
         report.write(
             f"ARTICLES WITH PUB DATE: "
             f"{result['published_found']}\n"
         )
+
 
         report.write(
             f"ARTICLES WITH PUB TIME: "
             f"{result['times_found']}\n"
         )
 
+
         report.write(
             f"ARTICLES WITH EXPLICIT TIMEZONE: "
             f"{result['timezone_found']}\n"
         )
 
+
         report.write(
             f"ARTICLES SKIPPED/FAILED: "
             f"{result['articles_failed']}\n"
         )
+
 
         report.write(
             f"RSS FEED: "
@@ -1668,6 +2178,7 @@ with open(
 
 
         if result["error"]:
+
 
             report.write(
                 f"ERROR: "
@@ -1689,14 +2200,18 @@ with open(
 working = sum(
     1
     for result in results
-    if result["status"] == "WORKING"
+    if result["status"]
+    == "WORKING"
 )
+
 
 partial = sum(
     1
     for result in results
-    if result["status"] == "PARTIAL"
+    if result["status"]
+    == "PARTIAL"
 )
+
 
 failed = (
     len(results)
@@ -1710,20 +2225,24 @@ print("=" * 80)
 print("COLLECTION COMPLETE")
 print("=" * 80)
 
+
 print(
     f"Fully working: "
     f"{working}/{len(results)}"
 )
+
 
 print(
     f"Partial: "
     f"{partial}/{len(results)}"
 )
 
+
 print(
     f"Failed: "
     f"{failed}/{len(results)}"
 )
+
 
 print(
     "See feeds/status-report.txt "
