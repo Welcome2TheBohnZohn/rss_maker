@@ -1,5 +1,6 @@
 import os
 import re
+import json
 import time
 import requests
 import trafilatura
@@ -7,6 +8,7 @@ import trafilatura
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 from feedgen.feed import FeedGenerator
+from datetime import date, datetime, time as dt_time, timezone
 
 
 # ============================================================
@@ -249,10 +251,7 @@ sources = [
 # SETTINGS
 # ============================================================
 
-# Number of successfully extracted articles we want in each RSS feed
 ARTICLE_TARGET = 10
-
-# Number of possible article links we'll inspect to get those 10
 CANDIDATE_LIMIT = 30
 
 MAX_RETRIES = 4
@@ -431,26 +430,241 @@ def valid_article_link(source, title, full_url):
 
 
 # ============================================================
-# ARTICLE TEXT EXTRACTION
+# PUBLICATION DATE HELPERS
 # ============================================================
 
-def extract_text(article_url):
+def parse_date_string(value):
+
+    if not value:
+        return None
+
+    value = str(value).strip()
+
+    patterns = [
+
+        # 2026-08-19
+        r'(?<!\d)(20\d{2})[-/.](\d{1,2})[-/.](\d{1,2})(?!\d)',
+
+        # 2026年8月19日
+        r'(?<!\d)(20\d{2})年\s*(\d{1,2})月\s*(\d{1,2})日',
+
+        # 20260819
+        r'(?<!\d)(20\d{2})(\d{2})(\d{2})(?!\d)',
+    ]
+
+    for pattern in patterns:
+
+        match = re.search(
+            pattern,
+            value
+        )
+
+        if match:
+
+            try:
+
+                parsed_date = date(
+                    int(match.group(1)),
+                    int(match.group(2)),
+                    int(match.group(3))
+                )
+
+                return parsed_date.isoformat()
+
+            except ValueError:
+                pass
+
+    return None
+
+
+def find_date_in_json(data):
+
+    if isinstance(data, dict):
+
+        for key, value in data.items():
+
+            if key.lower() in (
+                "datepublished",
+                "datecreated",
+                "uploaddate",
+                "pubdate",
+                "publishdate",
+            ):
+
+                parsed = parse_date_string(value)
+
+                if parsed:
+                    return parsed
+
+        for value in data.values():
+
+            result = find_date_in_json(value)
+
+            if result:
+                return result
+
+    elif isinstance(data, list):
+
+        for item in data:
+
+            result = find_date_in_json(item)
+
+            if result:
+                return result
+
+    return None
+
+
+def extract_publication_date(response, article_url):
+
+    soup = BeautifulSoup(
+        response.content,
+        "html.parser"
+    )
+
+
+    # --------------------------------------------------------
+    # 1. META TAGS
+    # --------------------------------------------------------
+
+    meta_keys = (
+        "article:published_time",
+        "og:published_time",
+        "datepublished",
+        "date",
+        "pubdate",
+        "publishdate",
+        "publication_date",
+        "publish_date",
+        "dc.date",
+        "dcterms.date",
+    )
+
+    for meta in soup.find_all("meta"):
+
+        key = (
+            meta.get("property")
+            or meta.get("name")
+            or meta.get("itemprop")
+            or ""
+        ).lower()
+
+        if key in meta_keys:
+
+            parsed = parse_date_string(
+                meta.get("content")
+            )
+
+            if parsed:
+                return parsed
+
+
+    # --------------------------------------------------------
+    # 2. JSON-LD
+    # --------------------------------------------------------
+
+    for script in soup.find_all(
+        "script",
+        type="application/ld+json"
+    ):
+
+        try:
+
+            data = json.loads(
+                script.string or script.get_text()
+            )
+
+            parsed = find_date_in_json(data)
+
+            if parsed:
+                return parsed
+
+        except Exception:
+            pass
+
+
+    # --------------------------------------------------------
+    # 3. HTML <time> TAGS
+    # --------------------------------------------------------
+
+    for time_tag in soup.find_all("time"):
+
+        parsed = parse_date_string(
+            time_tag.get("datetime")
+            or time_tag.get_text(
+                " ",
+                strip=True
+            )
+        )
+
+        if parsed:
+            return parsed
+
+
+    # --------------------------------------------------------
+    # 4. COMMON DATE/TIME ELEMENTS
+    # --------------------------------------------------------
+
+    date_elements = soup.find_all(
+        attrs={
+            "class": re.compile(
+                r"(date|time|publish|pubtime)",
+                re.I
+            )
+        }
+    )
+
+    for element in date_elements[:20]:
+
+        parsed = parse_date_string(
+            element.get_text(
+                " ",
+                strip=True
+            )
+        )
+
+        if parsed:
+            return parsed
+
+
+    # --------------------------------------------------------
+    # 5. ARTICLE URL FALLBACK
+    # --------------------------------------------------------
+
+    parsed = parse_date_string(
+        article_url
+    )
+
+    if parsed:
+        return parsed
+
+
+    # No reliable date found
+    return None
+
+
+# ============================================================
+# ARTICLE EXTRACTION
+# ============================================================
+
+def extract_article(article_url):
 
     response = get_with_retry(
         article_url
     )
 
-    text = trafilatura.extract(
+    article_text = trafilatura.extract(
         response.content,
         url=article_url,
         include_comments=False,
         include_links=False
     )
 
-    # Fallback to paragraph extraction
+
+    # Fallback paragraph extraction
     if (
-        not text
-        or len(text.strip()) < 100
+        not article_text
+        or len(article_text.strip()) < 100
     ):
 
         soup = BeautifulSoup(
@@ -468,15 +682,26 @@ def extract_text(article_url):
             )
 
             if len(paragraph_text) > 30:
+
                 paragraphs.append(
                     paragraph_text
                 )
 
-        text = "\n\n".join(
+        article_text = "\n\n".join(
             paragraphs
         )
 
-    return text or ""
+
+    published_date = extract_publication_date(
+        response,
+        article_url
+    )
+
+
+    return (
+        article_text or "",
+        published_date
+    )
 
 
 # ============================================================
@@ -500,6 +725,7 @@ def collect_source(source):
         "articles_attempted": 0,
         "articles_extracted": 0,
         "articles_failed": 0,
+        "dates_found": 0,
         "error": "",
     }
 
@@ -533,7 +759,7 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # FIND UP TO 30 POSSIBLE ARTICLE LINKS
+    # FIND CANDIDATE ARTICLE LINKS
     # --------------------------------------------------------
 
     candidates = []
@@ -566,7 +792,9 @@ def collect_source(source):
             full_url
         ):
 
-            seen_urls.add(full_url)
+            seen_urls.add(
+                full_url
+            )
 
             candidates.append({
                 "title": title,
@@ -588,7 +816,7 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # CREATE OUTPUT FOLDERS
+    # OUTPUT FOLDERS
     # --------------------------------------------------------
 
     article_folder = os.path.join(
@@ -611,12 +839,11 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # TRY CANDIDATES UNTIL WE GET 10 GOOD ARTICLES
+    # TRY CANDIDATES UNTIL 10 GOOD ARTICLES ARE FOUND
     # --------------------------------------------------------
 
     for article in candidates:
 
-        # Stop once we have 10 successfully extracted articles
         if (
             result["articles_extracted"]
             >= ARTICLE_TARGET
@@ -636,12 +863,11 @@ def collect_source(source):
 
         try:
 
-            article_text = extract_text(
+            article_text, published_date = extract_article(
                 article["url"]
             )
 
 
-            # Skip pages that don't contain enough real text
             if (
                 not article_text
                 or len(article_text.strip()) < 100
@@ -654,11 +880,22 @@ def collect_source(source):
                 continue
 
 
-            # ------------------------------------------------
-            # SUCCESS
-            # ------------------------------------------------
-
             result["articles_extracted"] += 1
+
+
+            if published_date:
+
+                result["dates_found"] += 1
+
+                print(
+                    f"Published: {published_date}"
+                )
+
+            else:
+
+                print(
+                    "Published date not found."
+                )
 
 
             filename = (
@@ -675,6 +912,10 @@ def collect_source(source):
             )
 
 
+            # ------------------------------------------------
+            # SAVE ARTICLE FILE
+            # ------------------------------------------------
+
             with open(
                 filepath,
                 "w",
@@ -684,6 +925,11 @@ def collect_source(source):
                 file.write(
                     f"TITLE:\n"
                     f"{article['title']}\n\n"
+                )
+
+                file.write(
+                    f"PUBLISHED:\n"
+                    f"{published_date or 'Unknown'}\n\n"
                 )
 
                 file.write(
@@ -713,7 +959,8 @@ def collect_source(source):
             rss_items.append({
                 "title": article["title"],
                 "url": article["url"],
-                "text": article_text
+                "text": article_text,
+                "published_date": published_date,
             })
 
 
@@ -734,7 +981,6 @@ def collect_source(source):
             )
 
 
-    # Calculate failures consistently
     result["articles_failed"] = (
         result["articles_attempted"]
         - result["articles_extracted"]
@@ -791,6 +1037,25 @@ def collect_source(source):
         )
 
 
+        # ----------------------------------------------------
+        # RSS PUBLICATION DATE
+        # ----------------------------------------------------
+
+        if article["published_date"]:
+
+            published = datetime.combine(
+                date.fromisoformat(
+                    article["published_date"]
+                ),
+                dt_time.min,
+                tzinfo=timezone.utc
+            )
+
+            entry.pubDate(
+                published
+            )
+
+
     feed_path = os.path.join(
         "feeds",
         source["slug"] + ".xml"
@@ -804,7 +1069,7 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # DETERMINE STATUS
+    # STATUS
     # --------------------------------------------------------
 
     if result["candidates_found"] == 0:
@@ -838,13 +1103,8 @@ def collect_source(source):
     )
 
     print(
-        f"Successful articles: "
-        f"{result['articles_extracted']}"
-    )
-
-    print(
-        f"Articles attempted: "
-        f"{result['articles_attempted']}"
+        f"Articles with publication date: "
+        f"{result['dates_found']}"
     )
 
     print(
@@ -885,6 +1145,7 @@ for source in sources:
             "articles_attempted": 0,
             "articles_extracted": 0,
             "articles_failed": 0,
+            "dates_found": 0,
             "error": str(error),
         })
 
@@ -917,18 +1178,15 @@ with open(
     for result in results:
 
         report.write(
-            f"SOURCE: "
-            f"{result['name']}\n"
+            f"SOURCE: {result['name']}\n"
         )
 
         report.write(
-            f"URL: "
-            f"{result['url']}\n"
+            f"URL: {result['url']}\n"
         )
 
         report.write(
-            f"STATUS: "
-            f"{result['status']}\n"
+            f"STATUS: {result['status']}\n"
         )
 
         report.write(
@@ -944,6 +1202,11 @@ with open(
         report.write(
             f"ARTICLES WITH TEXT: "
             f"{result['articles_extracted']}\n"
+        )
+
+        report.write(
+            f"ARTICLES WITH PUB DATE: "
+            f"{result['dates_found']}\n"
         )
 
         report.write(
