@@ -1054,6 +1054,28 @@ def timestamp_result(
     }
 
 
+def timestamps_same_date(first, second):
+
+    if not first or not second:
+        return False
+
+    first_dt = first.get("datetime")
+    second_dt = second.get("datetime")
+
+    if first_dt is None or second_dt is None:
+        return False
+
+    return (
+        first_dt.year,
+        first_dt.month,
+        first_dt.day
+    ) == (
+        second_dt.year,
+        second_dt.month,
+        second_dt.day
+    )
+
+
 def parse_timestamp(value):
 
     if not value:
@@ -1443,6 +1465,12 @@ def extract_publication_timestamp(
         "html.parser"
     )
 
+    # Keep the date encoded in the article URL as a trusted
+    # fallback. Many of these publishers use dated article URLs.
+    url_timestamp = parse_timestamp(
+        article_url
+    )
+
     # --------------------------------------------------------
     # META
     # --------------------------------------------------------
@@ -1580,6 +1608,21 @@ def extract_publication_timestamp(
         )
 
         if result:
+
+            # If the article URL contains a date and this page
+            # element points to a different date, it is often a
+            # photo caption or related-content timestamp rather
+            # than the article publication date.
+            if (
+                url_timestamp
+                and not timestamps_same_date(
+                    result,
+                    url_timestamp
+                )
+            ):
+                checked += 1
+                continue
+
             return result
 
         checked += 1
@@ -1588,7 +1631,23 @@ def extract_publication_timestamp(
             break
 
     # --------------------------------------------------------
-    # VISIBLE PAGE TEXT
+    # URL FALLBACK
+    # --------------------------------------------------------
+    #
+    # Use the dated article URL before scanning arbitrary page
+    # text. This prevents photo-caption dates from becoming the
+    # article publication date.
+    # --------------------------------------------------------
+
+    if url_timestamp:
+        return url_timestamp
+
+    # --------------------------------------------------------
+    # VISIBLE PAGE TEXT - LAST RESORT
+    # --------------------------------------------------------
+    #
+    # Only use broad page text if metadata, structured data,
+    # explicit time elements/classes, and the URL all failed.
     # --------------------------------------------------------
 
     page_text = soup.get_text(
@@ -1598,17 +1657,6 @@ def extract_publication_timestamp(
 
     result = parse_timestamp(
         page_text[:5000]
-    )
-
-    if result:
-        return result
-
-    # --------------------------------------------------------
-    # URL FALLBACK
-    # --------------------------------------------------------
-
-    result = parse_timestamp(
-        article_url
     )
 
     if result:
@@ -1690,6 +1738,64 @@ def extract_article(
         article_text or "",
         published,
         resolved_title
+    )
+
+
+# ============================================================
+# RSS SORTING
+# ============================================================
+
+def rss_sort_key(article):
+
+    published = article.get(
+        "published"
+    )
+
+    if (
+        published
+        and published.get("datetime")
+    ):
+
+        dt = published["datetime"]
+
+        return (
+            dt.year,
+            dt.month,
+            dt.day,
+            dt.hour,
+            dt.minute,
+            dt.second
+        )
+
+    # Final defensive fallback for an article that somehow
+    # reached RSS without a parsed publication timestamp.
+    url_result = parse_timestamp(
+        article.get("url", "")
+    )
+
+    if (
+        url_result
+        and url_result.get("datetime")
+    ):
+
+        dt = url_result["datetime"]
+
+        return (
+            dt.year,
+            dt.month,
+            dt.day,
+            dt.hour,
+            dt.minute,
+            dt.second
+        )
+
+    return (
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
     )
 
 
@@ -1983,6 +2089,13 @@ def collect_source(source):
     # --------------------------------------------------------
     # RSS
     # --------------------------------------------------------
+
+    # Feedgen renders later-added entries first in the RSS XML.
+    # Add the oldest item first so the final feed displays the
+    # newest article at the top.
+    rss_items.sort(
+        key=rss_sort_key
+    )
 
     feed = FeedGenerator()
 
