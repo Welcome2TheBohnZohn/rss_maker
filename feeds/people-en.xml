@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:45:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:56:57 +0000</lastBuildDate>
     <item>
       <title>Specials</title>
       <link>http://en.people.cn/102775/index.html</link>
@@ -74,6 +74,7 @@ Latest News
 Exclusive
 - More
 People's Daily Online Exclusives
+- China's hydrogen industry moves into large-scale commercialization 2026-08-20 11:04
 - A romantic Qixi: Let's watch the meteor shower together! 2026-08-19 17:03
 - China achieves first land recovery of Zhuque-3 rocket's first stage 2026-08-19 14:45
 - Spectacular meteors streak across Yunnan's night sky 2026-08-19 14:35
@@ -93,7 +94,6 @@ People's Daily Online Exclusives
 - Long March-2C rocket sends SEO satellite into orbit 2026-08-17 13:55
 - County in C China's Henan turns rock salt into high-value chemical industry chain 2026-08-17 11:09
 - Mission Unlock | Ep 6: How does a mural step outside a cave? 2026-08-17 10:13
-- Xinjiang Diary, Day 5: Beiting and Tianshan, between ruins and mountains 2026-08-16 14:21
 - Chinese
 - Japanese
 - French
@@ -143,6 +143,7 @@ Latest News
 Exclusive
 - More
 Travel
+- In pics: Luoyang Bridge in Quanzhou, China's Fujian 2026-08-20 09:45
 - China's Fuzhou revitalizes industrial heritage to boost tourism 2026-08-19 15:38
 - In pics: Hongcun Village in E China's Anhui 2026-08-19 15:16
 - Chongwu ancient ferry terminal draws visitors in Fujian 2026-08-19 14:19
@@ -162,7 +163,6 @@ Travel
 - Chongqing's Dazu Rock Carvings site sees rising inbound tourists as "China Travel" gains global popularity 2026-08-12 16:18
 - Spectacular Hukou Waterfall in NW China's Shaanxi sees summer tourism boom 2026-08-12 09:59
 - Guizhou's karst caves offer cooling retreats for summer tourists 2026-08-12 09:35
-- Lotus flowers in full bloom at East Lake scenic area in Wuhan 2026-08-12 09:11
 - Chinese
 - Japanese
 - French
@@ -281,6 +281,7 @@ Latest News
 Exclusive
 - More
 Sci-Tech
+- From the stage to the shop floor: China's embodied AI shines at WRC 2026 2026-08-20 08:45
 - 2026 World Robot Conference kicks off in Beijing 2026-08-19 16:54
 - Interview: China's humanoid robotics advances open new opportunities for practical applications: AI expert 2026-08-19 16:53
 - Chinese youth learning to think with AI 2026-08-19 13:55
@@ -300,7 +301,6 @@ Sci-Tech
 - 3 scientists win 2026 Future Science Prize 2026-08-14 08:35
 - Robot participation quadruples at 2nd World Humanoid Robot Games 2026-08-14 08:18
 - Wuxi's "Token Supermarket": A one-stop AI model platform for local businesses 2026-08-13 15:57
-- Inside China's first quantum-powered demonstration substation 2026-08-13 14:14
 - Chinese
 - Japanese
 - French
@@ -350,6 +350,8 @@ Latest News
 Exclusive
 - More
 Culture
+- Exhibition on ancient Chinese civilization opens in Kyrgyzstan 2026-08-20 11:09
+- Water festival held in Baoting, China's Hainan 2026-08-20 08:50
 - Chinese university opens branch campus in Uzbekistan 2026-08-19 16:02
 - Xinjiang Diary, Day 7: Xinjiang, where differences come together 2026-08-18 17:09
 - Xinjiang Diary, Day 6: Shihezi, an oasis built generation by generation 2026-08-17 20:22
@@ -368,8 +370,6 @@ Culture
 - Feature: From Amman to Beijing: Young sinologist builds a literary bridge between Arab and Chinese cultures 2026-08-12 13:57
 - Xinjiang Diary, Day 1: Hami, the gateway 2026-08-12 09:22
 - Shenyang Palace Museum marks its centenary with exhibition featuring 100 exhibits 2026-08-12 09:11
-- Confucius Institute promotes Botswana-China educational, cultural exchange 2026-08-11 10:23
-- China's premier digital publishing expo to debut cultural gaming section 2026-08-11 08:26
 - Chinese
 - Japanese
 - French
@@ -419,6 +419,12 @@ Latest News
 Exclusive
 - More
 China Society
+- In Hainan's Tanmen, fishing village rides new waves of tourism 2026-08-20 10:59
+- From barefoot to high-tech: How Chinese doctors shaped a healthier nation 2026-08-20 10:48
+- China to expand education support for people with disabilities in Xizang 2026-08-20 10:01
+- Macao's roadmap for a more diversified, integrated future 2026-08-20 09:12
+- China unveils five-year plan to improve medical security 2026-08-20 09:10
+- How an Iranian student embraces TCM as a way of healthy living 2026-08-20 08:29
 - Social media trends reshape how young people worldwide perceive China 2026-08-19 13:47
 - Mission Unlock | Ep 8: If mountains and rivers lose their hues, how can we light up the future? 2026-08-19 13:39
 - Feature: Meet "Dr. Mao," the medics help improve healthcare in northwestern frontier 2026-08-19 13:20
@@ -433,12 +439,6 @@ China Society
 - Chinese court sentences men in case solved through China-U.S. counter-narcotics cooperation 2026-08-18 10:49
 - Mission Unlock | Ep 7: What one pear reveals about the future of farming 2026-08-18 10:34
 - JD.com launches 24-hour unmanned coffee shop in Beijing, serving 202 cups in one hour 2026-08-17 14:16
-- Xizang Story: Legacy of love -- A family's 55-year dedication to red deer reserve in Xizang 2026-08-17 08:27
-- China pilots "quiet communities" to curb urban noise, disputes 2026-08-17 08:18
-- Can cold‑water fish be raised in scorching Gobi terrain? 2026-08-16 13:51
-- Levee breach sealed in central China's Henan 2026-08-16 12:11
-- China marks National Ecology Day with solid gains in green push 2026-08-16 12:03
-- EcoChina | Ecological restoration achievements in SW China's Zoige Wetland 2026-08-16 12:03
 - Chinese
 - Japanese
 - French
@@ -563,6 +563,9 @@ Latest News
 Exclusive
 - More
 Opinion
+- When the West is struggling with direction, China’s robotics takes another step forward: Global Times editorial 2026-08-20 08:41
+- Commentary: U.S. debt monster spirals out of control 2026-08-20 08:17
+- Commentary: Unitree's successful IPO a vote of confidence in China's high-tech future 2026-08-20 08:05
 - Japan's jitters over Chinese fishing vessels reveal a guilty mind: Global Times editorial 2026-08-19 13:36
 - Pentagon's 'national security' audit deadline for US universities is also a countdown to a crisis for US scientific innovation 2026-08-19 13:26
 - Debunking a flawed historical analogy: The myth of the "Modern Tributary System" 2026-08-19 10:12
@@ -580,9 +583,6 @@ Opinion
 - Japan's new defense white paper only about ambition, lies 2026-08-14 08:21
 - Xinjiang Diary, Day 2: Turpan, where the heat provides 2026-08-13 19:15
 - Xi's commitment to the people: CPC must keep itself competent and strong 2026-08-13 16:07
-- Whom do 41 countries think they are scaring? China's missile tests don't need permission 2026-08-13 09:02
-- China intensifies efforts to stabilize and optimize foreign investment 2026-08-12 16:15
-- Why Chinese open-source AI models are indispensable to U.S. tech players 2026-08-12 14:46
 - Chinese
 - Japanese
 - French
