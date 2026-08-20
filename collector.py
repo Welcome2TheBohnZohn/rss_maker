@@ -431,10 +431,177 @@ def clean_filename(title):
 
 
 # ============================================================
+# CCTV ENGLISH TITLE CLEANUP
+# ============================================================
+
+def looks_like_duration(title):
+
+    if not title:
+        return False
+
+    title = title.strip()
+
+    return bool(
+        re.fullmatch(
+            r"\d{1,2}:\d{2}(?::\d{2})?",
+            title
+        )
+    )
+
+
+def clean_cctv_page_title(title):
+
+    if not title:
+        return ""
+
+    title = re.sub(
+        r'\s+',
+        ' ',
+        title
+    ).strip()
+
+    # Remove common CCTV suffixes from HTML <title>.
+    title = re.sub(
+        r'\s*[-_|]\s*CCTV(?:\.com)?(?:\s+English)?\s*$',
+        '',
+        title,
+        flags=re.I
+    ).strip()
+
+    title = re.sub(
+        r'\s*[-_|]\s*央视网\s*$',
+        '',
+        title
+    ).strip()
+
+    return title
+
+
+def extract_best_title(
+    source,
+    original_title,
+    response
+):
+
+    # Only alter CCTV English items whose original
+    # homepage title is clearly just a video duration.
+    if source["slug"] != "cctv-en":
+        return original_title
+
+    if not looks_like_duration(
+        original_title
+    ):
+        return original_title
+
+    soup = BeautifulSoup(
+        response.content,
+        "html.parser"
+    )
+
+    title_candidates = []
+
+    # --------------------------------------------------------
+    # OpenGraph title
+    # --------------------------------------------------------
+
+    og_title = soup.find(
+        "meta",
+        property="og:title"
+    )
+
+    if (
+        og_title
+        and og_title.get("content")
+    ):
+
+        title_candidates.append(
+            og_title.get("content")
+        )
+
+    # --------------------------------------------------------
+    # Twitter title
+    # --------------------------------------------------------
+
+    twitter_title = soup.find(
+        "meta",
+        attrs={
+            "name": "twitter:title"
+        }
+    )
+
+    if (
+        twitter_title
+        and twitter_title.get("content")
+    ):
+
+        title_candidates.append(
+            twitter_title.get("content")
+        )
+
+    # --------------------------------------------------------
+    # Main H1
+    # --------------------------------------------------------
+
+    h1 = soup.find("h1")
+
+    if h1:
+
+        title_candidates.append(
+            h1.get_text(
+                " ",
+                strip=True
+            )
+        )
+
+    # --------------------------------------------------------
+    # Standard HTML title
+    # --------------------------------------------------------
+
+    if soup.title:
+
+        title_candidates.append(
+            soup.title.get_text(
+                " ",
+                strip=True
+            )
+        )
+
+    # --------------------------------------------------------
+    # Choose first useful title
+    # --------------------------------------------------------
+
+    for candidate in title_candidates:
+
+        candidate = clean_cctv_page_title(
+            candidate
+        )
+
+        if not candidate:
+            continue
+
+        if looks_like_duration(
+            candidate
+        ):
+            continue
+
+        if len(candidate) < 6:
+            continue
+
+        return candidate
+
+    # If nothing better was found, preserve original title.
+    return original_title
+
+
+# ============================================================
 # SOURCE FILTER
 # ============================================================
 
-def passes_source_filter(source, title, full_url):
+def passes_source_filter(
+    source,
+    title,
+    full_url
+):
 
     rules = SOURCE_FILTERS.get(
         source["slug"]
@@ -463,7 +630,11 @@ def passes_source_filter(source, title, full_url):
 # GENERIC ARTICLE LINK CHECK
 # ============================================================
 
-def valid_article_link(source, title, full_url):
+def valid_article_link(
+    source,
+    title,
+    full_url
+):
 
     if not title:
         return False
@@ -473,7 +644,9 @@ def valid_article_link(source, title, full_url):
     if len(title) < 6:
         return False
 
-    parsed = urlparse(full_url)
+    parsed = urlparse(
+        full_url
+    )
 
     if parsed.scheme not in (
         "http",
@@ -481,7 +654,9 @@ def valid_article_link(source, title, full_url):
     ):
         return False
 
-    hostname = parsed.hostname or ""
+    hostname = (
+        parsed.hostname or ""
+    )
 
     if source["domain"] not in hostname:
         return False
@@ -625,7 +800,9 @@ def find_candidate_links(
             link["href"]
         )
 
-        full_url = full_url.split("#")[0]
+        full_url = (
+            full_url.split("#")[0]
+        )
 
         if full_url in existing_urls:
             continue
@@ -645,7 +822,10 @@ def find_candidate_links(
                 "url": full_url
             })
 
-        if len(candidates) >= CANDIDATE_LIMIT:
+        if (
+            len(candidates)
+            >= CANDIDATE_LIMIT
+        ):
             break
 
     return candidates
@@ -653,13 +833,6 @@ def find_candidate_links(
 
 # ============================================================
 # CCTV-7 SPECIAL DISCOVERY
-# ============================================================
-#
-# IMPORTANT:
-# We only use dated VIDEO links directly exposed by the
-# CCTV-7 homepage.
-#
-# We DO NOT crawl program archive pages anymore.
 # ============================================================
 
 def discover_cctv7_candidates(
@@ -690,9 +863,11 @@ def discover_cctv7_candidates(
             link["href"]
         )
 
-        full_url = full_url.split("#")[0]
+        full_url = (
+            full_url.split("#")[0]
+        )
 
-        # Only allow real dated CCTV video pages
+        # Only real dated CCTV video pages.
         if not re.search(
             r"^https?://tv\.cctv\.com/"
             r"20\d{2}/\d{2}/\d{2}/"
@@ -717,10 +892,7 @@ def discover_cctv7_candidates(
             "url": full_url
         })
 
-    # --------------------------------------------------------
-    # SORT NEWEST FIRST USING DATE IN URL
-    # --------------------------------------------------------
-
+    # Sort by the date contained in the URL.
     def video_date(item):
 
         match = re.search(
@@ -747,7 +919,9 @@ def discover_cctv7_candidates(
         reverse=True
     )
 
-    return candidates[:CANDIDATE_LIMIT]
+    return candidates[
+        :CANDIDATE_LIMIT
+    ]
 
 
 # ============================================================
@@ -788,7 +962,9 @@ def timezone_from_string(value):
     if not value:
         return None
 
-    value = value.strip().upper()
+    value = (
+        value.strip().upper()
+    )
 
     if value == "Z":
         return timezone.utc
@@ -808,8 +984,12 @@ def timezone_from_string(value):
     )
 
     offset = timedelta(
-        hours=int(match.group(2)),
-        minutes=int(match.group(3))
+        hours=int(
+            match.group(2)
+        ),
+        minutes=int(
+            match.group(3)
+        )
     )
 
     return timezone(
@@ -822,7 +1002,9 @@ def format_timezone(dt):
     if dt.tzinfo is None:
         return ""
 
-    raw = dt.strftime("%z")
+    raw = dt.strftime(
+        "%z"
+    )
 
     if not raw:
         return ""
@@ -853,10 +1035,14 @@ def timestamp_result(
 
     if dt.tzinfo is not None:
 
-        offset = format_timezone(dt)
+        offset = format_timezone(
+            dt
+        )
 
         if offset:
-            display += " " + offset
+            display += (
+                " " + offset
+            )
 
     return {
         "display": display,
@@ -873,7 +1059,9 @@ def parse_timestamp(value):
     if not value:
         return None
 
-    value = str(value).strip()
+    value = str(
+        value
+    ).strip()
 
     value = re.sub(
         r'\s+',
@@ -996,7 +1184,9 @@ def parse_timestamp(value):
                 match.group(2)
             )
 
-            am_pm = match.group(3)
+            am_pm = (
+                match.group(3)
+            )
 
             if am_pm:
 
@@ -1072,7 +1262,9 @@ def parse_timestamp(value):
                 match.group(6) or 0
             )
 
-            am_pm = match.group(7)
+            am_pm = (
+                match.group(7)
+            )
 
             if am_pm:
 
@@ -1186,14 +1378,22 @@ def find_timestamp_in_json(data):
         "uploaddate",
     }
 
-    if isinstance(data, dict):
+    if isinstance(
+        data,
+        dict
+    ):
 
         for key, value in data.items():
 
-            if key.lower() in preferred_keys:
+            if (
+                key.lower()
+                in preferred_keys
+            ):
 
-                result = parse_timestamp(
-                    value
+                result = (
+                    parse_timestamp(
+                        value
+                    )
                 )
 
                 if result:
@@ -1201,19 +1401,26 @@ def find_timestamp_in_json(data):
 
         for value in data.values():
 
-            result = find_timestamp_in_json(
-                value
+            result = (
+                find_timestamp_in_json(
+                    value
+                )
             )
 
             if result:
                 return result
 
-    elif isinstance(data, list):
+    elif isinstance(
+        data,
+        list
+    ):
 
         for item in data:
 
-            result = find_timestamp_in_json(
-                item
+            result = (
+                find_timestamp_in_json(
+                    item
+                )
             )
 
             if result:
@@ -1255,7 +1462,9 @@ def extract_publication_timestamp(
         "dcterms.date",
     }
 
-    for meta in soup.find_all("meta"):
+    for meta in soup.find_all(
+        "meta"
+    ):
 
         key = (
             meta.get("property")
@@ -1289,10 +1498,14 @@ def extract_publication_timestamp(
                 or script.get_text()
             )
 
-            data = json.loads(raw)
+            data = json.loads(
+                raw
+            )
 
-            result = find_timestamp_in_json(
-                data
+            result = (
+                find_timestamp_in_json(
+                    data
+                )
             )
 
             if result:
@@ -1310,7 +1523,9 @@ def extract_publication_timestamp(
     ):
 
         result = parse_timestamp(
-            time_tag.get("datetime")
+            time_tag.get(
+                "datetime"
+            )
             or time_tag.get_text(
                 " ",
                 strip=True
@@ -1321,7 +1536,7 @@ def extract_publication_timestamp(
             return result
 
     # --------------------------------------------------------
-    # COMMON DATE/TIME CLASSES
+    # DATE/TIME CLASSES
     # --------------------------------------------------------
 
     date_pattern = re.compile(
@@ -1331,7 +1546,9 @@ def extract_publication_timestamp(
 
     checked = 0
 
-    for element in soup.find_all(True):
+    for element in soup.find_all(
+        True
+    ):
 
         attributes = " ".join(
             [
@@ -1340,7 +1557,9 @@ def extract_publication_timestamp(
                     or ""
                 ),
                 " ".join(
-                    element.get("class")
+                    element.get(
+                        "class"
+                    )
                     or []
                 ),
             ]
@@ -1369,7 +1588,7 @@ def extract_publication_timestamp(
             break
 
     # --------------------------------------------------------
-    # SEARCH VISIBLE PAGE TEXT NEAR TOP
+    # VISIBLE PAGE TEXT
     # --------------------------------------------------------
 
     page_text = soup.get_text(
@@ -1402,7 +1621,11 @@ def extract_publication_timestamp(
 # ARTICLE EXTRACTION
 # ============================================================
 
-def extract_article(article_url):
+def extract_article(
+    source,
+    article_url,
+    original_title
+):
 
     response = get_with_retry(
         article_url
@@ -1417,7 +1640,9 @@ def extract_article(article_url):
 
     if (
         not article_text
-        or len(article_text.strip()) < 100
+        or len(
+            article_text.strip()
+        ) < 100
     ):
 
         soup = BeautifulSoup(
@@ -1453,9 +1678,18 @@ def extract_article(article_url):
         )
     )
 
+    resolved_title = (
+        extract_best_title(
+            source,
+            original_title,
+            response
+        )
+    )
+
     return (
         article_text or "",
-        published
+        published,
+        resolved_title
     )
 
 
@@ -1512,7 +1746,10 @@ def collect_source(source):
     # DISCOVERY
     # --------------------------------------------------------
 
-    if source["slug"] == "cctv7":
+    if (
+        source["slug"]
+        == "cctv7"
+    ):
 
         candidates = (
             discover_cctv7_candidates(
@@ -1531,7 +1768,9 @@ def collect_source(source):
             )
         )
 
-    result["candidates_found"] = len(
+    result[
+        "candidates_found"
+    ] = len(
         candidates
     )
 
@@ -1544,9 +1783,11 @@ def collect_source(source):
     # OUTPUT FOLDERS
     # --------------------------------------------------------
 
-    article_folder = os.path.join(
-        "articles",
-        source["slug"]
+    article_folder = (
+        os.path.join(
+            "articles",
+            source["slug"]
+        )
     )
 
     os.makedirs(
@@ -1568,7 +1809,9 @@ def collect_source(source):
     for article in candidates:
 
         if (
-            result["articles_extracted"]
+            result[
+                "articles_extracted"
+            ]
             >= ARTICLE_TARGET
         ):
             break
@@ -1585,10 +1828,14 @@ def collect_source(source):
 
         try:
 
-            article_text, published = (
-                extract_article(
-                    article["url"]
-                )
+            (
+                article_text,
+                published,
+                resolved_title
+            ) = extract_article(
+                source,
+                article["url"],
+                article["title"]
             )
 
             if (
@@ -1608,6 +1855,16 @@ def collect_source(source):
                 "articles_extracted"
             ] += 1
 
+            if (
+                resolved_title
+                != article["title"]
+            ):
+
+                print(
+                    f"Resolved title: "
+                    f"{resolved_title}"
+                )
+
             published_display = (
                 "Unknown"
             )
@@ -1615,7 +1872,9 @@ def collect_source(source):
             if published:
 
                 published_display = (
-                    published["display"]
+                    published[
+                        "display"
+                    ]
                 )
 
                 result[
@@ -1649,7 +1908,7 @@ def collect_source(source):
 
             filename = (
                 clean_filename(
-                    article["title"]
+                    resolved_title
                 )
                 + ".txt"
             )
@@ -1667,7 +1926,7 @@ def collect_source(source):
 
                 file.write(
                     f"TITLE:\n"
-                    f"{article['title']}\n\n"
+                    f"{resolved_title}\n\n"
                 )
 
                 file.write(
@@ -1699,7 +1958,7 @@ def collect_source(source):
                 )
 
             rss_items.append({
-                "title": article["title"],
+                "title": resolved_title,
                 "url": article["url"],
                 "text": article_text,
                 "published": published,
@@ -1765,7 +2024,9 @@ def collect_source(source):
             href=article["url"]
         )
 
-        if article["published"]:
+        if article[
+            "published"
+        ]:
 
             rss_description = (
                 "Published: "
@@ -1814,7 +2075,9 @@ def collect_source(source):
     # --------------------------------------------------------
 
     if (
-        result["candidates_found"]
+        result[
+            "candidates_found"
+        ]
         == 0
     ):
 
@@ -1823,7 +2086,9 @@ def collect_source(source):
         )
 
     elif (
-        result["articles_extracted"]
+        result[
+            "articles_extracted"
+        ]
         >= ARTICLE_TARGET
     ):
 
@@ -1832,7 +2097,9 @@ def collect_source(source):
         )
 
     elif (
-        result["articles_extracted"]
+        result[
+            "articles_extracted"
+        ]
         > 0
     ):
 
@@ -1966,7 +2233,9 @@ with open(
             f"feeds/{result['slug']}.xml\n"
         )
 
-        if result["error"]:
+        if result[
+            "error"
+        ]:
 
             report.write(
                 f"ERROR: "
