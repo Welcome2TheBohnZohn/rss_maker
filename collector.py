@@ -253,6 +253,28 @@ sources = [
 
 SOURCE_FILTERS = {
 
+    # China Military English:
+    # Real article pages end in a numeric article ID such as
+    # /16480431.html. This excludes section pages such as
+    # /Training-and-Exercise/index.html.
+    "chinamil-en": {
+        "allow_url_regex": (
+            r"^https?://eng\.chinamil\.com\.cn/"
+            r".*/\d+\.html$"
+        )
+    },
+
+    # People's Daily Military:
+    # Restrict discovery to the normal dated People.cn article
+    # structure and exclude channel / topic / index pages.
+    "people-military": {
+        "allow_url_regex": (
+            r"^https?://military\.people\.com\.cn/"
+            r"n1/20\d{2}/\d{4}/"
+            r"c\d+-\d+\.html$"
+        )
+    },
+
     "mfa-cn": {
         "allow_url_regex": (
             r"^https?://www\.mfa\.gov\.cn/"
@@ -2249,6 +2271,164 @@ def clean_cctv_article_text(
 
 
 # ============================================================
+# PEOPLE'S DAILY MILITARY ARTICLE CLEANUP
+# ============================================================
+
+def normalize_people_article_lines(raw_text):
+
+    lines = []
+
+    for line in raw_text.splitlines():
+
+        line = re.sub(
+            r'\s+',
+            ' ',
+            line
+        ).strip()
+
+        if not line:
+            continue
+
+        lines.append(line)
+
+    return lines
+
+
+def clean_people_military_lines(lines):
+
+    cleaned = []
+
+    stop_markers = {
+        "分享让更多人看到",
+        "客户端下载",
+        "热门排行",
+        "评论",
+        "推荐阅读",
+        "打开客户端体验更多服务",
+        "返回顶部",
+    }
+
+    for line in lines:
+
+        if line in stop_markers:
+            break
+
+        if line.startswith(
+            "分享让更多人看到"
+        ):
+            break
+
+        if re.match(
+            r'^[（(]?责编[:：]',
+            line
+        ):
+            continue
+
+        if re.match(
+            r'^点击播报本文',
+            line
+        ):
+            continue
+
+        if line in {
+            "订阅",
+            "已订阅",
+            "已收藏",
+            "收藏",
+            "小字号",
+            "- 评论",
+            "- 关注",
+        }:
+            continue
+
+        cleaned.append(line)
+
+    return cleaned
+
+
+def extract_people_military_body(soup):
+
+    # People's Daily article pages commonly place the main
+    # story body inside #rwb_zw. Keep a couple of fallbacks in
+    # case the page template changes.
+    selectors = [
+        "#rwb_zw",
+        "div#rwb_zw",
+        "div.rm_txt_con",
+        "div.box_con",
+        "article",
+    ]
+
+    for selector in selectors:
+
+        container = soup.select_one(
+            selector
+        )
+
+        if not container:
+            continue
+
+        # Prefer paragraph-level extraction so navigation and
+        # surrounding page chrome are not included.
+        paragraphs = []
+
+        for paragraph in container.find_all(
+            "p"
+        ):
+
+            value = paragraph.get_text(
+                " ",
+                strip=True
+            )
+
+            value = re.sub(
+                r'\s+',
+                ' ',
+                value
+            ).strip()
+
+            if value:
+                paragraphs.append(
+                    value
+                )
+
+        if paragraphs:
+
+            cleaned = clean_people_military_lines(
+                paragraphs
+            )
+
+            candidate = "\n\n".join(
+                cleaned
+            ).strip()
+
+            if len(candidate) >= 40:
+                return candidate
+
+        # Fallback for short photo stories or templates where
+        # the body is not wrapped cleanly in <p> tags.
+        lines = normalize_people_article_lines(
+            container.get_text(
+                "\n",
+                strip=True
+            )
+        )
+
+        cleaned = clean_people_military_lines(
+            lines
+        )
+
+        candidate = "\n\n".join(
+            cleaned
+        ).strip()
+
+        if len(candidate) >= 40:
+            return candidate
+
+    return ""
+
+
+# ============================================================
 # ARTICLE EXTRACTION
 # ============================================================
 
@@ -2311,6 +2491,32 @@ def extract_article(
         include_comments=False,
         include_links=False
     )
+
+    # --------------------------------------------------------
+    # PEOPLE'S DAILY MILITARY BODY
+    # --------------------------------------------------------
+    #
+    # Trafilatura occasionally captures the entire People.cn
+    # navigation shell on this source, especially for short
+    # photo stories. Prefer the site's dedicated article-body
+    # container instead.
+    # --------------------------------------------------------
+
+    if source["slug"] == "people-military":
+
+        people_soup = BeautifulSoup(
+            extraction_input,
+            "html.parser"
+        )
+
+        people_body = (
+            extract_people_military_body(
+                people_soup
+            )
+        )
+
+        if people_body:
+            article_text = people_body
 
     if (
         not article_text
@@ -2577,11 +2783,17 @@ def collect_source(source):
                 article["title"]
             )
 
+            minimum_article_length = (
+                40
+                if source["slug"] == "people-military"
+                else 100
+            )
+
             if (
                 not article_text
                 or len(
                     article_text.strip()
-                ) < 100
+                ) < minimum_article_length
             ):
 
                 print(
