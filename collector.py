@@ -8,11 +8,11 @@ import trafilatura
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 from feedgen.feed import FeedGenerator
-from datetime import date, datetime, time as dt_time, timezone
+from datetime import date, datetime, timedelta, timezone
 
 
 # ============================================================
-# ORIGINAL SOURCE LIST
+# SOURCE LIST
 # ============================================================
 
 sources = [
@@ -273,7 +273,7 @@ HEADERS = {
 
 
 # ============================================================
-# HTTP REQUEST WITH RETRIES
+# REQUESTS
 # ============================================================
 
 def get_with_retry(url):
@@ -318,7 +318,7 @@ def get_with_retry(url):
 
 
 # ============================================================
-# HELPERS
+# GENERAL HELPERS
 # ============================================================
 
 def clean_filename(title):
@@ -340,10 +340,7 @@ def clean_filename(title):
 
 def valid_article_link(source, title, full_url):
 
-    if not title:
-        return False
-
-    if len(title.strip()) < 6:
+    if not title or len(title.strip()) < 6:
         return False
 
     parsed = urlparse(full_url)
@@ -365,17 +362,9 @@ def valid_article_link(source, title, full_url):
     lower_url = full_url.lower()
 
     bad_extensions = (
-        ".jpg",
-        ".jpeg",
-        ".png",
-        ".gif",
-        ".svg",
-        ".pdf",
-        ".zip",
-        ".mp3",
-        ".mp4",
-        ".css",
-        ".js",
+        ".jpg", ".jpeg", ".png", ".gif",
+        ".svg", ".pdf", ".zip",
+        ".mp3", ".mp4", ".css", ".js"
     )
 
     if lower_url.endswith(bad_extensions):
@@ -430,84 +419,476 @@ def valid_article_link(source, title, full_url):
 
 
 # ============================================================
-# PUBLICATION DATE HELPERS
+# DATE AND TIME PARSING
 # ============================================================
 
-def parse_date_string(value):
+MONTHS = {
+    "january": 1,
+    "february": 2,
+    "march": 3,
+    "april": 4,
+    "may": 5,
+    "june": 6,
+    "july": 7,
+    "august": 8,
+    "september": 9,
+    "october": 10,
+    "november": 11,
+    "december": 12,
+
+    "jan": 1,
+    "feb": 2,
+    "mar": 3,
+    "apr": 4,
+    "jun": 6,
+    "jul": 7,
+    "aug": 8,
+    "sep": 9,
+    "sept": 9,
+    "oct": 10,
+    "nov": 11,
+    "dec": 12,
+}
+
+
+def timezone_from_string(value):
+
+    if not value:
+        return None
+
+    value = value.strip().upper()
+
+    if value == "Z":
+        return timezone.utc
+
+    match = re.fullmatch(
+        r'([+-])(\d{2}):?(\d{2})',
+        value
+    )
+
+    if not match:
+        return None
+
+    sign = 1 if match.group(1) == "+" else -1
+
+    hours = int(match.group(2))
+    minutes = int(match.group(3))
+
+    offset = timedelta(
+        hours=hours,
+        minutes=minutes
+    ) * sign
+
+    return timezone(offset)
+
+
+def format_timezone(dt):
+
+    if dt.tzinfo is None:
+        return ""
+
+    raw = dt.strftime("%z")
+
+    if not raw:
+        return ""
+
+    return (
+        raw[:3]
+        + ":"
+        + raw[3:]
+    )
+
+
+def timestamp_result(dt, has_time):
+
+    if has_time:
+
+        display = dt.strftime(
+            "%Y-%m-%d %H:%M:%S"
+        )
+
+    else:
+
+        display = dt.strftime(
+            "%Y-%m-%d"
+        )
+
+    if dt.tzinfo is not None:
+
+        offset = format_timezone(dt)
+
+        if offset:
+            display += " " + offset
+
+    return {
+        "display": display,
+        "datetime": dt,
+        "has_time": has_time,
+        "has_timezone": (
+            dt.tzinfo is not None
+        ),
+    }
+
+
+def parse_timestamp(value):
 
     if not value:
         return None
 
     value = str(value).strip()
 
-    patterns = [
+    value = re.sub(
+        r'\s+',
+        ' ',
+        value
+    )
 
-        # 2026-08-19
-        r'(?<!\d)(20\d{2})[-/.](\d{1,2})[-/.](\d{1,2})(?!\d)',
 
-        # 2026年8月19日
-        r'(?<!\d)(20\d{2})年\s*(\d{1,2})月\s*(\d{1,2})日',
+    # --------------------------------------------------------
+    # ISO / NUMERIC DATE + TIME
+    #
+    # Examples:
+    # 2026-08-19 15:42
+    # 2026-08-19T15:42:18
+    # 2026/08/19 15:42:18 +08:00
+    # --------------------------------------------------------
 
-        # 20260819
-        r'(?<!\d)(20\d{2})(\d{2})(\d{2})(?!\d)',
-    ]
+    match = re.search(
+        r'(?<!\d)'
+        r'(20\d{2})[-/.](\d{1,2})[-/.](\d{1,2})'
+        r'[T\s]+'
+        r'(\d{1,2}):(\d{2})'
+        r'(?::(\d{2}))?'
+        r'(?:\.\d+)?'
+        r'\s*(Z|[+-]\d{2}:?\d{2})?'
+        r'(?!\d)',
+        value,
+        re.I
+    )
 
-    for pattern in patterns:
+    if match:
 
-        match = re.search(
-            pattern,
-            value
-        )
+        try:
 
-        if match:
+            year = int(match.group(1))
+            month = int(match.group(2))
+            day = int(match.group(3))
 
-            try:
+            hour = int(match.group(4))
+            minute = int(match.group(5))
 
-                parsed_date = date(
-                    int(match.group(1)),
-                    int(match.group(2)),
-                    int(match.group(3))
+            second = (
+                int(match.group(6))
+                if match.group(6)
+                else 0
+            )
+
+            tz = timezone_from_string(
+                match.group(7)
+            )
+
+            dt = datetime(
+                year,
+                month,
+                day,
+                hour,
+                minute,
+                second,
+                tzinfo=tz
+            )
+
+            return timestamp_result(
+                dt,
+                True
+            )
+
+        except ValueError:
+            pass
+
+
+    # --------------------------------------------------------
+    # CHINESE DATE + TIME
+    #
+    # 2026年8月19日 15:42
+    # --------------------------------------------------------
+
+    match = re.search(
+        r'(?<!\d)'
+        r'(20\d{2})年\s*'
+        r'(\d{1,2})月\s*'
+        r'(\d{1,2})日'
+        r'(?:\s+'
+        r'(\d{1,2}):(\d{2})'
+        r'(?::(\d{2}))?'
+        r'\s*(Z|[+-]\d{2}:?\d{2})?'
+        r')?',
+        value,
+        re.I
+    )
+
+    if match:
+
+        try:
+
+            year = int(match.group(1))
+            month = int(match.group(2))
+            day = int(match.group(3))
+
+            if match.group(4):
+
+                hour = int(match.group(4))
+                minute = int(match.group(5))
+
+                second = (
+                    int(match.group(6))
+                    if match.group(6)
+                    else 0
                 )
 
-                return parsed_date.isoformat()
+                tz = timezone_from_string(
+                    match.group(7)
+                )
 
-            except ValueError:
-                pass
+                dt = datetime(
+                    year,
+                    month,
+                    day,
+                    hour,
+                    minute,
+                    second,
+                    tzinfo=tz
+                )
+
+                return timestamp_result(
+                    dt,
+                    True
+                )
+
+            dt = datetime(
+                year,
+                month,
+                day
+            )
+
+            return timestamp_result(
+                dt,
+                False
+            )
+
+        except ValueError:
+            pass
+
+
+    # --------------------------------------------------------
+    # ENGLISH MONTH DATE
+    #
+    # August 19, 2026
+    # August 19, 2026 3:42 PM
+    # --------------------------------------------------------
+
+    month_names = (
+        "January|February|March|April|May|June|July|"
+        "August|September|October|November|December|"
+        "Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec"
+    )
+
+    match = re.search(
+        rf'\b({month_names})\s+'
+        r'(\d{1,2}),?\s+'
+        r'(20\d{2})'
+        r'(?:[,\s]+'
+        r'(\d{1,2}):(\d{2})'
+        r'(?::(\d{2}))?'
+        r'\s*(AM|PM)?'
+        r'\s*(Z|[+-]\d{2}:?\d{2})?'
+        r')?',
+        value,
+        re.I
+    )
+
+    if match:
+
+        try:
+
+            month = MONTHS[
+                match.group(1).lower()
+            ]
+
+            day = int(match.group(2))
+            year = int(match.group(3))
+
+            if match.group(4):
+
+                hour = int(match.group(4))
+                minute = int(match.group(5))
+
+                second = (
+                    int(match.group(6))
+                    if match.group(6)
+                    else 0
+                )
+
+                am_pm = match.group(7)
+
+                if am_pm:
+
+                    if (
+                        am_pm.upper() == "PM"
+                        and hour != 12
+                    ):
+                        hour += 12
+
+                    elif (
+                        am_pm.upper() == "AM"
+                        and hour == 12
+                    ):
+                        hour = 0
+
+                tz = timezone_from_string(
+                    match.group(8)
+                )
+
+                dt = datetime(
+                    year,
+                    month,
+                    day,
+                    hour,
+                    minute,
+                    second,
+                    tzinfo=tz
+                )
+
+                return timestamp_result(
+                    dt,
+                    True
+                )
+
+            dt = datetime(
+                year,
+                month,
+                day
+            )
+
+            return timestamp_result(
+                dt,
+                False
+            )
+
+        except (ValueError, KeyError):
+            pass
+
+
+    # --------------------------------------------------------
+    # NUMERIC DATE ONLY
+    # --------------------------------------------------------
+
+    match = re.search(
+        r'(?<!\d)'
+        r'(20\d{2})[-/.](\d{1,2})[-/.](\d{1,2})'
+        r'(?!\d)',
+        value
+    )
+
+    if match:
+
+        try:
+
+            dt = datetime(
+                int(match.group(1)),
+                int(match.group(2)),
+                int(match.group(3))
+            )
+
+            return timestamp_result(
+                dt,
+                False
+            )
+
+        except ValueError:
+            pass
+
+
+    # --------------------------------------------------------
+    # COMPACT DATE
+    #
+    # 20260819
+    # --------------------------------------------------------
+
+    match = re.search(
+        r'(?<!\d)'
+        r'(20\d{2})(\d{2})(\d{2})'
+        r'(?!\d)',
+        value
+    )
+
+    if match:
+
+        try:
+
+            dt = datetime(
+                int(match.group(1)),
+                int(match.group(2)),
+                int(match.group(3))
+            )
+
+            return timestamp_result(
+                dt,
+                False
+            )
+
+        except ValueError:
+            pass
+
 
     return None
 
 
-def find_date_in_json(data):
+# ============================================================
+# JSON-LD DATE/TIME
+# ============================================================
+
+def find_timestamp_in_json(data):
+
+    preferred_keys = {
+        "datepublished",
+        "datecreated",
+        "pubdate",
+        "publishdate",
+        "publicationdate",
+        "publish_time",
+        "publishtime",
+    }
 
     if isinstance(data, dict):
 
         for key, value in data.items():
 
-            if key.lower() in (
-                "datepublished",
-                "datecreated",
-                "uploaddate",
-                "pubdate",
-                "publishdate",
-            ):
+            if key.lower() in preferred_keys:
 
-                parsed = parse_date_string(value)
+                result = parse_timestamp(
+                    value
+                )
 
-                if parsed:
-                    return parsed
+                if result:
+                    return result
 
         for value in data.values():
 
-            result = find_date_in_json(value)
+            result = find_timestamp_in_json(
+                value
+            )
 
             if result:
                 return result
+
 
     elif isinstance(data, list):
 
         for item in data:
 
-            result = find_date_in_json(item)
+            result = find_timestamp_in_json(
+                item
+            )
 
             if result:
                 return result
@@ -515,7 +896,14 @@ def find_date_in_json(data):
     return None
 
 
-def extract_publication_date(response, article_url):
+# ============================================================
+# EXTRACT PUBLICATION DATE/TIME
+# ============================================================
+
+def extract_publication_timestamp(
+    response,
+    article_url
+):
 
     soup = BeautifulSoup(
         response.content,
@@ -527,7 +915,7 @@ def extract_publication_date(response, article_url):
     # 1. META TAGS
     # --------------------------------------------------------
 
-    meta_keys = (
+    meta_keys = {
         "article:published_time",
         "og:published_time",
         "datepublished",
@@ -536,9 +924,12 @@ def extract_publication_date(response, article_url):
         "publishdate",
         "publication_date",
         "publish_date",
+        "publish_time",
+        "publishtime",
         "dc.date",
         "dcterms.date",
-    )
+    }
+
 
     for meta in soup.find_all("meta"):
 
@@ -551,12 +942,12 @@ def extract_publication_date(response, article_url):
 
         if key in meta_keys:
 
-            parsed = parse_date_string(
+            result = parse_timestamp(
                 meta.get("content")
             )
 
-            if parsed:
-                return parsed
+            if result:
+                return result
 
 
     # --------------------------------------------------------
@@ -570,26 +961,31 @@ def extract_publication_date(response, article_url):
 
         try:
 
-            data = json.loads(
-                script.string or script.get_text()
+            raw = (
+                script.string
+                or script.get_text()
             )
 
-            parsed = find_date_in_json(data)
+            data = json.loads(raw)
 
-            if parsed:
-                return parsed
+            result = find_timestamp_in_json(
+                data
+            )
+
+            if result:
+                return result
 
         except Exception:
             pass
 
 
     # --------------------------------------------------------
-    # 3. HTML <time> TAGS
+    # 3. HTML TIME ELEMENTS
     # --------------------------------------------------------
 
     for time_tag in soup.find_all("time"):
 
-        parsed = parse_date_string(
+        result = parse_timestamp(
             time_tag.get("datetime")
             or time_tag.get_text(
                 " ",
@@ -597,49 +993,69 @@ def extract_publication_date(response, article_url):
             )
         )
 
-        if parsed:
-            return parsed
+        if result:
+            return result
 
 
     # --------------------------------------------------------
     # 4. COMMON DATE/TIME ELEMENTS
     # --------------------------------------------------------
 
-    date_elements = soup.find_all(
-        attrs={
-            "class": re.compile(
-                r"(date|time|publish|pubtime)",
-                re.I
-            )
-        }
+    date_pattern = re.compile(
+        r"(date|time|publish|pubtime|timestamp)",
+        re.I
     )
 
-    for element in date_elements[:20]:
+    checked = 0
 
-        parsed = parse_date_string(
-            element.get_text(
-                " ",
-                strip=True
-            )
+    for element in soup.find_all(True):
+
+        attributes = " ".join(
+            [
+                str(element.get("id") or ""),
+                " ".join(
+                    element.get("class") or []
+                ),
+            ]
         )
 
-        if parsed:
-            return parsed
+        if not date_pattern.search(
+            attributes
+        ):
+            continue
+
+        text = element.get_text(
+            " ",
+            strip=True
+        )
+
+        result = parse_timestamp(
+            text
+        )
+
+        if result:
+            return result
+
+        checked += 1
+
+        if checked >= 30:
+            break
 
 
     # --------------------------------------------------------
     # 5. ARTICLE URL FALLBACK
+    #
+    # Usually gives date only.
     # --------------------------------------------------------
 
-    parsed = parse_date_string(
+    result = parse_timestamp(
         article_url
     )
 
-    if parsed:
-        return parsed
+    if result:
+        return result
 
 
-    # No reliable date found
     return None
 
 
@@ -661,7 +1077,7 @@ def extract_article(article_url):
     )
 
 
-    # Fallback paragraph extraction
+    # Fallback article text extraction
     if (
         not article_text
         or len(article_text.strip()) < 100
@@ -676,23 +1092,20 @@ def extract_article(article_url):
 
         for paragraph in soup.find_all("p"):
 
-            paragraph_text = paragraph.get_text(
+            text = paragraph.get_text(
                 " ",
                 strip=True
             )
 
-            if len(paragraph_text) > 30:
-
-                paragraphs.append(
-                    paragraph_text
-                )
+            if len(text) > 30:
+                paragraphs.append(text)
 
         article_text = "\n\n".join(
             paragraphs
         )
 
 
-    published_date = extract_publication_date(
+    published = extract_publication_timestamp(
         response,
         article_url
     )
@@ -700,12 +1113,12 @@ def extract_article(article_url):
 
     return (
         article_text or "",
-        published_date
+        published
     )
 
 
 # ============================================================
-# COLLECT ONE SOURCE
+# COLLECT SOURCE
 # ============================================================
 
 def collect_source(source):
@@ -716,6 +1129,7 @@ def collect_source(source):
     print(source["url"])
     print("=" * 80)
 
+
     result = {
         "name": source["name"],
         "slug": source["slug"],
@@ -725,14 +1139,12 @@ def collect_source(source):
         "articles_attempted": 0,
         "articles_extracted": 0,
         "articles_failed": 0,
-        "dates_found": 0,
+        "published_found": 0,
+        "times_found": 0,
+        "timezone_found": 0,
         "error": "",
     }
 
-
-    # --------------------------------------------------------
-    # DOWNLOAD SOURCE PAGE
-    # --------------------------------------------------------
 
     try:
 
@@ -745,10 +1157,6 @@ def collect_source(source):
         result["status"] = "SOURCE FAILED"
         result["error"] = str(error)
 
-        print(
-            f"SOURCE FAILED: {error}"
-        )
-
         return result
 
 
@@ -759,7 +1167,7 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # FIND CANDIDATE ARTICLE LINKS
+    # CANDIDATE LINKS
     # --------------------------------------------------------
 
     candidates = []
@@ -783,8 +1191,10 @@ def collect_source(source):
 
         full_url = full_url.split("#")[0]
 
+
         if full_url in seen_urls:
             continue
+
 
         if valid_article_link(
             source,
@@ -801,7 +1211,11 @@ def collect_source(source):
                 "url": full_url
             })
 
-        if len(candidates) >= CANDIDATE_LIMIT:
+
+        if (
+            len(candidates)
+            >= CANDIDATE_LIMIT
+        ):
             break
 
 
@@ -809,14 +1223,15 @@ def collect_source(source):
         candidates
     )
 
+
     print(
-        f"Candidate article links found: "
+        f"Candidate links found: "
         f"{len(candidates)}"
     )
 
 
     # --------------------------------------------------------
-    # OUTPUT FOLDERS
+    # FOLDERS
     # --------------------------------------------------------
 
     article_folder = os.path.join(
@@ -839,10 +1254,11 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # TRY CANDIDATES UNTIL 10 GOOD ARTICLES ARE FOUND
+    # ARTICLES
     # --------------------------------------------------------
 
     for article in candidates:
+
 
         if (
             result["articles_extracted"]
@@ -856,15 +1272,16 @@ def collect_source(source):
 
         print()
         print(
-            f"Trying article: "
-            f"{article['title']}"
+            f"Trying: {article['title']}"
         )
 
 
         try:
 
-            article_text, published_date = extract_article(
-                article["url"]
+            article_text, published = (
+                extract_article(
+                    article["url"]
+                )
             )
 
 
@@ -874,7 +1291,7 @@ def collect_source(source):
             ):
 
                 print(
-                    "Skipped: not enough article text."
+                    "Skipped: insufficient article text."
                 )
 
                 continue
@@ -883,20 +1300,51 @@ def collect_source(source):
             result["articles_extracted"] += 1
 
 
-            if published_date:
+            # ------------------------------------------------
+            # PUBLICATION INFORMATION
+            # ------------------------------------------------
 
-                result["dates_found"] += 1
+            published_display = "Unknown"
 
-                print(
-                    f"Published: {published_date}"
+
+            if published:
+
+                published_display = (
+                    published["display"]
                 )
 
-            else:
+                result[
+                    "published_found"
+                ] += 1
 
-                print(
-                    "Published date not found."
-                )
 
+                if published[
+                    "has_time"
+                ]:
+
+                    result[
+                        "times_found"
+                    ] += 1
+
+
+                if published[
+                    "has_timezone"
+                ]:
+
+                    result[
+                        "timezone_found"
+                    ] += 1
+
+
+            print(
+                f"Published: "
+                f"{published_display}"
+            )
+
+
+            # ------------------------------------------------
+            # SAVE ARTICLE FILE
+            # ------------------------------------------------
 
             filename = (
                 clean_filename(
@@ -912,10 +1360,6 @@ def collect_source(source):
             )
 
 
-            # ------------------------------------------------
-            # SAVE ARTICLE FILE
-            # ------------------------------------------------
-
             with open(
                 filepath,
                 "w",
@@ -929,7 +1373,7 @@ def collect_source(source):
 
                 file.write(
                     f"PUBLISHED:\n"
-                    f"{published_date or 'Unknown'}\n\n"
+                    f"{published_display}\n\n"
                 )
 
                 file.write(
@@ -960,13 +1404,8 @@ def collect_source(source):
                 "title": article["title"],
                 "url": article["url"],
                 "text": article_text,
-                "published_date": published_date,
+                "published": published,
             })
-
-
-            print(
-                f"Saved: {filepath}"
-            )
 
 
         except Exception as error:
@@ -988,7 +1427,7 @@ def collect_source(source):
 
 
     # --------------------------------------------------------
-    # CREATE RSS FEED
+    # RSS
     # --------------------------------------------------------
 
     feed = FeedGenerator()
@@ -1032,27 +1471,42 @@ def collect_source(source):
             href=article["url"]
         )
 
+
+        # Put publication value visibly in RSS description
+        if article["published"]:
+
+            rss_description = (
+                "Published: "
+                + article["published"]["display"]
+                + "\n\n"
+                + article["text"]
+            )
+
+        else:
+
+            rss_description = (
+                article["text"]
+            )
+
+
         entry.description(
-            article["text"]
+            rss_description
         )
 
 
-        # ----------------------------------------------------
-        # RSS PUBLICATION DATE
-        # ----------------------------------------------------
-
-        if article["published_date"]:
-
-            published = datetime.combine(
-                date.fromisoformat(
-                    article["published_date"]
-                ),
-                dt_time.min,
-                tzinfo=timezone.utc
-            )
+        # Proper RSS <pubDate> requires a timezone.
+        # Only use it when the website actually supplied one.
+        if (
+            article["published"]
+            and article["published"][
+                "has_timezone"
+            ]
+        ):
 
             entry.pubDate(
-                published
+                article["published"][
+                    "datetime"
+                ]
             )
 
 
@@ -1096,27 +1550,11 @@ def collect_source(source):
         )
 
 
-    print()
-    print(
-        f"STATUS: "
-        f"{result['status']}"
-    )
-
-    print(
-        f"Articles with publication date: "
-        f"{result['dates_found']}"
-    )
-
-    print(
-        f"RSS: {feed_path}"
-    )
-
-
     return result
 
 
 # ============================================================
-# RUN ALL SOURCES
+# RUN EVERYTHING
 # ============================================================
 
 results = []
@@ -1126,12 +1564,8 @@ for source in sources:
 
     try:
 
-        result = collect_source(
-            source
-        )
-
         results.append(
-            result
+            collect_source(source)
         )
 
     except Exception as error:
@@ -1145,7 +1579,9 @@ for source in sources:
             "articles_attempted": 0,
             "articles_extracted": 0,
             "articles_failed": 0,
-            "dates_found": 0,
+            "published_found": 0,
+            "times_found": 0,
+            "timezone_found": 0,
             "error": str(error),
         })
 
@@ -1165,6 +1601,7 @@ with open(
     "w",
     encoding="utf-8"
 ) as report:
+
 
     report.write(
         "PRC RSS COLLECTOR STATUS REPORT\n"
@@ -1206,7 +1643,17 @@ with open(
 
         report.write(
             f"ARTICLES WITH PUB DATE: "
-            f"{result['dates_found']}\n"
+            f"{result['published_found']}\n"
+        )
+
+        report.write(
+            f"ARTICLES WITH PUB TIME: "
+            f"{result['times_found']}\n"
+        )
+
+        report.write(
+            f"ARTICLES WITH EXPLICIT TIMEZONE: "
+            f"{result['timezone_found']}\n"
         )
 
         report.write(
@@ -1219,12 +1666,14 @@ with open(
             f"feeds/{result['slug']}.xml\n"
         )
 
+
         if result["error"]:
 
             report.write(
                 f"ERROR: "
                 f"{result['error']}\n"
             )
+
 
         report.write(
             "\n"
@@ -1234,7 +1683,7 @@ with open(
 
 
 # ============================================================
-# FINAL SUMMARY
+# SUMMARY
 # ============================================================
 
 working = sum(
