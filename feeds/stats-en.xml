@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:49:23 +0000</lastBuildDate>
     <item>
       <title>Total Retail Sales of Consumer Goods from January to July 2026</title>
       <link>https://www.stats.gov.cn/english/PressRelease/202608/t20260819_1965078.html</link>
@@ -428,7 +428,9 @@ In case of any differences between English translation and the original Chinese 
     <item>
       <title>Understanding Statistics</title>
       <link>http://www.stats.gov.cn/english/understanding/</link>
-      <description>Chinese(GB)
+      <description>Published: 2013-11-18
+
+Chinese(GB)
 RSS
 Organizational Chart
 Data
@@ -479,7 +481,9 @@ Understanding Statistics
     <item>
       <title>International Cooperation</title>
       <link>http://www.stats.gov.cn/english/InternationalCooperation/</link>
-      <description>Chinese(GB)
+      <description>Published: 2026-07-21
+
+Chinese(GB)
 RSS
 Organizational Chart
 Data
@@ -529,7 +533,9 @@ International Cooperation
     <item>
       <title>Latest Releases</title>
       <link>http://www.stats.gov.cn/english/PressRelease/</link>
-      <description>Chinese(GB)
+      <description>Published: 2026-08-18
+
+Chinese(GB)
 RSS
 Organizational Chart
 Data
@@ -579,7 +585,9 @@ Latest Releases
     <item>
       <title>Legal Framework</title>
       <link>http://www.stats.gov.cn/english/LF/</link>
-      <description>Chinese(GB)
+      <description>Published: 2012-09-21
+
+Chinese(GB)
 RSS
 Organizational Chart
 Data
@@ -624,7 +632,7 @@ More
     <item>
       <title>Organizational Chart</title>
       <link>http://www.stats.gov.cn/english/AI/OS/202208/t20220824_1887612.html</link>
-      <description>Published: 2022-08-24
+      <description>Published: 2022-08-25 13:41:00
 
 Chinese(GB)
 RSS

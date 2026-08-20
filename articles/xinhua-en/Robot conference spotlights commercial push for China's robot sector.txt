@@ -1,0 +1,31 @@
+TITLE:
+Robot conference spotlights commercial push for China's robot sector
+
+PUBLISHED:
+2026-08-20
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260820/4d509c05d1044ab8bd14502f540ba170/c.html
+
+ARTICLE TEXT:
+BEIJING, Aug. 20 (Xinhua) -- At an exhibition hall, about 10 humanoid robots worked in a coordinated workflow, with some lifting and stacking boxes and others sorting goods along an assembly line. Together, they demonstrated a complete smart logistics process -- from material handling to sorting and replenishment.
+This scene, presented by humanoid robot maker UBTECH at the 2026 World Robot Conference (WRC) in Beijing, conveys one message: robots are quickly evolving from showpieces to real-world applications.
+The conference, which runs from Wednesday through Sunday, has drawn more than 300 exhibitors from 26 countries, with over 3,000 products on display, including more than 300 debuts.
+At the Galaxea display area, visitors scanned a QR code to order a bottle of water. A robot autonomously navigated through the warehouse to fetch and package the water in just over one minute, relying solely on model-based recognition. This system is already up and running in Beijing and other cities.
+"The solution can solve overnight warehouse staffing problems," said Luo Tianqi, chief financial officer of Galaxea. "Nighttime order volumes aren't huge, but still require people on night shifts. Replacing them with robots is economically viable."
+China's humanoid robot industry is entering a critical stage of large-scale commercialization and deployment, as embodied intelligence products move from small-batch trials to broader adoption, Xu Xiaolan, chairwoman of the Chinese Institute of Electronics, said at the 2026 WRC.
+Nearly 10 major automakers, including BYD and SAIC, are already testing embodied-intelligence systems on production lines for tasks like material handling and parts loading. Embodied-intelligence robots are also operating in high-risk, confined spaces for disaster relief, flood response and hazardous industrial inspections, Xu added.
+Unitree Robotics founder and CEO Wang Xingxing said at the conference that the company's robots are already being tested on auto assembly lines and in its own factories, with AI research focused on improving their ability to perform practical tasks in homes and industrial environments.
+On Wednesday, the Hangzhou-based company became the first humanoid robot maker listed on the A-share market, marking a significant step for the country's humanoid robot industry.
+This year's conference has also emphasized industrial chain collaboration. The WRC brings together AI algorithm developers, 3D-vision and battery suppliers, robot makers and end-users to facilitate cooperation and shorten R&D and iteration cycles.
+According to the Ministry of Industry and Information Technology, revenue for China's robotics sector exceeded 300 billion yuan (about 44.24 billion U.S. dollars) in 2025, with average annual growth of over 20 percent in the past five years. In the first half of 2026, revenue reached 165.5 billion yuan, up 24.5 percent year on year.
+Chinese robots have demonstrated their technological prowess through impressive feats, ranging from martial arts to marathons. Meanwhile, China is doubling down on expanding robots' real-world applications, despite predictions that the industry's "GPT moment" remains years away.
+Across the country, China has already built more than 70 embodied-intelligence training grounds as of June, with 46 more under construction or being planned, according to a report by the China Academy of Information and Communications Technology.
+The industry has benefited from supportive national strategy. "Embodied intelligence" was first written into China's government work report in 2025. China's 15th Five-Year Plan (2026-2030) calls for a forward-looking layout of future industries, including embodied artificial intelligence, as well as mechanisms to boost funding and share risks in these emerging sectors.
+Wang said "a ChatGPT moment in embodied intelligence" will come when robots can be dropped into unfamiliar settings and complete most tasks via simple voice or text commands. He expects that such a breakthrough could occur within two to three years in an optimistic scenario, or within five to ten years at the latest. ■

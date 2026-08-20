@@ -7,7 +7,37 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:51:22 +0000</lastBuildDate>
+    <item>
+      <title>Robotics boom fueling nation's tech ambitions</title>
+      <link>https://www.chinadaily.com.cn/a/202608/19/WS6a85cdcca3106bc57421c680.html</link>
+      <description>Published: 2026-08-19
+
+Robotics boom fueling nation's tech ambitions
+More than 3,000 cutting-edge robots and related products packed the 2026 World Robot Conference, which opened in Beijing on Wednesday, the same day that Unitree Robotics made its debut on the STAR Market in Shanghai and surged 629.44 percent to 1,100 yuan ($163) per share from its initial public offering price.
+As the Beijing conference showcased China's strength as the world's largest producer of robots and a supply-chain hub for the industry, Shanghai's capital market bet on what comes next — whether that industrial muscle can drive faster innovation, lower costs and, ultimately, expand share in the global robotics market, industry experts said.
+That bet played out vividly on Unitree's first trading day. At its peak, a single winning IPO allotment translated into a paper profit of up to 474,600 yuan. Although the shares retreated from that high, they still closed at 845 yuan, up 460.3 percent, valuing the company at 341.77 billion yuan.
+Pan Helin, a member of the expert committee for information and communication economy of the Ministry of Industry and Information Technology, said the surge reflects robust investor confidence in China's embodied artificial intelligence industry.
+"Despite the share price retreating from its opening high amid broader market pressure, Unitree's performance far outpaced earlier expectations," he said.
+During the 14th Five-Year Plan (2021-25) period, President Xi Jinping made multiple visits to robotics companies. At the 2026 World AI Conference and High-Level Meeting on Global AI Governance in Shanghai last month, Xi said that AI is moving from the digital world into the physical world, and he called for greater efforts to advance technological innovation, industrial development and scenario-based applications.
+Robotics sits at the heart of this transition, serving as the primary vehicle for bringing AI technologies into the physical realm.
+The World Robot Conference brought together more than 300 Chinese and overseas companies with over 3,000 products, ranging from humanoid, industrial and medical robots to core components such as dexterous hands, reducers and sensors, and embodied AI models.
+Galbot unveiled a new humanoid robot capable of learning to play tennis. Unitree demonstrated its H1 humanoid robot, which can run at a peak speed of 10 meters per second — rivaling the pace of elite human sprinters.
+Xin Guobin, vice-minister of industry and information technology, said at the robot conference that revenue from major robotics companies reached 165.5 billion yuan in the first half of the year, a 24.5 percent year-on-year increase.
+Xin said China will focus on overcoming bottlenecks in core robotics components and embodied AI. The country also aims to expand the integration of robots into agriculture, healthcare, elderly care and emergency response, he added.
+Xu Xiaolan, president of the Chinese Institute of Electronics, said that embodied AI is entering a critical window for large-scale adoption, with Chinese products at a pivotal juncture transitioning from small-batch trials to broader deployment.
+"Public and commercial services are leading the way," she said. "In China, robots are now being deployed in traffic guidance, at tourist attractions, in shopping malls and in education, leveraging capabilities such as autonomous positioning, dynamic obstacle avoidance and question answering."
+JPMorgan has forecast that global humanoid robot shipments will climb from an estimated 18,000 units in 2025 to 60,000 this year, before surging to 1.75 million by 2030. China is expected to account for more than half of global demand, according to the bank.
+The National Development and Reform Commission said that eight out of every 10 humanoid and quadruped intelligent robots sold worldwide are made in China.
+Zhang Yiming, chief analyst for the machinery sector at Guosheng Securities, said that humanoid robots are emerging as a key arena in the technology competition between China and the United States, making Unitree's market performance a potential bellwether for the broader industry.
+"China's advantage increasingly lies not just in building sophisticated robots, but in its ability to manufacture them at scale," he said. "The nation's deep industrial supply chains give domestic manufacturers an edge in mass production, while overseas companies retain strengths in areas including frontier AI algorithms."
+A humanoid robot integrates motors, reducers, servo systems, lead screws, sensors, batteries, controllers and precision-machined parts. Many of these overlap with industries that China has spent years building at an enormous scale, particularly electric vehicles, batteries, consumer electronics and industrial automation.
+Wang Peng, a researcher at the Beijing Academy of Social Sciences, said that hard-tech companies such as Unitree reflect a broader shift in how China's capital market values technology.
+"While the upper ranks of China's stock market were long dominated by financial and consumer companies, investors are increasingly willing to price technological capability and future growth potential over current profitability," he said.
+However, an IPO is not the finish line, he said, adding that Unitree's elevated price-to-earnings ratio also points to valuation risks.
+"Humanoid robotics is a long-cycle industry, where success cannot be measured by a blockbuster market debut, nor by the internet-era playbook of burning cash to chase scale," Wang said. "What ultimately matters is whether a company can deliver technology, products and business models that stand the test of the market."</description>
+      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202608/19/WS6a85cdcca3106bc57421c680.html</guid>
+    </item>
     <item>
       <title>Elder-care robots need to start with people</title>
       <link>https://www.chinadaily.com.cn/a/202608/20/WS6a866414a3106bc57421c815.html</link>
@@ -215,14 +245,6 @@ See China, from Liangjiahe
       British Ambassador to China Peter Wilson visited Liangjiahe village in Yan'an, Shaanxi province, where President Xi Jinping spent seven years in his youth. Wilson walked into cave dwellings and talked with locals. More than five decades later, the remote mountainous village has been greatly transformed.
 A visit to Liangjiahe is more than a journey into history; it is also a window into the roots of Xi's commitment to "doing practical things for the people", the Communist Party of China's people-first philosophy, and why the Party has continued to lead China forward.</description>
       <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202608/20/WS6a86545ca3106bc57421c744.html</guid>
-    </item>
-    <item>
-      <title>Search</title>
-      <link>https://newssearch.chinadaily.com.cn/en/search</link>
-      <description>Copyright 1995 - . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form. Note: Browsers with 1024*768 or higher resolution are suggested for this site.
-License for publishing multimedia online 0108263
-Registration Number: 130349</description>
-      <guid isPermaLink="false">https://newssearch.chinadaily.com.cn/en/search</guid>
     </item>
   </channel>
 </rss>

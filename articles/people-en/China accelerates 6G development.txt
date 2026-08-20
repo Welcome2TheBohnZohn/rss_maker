@@ -1,0 +1,38 @@
+TITLE:
+China accelerates 6G development
+
+PUBLISHED:
+2026-08-20
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0820/c90000-20490584.html
+
+ARTICLE TEXT:
+China accelerates 6G development
+Since the beginning of this year, China has been intensifying its efforts to advance 6G technology and its related industrial ecosystem.
+In May, the Ministry of Industry and Information Technology (MIIT) granted the IMT-2030 (6G) Promotion Group permission to use trial frequencies for 6G in the 6GHz band.
+In June, a joint provincial-ministerial initiative was launched to coordinate pilot programs for 6G innovation and development. The following month, Jiangsu province in east China established a 6G industry alliance, while central China's Hubei province released an action plan to drive innovation-led 6G growth.
+As 6G transitions from laboratory research to field trials and industrial applications, its development path is becoming clearer and its progress increasingly steady.
+6G is the next generation of global mobile communications after 5G. What does the approval of trial frequencies mean in practice? Simply put, the authorization allows engineers to test 6G technologies in real-world settings such as cities and industrial facilities, addressing practical issues including signal penetration and device interference.
+It is comparable to learning to drive. After passing a theoretical exam and practicing on a closed course, you are finally allowed onto real roads to test your skills. The approval therefore marks a major step toward the practical deployment of 6G.
+A 6G industrial ecosystem exhibition zone is seen at the Mobile World Congress Shanghai 2026 in Shanghai on June 24. (Photo/Wang Gang)
+So when will 6G be available for users?
+China's 6G technology trials are being carried out in three stages: key technology trials, technical solution trials, and system networking trials. The main goals are to identify the key technological directions for 6G, develop 6G prototypes for typical application scenarios and performance requirements, and develop pre-commercial 6G equipment.
+The first stage has been completed, and the second stage has begun. 6G is expected to enter commercial application around 2030, bringing the technology into everyday use.
+More than three years ago, China released the 2023 edition of its radio frequency allocation regulations, providing a reference for global 6G spectrum planning. China's early research into the 6GHz band and its early granting of 6G trial frequencies demonstrate systematic spectrum management and targeted resource allocation.
+Combining sound planning with strong implementation has been an important factor in the transformation and rapid advancement of China's telecommunications industry over the past decades. This approach will remain a key strength as China continues to move toward new heights in technological development.
+China added 588,000 5G base stations in 2025, bringing the total to nearly 4.84 million. More than 330 cities now have 5G-Advanced network coverage. Does this mean that 5G infrastructure will become obsolete once the 6G era arrives? The answer is no.
+China is currently working to build "six networks," including a next-generation communication network. This involves not only building new networks based on new technologies, but also upgrading existing networks.
+A 6G industrial ecosystem exhibition zone is seen at the 2026 Mobile World Congress Shanghai in Shanghai on June 24. (Photo/Wang Gang)
+Academician Zhang Ping of the Chinese Academy of Engineering and his team, for example, have verified the feasibility of achieving 6G-level transmission capabilities over existing 4G and 5G links using semantic communications technology. They are exploring a new path toward meeting 6G performance targets through low-frequency bands and narrow bandwidths.
+This approach is in line with the principles set out in China's outline of the 15th Five-Year Plan: infrastructure development should be appropriately forward-looking rather than excessively so, with greater coordination in planning, optimized layouts and structures, and stronger integration.
+It reminds me of a personal experience. Once, I sent a text message to my aunt. After a long wait, I received a voice message from someone else replying on her behalf. That was when I remembered that my aunt could not read. I then switched to a video call, and we were able to have a good chat.
+The evolution of mobile communications can continually lower barriers to technology and help bridge digital divides, enabling many people who once found digital tools difficult to use to enjoy greater convenience and embrace digital life.
+What changes will 6G bring to people's lives? Some can be anticipated, while many others are difficult to be precisely predicted. What is certain, however, is that as long as technological development remains guided by the principles of making technology accessible to all and putting technology to good use, sound planning and effective implementation will make the path of innovation increasingly solid and open up broader horizons for development.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
