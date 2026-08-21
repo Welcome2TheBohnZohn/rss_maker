@@ -1,0 +1,37 @@
+TITLE:
+Chinese firms showcase robots' in aviation, security and military applications at 2026 WRC
+
+PUBLISHED:
+2026-08-21
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0821/c90000-20490876.html
+
+ARTICLE TEXT:
+Chinese firms showcase robots' potential in aviation, security and military applications at 2026 WRC
+Humanoid robot Fengxing-001, developed by Aviation Industry Corporation of China, appears at the 2026 World Robot Conference in Beijing on August 19, 2026. Photo: Feng Fan/GT
+Alongside civilian robot makers such as Unitree, UBTECH and AgiBot, several Chinese companies at the 2026 World Robot Conference in Beijing are exploring the potential use of humanoid and quadruped robots in security and military-related fields.
+The applications on display at the five-day event, which runs from Wednesday to Sunday, range from patrolling industrial sites and restraining suspects to piloting older aircraft and loading missiles onto planes.
+At one corner of the conference, staff from the Aviation Industry Corporation of China (AVIC) told the Global Times that the company is developing a humanoid robot for intelligent aviation manufacturing, aircraft missile loading and aircraft operation.
+Standing about 1.8 meters tall and weighing 80 kilograms, the robot was displayed at the AVIC booth. According to staff, two or three such robots could complete a missile-loading task that would normally require four to six workers.
+To increase its load-bearing capacity, the robot's legs incorporate compact motors derived from aero-engine technology, the staff said.
+Documents provided by AVIC show that the robot, which has been in development since 2024, is designed for typical aviation scenarios, including intelligent manufacturing, ground maintenance and support, and cross-domain air-ground operations.
+The machine combines electric and hydraulic actuation through what AVIC described as a pioneering electro-hydraulic hybrid-drive architecture. It also applies aviation power-by-wire technology to high-output joint actuation. The company has named the special-purpose humanoid robot Fengxing-001.
+Equipped with a self-developed high-performance computing platform, an efficient energy system and stable motion-control algorithms, Fengxing-001 can jump 30 centimeters, jog at three kilometers per hour, walk while carrying 20 kilograms and handle loads weighing up to 15 kilograms, according to AVIC.
+AVIC staff also told the Global Times that the robot is also being tested for piloting aircraft. It has completed trials in a simulated environment and can operate an aircraft in response to instructions.
+Converting an older aircraft into an unmanned platform normally requires extensive modifications to its wiring and onboard computer systems. By comparison, a modified version of the humanoid robot with its lower-body components removed would cost only one-tenth as much, the staff said.
+Elsewhere at the conference, companies and institutions, including the China North Industries Group Corporation, NEXWISE and the China Electronics Technology Group Corporation 21st Research Institute, displayed security robots and robotic dogs.
+A robotic dog developed by China Electronics Technology Group Corporation. Photo: Feng Fan/GT
+Equipped with cameras and capable of autonomous movement, patrolling and basic decision-making, these robots can be deployed at power plants and other large industrial facilities, substantially reducing the need for manual patrols.
+NEXWISE demonstrated the net-capture capability of one of its robotic dogs. Equipped with a net launcher based on electromagnetic launch technology, the robot can lock onto a designated target and fire a restraining net.
+According to documents provided by the company, the system can restrain a target safely, rapidly and without direct contact from a distance of five to 10 meters. Its dual-shot version features a rear-mounted rapid-loading mechanism that allows two capture nets to be fired in succession.
+Compared with conventional gunpowder-powered net launchers, the electromagnetic system is quieter, less likely to cause panic and can restrain suspects more quickly, company staff said.
+In real-world operations, the electromagnetic net launcher can work with robotic dogs and security personnel through an integrated process of "front-end identification by robotic dog, remote control of net launcher and on-site handling by personnel."
+The company said the system could be used for security at schools, hospitals, banks and government institutions, as well as to assist police in apprehending suspects, helping reduce risks for law-enforcement personnel.
+Copyright © 2026 People's Daily Online. All Rights Reserved.

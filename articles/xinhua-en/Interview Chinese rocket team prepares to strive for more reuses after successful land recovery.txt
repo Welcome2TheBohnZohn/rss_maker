@@ -1,0 +1,32 @@
+TITLE:
+Interview: Chinese rocket team prepares to strive for more reuses after successful land recovery
+
+PUBLISHED:
+2026-08-20
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260820/feb50bd24dcf45abbbb215dd8b96e0f6/c.html
+
+ARTICLE TEXT:
+BEIJING, Aug. 20 (Xinhua) -- For the team behind LandSpace's Zhuque-3 reusable rocket, the recent successful land recovery of the rocket's first stage was just the opening act. The real challenge lies ahead: building a comprehensive inspection and reuse system from scratch, one that can turn a recovered booster into a reliable, multi-flight workhorse.
+Zhuque-3 blasted off on Wednesday at 7:35 a.m. (Beijing Time) from the Dongfeng commercial space innovation pilot zone in northwest China. After the liftoff, the first and second stages of the rocket separated. The first stage then entered its preset return phase, completed a series of maneuvers and successfully touched down.
+"The final braking maneuver was executed beautifully, bringing the rocket to a stable stop on the landing pad," commented Zhuque-3's chief commander Dai Zheng, adding that this launch mission "performed quite perfectly," and the entire team was greatly encouraged.
+For China's space industry, this achievement means the country now has two independent rocket recovery technology routes: one for sea operations and another for land operations.
+On July 10, the country successfully recovered the Long March-10B's first stage at sea using a net-capture system.
+But recovery is only the first step. For a reusable rocket to succeed commercially, its recovered stage must be able to fly again at a relatively low cost. Achieving this requires complex and meticulous follow-up work.
+"After the rocket is recovered, what standards must it meet to fly again? Which components need immediate replacement? Which components need replacement after several flights?" Dai said.
+He explained that a series of inspections must be conducted to detect potential problems, including product life testing, fatigue testing, and so on, and replace components accordingly. The team's goal is to establish both an assessment system and a reuse system, gradually increasing the number of times the first stage can be reused.
+The Zhuque-3 rocket has an overall length of 66.1 meters, with a body diameter of 4.5 meters for first and second stages, and a fairing diameter of 5.2 meters. It features liquid oxygen-methane propellant, a stainless steel body, and a vertical landing system.
+Dai said the team will examine the rocket's status data and use this data for calibration. Through these data and ground-based test verification, they will develop estimates of how many additional flights the rocket can endure.
+"In this way, we will identify weaknesses, make improvements in design, and develop a complete system for inspection, maintenance, and replacement. This will ensure that the rocket can still achieve sufficient reliability to meet the requirements needed for another launch," Dai said.
+"This represents a blank slate in the domestic launch vehicle industry, requiring the establishment of a complete set of technical processes and systems from scratch," Dai added.
+Generally speaking, liquid oxygen-methane propellant costs account for only 1 percent to 3 percent of launch costs, while the rocket's first stage accounts for roughly 70 percent of the total rocket cost.
+Dai said the cost of the rocket itself can be amortized through multiple uses.
+He revealed that, from an engineering perspective, Zhuque-3 is initially expected to be reused 2 or 3 times. After data calibration, this may be extended to 5 or 6 times, and eventually to 10 times. "Ultimately, we hope to achieve the goal of 20 times, significantly reducing launch costs."
+This process requires a robust technical system for reuse, more precise assessment of the rocket's weaknesses, and the elimination of potential failures. If this system can be properly established, rockets can be reused more reliably, achieving the expected number of reuses, Dai said. ■
