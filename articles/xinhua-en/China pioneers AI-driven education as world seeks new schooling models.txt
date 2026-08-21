@@ -1,0 +1,34 @@
+TITLE:
+China pioneers AI-driven education as world seeks new schooling models
+
+PUBLISHED:
+2026-08-21
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260821/de85b9721df7472887727f6d48521115/c.html
+
+ARTICLE TEXT:
+BEIJING, Aug. 21 (Xinhua) -- As classrooms worldwide grapple with the transformative yet disruptive power of artificial intelligence (AI), a fundamental question hangs over the future of education: what is schooling for when machines can outthink humans?
+This question has recently taken center stage in Beijing, where global academics, policymakers and frontline educators gathered to map out new models for teaching in the intelligent era. Amid the lively cross-border exchanges, one reality is clear: China's large-scale experiments with AI-driven education -- from AI plus various disciplines to AI teaching assistants -- have already put it miles ahead of most peers.
+At the opening ceremony of the Global Smart Education Conference 2026, Ren Youqun, China's vice minister of education and president of the Chinese National Commission for UNESCO, said that China has made the integration of AI and education a national priority. The country is pushing forward a digital education strategy that embeds intelligent technologies across all teaching elements, processes and scenarios.
+AI-DRIVEN EDUCATION
+China has rolled out an "AI Plus Education" action plan that sets out systematic arrangements for talent cultivation, application innovation, infrastructure development and ecosystem building. The plan signals a strategic pivot from pilot projects and isolated trials to system-wide deployment and full implementation.
+Chinese tech companies are moving quickly to translate the strategy into action. Tech giant Huawei has unveiled its AI Practice Lab (AIPL) solution for higher education, designed to cultivate interdisciplinary talent through a "multi-disciplinary plus AI" model that shifts the focus from AI knowledge acquisition to AI-driven hands-on practice, according to Zhang Chengtao, vice president of Huawei's Global Public Sector BU.
+In March 2026, Beijing Institute of Technology and Huawei jointly established an AIPL covering three cross-disciplinary tracks: embodied intelligence plus AI, law plus AI, and chemistry plus AI. The lab uses real-world scenarios and data to sharpen students' practical skills, Zhang said.
+Joining the push, another Chinese tech firm, iFLYTEK, recently introduced "Sparklight," an AI-powered super-agent designed as a one-stop assistant for teachers, covering lesson planning, student assessment, home-school communication and administrative tasks. The platform aims to free educators from repetitive paperwork and give them more time for teaching.
+The system adapts to individual teaching styles over time and builds up a personalized repository of teaching resources. Trial data show it boosts lesson preparation efficiency by more than 60 percent, reduces routine administrative workload by 60 percent to 80 percent, and saves each teacher four to seven hours per week for higher-value instructional activities, said Nie Xiaolin, co-founder and senior vice president of iFlytek.
+"Teachers are evolving from users to developers of AI applications on the Sparklight," Nie said. He cited a 3D virtual experiment for measuring bell-tower heights and an interactive 3D model of Earth's spheres as vivid examples of this shift, both created by frontline teachers using the platform.
+GLOBAL COOPERATION
+"As for the common question of our time -- 'what role should education play in the age of AI?' -- the international community must act in concert," Ren said. "We need to build strategic consensus on development, establish platforms for sharing digital education resources, and jointly enhance teachers' digital literacy and teaching competence worldwide, so as to chart a shared blueprint for the future of smart education."
+Chen Qun, UNESCO's assistant director-general for education, identified a host of challenges confronting global education, including demographic shifts, geopolitical tensions, underinvestment and a widening mismatch between skills training and labor market demands.
+Rabab Fatima, UN under-secretary-general and high representative for the least developed countries, landlocked developing countries and small island developing states, said in a video address that leveraging AI and digital technologies to advance inclusive, equitable and sustainable education is an urgent shared task for all nations.
+The conference unveiled the Global Smart School Initiative, an open, evidence-based platform designed to facilitate exchanges, professional assessment, transformation consulting and certification among schools worldwide.
+The initiative features best-practice cases from more than a dozen schools in China, the Netherlands, Serbia, Singapore, Canada and Kenya, offering reference models for digital transformation.
+Mo'ale 'Otunuku, minister for education and training of Tonga, stressed that AI must not become an exclusive resource for the privileged few, and that equitable access must be guaranteed.
+He also cautioned that educational equity entails cultural preservation, urging nations to develop localized intelligent systems that respect indigenous languages, regional civilizations and traditional knowledge systems, thereby countering the risk of cultural homogenization. ■
