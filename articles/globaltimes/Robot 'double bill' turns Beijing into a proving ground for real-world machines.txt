@@ -1,0 +1,43 @@
+TITLE:
+Robot 'double bill' turns Beijing into a proving ground for real-world machines
+
+PUBLISHED:
+2026-08-21 23:33:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1368730.shtml
+
+ARTICLE TEXT:
+Humanoid robots stand at Chinese drums during a rehearsal for the opening ceremony of the 2nd World Humanoid Robot Games at the National Speed Skating Oval in Beijing on August 21, 2026. Photo: Zhang Yiyi/GT
+As the lights inside the National Speed Skating Oval dimmed on Friday evening, two rows of humanoid robots raised their drumsticks. Some wore crimson robes with gilded, cloud-shaped shoulder pieces; others silver suits cut for the future. Before them stood Chinese drums painted with red dragons. A few meters away a human orchestra of tubas, trumpets and flutes settled in, and machines and musicians counted the same beat.
+"The opening ceremony will be a big one," a staff member from robotic dexterous hands maker LinkerBot, whose robots make up part of the ensemble, told the Global Times on Friday night. Out on the blue running track, a second rehearsal was under way: scores of small glowing humanoids in five-by-five squares, passing by the rostrum in time.
+Beijing is hosting two robot gatherings in a single week. The 2026 World Robot Conference (WRC) opened in E-Town on August 19 and runs through Sunday; the 2nd World Humanoid Robot Games (WHRG) is scheduled to open on Saturday evening at the "Ice Ribbon", the 2022 Beijing Winter Olympics venue. The two overlap for less than two days. One pushes outward, hunting application scenarios; the other pushes down, stress-testing what the machines can take. Together they show how fast China's robot industry is moving across research, manufacturing, testing and deployment, analysts said. 
+The scale of the WHRG has changed sharply in a year. A total of 666 teams and 2,056 robots from 16 countries across six continents have entered, a 138 percent rise in team numbers year-on-year, with the robot count roughly quadrupling, according to CCTV News. 
+Newly added high-intensity, contact-heavy events — long jump, weightlifting, tug-of-war and table tennis — test not only a robot's "brain" and "cerebellum" but its structural frame and core components. Every additional centimeter in the long jump and every additional kilogram lifted can be traced back to engineers redesigning, machining and re-validating joint motors and reducers.
+Ticket pricing is deliberately accessible, starting at 98 yuan ($14.58) on competition days and 128 yuan for the opening and closing ceremonies, putting humanoid competition within reach of students, families and hobbyists.
+Formation drills and rehearsal
+Humanoid robots from Beijing-based tech startup Noetix Robotics on Friday participated in the rehearsal of the robot formation for the opening ceremony, a company engineer told the Global Times at the trackside. "Our humanoid robot is one of the smaller, round-bodied robots out there — that's part of our identity. We want neat, coordinated movement with as few sensors as possible."
+Compared with machines that rely on lidar and cameras, the setup is simpler and cheaper: a very small control module plus inertial sensors. The robots will walk about 100 meters to the rostrum before waving. Engineers were still tuning coordination and stability from laptops at the trackside, holding all 25 machines to the same rhythm, rather than using remote controllers. Battery life runs five to six hours, the engineer said. 
+Nearby, staff were preparing a court for a human-versus-humanoid tennis match. The robot is from Galbot, which in March became the first company anywhere to demonstrate fully autonomous humanoid tennis rallies against a human player, using a motion-learning method developed with Tsinghua University.
+On an adjacent court, a University of Hong Kong team faced an AgiBot humanoid across a table tennis net.
+"Table tennis is new this year, with teams from several Chinese and foreign universities taking part, and it tests the robots' autonomous AI decision-making," said Kang Minqin, who heads the organizing committee for the event. "There was nothing like it last year. This is the first robot table tennis competition anywhere in the world."
+"These robots can serve on their own and rally for real, well beyond exhibition performance," he added. "They can genuinely compete against trained professional players." The Hong Kong team will appear at the opening ceremony on Saturday evening, where the robots are set to face a table tennis champion.
+The X-Humanoid is entering four machines — Tien Kung Ultra, Tien Kung 3.0, Tien Kung Omni and Tianyi 2.0 — in roughly 40 racing, jumping and scenario events. 
+The engineering detail is where a year of progress shows. For sprints, the center said it upgraded the joints and reshaped the body into a lighter, wind-cutting profile, then tuned algorithms event by event — fast acceleration for the 100 meters, tighter cornering for the 400 and 1,500 meters. Last year, its robots followed the painted lane lines; this year, they use localization and mapping instead, according to a statement sent from the company. 
+Humanoid robots rehearse a formation drill for the opening ceremony of the 2nd World Humanoid Robot Games at the National Speed Skating Oval in Beijing on August 21, 2026. Photo: Zhang Yiyi/GT
+'This is the place to be'
+The back-to-back events are not only a showcase of how fast Chinese robot technology iterates, but a practice run for a more open posture toward global cooperation.
+Bikash Gurung, president of the Robotics Association of Nepal, attending for a second year, said China's humanoid ecosystem is now leading the world, its core advantage being the ability to source motors, sensors and dexterous hands in one place, having the complete supply chain, he told the Global Times on Friday during the ongoing 2026 WRC.
+When speaking of how to enhance bilateral cooperation in the robot sector between China and the South Asian country, he also stressed training local technicians — without them, a product arrives but never gets used. On dancing and running robots, he was positive: entertainment is one of three landing tracks in Nepal, with education and tourism. 
+Jacques Eone, president of the Cameroon Robotics Association, said China's biggest value is the sheer breadth of its product range: when his teams look for a specific solution, they know exactly where to go and which company to ask. China's own progress, he added, has drawn more young Africans into the field.
+The best agricultural robot in China may not be the best one for Cameroon, he said; what is missing is African data, and he is in talks with several Chinese firms on data cooperation. Selling finished machines is not enough — training, scenarios, spare parts and after-sales support must form a value chain. A water quality monitoring unmanned vessel jointly built by a Chinese company and a Cameroonian startup launched in January, and port logistics is Africa's most urgent scenario.
+Alexander Verl, a professor at the University of Stuttgart in Germany, said China is inventing applications for robots well beyond electronics and automotive — in logistics, construction and wood processing — and has built a real ecosystem of drives, electronics and controllers that he considers decisive for long-term competitiveness. The market here is also far less saturated than in the US or Europe: if you want to do robots, he said, this is the place to be.
+Asked about foreign commentary that Chinese humanoids can only perform on stage, Verl said progress is incremental while expectations are exponential — that, in his view, is the real problem — but with enough players trying, commercially viable niches will emerge.
+There is no shortage of players. At the 2026 WRC, more than 300 companies are exhibiting, up 36 percent year-on-year, with over 2,000 exhibits and more than 150 products making their debut. An industry report released during the conference showed that China shipped more than 40,000 humanoid robots in the first half of this year, lifting its share of global shipments to 97 percent.
+By late Friday night, the rehearsal music had stopped. Engineers were still crouched over laptops at the trackside, adjusting gait parameters. A few meters away, the drummers in crimson robes stood motionless in the half-dark, arms lowered — the hush before the curtain goes up, and before the opening whistle on Saturday evening.
