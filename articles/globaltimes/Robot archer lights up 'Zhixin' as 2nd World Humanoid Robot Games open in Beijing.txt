@@ -1,0 +1,32 @@
+TITLE:
+Robot archer lights up 'Zhixin' as 2nd World Humanoid Robot Games open in Beijing
+
+PUBLISHED:
+2026-08-22 21:06:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1368758.shtml
+
+ARTICLE TEXT:
+The “Zhixin,” or intelligence chip — WHRG’s equivalent to the Olympic flame — lits up above the “Ice Ribbon” on August 22， 2026. Photo：Li Hao/GT
+ The lights went down inside the National Speed Skating Oval. A humanoid robot riding on a robotic horse, lifted a bow, drew back the string and let the arrow fly.
+The arrow found its mark, and the “Zhixin,” or intelligence chip — this competition’s equivalent to the Olympic flame — lit up above the arena. The venue erupted in cheers.
+With that, the 2nd World Humanoid Robot Games opened on Saturday at the Beijing venue better known as the “Ice Ribbon” — the capital’s second robotics showcase in a week, following the 2026 World Robot Conference, which opened on August 19.
+The opening ceremony began with demonstrations of the 100-meter sprint and the standing high jump. In the sprint, a humanoid robot clocked 9.39 seconds — faster than the men's 100-meter world record of 9.58 seconds set by Jamaican sprint legend Usain Bolt. In the high jump, a humanoid robot reached 288.43 centimeters. Both marks were set by the Tien Kung Ultra humanoid robot by Beijing-based X-Humanoid. Table tennis, tennis, football and other events were then demonstrated jointly by elite human athletes and robots.
+The parade of international delegations and robot contingents followed, including formations of humanoid robots from Booster Robotics, Galbot and Noetix Robotics. The robots performed drills as they marched, all of it done autonomously with no remote control.
+The X-Humanoid fielded a 50-strong contingent of its Tien Kung 3.0 robots. Tien Kung 3.0 also served as the only robot flag bearer of the games, marching at the head of all contingents while waving the games flag, and it is also the humanoid robot archer who lighted the “Zhixin”, the company told the Global Times.
+More than a thousand robots appeared over the course of the ceremony, in a series of joint performances with humans — an opening overture played by humanoid robot musicians alongside a human orchestra, and segments with pop singers, with the judges of the dance events taking the floor themselves, and with children.
+Taishan Sports, the Shandong-based official equipment supplier of the games, provided the running tracks, the artificial turf for the football pitches, the floor surfacing for events including the long jump, high jump and weightlifting, and the impact mats that slow the robots down at the end of the sprint lanes.
+"Robots are very heavy, and what they need from a surface in terms of hardness and friction is not what a human runner needs, so we adjusted the material formula specifically," Man Fangfang, the vice director of the company, told the Global Times at the venue. The artificial turf was reworked the same way — robots do not play football the way people do, and the turf has to be non-slip and antistatic. 
+The company spent months talking to the competing teams and retesting the gear before the games. Taishan Sports has supplied equipment to eight Olympic Games and more than 3,000 sporting events, "but this is our first time serving robot games," she said.
+China's robotics industry is growing fast and robots are moving into every sector, while the sports industry has always lent itself to crossover with other fields, Man said, adding that the company wants to use the games to work out what equipment suits robots and to develop more of it.
+Compared with the first edition, the second games have expanded in both scale and quality. A total of 666 teams and 2,056 robots from 16 countries across six continents are competing, with the number of teams up 138 percent from the first edition and the number of robots quadrupling, according to CCTV.
+Competition events have doubled from 26 to 51, while the number of matches has more than doubled from 487 to 1,301. More combative and spectator-friendly events such as martial arts and dance have been added to the competitive program.
+Notably, the second games set stricter autonomy requirements for the robots. Except for the 100-meter and 400-meter obstacle races, all track events and other competitive events must be completed by robots fully autonomously. In scenario-based events, a task completed fully autonomously carries a final score weighting coefficient of 1, while one completed by remote control carries only 0.5, per CCTV.
+Analysts said the higher bar on autonomy is in line with the industry’s development goal of having robots complete tasks without human operation.
