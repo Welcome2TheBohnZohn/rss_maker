@@ -1,0 +1,24 @@
+TITLE:
+Chinese robot rallies with Olympic champion Ding Ning at 2nd World Humanoid Robot Games
+
+PUBLISHED:
+2026-08-23 12:36:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1368799.shtml
+
+ARTICLE TEXT:
+A humanoid robot and a human athlete demonstrate table tennis match at the National Speed Skating Oval in Beijing on August 22, 2026. Photo: Tao Mingyang/GT
+During the opening‑ceremony showcase for the second World Humanoid Robot Games, AgiBot Expedition A3 exchanged fast‑paced ping‑pong rallies with Olympic gold medalist Ding Ning in Beijing on Saturday.
+The robot, Expedition A3, competed free of remote controls, pre‑written scripts or live human input. Driven by SpikePingpong, the world’s first motion‑control algorithm tailored for humanoid table‑tennis, the robot operated on a full closed‑loop cycle: tracking the ball, predicting its trajectory, computing full‑body movements and swinging to hit returns, the Global Times learned from the company. 
+The rapid exchanges dazzled the audience and underscored major leaps in humanoid robots’ ability to handle dynamic physical interactions.
+Table‑tennis debuts as a brand‑new official competitive event at this year’s event, drawing 12 teams to test their robotic athletes on three core challenges: seeing the ball, computing its trajectory fast enough, and getting the racket to make solid contact.
+One surprising detail for audiences: These humanoids carry no built‑in onboard eyes. Their entire visual picture of the game comes from 10 high‑speed motion‑capture cameras mounted around the table. Eight cameras sit overhead delivering a bird’s‑eye view, while two positioned near the net track the ball’s rapid back‑and‑forth flight across the surface.
+Every movement and shot selection are made purely by AI. Within mere milliseconds after the ball crosses the net, robots have to work out return tactics and choose between forehand and backhand strokes under match pressure.
+The five‑day event host 666 teams across 16 countries, with 2,056 robots competing in 51 events, offering a global window into the fast‑evolving field of humanoid robot.

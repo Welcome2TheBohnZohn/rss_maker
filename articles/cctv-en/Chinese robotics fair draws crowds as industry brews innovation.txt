@@ -1,0 +1,67 @@
+TITLE:
+Chinese robotics fair draws crowds as industry brews innovation
+
+PUBLISHED:
+2026-08-23
+
+SOURCE:
+CCTV English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.cctv.com/2026/08/23/ARTIksCNNPkNmLcjLQRb1cum260823.shtml
+
+ARTICLE TEXT:
+A robot and a staff member demonstrate human-robot collaboration during the 2026 World Robot Conference in Beijing, capital of China, Aug. 20, 2026. (Xinhua/Xie Han)
+
+BEIJING, Aug. 22 (Xinhua) -- Unitree Robotics' blockbuster IPO, the bustling World Robot Conference (WRC), and the upcoming World Humanoid Robot Games, amount to a string of high-profile events which have combined to make this week a "super week" for Chinese robotics.
+
+Underpinning these events is a clear trend: China is swiftly becoming a global epicenter of robotics innovation, which is poised to reshape the way products are manufactured and the way people live.
+
+The numbers confirm China's significant rise in robotics. Data from the country's Ministry of Industry and Information Technology show that revenue of industrial enterprises above designated size in China's robotics sector had exceeded 300 billion yuan (about 44.24 billion U.S. dollars) in 2025, with an average annual growth rate of more than 20 percent over the past five years.
+
+Also, a report by California-based research firm Smart Analytics Global indicates that global humanoid robot shipments totaled approximately 19,100 units in the first half of 2026, with Chinese-made units accounting for over 97 percent of the total.
+
+A robotic smartphone assembly and quality inspection line is displayed at the 2026 World Robot Conference (WRC) in Beijing, capital of China, Aug. 20, 2026. (Xinhua/Ju Huanzong)
+
+More broadly, exports of industrial robots increased 13.2 percent in the January-July period, while shipments of surgical robots surged 3.3-fold year on year in the first half of 2026.
+
+Robots, AI products and innovative drugs are three new drivers of China's export growth, according to Science and Technology Minister Yin Hejun. This momentum has played out at this year's WRC, which is being held in a southeastern technology hub in Beijing.
+
+On weekday mornings, traffic ground to a halt for kilometers around the WRC exhibition hall, forcing the organizers to issue daily "travel advisories," a task that speaks volumes about the sector's red-hot vitality in China. Inside the venue, crowds are so dense they rival the throngs at CES in Las Vegas.
+
+A robot gives a drink to a staff member during the 2026 World Robot Conference in Beijing, capital of China, Aug. 20, 2026. (Xinhua/Xie Han)
+
+WRC exhibitors this year have topped 300, up 69 percent from 2025, with the event featuring over 3,000 products, and roughly 300 making their debuts. Additionally, many are powered by large AI models, cloud computing and big data.
+
+China's vast and sophisticated manufacturing sector is providing a massive testing ground for embodied AI technologies, which are now being deployed on a large scale in factories and training facilities.
+
+According to an industry research report, by June this year, China had launched over 70 training grounds for robots, with another 46 either under construction or in the planning pipeline.
+
+"This week's IPO is just the start of the journey," said Aron Kisdi, managing director of Autodiscovery and Unitree Robotics' U.K. distributor, at the company's WRC booth. Unitree Robotics, based in Hangzhou in east China, went public on China's A-share market on Wednesday, the same day the WRC opened, and its shares skyrocketed 629.44 percent to open at 1,100 yuan.
+
+"It signals that the time in the lab is nearing an end, and we're pushing robots into the real world," Kisdi explained.
+
+People visit the 2026 World Robot Conference in Beijing, capital of China, Aug. 19, 2026. (Xinhua/Zhang Chenlin)
+
+On the exhibition floor at the WRC, many booths are displaying robots operating in real-world work scenarios. A logistics robot sorts parcels at a rate of more than 1,000 items per hour, while nearby, a pair of dexterous robotic hands smoothly folds a cardboard sheet into a packaging box.
+
+At UBTECH's display zone, robots perform automated loading and unloading of automotive sheet metal parts with zero human oversight, building on earlier trials at several car plants. Chinese robotics firms have, notably, already put robots into factories to test their capability of doing more sophisticated jobs beyond just basic handling.
+
+Elsewhere at the show, automakers like Xiaomi feature their own humanoid robots, underscoring how industry demand is fueling robotics innovation.
+
+The bustling expo floor in Beijing also features robots designed for emotional companionship, housework, convenience-store retail and coffee brewing, which can tap into China's massive consumer market, the world's second-largest in terms of commodity consumption for more than 10 consecutive years.
+
+"Robots are no longer only about flashy concepts and specs. They're increasingly focused on tackling real-life challenges," said Ren Jingwei, a manager at Zhiyuan Research Institute in Hangzhou.
+
+A child interacts with a companion robot during the 2026 World Robot Conference in Beijing, capital of China, Aug. 20, 2026. (Xinhua/Ju Huanzong)
+
+Also, this year's WRC fair is no longer just for curious onlookers. Industry players up and down the supply chain are busy exchanging business cards and phone numbers there in bids to forge new partnerships.
+
+One noteworthy shift this year is the considerable presence of dexterous-hand sensor makers, joint module suppliers and chip manufacturers at the WRC. These component suppliers, once supporters behind finished robots, have now also taken center stage in their own niche sectors -- a sign that China's robotics industry is maturing into a more sophisticated ecosystem.
+
+Humanoid robots could spur investment across precision transmission, smart sensors, AI chips and intelligent software, generating a huge market from R&D to after-sales service, said Xu Xiaolan from the Chinese Institute of Electronics.
+
+To many attendees, Beijing's robot show points to an upcoming transformative change in the industry. The "ChatGPT moment" for embodied AI will come in two to three years under an optimistic outlook, or within five to ten years at the latest, said Wang Xingxing, Unitree Robotics founder and CEO, when speaking at a WRC forum.
