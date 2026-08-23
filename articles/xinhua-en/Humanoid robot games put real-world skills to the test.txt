@@ -1,0 +1,42 @@
+TITLE:
+Humanoid robot games put real-world skills to the test
+
+PUBLISHED:
+2026-08-23
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260823/4deac69e79dd42e29385efa2a8cbafad/c.html
+
+ARTICLE TEXT:
+BEIJING, Aug. 23 (Xinhua) -- Inside a makeshift restaurant, a humanoid robot gripped a snack with a pair of tongs, placed it in a microwave, turned the timer dial and then moved on to deal with another order -- all under the watchful eyes of judges.
+The restaurant-service contest, held earlier this week ahead of Saturday's official opening of the second World Humanoid Robot Games, offered a glimpse of a central focus of this year's event: testing robots not only in athletic competitions, but also in workplace tasks.
+Running through to Wednesday, the games have attracted 666 teams and 2,056 robots from 16 countries and regions across six continents, with team participation quadrupling from the inaugural edition last year. The event features 51 competition items, up from 26 last year, while the number of matches has surged from 487 to 1,301.
+Among the biggest additions are 21 scenario-based contests, covering settings such as factories, hotels, homes and logistics facilities.
+Tasks ranging from industrial assembly and housekeeping to emergency rescue and library book sorting are designed around jobs that can be repetitive, physically demanding, dirty, dangerous or difficult.
+At a service contest staged in a realistic hotel setting, more than 10 robot teams were given 30 minutes to tackle three tasks: moving luggage of different sizes, replenishing guest-room supplies and making beds.
+"Judges look at how many tasks the robot completes, whether there are collisions and how smoothly it performs," said an organizer of the contest.
+Even routine actions can pose demanding tests of robotic dexterity. In the restaurant contest, for example, robots had to turn a microwave timer to five minutes, with deviations of more than one minute costing points. They could also be penalized if too much liquid was spilled while delivering a prepared drink.
+This year's games have also introduced a dedicated dexterous-hand competition, featuring eight high-precision tasks including power-tool assembly, picking up beans with tweezers, weighing powder, prying open bottle caps and connecting flexible cables.
+The emphasis reflects an effort to bring competition tasks closer to actual workplace needs.
+Liu Weiliang, deputy head of the Beijing Municipal Bureau of Economy and Information Technology, said organizers had surveyed stakeholders in areas that include commercial services, landscaping inspection and emergency rescue, before designing the events.
+In one case, competitive tasks reflected worker duties at supermarkets, where employees may spend long hours at night restocking shelves, packing delivery orders and returning misplaced goods -- repetitive work that can be time-consuming and physically tiring.
+"Every task completed is effectively a trial run in a real-world scenario," said Liu. "There is no need to rebuild the same testing environment after the competition. Performance on the field itself provides evidence of commercial viability."
+The bar for autonomy has been raised as well.
+Except for the 100-meter and 400-meter hurdles, all track and other competitive events require full autonomy. In scenario-based events, fully autonomous operation carries a scoring coefficient of 1, compared with 0.5 for remote-controlled operation.
+Jiang Guangzhi, head of the Beijing Municipal Bureau of Economy and Information Technology, said that many competition rules are expected to evolve into practical technical standards, helping turn technological advances into industrial applications.
+"Once robots master these 'last-meter' skills, they can turn medals into orders and move directly from the competition arena to real-world workplaces," Jiang said.
+Xu Xiaolan, chairwoman of the Chinese Institute of Electronics, said at the recently held 2026 World Robot Conference in Beijing that China's humanoid robot industry had entered a critical stage of large-scale commercialization and deployment, with embodied intelligence products moving from small-batch trials toward broader adoption.
+Major technical challenges, however, remain.
+Wang Xingxing, founder of Unitree Robotics, said limited generalization capability is currently the biggest bottleneck facing the global humanoid robot industry.
+In controlled settings, he said, AI models trained on sufficient data can achieve task success rates close to 100 percent. But performance can fall sharply once the object being handled or the surrounding environment changes.
+Wang said "a ChatGPT moment in embodied intelligence" will come when a robot can be placed in an unfamiliar environment and complete about 80 percent of everyday tasks through simple voice or text instructions.
+He expects such a breakthrough could come as early as within two to three years, or within five to 10 years at the latest.
+For now, the games also serve as a testing ground to assess the technology's progress. Liang Hongjun, an official with Beijing Municipal Bureau of Economy and Information Technology, said the World Humanoid Robot Games were designed to give companies, investors and the public a more tangible view of the development of humanoid robots.
+"The industry is moving from telling technology stories to delivering real-world applications, and from pure technology development toward products and services," Liang said.
+That transition, he added, will require companies to focus on technological innovation, while governments and industry organizations work on opening up application scenarios, developing standards and defining safety boundaries. ■
