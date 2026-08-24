@@ -1,0 +1,47 @@
+TITLE:
+IPO, athletic feats and mass deployment show China's robot momentum
+
+PUBLISHED:
+2026-08-24
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260824/d32ee2510505462db000fa84b493f715/c.html
+
+ARTICLE TEXT:
+BEIJING, Aug. 24 (Xinhua) -- The past week has been busy and fruitful for China's humanoild robot industry, which is qucikly racing from lab demos toward real-world deployment.
+On Wednesday, as the 2026 World Robot Conference (WRC) opened in Beijing, drawing more than 300 exhibitors from 26 countries with over 3,000 products, Unitree Robotics became the first humanoid robot maker to list on China's A-share market.
+On Saturday, the second World Humanoid Robot Games kicked off at the "Ice Ribbon," the 2022 Winter Olympics venue, with 666 teams and 2,056 robots from 16 countries.
+ROAD TO PROFITABILITY
+Unitree debuted on the Shanghai Stock Exchange's STAR Market on Aug. 19, opening at 1,100 yuan (about 162 U.S. dollars) per share -- a 629-percent premium. As of Monday's opening, although it had pulled back significantly, it still remained at a high level.
+The sell-off from the opening high was a sobering signal. Financial observers noted that the sector will enter a digestion period that may last for months, predicting investors will shift their focus from rewarding "the only listed robot stock" to its actual business performance.
+Still, Unitree's listing marks a watershed moment for China's humanoid robot industry.
+The listing will transition the industry from "technological validation" and "narrative-driven hype" into an era of "commercial value verification," where profitability is the ultimate test, said Tian Lihui, a finance professor at Nankai University.
+Unitree has already delivered a compelling answer. Established in 2016, the company shipped over 5,500 humanoid units in 2025 to secure the top spot worldwide. Its revenue surged to nearly 1.7 billion yuan in 2025, and the momentum continued into the first half of 2026, with revenue reaching approximately 1.15 billion yuan, up 48.54 percent year on year.
+Unitree's success is underpinned by its strong emphasis on independent R&D and technological innovation. The company has achieved vertical integration by developing proprietary core components -- including motors, reducers, controllers, and LiDAR -- alongside high-performance perception and motion control algorithms. This in-house approach is backed by a portfolio of over 200 patent applications.
+The company's founder Wang Xingxing attributed its growth to independent innovation, pragmatic execution and long-termism. He emphasized that, because the humanoid robotics industry remains in its dawn phase, navigating its significant challenges requires collective effort and sustained investment from the entire sector.
+TECH LEAP IN PITCH
+While the IPO measured progress in valuation, the robot games measured it in velocity, endurance and raw athleticism -- taking the technology off the lab bench and onto the pitch.
+In the 100-meter heats, the Beijing-based humanoid robot Tien Kung Ultra crossed in 9.39 seconds, faster than Usain Bolt's 9.58-second human world record. Tien Kung Ultra also posted a standing high jump of 2.88 meters, well above the human mark.
+The games also featured a dazzling array of human-machine showdowns: robots traded shots with Olympic table tennis champion Ding Ning and tennis Grand Slam winner Zheng Jie, and went toe-to-toe with former national football player Yang Chen.
+Robot football offered a special glimpse of how far the technology has come. Beijing-based Booster Robotics' newly developed bipedal robot, Booster T2, is the star player in the large size group of the football tournament at this year's games. Beyond its taller stature and greater strength, the robot can kick balls at over 100 km/h, and its end-side computing power is 10 times that of the previous generation, with the system latency dropping from 10 milliseconds to 4 milliseconds.
+Many events at the games were run fully autonomously, with no remote controls, testing robots' ability to perceive and decide independently. "Every centimeter higher, every kilogram heavier, reflects engineers' optimization of joint motors and reducers," said Jiang Guangzhi of Beijing's Bureau of Economy and Information Technology.
+REAL-WORLD APPLICATIONS
+As China's robots demonstrate formidable technological prowess, the industry is now focusing on expanding robots' real-world applications -- a widely recognized challenge within the industry.
+The World Robot Conference serves as a resounding testament to China's pragmatic shift and its global resonance. At the event, Beijing Galbot Co., Ltd. drew crowds with robots folding clothes, fetching goods, and making breakfast. The company says its pharmacy sorting robots are already deployed in nearly 100 stores across more than 10 cities, including Beijing, Shanghai and Shenzhen.
+At the Galaxea AI display area, visitors could scan a QR code to place an order and then watch a wheeled robot pick, pack and label items they ordered in real time. The company's robots will be rolled out to unmanned warehouses and supermarkets this year, and has already partnered with JD.com for warehouse sorting and shelving.
+Practical robots took center stage, just as the Spanish news agency Agencia EFE reported on the conference, Chinese companies are transitioning robots from mere "attention-grabbers" to genuine "workers and practical consumer goods."
+Xiong Youjun, CEO of the Beijing Humanoid Robot Innovation Center, said this year's conference showed an industry clearly transitioning from mere technological showmanship to industrial implementation. He added that the sector is currently on the "eve of the ChatGPT moment" regarding embodied intelligence, with companies across the board accelerating the deployment and validation of their technologies.
+A recent Morgan Stanley report draws a striking parallel between the current trajectory of China's humanoid robotics industry and the electric vehicle sector a decade ago. The investment bank predicts that over the next five to ten years, humanoid robots are poised to become the next major driver of China's machinery exports.
+BOOMING INDUSTRIAL LANDSCAPE
+The rapid ascent of the robot industry perfectly aligns with China's national strategic blueprint for future development.
+"Embodied intelligence" was first written into China's government work report in 2025. Furthermore, China's 15th Five-Year Plan (2026-2030) calls for a forward-looking layout of future industries, including embodied artificial intelligence, alongside mechanisms to boost funding and share risks in these emerging sectors.
+Data underscores this momentum. Among companies currently queuing for an IPO on the Hong Kong Stock Exchange alone, 46 are robotics-related, highlighting China's systematic industrial advantage in embodied AI. As Bloomberg noted, the surge in robot IPOs "reflects the rapid rise of China's AI ecosystem."
+This wave of listings comes amid China's robotics sector securing unprecedented global prominence. China is now home to over 140 humanoid robot manufacturers. With an annual shipment volume of 14,400 units, the country now accounts for eight out of every ten humanoid robots produced globally.
+Global shipments of humanoid robots reached approximately 19,100 units in the first half of this year, with China accounting for over 97 percent of the global total, industry data shows.
+According to Xi Yue, co-founder of Beijing-based leading robot maker Robotera, the nation's robotics industry now stands firmly in the first tier globally, boasting the world's largest application market, the most comprehensive supply chain, and a leading edge in embodied AI algorithms. ■
