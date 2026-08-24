@@ -1,0 +1,28 @@
+TITLE:
+China releases 1st full-stack MRI-based BCI solution in the world, making 'neural plasticity measurable, controllable'
+
+PUBLISHED:
+2026-08-24 14:56:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1368885.shtml
+
+ARTICLE TEXT:
+A medical worker guides a patient to use a brain-computer interface (BCI) device for hand rehabilitation at a hospital in Bengbu, east China's Anhui Province, July 17, 2026. Bengbu, a traditional industrial city, has stepped up the development of its brain-computer interface (BCI) industry in recent years. By strengthening collaboration among industry, research institutes and medical institutions, Bengbu has built an innovation ecosystem that supports both BCI research and clinical application, aiming to become an emerging BCI innovation hub in the Yangtze River Delta region. Photo: Xinhua
+A Chinese team has recently released the world's first full-stack magnetic resonance imaging (MRI)-based brain-computer interface (BCI) solution, uMR Shenguan, which integrates the entire chain of signal acquisition, decoding, modulation, and evaluation for BCI research, development and clinical use, the Global Times learned. 
+The solution is not simply putting an MRI system and a BCI device together; rather, it achieves a closed loop of decoding brain signals, modulating the brain, and verifying the effects within the same technical framework, making "understanding the brain, precise modulation, and making neural plasticity measurable and controllable" a reality, a spokesperson of the research team told the Global Times on Monday.
+In terms of core capabilities, the solution features millisecond-level capture of neural activity signals and sub-millimeter fine measurement of brain structures. It can effectively compensate for complex magnetic field distortions, ensuring imaging quality in environments with implanted BCI devices. It also establishes a magnetically compatible brain-computer interface toolbox to address the industry challenge of mutual interference between BCI devices and MRI systems.
+At the same time, it connects the imaging-modulation technical chain, enabling MRI to participate in the full process of BCI and complete the closed loop.
+It has also established a complete technical system spanning high spatiotemporal resolution MRI, MRI hardware adaptation and optimization, a magnetically compatible BCI adaptation toolbox, and a new paradigm of MRI-guided neuromodulation. Under the system, MRI is upgraded from an "imaging diagnostic device" into the core perception and feedback hub within the BCI closed loop.
+"The solution enables synchronized coordination of observation and intervention in brain research, advancing brain-computer interfaces from 'decoding signals' toward 'understanding the brain' while opening up a new tech pathway for brain science research, Ming Dong, vice president of Tianjin University and Director of the Haihe Laboratory of Brain-Computer Interaction and Human-Machine Integration, told the Global Times on Monday. The solution was jointly released by Shanghai United Imaging Healthcare Co and Tianjin University. 
+Ming also stressed that high spatiotemporal resolution analysis of brain structure and function is an important foundation for developing high-performance BCI technologies.
+The release of the solution comes as BCI technologies have been rapidly transitioning from the laboratory to clinical and industrial applications. Ming expected that in 2026, the BCI industry is likely to experience rapid development.
+This progress has been driven by the accelerated advancement of technologies such as ultra-high-field MRI, fast imaging sequences, real-time signal processing, and AI-based decoding, all of which are propelling the deep integration of MRI and BCI from theoretical concepts into engineering practice, industry insiders noted.
+According to Ming, China's BCI applications in the medical field are bearing fruit, for example, in the treatment of motor rehabilitation, neuro-critical care, psychiatry, ophthalmology, audiology, and other areas. He expected that as the technology continues to mature, consumer applications are expected to follow suit, including areas such as education, sports, gaming, sleep improvement, and industrial safety.
+Global Times

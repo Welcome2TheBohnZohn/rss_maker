@@ -1,0 +1,26 @@
+TITLE:
+Opinion: What 9.39 seconds says about human ingenuity
+
+PUBLISHED:
+2026-08-24
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260824/64abe42e9d7b4373a2423ce892ae3ef0/c.html
+
+ARTICLE TEXT:
+BEIJING, Aug. 24 (Xinhua) -- At the second World Humanoid Robot Games in Beijing on Saturday, China's Tien Kung Ultra humanoid robot clocked 9.39 seconds at the finish line, shattering the 9.58-second men's 100-meter world record set by Jamaican sprinter Usain Bolt 17 years ago.
+The comparison is irresistible, though the two feats are hardly equivalent: Bolt shows how fast the human body can run; the robot shows how far human ingenuity can go.
+At the current stage of humanoid robot development, running remains a formidable challenge. The robot must generate force, absorb repeated impacts and maintain dynamic balance while coordinating multiple joints simultaneously. Speed tests every technical limit: the faster the machine moves, the less time it has to recover from a mistake.
+That makes the pace of improvement remarkable. At last year's Games, Tien Kung Ultra took 21.5 seconds over the same distance. One year later, it had more than halved that time.
+Progress on that scale rarely comes from a single breakthrough. Over the past year, engineers upgraded the robot's joints, refined its structure and reworked its control algorithms for high-speed running. They have also improved its navigation, allowing it to hold its course at speed without relying on track markings.
+Breaking the human record, however, is never the ultimate goal of engineering. Every improvement reveals the next weakness. Even Saturday's 9.39-second run pointed to the next challenge: the robot had a slower start, although its higher top speed allowed it to pull ahead later in the race.
+Competition helps accelerate that process. It provides clear targets, common benchmarks and visible results. Once one team raises the bar, everyone else has a new standard to meet -- and proof that a higher level of performance is attainable.
+Ultimately, the goal of humanoid robot innovation is not simply to make robots move like humans, but to enable them to work alongside people and take on useful tasks in the real world.
+A factory robot does not need to win a sprint, nor does a service robot need a medal. But every gain in speed, stability and precision on the competition floor can bring robots one step closer to becoming genuinely useful beyond it.
+That is what gives 9.39 seconds significance beyond the stopwatch. The speed record captures how far the machine has come in a year; behind it are countless human decisions, experiments and refinements that made that progress possible. The next test will be how far those advances can go beyond the track.■
