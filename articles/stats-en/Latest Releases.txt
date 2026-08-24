@@ -2,7 +2,7 @@ TITLE:
 Latest Releases
 
 PUBLISHED:
-2026-08-18
+2026-08-24
 
 SOURCE:
 National Bureau Statistics English
@@ -29,33 +29,33 @@ Release Calendar
 Home
 >
 Latest Releases
-1.Industrial Production Operation in July 2026
+1.Market Prices of Important Means of Production in Circulation, August 11-20, 2026
+2026-08-24
+2.Industrial Production Operation in July 2026
 2026-08-18
-2.Investment in Fixed Assets from January to July 2026
+3.Investment in Fixed Assets from January to July 2026
 2026-08-18
-3.Investment in Real Estate Development from January to July 2026
+4.Investment in Real Estate Development from January to July 2026
 2026-08-18
-4.Total Retail Sales of Consumer Goods from January to July 2026
+5.Total Retail Sales of Consumer Goods from January to July 2026
 2026-08-18
-5.Energy Production in July 2026
+6.Energy Production in July 2026
 2026-08-18
-6.National Economy Maintained Steady Momentum with Innovation-driven and High-quality Dev...
+7.National Economy Maintained Steady Momentum with Innovation-driven and High-quality Dev...
 2026-08-17
-7.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
+8.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
 2026-08-17
-8.Market Prices of Important Means of Production in Circulation, August 1-10, 2026
+9.Market Prices of Important Means of Production in Circulation, August 1-10, 2026
 2026-08-14
-9.Consumer Price Index in July 2026
+10.Consumer Price Index in July 2026
 2026-08-10
-10.Industrial Producer Price Indexes in July 2026
+11.Industrial Producer Price Indexes in July 2026
 2026-08-10
-11.Market Prices of Important Means of Production in Circulation, July 21-31, 2026
+12.Market Prices of Important Means of Production in Circulation, July 21-31, 2026
 2026-08-04
-12.Purchasing Managers’ Index for July 2026
+13.Purchasing Managers’ Index for July 2026
 2026-08-01
-13.The Value Added of the “Three New” Economy in 2025
+14.The Value Added of the “Three New” Economy in 2025
 2026-07-31
-14.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
+15.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
 2026-07-31
-15.Profits of Industrial Enterprises above the Designated Size from January to June in 2026
-2026-07-28

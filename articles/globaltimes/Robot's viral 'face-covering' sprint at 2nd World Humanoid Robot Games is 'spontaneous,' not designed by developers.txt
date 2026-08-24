@@ -1,0 +1,26 @@
+TITLE:
+Robot's viral 'face-covering' sprint at 2nd World Humanoid Robot Games is 'spontaneous,' not designed by developers
+
+PUBLISHED:
+2026-08-24 11:42:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1368875.shtml
+
+ARTICLE TEXT:
+Tien Kung Omni humanoid robots sprint at the 400-meter run small-group final at the 2nd World Humanoid Robot Games held in Beijing on August 23, 2026. Photo: Tao Mingyang/GT 
+A humanoid robot that grabbed a 400-meter title at the 2nd World Humanoid Robot Games (WHRG) in Beijing while appearing to "cover its face with both hands" developed the unusual posture by itself during sprinting, its developers said, after clips of the run drew wide attention online.
+Tien Kung Omni, built by the Beijing-based X-Humanoid, won the 400-meter run small-group final on Sunday in 45.66 seconds. Rather than swinging its arms forward and back as a human sprinter does, the robot ran with its center of gravity pitched forward and its arms held high near its face, swinging them widely as its hips rotated from side to side — a gait viewers likened to "a shy person hiding behind their hands."
+The posture was not what engineers had in mind. "We initially designed Tien Kung Omni's gait around a human-style arm swing," Han Gang, a motion control algorithm expert at the company, told the Global Times. In a simulated learning environment, the team gave the robot continuous rewards, and through repeated iteration on the data it gradually settled into a posture that suited it better. "It feels that this is more comfortable," Han said.
+The reason is a physical constraint, Han explained. Swinging the arms rapidly places a heavy load on the shoulder joints, which can cause them to heat up and drive up energy consumption — leaving the robot unable to sustain the full 400m. Running with its hands near its face allows the robot to complete the distance quickly while keeping its legs powerful and its arms under low load.
+Different distances pose different problems, Han added. In endurance events such as the humanoid half-marathon, engineers have to pay closer attention to heat dissipation in the hip joints after long periods of running. Over shorter distances such as the 100m and 400m, hip overload is much less of a concern.
+The next challenge, Han said, lies beyond the track: robots will need to interact with more complex environments and complete tasks while being disturbed by outside forces. "Once there is a breakthrough, we may soon see unexpected applications across many fields," he said.
+In the large-group 400-meter run final held earlier the same day, the company's Tien Kung Ultra took gold in 38.15 seconds. The time is faster than the men's 400m world record of 43.03 seconds, set by South Africa's Wayde van Niekerk at the 2016 Rio Olympics and still standing after a decade.
+The margin reflects how quickly the field is moving. At the first edition of the games last year, the winning 400m time was 1 minute 28.03 seconds — nearly 50 seconds slower. 
+Global Times

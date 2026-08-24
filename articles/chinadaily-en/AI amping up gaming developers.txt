@@ -1,0 +1,32 @@
+TITLE:
+AI amping up gaming developers
+
+PUBLISHED:
+2026-08-24
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202608/24/WS6a8b884c45ce1d0de951f0f0.html
+
+ARTICLE TEXT:
+AI amping up gaming developers
+Rapid development of technology fundamentally restructuring process
+The effective application of artificial intelligence technologies and further global business expansion are seen as the key drivers shaping the future of China's gaming industry, business leaders and developers said at the 23rd China Digital Entertainment Expo and Conference (ChinaJoy), which took place from July 31 to Aug 3 in Shanghai.
+The rapid development of AI technologies — such as large language models, multimodal models and AI agents — is fundamentally restructuring the entire game development and operations process. Targeting specifically the gaming industry, the AI gaming cloud has been booming over the past few years.
+According to a recent research report by United States-based market consultancy IDC, the AI gaming cloud basically refers to the AI technologies, products and services used by game developers throughout the production process, from game design and prototyping to game development and testing, as well as game publishing and operations.
+The report showed that China's AI gaming cloud market reached 1.86 billion yuan ($275 million) last year. The sector is expected to maintain a compound annual growth rate of about 91.6 percent over the next five years, hitting 11 billion yuan by 2029 and contributing more than half of the overall gaming cloud market.
+Baidu AI Cloud, one of the earliest Chinese tech giants engaging in the sector, took about 51 percent of the nation's AI gaming cloud market share, said the report. To date, it has established in-depth partnerships with more than half of the nation's leading game companies and over 100 innovative AI gaming firms, providing full-stack AI capabilities to companies such as miHoYo, Net-Ease Games, 37 Interactive Entertainment and Unity China.
+Among Baidu AI Cloud's offerings, its AI Heterogeneous Compute serves as the AI infrastructure that allows game developers to focus on essential content creation without worrying about computing power management.
+Baidu Qianfan, an enterprise-grade, all-in-one large model platform, is built around agents, providing the gaming industry with a one-stop platform for model access, agent development and data intelligence services. It can support end-to-end AI collaboration across the entire workflow from text creation and character design to 3D modeling, animation production and code development, helping game developers improve both creative efficiency and quality.
+"What AI truly unlocks is not just the content production capacity, but the gaming industry's ability to continuously create new gameplay, new characters and new experiences," said Zhang Wei, vice-president of Baidu Intelligent Cloud.
+Baidu's AI solutions have empowered gaming businesses, such as SingularDance and SEELE AI. SingularDance is an innovative tech firm focused on the development of AI emotional companionship and hyper-personified intelligent agents.
+Edward Lu Hongyi, founder and CEO of SingularDance, highlighted that they are committed to creating virtual characters that not only know how to chat with users, but also possess distinct, stable, independent and continuously evolving personalities with a "soul".
+With a core focus on restructuring traditional game development workflows, SEELE AI is a tech firm focused on AI-native games and interactive worlds powered by foundational models. Collaborating with Baidu, it enables users to automatically generate interactive 3D game worlds via natural language using multimodal inputs, such as text and images, to complete the entire workflow, including character modeling, animation generation, scene construction, game mechanics and narrative presentation.
+"We aim to enable every creative individual to collaborate with AI agents via natural language, quickly transforming their ideas into game worlds that are accessible, playable, editable and continuously iterable. So every gamer can actually become a game developer, and generate income from their creation," said Liu Bo, the company's partner of business operations.
+Hu Xin, assistant to the chairman of Zhejiang Century Huatong Group, said that currently, AI has been fully integrated into more than 80 percent of the company's entire workflow of game development, which is also the case for most businesses in the gaming industry. The future competition within the industry would be much about "creativity, aesthetics and user insights".
+The group, which is the parent company of Shengqu Games and Century Games, is also actively ramping up efforts in globalization and international collaboration for sustained growth. Following a fruitful 17-year partnership with South Korea's NC Corp, Shengqu Games unveiled the two sides' new collaboration on the much anticipated game AION 2 on July 30 during the ChinaJoy 2026 expo.

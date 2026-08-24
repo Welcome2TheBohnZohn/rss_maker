@@ -1,0 +1,43 @@
+TITLE:
+Robots' swift progress hailed
+
+PUBLISHED:
+2026-08-23
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202608/23/WS6a8b187fa31024f4ef14830c.html
+
+ARTICLE TEXT:
+Robots' swift progress hailed
+Bipeds push tech boundaries, beat human records at Beijing games
+As biped robots shatter human world records at the second World Humanoid Robot Games, the event showcases not only China's rapid strides in embodied intelligence over the past year, but also the industry's swift progress toward real-world applications, according to Chinese and international executives and experts.
+Their comments came after the games opened in Beijing on Saturday evening, with 2,056 robots from 666 teams, representing 16 countries across six continents, set to compete in 51 events through Wednesday.
+On the track, the action delivered jaw-dropping moments. A Chinese humanoid robot ran 100 meters in 9.39 seconds in a preliminary heat, beating the human record of 9.58 seconds set by Jamaican sprinting great Usain Bolt in 2009. The result was a sharp improvement from the inaugural games last year, when the 100-meter race was won in 21.50 seconds.
+In a standing high jump, a robot cleared 2.88 meters, surpassing the human high jump record of 2.45 meters set by Cuba's Javier Sotomayor in 1993 as well as the 0.95-meter jump that was the best result by a humanoid in last year's games.
+A Chinese humanoid robot also won the 400-meter final for large robots on Sunday in 38.15 seconds, outpacing the human world record of 43.03 seconds.
+The 1,500-meter final added another record-breaking moment to the games, with 35 robots competing in seven heats and the top three all finishing ahead of the human world record of 3 minutes 26 seconds, led by the winner in 2:21.63.
+Zhao Mingguo, a researcher at Tsinghua University's Department of Automation, said that just as human sports push the limits of the human body, the humanoid robot games are designed to extend the technological boundaries of smart machines across various scenarios and conditions.
+According to Zhao, the defining difference this year is the shift to autonomy. Organizers have scrapped remote controls for most events, requiring robots to rely entirely on their own artificial intelligence to perceive their surroundings, make autonomous decisions and execute actions.
+"From 'strings-attached' puppets to autonomous athletes, that's the transformation we've witnessed in just one year," he said.
+The sector's growing vitality is reflected in the numbers. Team entries have jumped 138 percent year-on-year, while the number of participating robots has quadrupled.
+This momentum is underpinned by China's manufacturing strengths. In the first half of the year, the country shipped more than 40,000 humanoid robots, accounting for 97 percent of global output, according to the Chinese Institute of Electronics. The Ministry of Industry and Information Technology projected that full-year production will exceed 100,000 units.
+Beyond the competition, the event served as a showcase for human-robot synergy. The opening ceremony featured a "human-robot symphony" that blurred the line between machine and performer, with 36 robots playing wind instruments, pianos and drums alongside a human orchestra, while 80 robots autonomously formed the games' emblem and another 80 spelled out "Beijing".
+These smart machines also traded forehands with renowned Chinese athletes, including tennis star Zheng Jie. "I was truly impressed by the robot's performance today," Zheng said. "I hope that in the future, robots can provide customized training for professional athletes and serve as a valuable auxiliary tool."
+Zheng's remarks point to a deeper ambition behind the games. Beyond the spectacle, this year's event introduced 21 scenario-based competitions covering hotels, hospitals, logistics and emergency response, accelerating the transition of robots from the lab to real-world applications.
+One such event, the dexterous-hand competition, tested micro-precision through tasks such as handling tweezers, weighing powder and twisting caps.
+The "combined pentathlon" raised the stakes further by merging sprinting with task completion, compelling robots to master physics, adapt to varied surfaces and recover from stumbles.
+"The goal is to evaluate how far mass-produced robots can perform in real environments," said Chen Zilong, captain of China's Afu robot team.
+During the hotel scenario practice, his machines struggled on thick carpet — a surface never encountered in training. Yet Chen sees the setback as providing valuable data. "When people see robots operating in hotels, malls and fire-rescue scenarios, they begin to imagine the possibilities," he said.
+Zhang Feng, Party secretary of the Council of the Chinese Institute of Electronics, said the games are unfolding against a broader backdrop of technological transformation.
+"Humanoid robots are moving beyond stage performances and racetrack demonstrations to become genuine assistants in our homes and workers on factory floors. They are poised to be the next game-changing innovation after computers, smartphones and new energy vehicles," Zhang said.
+According to the institute, China's humanoid robot market is projected to hit 870 billion yuan ($129.4 billion) by 2030, playing a key role in advancing the country's high-quality development.
+China's technological strides also impressed international teams. Flavio Tonidandel, coach of Team Brazil, which comprises students and faculty from five universities, said, "We are thrilled to program the Chinese robot, the Booster, and interact with the most advanced humanoid robot we have ever seen."
+Zati Hakim Azizul Hasan, mentor of Malaysia's Robotedge team, said: "China offers the best components. When you see robots that run faster and jump higher, that's the Chinese secret recipe. Chinese technology is exceptional in the world, and they can also make this software very affordable. This is what makes Chinese technology so intriguing."
+Samantha Zhu, chairperson of Accenture China, said: "China is emerging as a critical testing ground for embodied intelligence such as humanoid robots. AI is no longer just a tool; it's becoming a versatile, cross-scenario capability permeating every facet of enterprise operations."
+Local governments are also moving swiftly. The Beijing municipal government, for instance, has established a 10 billion yuan investment fund for robotics, which is expected to attract over 53 billion yuan in additional private capital. The city now hosts nearly 1,000 robotics companies, including seven valued at over $1 billion — the highest number in the country.

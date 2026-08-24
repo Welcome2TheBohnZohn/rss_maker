@@ -1,0 +1,28 @@
+TITLE:
+China's robots: Don't just watch, understand the industrial system
+
+PUBLISHED:
+2026-08-24
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0824/c90000-20491489.html
+
+ARTICLE TEXT:
+China's robots: Don't just watch, understand the industrial system
+Illustration: Chen Xia/GT
+A Chinese humanoid robot clocked 9.39 seconds to beat the men's 100m world record of 9.58 seconds set by Usain Bolt. This feat, achieved during the opening ceremony of the second edition of the World Humanoid Robot Games in Beijing on Saturday, quickly captured global headlines.
+The second World Humanoid Robot Games offered a vivid window into the country's fast-moving robotics industry. Images of humanoid machines running, balancing, navigating obstacles and performing coordinated tasks naturally attract attention. Such events reveal something significant: China has become exceptionally capable of translating advances in components, controls, software integration and manufacturing into physical machines that can be built, tested and improved at speed.
+The value of these competitions lies less in a single headline-grabbing performance than in the industrial system behind it. A humanoid robot on a track is the visible result of motors, reducers, sensors, batteries, structural materials, motion-control systems, embedded software, training data, assembly processes and field maintenance working together. China's advantage increasingly lies in its ability to coordinate the entire supply chain. It has a broad base of electronics and machinery suppliers, strong manufacturing capacity, dense industrial clusters, and a large pool of potential users willing to test robots in factories, warehouses, ports, shops, hospitals and service settings. Competitions can therefore serve as public demonstrations and stress tests for a wider ecosystem.
+This development has occurred amid expanding US restrictions on China's access to advanced technologies, particularly leading-edge semiconductors, high-performance computing equipment and certain software and manufacturing tools. These measures have had real effects. They raise costs, complicate supply chains and make it harder for Chinese firms to obtain some of the most advanced chips and technical capabilities. Robotics increasingly depends on artificial intelligence, high-performance processors and sophisticated development tools, and US containment policy has challenged China's robotics development.
+Yet the restrictions have not stopped China's robotics industry from growing. One reason is that industrial competitiveness is not determined by frontier chips alone. In many robotics applications, the decisive challenge is making a system reliable, affordable, maintainable and safe in real operating conditions. China's large and varied domestic market provides companies with unusually frequent opportunities to confront these challenges. A robot deployed in a logistics center, manufacturing workshop or pharmacy generates feedback that can improve design, software, hardware integration and service procedures. This creates a reinforcing cycle: More applications produce more operational data and experience; better products reduce costs and increase confidence; and lower costs support wider deployment.
+Scale matters as well. China's manufacturing ecosystem enables firms to move from prototype to small-batch production and then to larger-scale delivery relatively quickly. That process can accelerate learning not only for robot makers but also for suppliers of actuators, sensors, machine vision systems, batteries and precision components. The result is not simply a lower-cost version of foreign technology. It is a growing capacity to adapt products to diverse use cases and to iterate rapidly when products encounter real-world constraints.
+This has implications beyond China. As robots become more available and affordable, they can help manufacturers globally address labor shortages, improve workplace safety and raise productivity in repetitive or hazardous tasks. Chinese firms can contribute equipment, components and competitive pressure that expand the overall market and reduce barriers to adoption. In this sense, China's robotics progress may become part of a broader modernization of global manufacturing rather than a purely national achievement.
+However, a balanced assessment requires acknowledging the remaining gaps. The US retains major strengths in foundational artificial intelligence research, advanced semiconductors, computing platforms and software ecosystems. Japan and several European countries remain highly competitive in precision components, industrial reliability, specialized automation, safety systems and technical standards. China still faces challenges in certain high-end chips, core software, advanced sensors, precision parts, long-term reliability, and internationally recognized standards and certification.
+China's recent robotics events deserve attention because they illustrate a broader industrial fact. Despite external technological constraints, China has leveraged its domestic market, supply-chain depth, engineering talent and manufacturing scale to strengthen its position in robotics. Its advantage lies not in claiming technological supremacy in every category, but in its growing ability to turn innovation into deployment. If China can continue to close its remaining gaps while remaining open to global collaboration and standards, its robotics industry could become an important contributor to the next phase of worldwide industrial development.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
