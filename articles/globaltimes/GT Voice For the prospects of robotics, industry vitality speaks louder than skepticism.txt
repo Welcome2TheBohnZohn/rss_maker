@@ -1,0 +1,31 @@
+TITLE:
+GT Voice: For the prospects of robotics, industry vitality speaks louder than skepticism
+
+PUBLISHED:
+2026-08-24 22:36:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1368920.shtml
+
+ARTICLE TEXT:
+Visitors watch a robot folding clothes at the 2026 World Robot Conference in Beijing, August 19, 2026. Photo: VCG
+As Chinese-made humanoid robots are making spectacular performance at the 2nd World Humanoid Robot Games (WHRG), the commercial prospects of humanoid robots have become a topic of discussion among some Western media outlets.
+The Economist published an article on Sunday headlined "China will struggle to make money from humanoid robots," which focuses on development challenges such as the high data collection costs facing the sector, casting doubt on the commercial viability of the emerging industry.
+This perspective does capture the bottlenecks the industry faces in data acquisition and the efficiency of model training. But to judge the commercialization prospects of an emerging industry, one cannot fixate on cost alone. The sustainability of an emerging sector hinges not on temporary bottlenecks, but on the maturity of its industrial ecosystem, richness of application scenarios, and continuous evolution of business models.
+Take Unitree Robotics, a leading Chinese humanoid robot company, as an example. Unitree's revenue rose to about 1.7 billion yuan ($253 million) in 2025 from 159 million yuan in 2023, with its net profit reaching 288 million yuan in 2025, according to thepaper.cn. 
+More importantly, Unitree's revenue structure has undergone an important change. In 2025, humanoid robots overtook quadruped robots to become Unitree's highest‑revenue product line for the first time. According to its prospectus, the company's humanoid robot revenue reached approximately 877 million yuan in 2025, accounting for more than half of its main business revenue, while actual shipments for the full year exceeded 5,500 units. 
+Profitability at one leading firm does not indicate full industry maturity, but it at least proves the commercial value of humanoid robots within China's robust supply chain and high-quality manufacturing ecosystem.
+The current skepticism surrounding humanoid robots closely mirrors the doubts that plagued industrial robots in their early days. Yet the global industrial robot industry eventually achieved dramatic cost reductions through large scale adoption in real world scenarios. 
+The commercial path for humanoid robots is not a simple replica of industrial robots. Humanoid robots rely heavily on artificial intelligence (AI) large-language models and require vast amounts of real‑world data or high‑quality simulated training datasets. Their cost structure encompasses not only hardware but also software. Yet, because they are built on an AI foundation, once the core bottlenecks are overcome, their scenario adaptability, application value, and ultimate industrial ceiling will far exceed that of traditional industrial robots.
+Whether China's robotics industry can achieve commercial viability does not hinge on a single company's financial results, but on the vitality and innovation of the industrial ecosystem. China has more than 1.165 million entities related to the robotics industrial chain, with approximately 144,000 newly added since the beginning of this year. 
+Moreover, the new entrants in the robotics industry are no longer limited to complete machine manufacturers. They are increasingly focused on algorithm development, system integration, scenario specific solutions, software platforms, and engineering services. The trend of integration among robotics and AI, software, and automation systems is becoming more pronounced.
+Collectively, these developments, spanning manufacturing infrastructure, diverse application demands, technological breakthroughs, and engineering capabilities, have propelled the rapid growth of China's humanoid robot industry and given the country a comprehensive comparative advantage in mass manufacturing and product supply.
+This systemic advantage is already translating into real-world results. While most global markets are still exploring the possibilities of technology and cost, Chinese companies have already delivered tens of thousands of units in real world scenarios, continuously optimizing performance and cost structures through intense market competition. 
+Data released by China's Ministry of Industry and Information Technology in July showed that more than 400 complete humanoid robot products had been developed in China, accounting for more than half of the global total. According to a report released at the Second WHRG, China shipped more than 40,000 humanoid robots in the first half of 2026, accounting for 97 percent of global shipments. This scale of deployment itself has laid a solid foundation for the commercialization of humanoid robots.
+While the global market is watching whether humanoid robots can overcome the profitability barrier, China's surging industrial advance is itself the most direct answer.
