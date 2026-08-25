@@ -1,0 +1,31 @@
+TITLE:
+AI talent demand surges as top algorithm roles earn over $4,015 a month: platform survey
+
+PUBLISHED:
+2026-08-25 16:09:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1368966.shtml
+
+ARTICLE TEXT:
+Photo: Chen Tao/GT
+A recent report by recruitment platform shows surging demand for AI talent among fresh graduates in 2027, with starting salaries for top algorithm roles standing at 27,000 yuan ($4,015) a month. 
+Based on firsthand data from questionnaires completed by 6,352 companies and 18,792 individuals, the latest report on insights into the AI talent market for 2027 graduate campus recruitment released by online recruitment platform 51job shows nearly 30 percent of companies are recruiting AI talent through campus hiring, among which 56.8 percent have increased demand year on year. 
+AI application development engineers are in the highest demand, accounting for 53.9 percent of openings. Employers prioritize background in mathematics, statistics and machine learning, Workers' Daily reported on Tuesday.
+Leading tech companies including Tencent, ByteDance, Alibaba and Xiaomi have successively announced their 2027 campus recruitment programs. They are expanding AI roles, offering competitive benefits and targeting top talent in AI and large language models, Beijing Daily reported. 
+Xiaomi's demand for AI-related roles has surged by more than 50 percent, ranging from large language models and smart devices to intelligent vehicles. R&D positions account for 70 percent of its campus hiring, spanning software, algorithms and chip technology.
+Sixteen business groups and companies of Alibaba Group and Taobao & Tmall Group have launched hiring across eight job categories, with AI-related roles accounting for 80 percent of openings. Positions span the full AI ecosystem, from computing infrastructure to cutting-edge applications. 
+Photo: Li Hao/GT
+The concentrated demand for AI talent among leading technology companies is also reflected in their increasingly early recruitment timelines. Huawei began hiring for AI model, infrastructure, security and application roles in July, while DeepSeek launched recruitment in late June and plans to at least double the size of all departments, highlighting roles in pre-training, AI cross-disciplinary technology, supercomputing and AI computing infrastructure. 
+The fierce competition for AI talent in campus recruitment reflects the fact that top professionals are an indispensable source of productivity for leading tech firms as they make cutting-edge AI a key strategic priority, Beijing Daily reported. 
+In terms of expected salary and benefits, 51job's survey shows significant disparities in salaries across AI positions, with large language model (LLM) algorithm engineers leading the field with a median monthly salary of 27,329 yuan, while salaries for multimodal AI and deep learning positions are also above 26,000 yuan. By contrast, AI data trainers earn just 8,977 yuan per month, less than one-third of the salaries for top-tier positions, which further underscores the high-value barrier created by top-tier technical expertise. 
+Regarding how AI changes recruitment, there is notable disparity between companies and job hunters. Some 68.3 percent of companies believe the hiring demand is stable with adjustment to structures, while just 7.3 percent foresee basic jobs being replaced by AI and fresh graduate hiring declining. Among graduates surveyed, 35.9 percent said AI has replaced some traditional jobs, while 30.2 percent said it has created more new roles. Another 26.7 percent said job numbers have changed little, but required skills have evolved. 
+A humanoid robot and a human athlete demonstrate table tennis match at the National Speed Skating Oval in Beijing on August 22, 2026. Photo: Tao Mingyang/GT
+According to Xiong Bingqi, director of the 21st Century Education Research Institute, while AI is creating demand for new and interdisciplinary talent, it is also raising concerns about job displacement. Although companies may seek talent with combined skills, AI could replace some basic roles traditionally held by college graduates, Xiong told the Global Times on Tuesday. 
+The AI era sees rapid changes to industries and the job market. Greater emphasis should be placed on developing students' core abilities, including innovation, creativity, interdisciplinary skills and the ability to learn throughout their careers, Xiong said.

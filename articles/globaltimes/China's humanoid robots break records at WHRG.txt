@@ -1,0 +1,44 @@
+TITLE:
+China's humanoid robots break records at WHRG
+
+PUBLISHED:
+2026-08-25 22:55:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1369001.shtml
+
+ARTICLE TEXT:
+At the second WHRG, in the 100-meter semifinal of the large-size humanoid robot category, the Tiangong humanoid robot (center) from Beijing Humanoid Robot Innovation Center clocked a new personal best of 8.86 seconds, breaking the record again. Photo: Li Hao/GT
+The second World Humanoid Robot Games (WHRG) continued in full swing at the National Speed Skating Oval in Beijing on Tuesday. From sprinting and table tennis to the standing high jump, Chinese-made robots are setting one record after another, drawing global attention.
+Speaking at a regular press conference on Tuesday, Lin Jian, a spokesperson for China's Ministry of Foreign Affairs, said that China's pursuit of new quality productive forces and technological innovation is about open cooperation and mutual benefit, not about setting up restrictions or seeking exclusive control.
+The remarks came in response to a media inquiry on the success of the 2026 World Robot Conference (WRC) that was recently held in Beijing, followed by the second WHRG held at the National Speed Skating Oval, known as the "Ice Ribbon." Chinese humanoid robots broke multiple human records, including the 100-meter sprint and the men's high jump, which sparked heated discussion worldwide.  
+Beyond eye-catching performances and record-breaking feats, China's humanoid robots are accelerating from laboratories to industrial applications, backed by strengths in complete industrial chains, technological innovation, manufacturing and diverse application scenarios, as well as an open approach to cooperation, a Chinese expert said.
+Breaking records
+On the field, each competition is not only a test of robotic capabilities but also a reflection of breakthroughs in cutting edge technology of Chinese robots. On Tuesday, at the ongoing WHRG in Beijing, Team Tiangong 
+was the only team to complete the 4×100 meter relay and advance to the final. As the other teams encountered problems during the race and failed to reach the final, Team Tiangong was declared the winner of the event with a time of 4 minutes11.44 seconds.  
+Regarding the technical challenges in the competition, Team Tiangong member Shansong Junjie told the Global Times at the event on Tuesday the biggest difficulty in the 4×100 meter relay lies in the baton handoff.
+"The track is only 2.1 meters wide, while our humanoid robots are relatively tall and robust. During the baton handoff, if they follow the originally designed motion trajectories and their bodies overlap, collisions can easily occur," Shansong Junjie said, noting that the team needs to equip the robots with stronger autonomous perception and coordination capabilities to adapt to complex changes during high-speed movement.
+Team Tiangong also took first place in the standing high jump, clearing 3.4 meters and once again breaking the human record.
+Talking about the judging criteria for the high jump competition, Cui Jie, a referee at the WHRG, told the Global Times that robots are judged mainly on jump height, landing performance and compliance with competition rules. Cui explained that a chip or tag is attached to the lowest point of the robot's body and scanned by an instrument to measure the actual height reached after takeoff.
+On Tuesday evening at the WHRG, in the 100-meter semifinal of the large-size humanoid robot category, the first group once again saw a record-breaking performance. Following its previous record of 9.39 seconds set during the opening ceremony, the Tiangong humanoid robot from Beijing Humanoid Robot Innovation Center clocked a performance of 8.86 seconds, breaking the record again. 
+On the field, events including running, jumping, soccer and table tennis put robots' motion control, balance, perception and coordination capabilities to the test, Ma Jihua, a veteran industry analyst, told the Global Times on Tuesday.
+But beyond how fast robots can run or how high they can jump, the industry is more focused on whether these technologies can move beyond the competition arena and into broader applications, Ma said.
+Chinese robotics company Gaoqing Power brought its "jack-of-all-trades" robot, dubbed "Little Milk Bottle," to the event. Standing 80 centimeters tall and weighing about 13 kilograms, it is the smallest humanoid robot at the Games and achieved a standing high jump of about 19 centimeters. It also competed in the 400m, 100m, obstacle and martial arts events, according to the company.
+Kang Haojie, a member of Team Gaoqing Power, told the Global Times on Tuesday that robots' performances in events such as running, high jump, weightlifting and obstacle crossing are not merely about "showing off," but about testing the limits of robots' capabilities.
+"Ultimately, these capabilities could be applied in real-world scenarios such as industry, households, firefighting and rescue, while the ability to adapt to diverse scenarios is also an important foundation for robots to truly enter human society," Kang said.
+From core components to AI models and robot manufacturing, China has developed a relatively complete robotics industrial chain, while its vast manufacturing sector provides real-world applications for continuous product improvement, according to Ma.
+Open for cooperation
+The second WHRG is a microcosm of global exchanges and cooperation in the robotics industry. This year's event has attracted 666 teams from 16 countries across six continents, with more than 2,000 robots competing, up 138 percent in the number of participating teams from the previous edition, while the number of robots has quadrupled.
+At Tuesday's event, Harold Ruiter, a master's student from the Netherlands who served as a human operator for the soccer robots in the WHRG soccer event, told the Global Times the pace of China's humanoid robotics development has been "incredible." Having competed in China last year as well, he said the progress in just one year was already striking, from sprinting and long jump to tennis and the Beijing humanoid robot marathon. "If it goes this fast, I'm really looking forward to seeing where we end up next year," he said.
+Ruiter said China is now "the No.1 contributor in humanoid robotics," pointing to the large number of Chinese companies actually building robots and putting them into users' hands. His team also uses Chinese-made robots in five-on-five football, which he said gives them good hardware while creating more opportunities for testing, feedback and joint improvement.
+However, amid the rapid growth of the global robotics industry, certain countries have increasingly imposed restrictions on China's AI, semiconductor and other high-tech sectors in recent years, using pretexts such as so-called "national security" concerns.
+At Tuesday's press conference, in response to media inquiry on suggestions by some commentators that the outlook for industrial deployment and commercialization is uncertain and they also contend that China faces headwinds in sharing opportunities with the world, given the preventive and restrictive measures imposed by certain countries on its high-tech industries, Lin said that there has been extensive coverage of these events.
+Beyond the sporting events, what is more noteworthy is that humanoid robots are rapidly moving out of labs into real-world industries. They sort packages and assemble parts on factory floors, assist with elder care and early childhood education in communities, and play ping-pong or fold clothes with dexterity, the spokesperson said.
+Behind these advances are OEMs, core part makers and algorithm developers working in concert, backed by China's consistent policy support, robust innovation capabilities and diverse application scenarios, Lin said.
+For Ruiter, that openness matters as much as the competition itself. Teams from China, Europe, the US and elsewhere regularly exchange ideas and help each other solve problems, he said. "In the end, we all want these robots to be better, and I think doing it together is the best way to do that."
