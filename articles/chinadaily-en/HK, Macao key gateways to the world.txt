@@ -1,0 +1,44 @@
+TITLE:
+HK, Macao key gateways to the world
+
+PUBLISHED:
+2026-08-25
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202608/25/WS6a8cf8a1e4b057c97e209956.html
+
+ARTICLE TEXT:
+HK, Macao key gateways to the world
+Cities are ideal testing grounds for products on way to overseas markets
+For an autonomous driving company, moving a vehicle from a left-hand-drive market to a right-hand-drive city is not just a matter of shifting the steering wheel.
+The work involves developing the system from the ground up, with everything from product definition and the vehicle platform to the autonomous-driving system and human-machine interface redesigned around the traffic rules, road conditions and user habits of right-hand-drive markets, according to Guangzhou, Guangdong province-based autonomous driving technology company WeRide.
+That is why WeRide's new right-hand-drive Robotaxi project began in Hong Kong.
+"Few cities offer a tougher real-world test for autonomous vehicles than Hong Kong, where dense roads, mixed traffic and a mature public transport system converge in one of the world's busiest right-hand-drive markets," said Tony Han, founder and CEO of WeRide.
+The autonomous driving developer recently announced that it is working with vehicle maker Geely Farizon and local transport operator Kwoon Chung Bus Holdings on a mass-produced model designed around Hong Kong regulations, road conditions and operating requirements.
+Han added that if the vehicle works in the city's dense traffic, the experience can support its expansion into other key right-hand-drive markets including Singapore, the United Kingdom, Japan and Australia.
+WeRide is not alone in assigning Hong Kong a specific role in a wider innovation chain. For a growing group of Chinese mainland technology companies, Hong Kong and Macao are where products encounter new operating conditions, local partners and international capital before entering overseas markets.
+China's 15th Five-Year Plan (2026-30) calls for faster progress toward high-level technological self-reliance and again supports Hong Kong as an international innovation and technology center. Hong Kong is also preparing its first five-year plan, where technological development is expected to play a pivotal role.
+Technological self-reliance, however, does not mean geographic self-sufficiency. An algorithm developed in a Beijing laboratory may need to be engineered, financed, tested against different rules and sold into markets with different languages and business practices, just as the emerging Beijing-Guangdong-Hong Kong-Macao network connects those stages.
+"Hong Kong and Macao boast diversified international business environments, leading innovation resources and mature global trade and financial systems," said Huang Heping, general manager of international business development at Beijing-based space company GalaxySpace.
+"They are important gateways for mainland companies to connect with the global technology frontier, participate in international scientific cooperation and share China's innovation achievements," Huang said.
+GalaxySpace develops communications payloads, satellite platforms and related systems and has built capacity for lower-cost, large-scale satellite production. In early 2025, it established a low-Earth orbit broadband demonstration station in Hong Kong, followed by a connected-car trial project, placing a mainland-developed satellite system in a local transport setting with Hong Kong researchers.
+"Just as travelers need a power adapter when they go abroad, mainland space products need a 'converter' to enter international markets," Huang said. "Hong Kong is that crucial platform."
+For GalaxySpace, the next steps include further tests, research cooperation and applications that can be assessed by local partners. "We believe Hong Kong and Macao will connect the mainland aerospace industry chain with the global market and create considerable value for the global space industry," Huang said.
+Beijing Zhongke WengeAI Science and Technology Co is using Hong Kong in a different part of the same process. Founded in 2017 by artificial intelligence scientists from the Institute of Automation of the Chinese Academy of Sciences, the company specializing in AI-assisted decision-making went public on the Hong Kong bourse in June under the exchange's specialist technology company regime.
+In a bid to provide further support for high-potential specialist technology companies in their pre-commercial or commercial stages, Hong Kong Exchanges and Clearing Limited, also known as HKEX, launched a listing framework under Chapter 18C of the Main Board Listing Rules in March 2023 to allow such companies in frontier sectors to list without meeting traditional profit or heavy revenue requirements.
+As of June 30, 21 specialist technology companies had been listed under the framework, raising a combined HK$38.74 billion ($4.94 billion) through their initial public offerings, according to data compiled by RyanBen Capital. Thirteen of them listed in the first half, raising HK$29.82 billion.
+"What attracts us most to Hong Kong is its international business environment and its unique role as a bridge between the mainland and international financing markets," said Wang Lei, chairman of Wenge AI.
+Wang said the company hopes its Hong Kong listing will broaden access to international capital, providing sustained support for core technology development, AI product upgrades and expansion into new application scenarios.
+Its Hong Kong operation has also put it in contact with about a dozen overseas customers so far and allowed its products to be demonstrated in local financial settings, which can provide valuable feedback on compliance language, data formats and professional workflows, he said.
+Macao offers a multilingual route into another group of markets. Pachira, an AI speech recognition, analysis and synthesis company, has placed core research and talent in Beijing, its Chinese mainland headquarters, and operating functions in Hengqin, an island district of Zhuhai in Guangdong, adjacent to Macao, and its international operations center in Macao.
+"With Hengqin serving as the main base for commercialization, technologies refined in Beijing can be adapted to a wider range of applications and replicated at scale," said Ho Kuok Tou, founder and CEO of the company.
+"Macao, meanwhile, provides a natural testing ground for our international expansion — its concentration of hotels, tourism and leisure businesses, and cross-border financial services allows AI products to sharpen their multilingual capabilities and readiness for global markets," Ho added.
+To navigate Macao's multilingual environment and distinctive customer-service habits, Pachira has carried out localized iterations of its proprietary speech large language model. The resulting AI voice system, developed for local electricity supplier CEM, now handles high-volume billing inquiries, marking Macao's first use of an LLM in a customer-service system.
+The company said it plans to use its Macao operation to pursue opportunities in Portuguese-speaking markets, initially targeting smart-energy and cross-border financial applications in Brazil, as well as factory-installed automotive systems and overseas banking operations in Portugal.
+lijiaying@chinadaily.com.cn

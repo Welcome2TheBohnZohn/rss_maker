@@ -1,0 +1,28 @@
+TITLE:
+China proposes formulating at least 100 key standards for humanoid robots by 2028
+
+PUBLISHED:
+2026-08-25
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260825/e13f812723df4a1e86a4eb85d7789040/c.html
+
+ARTICLE TEXT:
+BEIJING, Aug. 24 (Xinhua) -- China has proposed formulating at least 100 key standards for the humanoid robot industry by 2028, according to a draft guideline from the Ministry of Industry and Information Technology (MIIT).
+The draft guideline for developing a national standard system for the humanoid robot industry will be open for public comment from Aug. 25 to Sept. 23.
+The proposed standards would cover areas including methods for capability testing and evaluation, key technologies, platforms and systems, application scenarios and safety governance. By 2028, the draft also aims to establish a systematic, science-based and coordinated standard system, with more than 200 enterprises promoting and implementing these standards.
+Humanoid robots are defined in the draft as a new generation of artificial intelligence (AI)-driven intelligent terminals with human-like forms and capabilities that can autonomously perform complex tasks.
+Rapid development of the sector has created an urgent need for common standards covering terminology, interfaces, testing and evaluation to guide technological innovation, product development and large-scale application, according to the draft. More than 100 humanoid robot-related standards are already under development or preliminary research in China and abroad.
+The draft calls for standardizing methodologies for grading humanoid robot capabilities. It also proposes standardizing the definition of unique identifiers, coding rules and identification mechanisms for humanoid robots.
+For industrial applications, the draft proposes requirements covering operational capabilities and environmental adaptability for humanoid robots working in structured and semi-structured industrial environments.
+The push for standards comes as China steps up efforts to deploy humanoid robots in real-world settings. In June, the MIIT and China's state assets regulator launched a training initiative targeting application validation and regular deployment in representative scenarios by the end of 2026, as well as deployment capacity at the 10,000-unit scale.
+At a July 20 press briefing, the MIIT said China had developed more than 400 humanoid robot models, over half of the global total.
+Common interfaces and safety standards are also emerging as practical issues in industrial deployment. Industrial production leaves little room for error. Reflections and dust can disrupt perception, while continuous operation places heavy demands on durability, heat management and component life.
+Beyond technical and industrial specifications, the draft calls for standards governing ethical requirements and social-impact assessments in the development and application of humanoid robot technologies, placing safety and ethics alongside performance and commercialization in the proposed standards system.
+The framework will be developed under the principles of being systematic and comprehensive, prioritizing urgent needs, and allowing for dynamic updates, according to the draft. ■
