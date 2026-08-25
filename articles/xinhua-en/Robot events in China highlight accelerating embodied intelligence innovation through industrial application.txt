@@ -1,0 +1,47 @@
+TITLE:
+Robot events in China highlight accelerating embodied intelligence innovation through industrial application
+
+PUBLISHED:
+2026-08-25
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260825/6cbdd8e20a9d4e3a9eff6cc0d1da89f8/c.html
+
+ARTICLE TEXT:
+* Humanoid robots shattered human records in the 100-meter and 400-meter races during the ongoing World Humanoid Robot Games held in Beijing from Aug. 22 to 26. With athletic performance steadily improving, robotics entrepreneurs emphasized the necessity to translate robotic prowess into real-world productivity.
+* China's humanoid robot industry is entering a critical stage of large-scale commercialization and deployment, as embodied intelligence products move from small-batch trials to broader adoption.
+* The industry's future, many believe, lies not in standalone hardware, but in the integration of three pillars: hardware, embodied AI large models and real-world industrial applications.
+BEIJING, Aug. 25 (Xinhua) -- Humanoid robots shattered human records in the 100-meter and 400-meter races during the ongoing World Humanoid Robot Games held in Beijing from Aug. 22 to 26.
+This marks a striking leap forward from last year's inaugural edition, which left many with memories of viral clips of robots freezing on the starting line or veering off course.
+With athletic performance steadily improving, robotics entrepreneurs at the event emphasized the necessity to translate robotic prowess into real-world productivity. As purely demonstrative products are unlikely to secure orders, industrial and manufacturing sectors are increasingly expecting robots to deliver tangible results.
+Reflecting this shift, 21 scenario-based contests are added this year, covering settings such as factories, hotels, homes and logistics facilities. Tasks ranging from industrial assembly and housekeeping to emergency rescue and library book sorting are designed around jobs that can be repetitive, physically demanding, dirty, dangerous, or difficult.
+FROM DEMOS TO DELIVERABLES
+Housework is one of the top things people want robots to take on. In housekeeping service contest, robots are tasked to perform a full sequence of housework, including clearing scattered items, folding clothes and putting them in wardrobes, and hanging laundry.
+These are not easy tasks. "Some objects sit above the counter and can be picked up directly; others are below and require the robot to navigate around obstacles. For humans, this is instinctive, but for robots, it demands different motion algorithms and greater trajectory-planning versatility," said Liu Bingbing, associate professor from Beijing Union University's Robotics College.
+Challenges sparked solutions. One team developed a lighter structure and materials to improve the robot's motion flexibility. Another team introduced a "lifelong learning mechanism" that enables the robot to continuously adjust its motion programs based on real-time changes in its own joint dynamics -- compensating for wear and hardware variances unique to each unit to maintain stable performance.
+Despite remaining limitations -- for instance, only a few robots can coordinate both arms to hang clothes on a hanger -- the progress on display still caught the judges' attention. "Last year, most robots could barely fold clothes. After just one year of iteration, they all fold them into neat squares, and then they can open the wardrobe to put clothes away," a judge said.
+In industrial and agricultural scenarios, some robots have already been deployed in the production process. East China's Hangzhou Electrochemical Group Co., Ltd. has introduced inspection robots to monitor equipment damage and toxic gas leaks in high-temperature, corrosive factory environments. At a tomato farm in Shanghai, dual-arm picking robots have passed field tests for fruit recognition, ripeness grading, and picking sequence planning, ensuring damage-free harvesting.
+China's humanoid robot industry is entering a critical stage of large-scale commercialization and deployment, as embodied intelligence products move from small-batch trials to broader adoption, Xu Xiaolan, chairwoman of the Chinese Institute of Electronics, said at the 2026 World Robot Conference (WRC).
+A common question remains for the industry: how to achieve generalized, large-scale deployment of embodied AI across industrial scenarios, so that robots can handle diverse real-world tasks via simple language commands.
+REAL USE FUELS INNOVATION
+Xi Yue, co-founder of Robotera, said the industry's near-term path to large-scale deployment lies in controlled, closed-loop scenarios such as logistics, high-end manufacturing and hazardous operations. More complex environments will follow as technologies mature.
+The core challenge is to build a foundational embodied intelligence system -- one that draws on high-quality real-world data platforms and open-source algorithm ecosystems to strengthen robots' decision-making capabilities and dexterous manipulation skills in dynamic settings, he added.
+Many robotics firms have already begun deploying their systems in manufacturing and logistics to drive technological progress through hands-on operation. The industry's future, many believe, lies not in standalone hardware, but in the integration of three pillars: hardware, embodied AI foundation models, and real-world industrial applications.
+At the WRC held from Aug. 19 to Aug. 23 in Beijing, Galbot S1 humanoid robot demonstrated autonomous industrial handling capabilities, including handling, transporting and stacking industrial bins. Powered by Galbot's embodied foundation model, S1 continuously perceives its surroundings, detects environmental changes, and dynamically adjusts its movements based on object positions, task progress and real-time conditions.
+Galbot S1 has already been deployed in industrial environments, including battery manufacturing facilities at CATL, where it supports demanding workflows requiring high efficiency, precision and reliability. Galbot has also partnered with SAIC Motor and German automotive supplier Bosch to further explore the integration of embodied intelligence into smart manufacturing.
+The company's technological foundation lies in its embodied foundation model, which integrates perception, decision-making and execution into a unified system. By combining vision-language-action models with world models, the system enables robots to better understand physical environments, reason about the potential outcomes of their actions, and adapt to complex real-world scenarios -- reducing reliance on task-specific programming and fixed workflows.
+According to Wang He, founder and CTO of Galbot, the company is developing industry-specific vertical models on top of its foundation models. Through a deployment-driven development loop, Galbot performs post-training based on real-world operational data, continuously improving robot performance and enabling more effective deployment across diverse applications.
+To further accelerate the application-driven innovation cycle, the "Global Robot Application Exploration Program" was launched during this year's WRC. This plan was jointly initiated by the World Robot Cooperation Organization and the Chinese Institute of Electronics, in collaboration with international industry organizations, research institutions and enterprises.
+The initiative will select 1,000 scenarios annually for free robot trials and secondary development, aiming to bridge the gap between technological breakthroughs and industrial value while fostering an open, win-win global innovation ecosystem.
+China's embodied intelligence market is also drawing international cooperation opportunities.
+Jack Perry, chairman of The 48 Group in Britain, noted that China's robotics sector is advancing rapidly, particularly in physical intelligence. Many European companies are considering AI-driven transformation and hope to improve efficiency through robot procurement, he said.
+Jae Hwan Kim, secretary-general of the Korea Association of AI Robot Industry, highlighted the complementarity between China and ROK. China has solid foundations in large-scale manufacturing, supply chains and AI foundation models, while there exists a vast potential for cooperation between two countries in physical intelligence-driven AI and smart manufacturing, he said.
+Just as China has called for open and inclusive AI development, the same principle applies to embodied intelligence.
+Xu called for joint efforts to deepen research on safety and ethics in this field, build a secure, open and inclusive international standard system, and promote mutual recognition of evaluation and certification frameworks. The goal, she said, is to shape a global governance structure with broad consensus -- one that ensures technological progress ultimately serves the well-being of humanity. ■
+(Video reporters: Hui Peipei and Meng Jing; video editors: Hui Peipei, Li Qin, Roger Lott and Hong Ling)

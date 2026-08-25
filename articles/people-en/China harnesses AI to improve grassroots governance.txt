@@ -1,0 +1,35 @@
+TITLE:
+China harnesses AI to improve grassroots governance
+
+PUBLISHED:
+2026-08-25
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0825/c90000-20492068.html
+
+ARTICLE TEXT:
+China harnesses AI to improve grassroots governance
+A humanoid robot manages traffic at a crossroads in Handan, north China's Hebei province. (Photo/Hao Qunying)
+At the 2026 World Artificial Intelligence (AI) Conference, an AI agent developed in collaboration with a subdistrict in Shanghai made its preview debut, offering new possibilities for upgrading community services.
+Powered by localized databases and voice-based Q&A capabilities, the agent delivers personalized intelligent services. Focusing on residents' practical needs, it integrates compact yet refined modules such as security maps and public service maps. The digital and intelligent transformation of grassroots governance holds promising prospects for the future.
+Such transformation has traditionally required substantial investment in systems, specialized technical teams, and lengthy adaptation periods, placing it out of reach for many grassroots organizations with limited resources and staff.
+However, as general-purpose AI technologies continue to evolve, a growing number of lightweight, scenario-based, and cost-effective solutions are emerging. These developments vividly demonstrate the multiplier effect that occurs as AI becomes increasingly integrated into various areas of economic and social life.
+Integrating AI into grassroots governance in a practical, inclusive, and efficient manner can help raise total factor productivity across the economy and society. It can also help narrow the digital divide between regions and sectors, ensuring that the benefits of technological development are shared more broadly and equitably.
+Recently, a grassroots official in Beijing's Miyun district purchased access to a large AI model and used AI-assisted coding to develop a flood-control mini program at a cost of just over 20 yuan ($2.97) and within about a month. The program enables visualized monitoring and coordinated response across the district, covering geological disaster risk points, rainfall changes, and resident relocation.
+The fact that a frontline grassroots official can use AI tools to improve digital governance is a telling example of how intelligent technologies are lowering the barriers to digital applications.
+A robot assists visitors at a government service hall in Beitun, northwest China's Xinjiang autonomous region. (Photo/Li Zhenghu)
+It should be noted, however, that lower technological barriers do not necessarily mean lower risk barriers. As AI applications become more widespread, potential risks such as algorithmic bias, data breaches, and unclear accountability cannot be overlooked.
+While exploring the use of digital intelligence, localities across China are also striving to strike the right balance between encouraging innovation and ensuring sound regulation. In areas such as grassroots governance and public services, they are promoting the principle that technology should serve the public good, strengthening oversight throughout the entire process and safeguarding people's rights to personal information.
+Grassroots experience shows that AI can assist and empower grassroots governance only when it improves services without compromising their quality and strengthens management rather than weakening it.
+A man works out with smart fitness equipment in a roadside park in Luoyang, central China's Henan province. (Photo/Zhang Yixi)
+In Suyu district of Suqian, east China's Jiangsu province, AI assistants have been deployed in community grid groups to automatically answer residents' frequently asked questions about social security, school enrollment, and other matters around the clock. They also automatically categorize residents' opinions and suggestions and forward them to the appropriate grid workers for follow-up.
+In Yingzhou district of Fuyang, east China's Anhui province, AI-enabled monitoring systems have been installed along streets. When they detect unauthorized street vending or other activities occupying public roads, the systems use loudspeakers to issue gentle reminders. If the problem is not addressed promptly, the system automatically assigns the case to nearby urban management officers for on-site handling.
+By combining face-to-face services with screen-to-screen technologies, local governments can ensure that AI applications make life more convenient without becoming intrusive, and improve efficiency without creating new problems.
+AI is now at a critical stage of advancing from technological breakthroughs to deeper, broader real-world applications. As China harnesses digital intelligence to make grassroots governance more effective and efficient, it is also working to improve grassroots officials' digital literacy and ability to identify risks. The goal is to ensure that the application of AI remains firmly on the right track of serving the people and improving their well-being.
+Copyright © 2026 People's Daily Online. All Rights Reserved.

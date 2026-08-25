@@ -1,0 +1,43 @@
+TITLE:
+BeiDou support tops 98 pct of China's H1 phone shipments as commercial adoption broadens
+
+PUBLISHED:
+2026-08-25
+
+SOURCE:
+CCTV English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.cctv.com/2026/08/25/ARTIr8S5f277jyJKQytvJs8m260825.shtml
+
+ARTICLE TEXT:
+A visitor learns about an urban safety risk comprehensive monitoring and early warning platform equipped with BeiDou Navigation Satellite System (BDS) during the 4th International Summit on BDS Applications in Zhuzhou, central China's Hunan Province, Sept. 24, 2025. (Xinhua/Chen Sihan)
+
+BEIJING, Aug. 24 (Xinhua) -- More than 98 percent of the 133 million mobile phones shipped in China's domestic market in the first half (H1) of 2026 supported the BeiDou Navigation Satellite System (BDS), as this technology expands across consumer devices, transport and other industries, the Ministry of Industry and Information Technology (MIIT) said on Monday.
+
+Over 14 million shared two-wheelers had adopted BeiDou independent positioning by the end of June, accounting for more than 90 percent of the country's total fleet.
+
+These figures highlight the growing rollout of BeiDou, China's global satellite navigation system, across consumer and industrial applications.
+
+At a media roundtable on large-scale BeiDou applications, Shi Huikang, deputy director of the MIIT's department of electronic information, said China has stepped up pilot programs, product promotion, standards development and ecosystem building in recent years to accelerate adoption.
+
+China's domestic supply base has also continued to expand. By the end of 2025, cumulative shipments of domestically produced BeiDou-compatible chips and modules had approached 2.6 billion units, while the installed base of terminal products with BeiDou functions had exceeded 2.2 billion units, according to the ministry.
+
+Authorities have also supported the development and commercialization of high-precision, interference-resistant and low-power products, helping improve performance and lower costs.
+
+Deployment has also expanded across 39 pilot cities for large-scale BeiDou applications, which had introduced more than 12 million terminals using BeiDou independent positioning by the end of June.
+
+In a number of cities, designated sectors including shared two-wheelers, taxis, government vehicles, agricultural machinery and police equipment have achieved 100-percent BeiDou adoption, the ministry said.
+
+BeiDou's footprint is also expanding across major industries. China now has nearly 40 million BeiDou terminal devices in key sectors, where overall application penetration stands at about 90 percent. More than 160 million wearable devices support BeiDou positioning, while over 100 million passenger vehicles have been equipped with BeiDou-based positioning devices.
+
+Industry data released in May revealed the scale of the broader market. China's satellite navigation industry generated 629 billion yuan (roughly 92.7 billion U.S. dollars) in output in 2025, up 9.24 percent year on year, according to a white paper released by the Global Navigation Satellite System and Location-Based Services Association of China.
+
+The white paper also said BeiDou services and related products have been exported to more than 140 countries and regions worldwide. It said the sector is upgrading toward a broader BeiDou spatiotemporal industry integrating satellite navigation with mobile communications, indoor positioning and artificial intelligence.
+
+During the 15th Five-Year Plan period (2026-2030), the MIIT said it will work with other authorities to support breakthroughs in key technologies and their industrial application, while continuing pilot programs for large-scale BeiDou deployment.
+
+The ministry also plans to foster a broader spatiotemporal information industry by promoting coordinated development across satellite positioning, navigation and timing, remote sensing, geographic information systems, communications and satellite internet.
