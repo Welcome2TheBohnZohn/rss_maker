@@ -1,0 +1,30 @@
+TITLE:
+China's first long-duration orbital platform converted from a carrier rocket completes 2-year on-orbit test mission
+
+PUBLISHED:
+2026-08-26 14:57:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1369061.shtml
+
+ARTICLE TEXT:
+A simulation of Aishenxing-1 01 orbital platform developed by Chinese private space company Galactic Energy. Photo: Courtesy of Galactic Energy
+The Aishenxing-1 01 orbital platform, China's first long-duration orbital platform converted from the upper stage of a commercial carrier rocket, has successfully completed its two-year on-orbit test mission, Chinese private space company Galactic Energy, which developed the platform independently, announced on Wednesday.
+Using its self-developed orbital attitude control propulsion system, the Aishenxing-1 01 orbital platform executed a precise de-orbit maneuver, bringing the mission to a successful conclusion. 
+It marks the first time that a Chinese company has completed the full technological cycle of "orbit insertion and conversion — orbital maneuvering — on-orbit test services — precise de-orbit." 
+The achievement is expected to support the commercial space sector in developing low-cost, high-efficiency and rapid-response on-orbit service models, while unlocking the residual on-orbit value of rocket upper stages, the company said in a statement to the Global Times.
+The Aishenxing-1 orbital platform is an innovative on-orbit testing and service platform that transforms a rocket's upper stage — which would normally end its mission after releasing satellites — into a general-purpose orbital service platform capable of long-term residence in orbit. Its core technical approach involves adapting the upper stage of a launch vehicle for prolonged orbital operations, as well as upgrading systems such as thermal control, power supply, and attitude control.
+Launched on June 6, 2024, aboard the Ceres-1 Y13 carrier rocket, the platform entered a 535-kilometer sun-synchronous orbit. After releasing its primary satellites, the rocket's upper stage completed configuration conversion and system calibration before maneuvering to its designated 580-kilometer operational orbit, officially beginning the two-year on-orbit mission.
+During the mission, the Aishenxing-1 01 platform completed full-system functional verification and long-term space environment adaptability tests. 
+It has carried multiple commercial payloads for on-orbit technology verification, including millinewton-class electric propulsion systems. This provided customers with testing data from the real space environment and support for technology iteration across scenarios such as new component validation and experiments on advanced space technologies.
+Meanwhile, "the company's self-developed orbital attitude control propulsion system fully withstood the dual challenges of extreme space environments and long-term propellant storage. The system responded rapidly, operated stably, and delivered excellent performance," Galactic Energy said.
+It stressed that the successful completion of all missions has verified the technical feasibility and engineering practicality of the "upper-stage reuse + on-orbit services" business model.
+In addition, the Aishenxing-1 02 platform was launched into orbit in September 2025 aboard the "Queqiaoxian" rocket mission, establishing dual-platform on-orbit service capability. The company said the platforms will be able to support more batches and a wider range of commercial rideshare services in the future.
+The company also plans to launch a dedicated orbital platform for computing technology verification in 2027, focusing on verifying key space computing technologies to support technological breakthroughs in cutting-edge areas such as onboard intelligent processing and on-orbit data computing.
+Global Times

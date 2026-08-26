@@ -1,0 +1,34 @@
+TITLE:
+Sports Focus: Beyond new records, China's humanoid robots better integrate into life
+
+PUBLISHED:
+2026-08-26
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260826/a2f28f266f3e4301b03fdd02ec7dd263/c.html
+
+ARTICLE TEXT:
+Beyond surpassing human records on the competition field, humanoid robots are becoming better integrated into everyday life.
+by sportswriters Li Chunyu and Hu Jiali
+BEIJING, Aug. 26 (Xinhua) -- At the second World Humanoid Robot Games, people are becoming accustomed to seeing robots surpass human records.
+At the opening ceremony on Saturday, a humanoid robot clocked 9.39 seconds in the 100 meters, beating the men's world record of 9.58 seconds set by Usain Bolt in 2009, while another cleared 2.8843 meters in a standing high jump, compared with the men's high jump world record of 2.45 meters set with a running approach.
+Robots also surpassed the men's 400m and 1,500m world records at the National Speed Skating Oval, a Beijing 2022 Winter Olympic venue known as the "Ice Ribbon."
+At the inaugural Games last year, however, humanoid robots struggled to stay upright, with some stumbling their way to the finish line. Now, after a year of technological research and development, significant progress has been made.
+"Each second shaved off a running time and each centimeter gained in the high jump depend on engineers' continuous efforts to optimize motor performance through rigorous testing," said Jiang Guangzhi, head of the Beijing Municipal Bureau of Economy and Information Technology.
+In April, a humanoid robot developed by Shenzhen Honor Smart Technology Development Co., Ltd. won the Beijing E-Town Half Marathon in 50 minutes and 26 seconds in autonomous navigation mode, surpassing the then-human world record of 57:20.
+The second World Humanoid Robot Games features 51 events with a total of 1,301 competitions, attracting 666 teams with 2,056 humanoid robots from around the world, with the number of teams up 138 percent from the previous edition.
+This year's Games introduced new events including weightlifting and table tennis, putting the robots' physical structures and core components to a more comprehensive test.
+"We know the human records and our capability, but where are the limits of robots? What if robots jump beyond the measuring scale? Robot evolution really outpaces the public expectations," said Chen Bin, a Games referee.
+Humanoid robots are also becoming better integrated into everyday life. The Games further expanded scenario-based competitions designed to simulate real-world applications, covering sectors such as logistics, hospitality and household services.
+"We hope the humanoid robots can get orders right after winning medals at the Games to shift from competition venues to people's life," Jiang noted.
+Data from China's Ministry of Industry and Information Technology show that revenue from industrial enterprises above designated size in China's robotics sector exceeded 300 billion yuan (about 44.24 billion U.S. dollars) in 2025, with an average annual growth rate of more than 20 percent over the past five years.
+At this year's Games, autonomous navigation mode replaced manual control in most events, yet falls and collisions still occurred.
+"Autonomous humanoid robots did a great job basically, while their autonomous decision-making may also produce errors sometimes. The uncertainties in the real world are exactly key technical difficulties we need to overcome," said Gong Xiao, deputy director of China Software Testing Center.
+The progress of humanoid robots has impressed spectators, but further technological advances will take time.
+"When robots are given a new assignment, they need to be retrained," said Wang Xingxing, founder of Unitree Robotics. "Limited generalization capability is currently the biggest bottleneck facing the global humanoid robot industry." ■
