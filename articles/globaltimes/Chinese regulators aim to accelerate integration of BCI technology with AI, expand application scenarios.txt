@@ -1,0 +1,29 @@
+TITLE:
+Chinese regulators aim to accelerate integration of BCI technology with AI, expand application scenarios
+
+PUBLISHED:
+2026-08-26 20:46:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1369087.shtml
+
+ARTICLE TEXT:
+A patient, who received Anhui's first semi-invasive brain-computer interface (BCI) surgery in April 2026, undergoes rehabilitation training at a hospital in Bengbu, east China's Anhui Province, July 17, 2026.  Photo: Xinhua
+Chinese market regulators have jointly released a work plan on strengthening cross-regional quality chains for brain-computer interface (BCI) technology in the Beijing-Tianjin-Hebei region, aiming to accelerate interdisciplinary innovation that integrates BCI technology with frontier fields such as neuroscience and artificial intelligence (AI).
+The plan also calls for expanding applications, with the focus on key areas such as medical rehabilitation, intelligent interaction, education and entertainment.
+Leveraging the objective advantages of BCI in quantitatively assessing human functions, the plan prioritizes medical applications such as BCI-based diagnosis and treatment of neurological diseases, motor function reconstruction, rehabilitation training, and tiered diagnosis and treatment of emotional and psychiatric disorders. 
+In industrial fields, the plan seeks to promote the implementation of application scenarios such as the monitoring of workers' vital signs, brain-controlled robots, high-precision human-machine collaboration, and simulation training. It also encourages exploring innovative applications of BCI in areas such as education, smart homes, and assisted driving.
+The plan also calls for the implementation of demonstration projects so as to verify the safety, effectiveness, stability, and compatibility of the technology, foster new forms of BCI-related business, and "build a complete ecosystem covering technology research and development, simulation verification, scenario validation, and industrial promotion."
+Ming Dong, vice president of Tianjin University and director of the Haihe Laboratory of Brain-Computer Interaction and Human-Machine Integration, told the Global Times on Wednesday that he expects the further integration of BCI technology with large-language AI models could bring more natural human-machine interaction. 
+"The integration could address a critical issue in the BCI field, which is the lack of large volumes of standardized, high-quality EEG data, making it very difficult to build a robust foundational EEG model," he noted. 
+For example, affective BCIs can capture a user's emotional state and help large-language AI models generate more human-like text, while motor BCIs, combined with the decision-making capabilities of large-language AI models, can enable more precise control of external devices, according to Ming. 
+Wang Peng, an associate research fellow at the Beijing Academy of Social Sciences, told the Global Times on Wednesday that the plan creates clear and practical blueprint on how BCI technology could be applied in phases. 
+"It is more practical to apply the technology first in certain medical scenarios such as neurological disease assessment, quantify the effectiveness of rehabilitation training, and assist in the tiered classification of psychiatric disorders," Wang said, adding that industrial-level and consumer-level application could be the BCI industry's second growth curve.
+In March, the world's first invasive BCI medical device was approved for market launch in China. In the same month, the National Healthcare Security Administration assigned it a medical insurance code, marking a key step from regulatory approval to clinical application for innovative products.
+Wang added that in terms of regional cooperation, as Beijing, Tianjin and Hebei possess different and unique innovation, clinical, and industrial resources, the coordination would allow them to complement one another's strengths, and form a concerted force to tackle key challenges.
