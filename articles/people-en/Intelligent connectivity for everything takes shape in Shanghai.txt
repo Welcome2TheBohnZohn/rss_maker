@@ -1,0 +1,41 @@
+TITLE:
+Intelligent connectivity for everything takes shape in Shanghai
+
+PUBLISHED:
+2026-08-27
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0827/c90000-20493060.html
+
+ARTICLE TEXT:
+Intelligent connectivity for everything takes shape in Shanghai
+Photo shows the Shanghai 6G AI-Valley Future Industry Park in Sijing township, Songjiang district, Shanghai.
+What if a pair of ordinary-looking smart glasses could capture images and sound, and even detect the wearer's emotional state?
+At the Shanghai 6G AI-Valley Future Industry Park in Sijing township, Songjiang district, Shanghai, such glasses are already in development. Electrodes embedded in the frame make contact with wearer's skin to pick up brain signals, allowing the glasses to monitor changes in mental state and emotion.
+"The glasses can, for example, select music or order coffee based on your emotional state," one developer explained.
+That is just one of their potential applications. The glasses can alert users to early signs of Alzheimer's disease. Even in remote mountains or deserts where terrestrial network are unavailable, a module built into the temples can connect directly to overhead satellites, keeping the device fully functional.
+"This is a tangible scenario showcasing inclusive intelligent services delivered by the next-generation communication networks," said Jin Jun, Chairman of Shanghai 6G AI-Valley.
+According to Jin, 6G represents far more than faster speeds or broader coverage. Its core mission is to enable ubiquitous intelligent connectivity. If 5G connects people to people and people to things, 6G will enable deep interaction among humans, physical objects and intelligent agents.
+After years of development, China has built the world's largest and most technologically advanced information and communications network. Research and development (R&D) and standards-setting for 6G are progressing across the board, with the first phase of 6G technology trials successfully completed.
+Pilot deployments of 10-gigabit optical networks have begun, while 400G ultra-high-speed optical transmission systems and new ultra-low-loss fiber optic cables are being deployed on a large scale.
+Satellite internet is also accelerating, with large-scale constellation deployment underway. New types of integrated infrastructure, including industrial internet and low-altitude intelligent connectivity networks, are being developed in an orderly manner and have already made positive progress.
+According to Xiao Yang, director of the science and technology commission of Songjiang district, the 6G future industry cluster of Songjiang is centered on Sijing township and covers a planned area of about one square kilometer.
+The Shanghai 6G AI-Valley Future Industry Park is already home to a range of cutting-edge R&D, proof-of-concept testing and business incubation activities. The zone plans to attract and nurture more than 100 companies across the industrial chain in 2026 and 2027 to strengthen the sector's industrial base and foster a number of leading enterprises by 2030. It has set a goal of growing the industry to more than 100 billion yuan ($14.83 billion).
+The emotion-sensing glasses were jointly developed by three companies in the same building within the park. One specializes in collecting and decoding neural signals, giving the glasses their ability to "sense"; another focuses on AI vision and noise reduction, enabling them to "see" and "hear"; and a third has miniaturized a satellite communications module so that it can fit inside the temples of the glasses.
+Connecting these glasses with other intelligent agents requires solid underlying technologies.
+Zhou Nanqing is the founder of a company that provides complete, commercial-grade physical-layer solutions. Its core business is precisely the underlying technology for 6G signals. After moving into the Shanghai 6G AI-Valley Future Industry Park, Zhou was impressed by the park's well-developed industrial ecosystem.
+"The park covers about 120,000 square meters and has 15 buildings. R&D can be done downstairs, verification upstairs, pilot production within the park and mass production in the surrounding area," Zhou said.
+"A prototype developed in the incubator can be taken by elevator to a proof-of-concept laboratory on the rooftop. Once testing is complete, it can be sent to a nearby pilot production platform for small-batch manufacturing, and then to surrounding factories for mass production," Zhou told People's Daily.
+This highly efficient system convinced the company to locate its headquarters, core R&D operations and satellite payload production line in the park.
+Attracting companies is only part of the job; ensuring that they can thrive after settling in is equally important. The park has connected companies with more than 10 investment institutions, helped them establish links with upstream and downstream enterprises, universities and standards organizations, and opened its pilot production platform to support them in exploring new business areas.
+As more companies join the industrial chain, stories like that of the smart glasses are becoming increasingly common in the 6G future industry cluster.
+To address the problem of embodied robots in which "the body moves faster than the brain can keep up," the park has brought in a technology company specializing in 6G wireless technologies and integrated millimeter-wave sensing, communications and computing to provide solutions. Another company is developing technologies that could cut robot hardware costs by 40 to 60 percent.
+"In the 6G future industry cluster, leading enterprises are bringing together upstream and downstream companies, gradually connecting satellites in the sky, base stations on the ground and terminals in people's hands. An integrated space-air-ground network is beginning to take shape," Xiao said.
+Songjiang district is now home to 79 key enterprises across the mobile communications industrial chain. Together, they generated about 28 billion yuan in revenue in 2025.
+Copyright © 2026 People's Daily Online. All Rights Reserved.

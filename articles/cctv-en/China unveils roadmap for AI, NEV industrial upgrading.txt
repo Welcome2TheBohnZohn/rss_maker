@@ -1,0 +1,57 @@
+TITLE:
+China unveils roadmap for AI, NEV industrial upgrading
+
+PUBLISHED:
+2026-08-27
+
+SOURCE:
+CCTV English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.cctv.com/2026/08/27/ARTI9rTw6DIakEOvNRx7OD1M260827.shtml
+
+ARTICLE TEXT:
+Robots of Tiangong compete during the 4x100m Relay of the 2nd World Humanoid Robot Games in Beijing, capital of China, Aug. 25, 2026. (Xinhua/Zhang Chenlin)
+
+BEIJING, Aug. 26 (Xinhua) -- China has formulated nearly 200 key artificial intelligence (AI) standards, and plans to build 500 zero-carbon factories and optimize new energy vehicle (NEV) policies during the 15th Five-Year Plan period (2026-2030) to boost industrial upgrading, senior officials said Wednesday.
+
+Xin Guobin, vice minister of the Ministry of Industry and Information Technology (MIIT), said at a press conference held by the State Council Information Office that AI has now been largely integrated across the entire industrial chain in China, including research and development, design, production, manufacturing, quality inspection, as well as operations and maintenance.
+
+Xin added that multiple cities are being organized to carry out AI ethics reviews and service practices.
+
+Liu Yulin, director of the MIIT's information and communications development department, said at the press conference that during the 2026-2030 period, efforts to advance core 6G technologies will be accelerated.
+
+Liu said China will continue 6G technology trials and standards development to promote the maturation of the 6G industry and build its ecosystem, preparing for the commercial deployment of 6G.
+
+During the 15th Five-Year Plan period, China will establish 500 zero-carbon factories, creating replicable models to advance the green and low-carbon transformation of its industrial sector, according to Xin.
+
+During the period, efforts will also be made to promote the high-quality development of the intelligent connected NEV industry, uphold the bottom line of product quality, and improve the safety and reliability of autonomous driving, Xin said.
+
+Policies on NEV insurance will be optimized, and maintenance costs will be reduced to address consumer concerns and encourage consumers to purchase and use NEVs with confidence, he added.
+
+China's computing power infrastructure continues to be solidified, according to Xin. As of the end of June this year, the country's intelligent computing capacity reached 2,185 EFLOPS, with over 70 major computing corridors established around computing power hubs.
+
+EFLOPS, or ExaFLOPS, is a unit of computing performance, with each unit representing 1 quintillion floating-point operations per second.
+
+China's open-source large AI models have achieved innovative breakthroughs and delivered cost-effective performance, becoming the preferred choice for an increasing number of global users.
+
+Through real-world training, robots have been deployed in operational modes across scenarios such as manufacturing, emergency rescue, and catering services. Many application scenarios were vividly demonstrated at the recently concluded 2026 World Robot Conference, which lasted from Aug. 19 to 23 in Beijing.
+
+The ongoing World Humanoid Robot Games in Beijing, held from Aug. 22 to 26, also saw unprecedented ticket demand and huge attendance. The recently released action plan on international AI ethics governance has received active responses from numerous countries.
+
+The action plan was released at the 2026 World AI Conference and High-Level Meeting on Global AI Governance held in Shanghai in July.
+
+Over the next five years, efforts will accelerate to build emerging pillar industries such as integrated circuits, aerospace, biomedicine, the low-altitude economy, novel energy storage, and intelligent robotics, Xin noted.
+
+Meanwhile, he added that future industries including quantum technology, biomanufacturing, hydrogen and nuclear fusion energy, brain-computer interfaces, embodied intelligence, and 6G will be promoted as new drivers of economic growth.
+
+China will focus on cultivating high-quality enterprises, improving the tiered cultivation system for such enterprises, fostering and strengthening the growth of small and medium-sized enterprises (SMEs) that use specialized and sophisticated technologies to produce novel and unique products, according to Xin, adding that the country will foster more "little giant" enterprises with high growth potential, advanced technology and strong market competitive edge as well as more single-product specialists in the manufacturing industry.
+
+The country will strive to promote high-quality development in the information and communications industry, accelerate the planning and construction of next-generation communication networks and computing power networks, promote large-scale application of 5G and industrial internet in key industries, strengthen the research and development of 6G technologies, enhance capabilities in network and data security, and consolidate and elevate the industry's competitive advantage and leading position.
+
+During the 2026 World AI Conference and High-Level Meeting on Global AI Governance last month, China stressed the need for adhering to the principles of openness and win-win and boosting innovation-driven development, strengthening risk awareness and ensuring that AI is secure and controllable, encouraging inclusiveness and promoting mutual learning between civilizations, and advocating solidarity and improving global governance.
+
+China is a global leader in AI development. In 2025, its core AI industries were worth over 1.2 trillion yuan (about 176.6 billion U.S. dollars), while the number of AI enterprises nationwide exceeded 6,200.
