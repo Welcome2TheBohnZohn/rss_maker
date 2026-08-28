@@ -1,0 +1,35 @@
+TITLE:
+Robot chefs bring intuition to the mix
+
+PUBLISHED:
+2026-08-28
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202608/28/WS6a90b790e4b06d4aa055ad7f.html
+
+ARTICLE TEXT:
+Midway through cooking a batch of mapo tofu at an exhibition during the 2026 World Robot Conference in Beijing last week, a demonstrator poured an unexpected 100 milliliters of water directly into the sizzling wok.
+Instead of blindly following its preset timer, the cooking robot analyzed and adjusted the heat and cooking time until the sauce reached its ideal glossy consistency.
+The moment illustrated what researchers said is a genuine shift in culinary automation: machines that respond to what they observe, not just what they're told.
+For years, cooking machines have operated on fixed programs — essentially glorified bread makers executing predetermined steps. But cooking is rarely so orderly. Meat isn't always fully thawed, vegetables carry more moisture after a humid week and sugar can go from caramelized to scorched in seconds.
+"Real kitchens are never standardized laboratories," said Yang Jiancheng, founder and chairman of Beijing-based Xianglu Robotics, one of the country's increasing number of companies working on sensor-equipped cooking systems.
+"I don't care whether the chili peppers have been in the wok for exactly five minutes. What matters is whether their skins have properly blistered," he said.
+Yang's company has developed a cooking robot equipped with three industrial cameras and additional sensors that capture visual data at 30 frames per second. Its software, called CookingMuse, adjusts heat, duration, stirring speed and liquid seasoning in response to what the cameras observe.
+The technology, however, is still navigating the nuances of culinary physics. Yang noted that while the model achieves over 99 percent accuracy on well-trained signature dishes, precision can slip to roughly 77 percent when unfamiliar ingredients are thrown into the mix. A neural network adept at reducing tofu sauce still requires substantial retraining to judge the glaze on braised pork belly.
+As the catering sector looks to cushion rising labor costs and standardize quality across sprawling restaurant chains, developers of artificial intelligence are racing to move kitchen hardware from basic automation to sensory-driven "embodied AI".
+The commercial incentive is vast. China's catering industry generated nearly 5.8 trillion yuan ($863 billion) last year, according to the National Bureau of Statistics. However, penetration of automated cooking systems remains below 2 percent domestically and even lower abroad.
+To expand its reach, Xianglu has rolled out RobotCook, an all-in-one mobile container kitchen that handles ingredient refrigeration, cooking, plating and self-cleaning.
+For an outlet serving 100 meals daily, Yang estimated that the unit costs roughly the equivalent of one kitchen worker's annual salary, offering a return on investment within 12 to 15 months.
+The rise of culinary automation is reshaping kitchen labor rather than simply replacing it, industry insiders said.
+"Robots can take on the heavy and repetitive physical strain, liberating chefs to focus on menu development and creative research and development," said Wu Xianming, a recognized master chef of Jiangxi cuisine.
+The next step is an ecosystem in which seasoned culinary masters license their digitized recipes to global franchise chains and automated kiosks, earning royalties per dish cooked.
+The primary growth areas outside the domestic market lie in Western and Southeast Asian markets, where skilled Chinese chefs are in critically short supply and kitchen wages run high.
+While the robotics sector has recently experienced a frenzy of media coverage over the antics of its humanoid designs, industry experts emphasize that task efficiency rather than human mimicry is the priority.
+"Embodied AI does not need to look like a human; its form factor must adapt strictly to the functional demands of real-world scenarios," said Liu Xingliang, president of the Data Center of China Internet's Internet Research Institute.
+For the next generation of automated kitchens, the main aim will be to watch the wok, not the clock.

@@ -1,0 +1,39 @@
+TITLE:
+China rejects US cyber smear; experts, firms expose persistent US APT attacks on critical infrastructure
+
+PUBLISHED:
+2026-08-27 23:39:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1369217.shtml
+
+ARTICLE TEXT:
+Cartoon: GT
+China strongly deplores and firmly opposes the US' wrong practice of slinging mud at China under the pretext of cybersecurity, Chinese Foreign Ministry spokesperson Lin Jian said at a regular press conference on Thursday.
+Lin made the remarks when asked about the US Department of Justice (DOJ) and Federal Bureau of Investigation (FBI)'s announcement on Wednesday of so-called court-authorized seizures of domains used by two hacking platforms, which Washington claimed were operated and used by "China state-sponsored hackers to target US critical infrastructure and other sensitive networks."
+In the announcement, DOJ and FBI claimed a state-sponsored group known as "QTFY" created and operated the platforms. 
+"We note the relevant reports. China firmly opposes hacking and combats it in accordance with the law. China also firmly opposes spreading disinformation for political agendas," Lin said. "The so-called 'statement' lacks evidence and confuses right and wrong. China strongly deplores and firmly opposes the US' wrong practice of slinging mud at China under the pretext of cybersecurity."
+The US has been widely condemned as the world's largest "hacking empire" and "eavesdropping empire", with a blemished record and solid evidence to prove it, Lin said, noting that "China has grave concerns with the US on cybersecurity."
+The previously exposed cases, including the National Security Agency attacking and pre-positioning capability to disrupt China's National Time Service Center, have laid bare the US administration's dangerous practice of carrying out cyberattacks on China's critical infrastructure and pre-positioning cyberattack capabilities for potential large-scale destructive operations in the future. The US side, however, has never made a response on this issue, Lin said.
+China's Ministry of State Security announced in October 2025 that the ministry had obtained solid evidence that the US National Security Agency had infiltrated China's National Time Service Center under the Chinese Academy of Sciences. 
+When it comes to cyber issues, China and the US are countries with a big influence. The two sides should take the lead to safeguard and follow the international rules on cyberspace and jointly build a relationship in cyberspace featured by peace, stability and mutual respect, Lin said at the press briefing. 
+"We urge the US to quit double standards and political manipulation, take a responsible and constructive approach, and properly handle the risks on cybersecurity by equal-footed dialogue and consultation with China," he said.
+Meanwhile, a cybersecurity expert told the Global Times that advanced persistent threat (APT) activities originating from the US continue to be detected in China.
+One example is NightEagle, whose attacks have been monitored since 2023, the expert said. A review of attack traffic from one incident showed that the theft of emails from key accounts at a single victim organization continued for nearly a year.
+NightEagle primarily targets leading Chinese companies and institutions in high technology, semiconductors, quantum technology, artificial intelligence, and large language models, as well as the defense industry, with intelligence theft as its main objective. It has shown particular interest in core intelligence related to the development of AI technologies in China's aerospace sector, according to the expert.
+The group also adjusts its targets in response to geopolitical developments. Following the rapid rise of China's large-model industry, it began launching sustained and targeted attacks on sectors deploying large-model applications, the expert said.
+Another group, internally tracked as UTG-Q-020, became active in early 2025. After infiltrating the systems of government contractors, it launched supply-chain attacks toward the end of that year, penetrating large numbers of government office terminals and compromising critical information infrastructure at multiple government organs, the expert noted.
+UTG-Q-020, meanwhile, conducted supply-chain attacks by compromising government contractors, enabling it to infiltrate government office terminals on a large scale. It also employed a previously unseen code-injection technique.
+Chinese cybersecurity company 360 told the Global Times that it has identified and disclosed 60 foreign APT groups to date. "In 2025 alone, the 360 Advanced Threat Research Institute detected multiple major cyberattacks launched by North American APT groups against Chinese critical infrastructure operators," the company said.
+The attacks primarily targeted critical infrastructure in the energy, telecommunications, transportation and national timekeeping sectors, as well as high-tech fields such as semiconductors, quantum technology and advanced materials. Major international events and government institutions were also among the targets.
+During the 2025 Asian Winter Games in Harbin, the National Computer Virus Emergency Response Center released a report stating that the Games' information systems had faced more than 270,000 overseas cyberattacks.
+Following the attacks, 360 participated in technical analysis and tracing work that ultimately identified clues pointing to the NSA's Tailored Access Operations unit and relevant personnel, the company said.
+"Another clear trend we have observed in recent years is that APT attacks are becoming increasingly automated and large-scale, making it increasingly difficult to counter them through manual efforts alone," 360 told the Global Times.
+As a result, the company said it is now applying AI to threat detection, intelligence correlation and analysis. It is combining more than two decades of security data, APT knowledge and expert experience with security-oriented large models and intelligent agents.
+This allows security specialists to correlate massive volumes of malware samples, network traffic, attack infrastructure and historical tactics, helping them identify valuable leads amid large amounts of noise and reconstruct complete attack chains more efficiently, 360 said.
