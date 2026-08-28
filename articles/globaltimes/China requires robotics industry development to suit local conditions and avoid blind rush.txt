@@ -1,0 +1,23 @@
+TITLE:
+China requires robotics industry development to suit local conditions and avoid blind rush
+
+PUBLISHED:
+2026-08-28 12:26:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1369250.shtml
+
+ARTICLE TEXT:
+The large group 100-meter sprint match on the 2nd World Humanoid Robot Games on August 26, 2026. Photo: Li Hao/GT
+Development of the robotics industry must be tailored to local conditions and avoid blind imitation and a rushed, herd-like rush, in order to promote the steady and sustainable progress of the sector, an official from the National Development and Reform Commission (NDRC) told a press conference on Friday.
+Noting that the robotics industry involves numerous cutting-edge technologies, including artificial intelligence, advanced manufacturing, and new materials, NDRC spokesperson Li Chao said the World Robot Conference is attracting growing attention. At the same time, robots at this year's World Humanoid Robot Games demonstrated astonishing iterative progress and showcased their working potential in areas such as warehouse sorting, outdoor inspection, and security patrol.
+In order to enable robots to iterate their technology in authentic settings and create closed-loop applications driven by real demand, the NDRC will next build a high-quality real-machine data collection system. This will raise both the quality and scale of data available for embodied intelligence, addressing the "data hunger" that currently constrains training, Li noted.
+The Commission will support embodied-model companies in exploring multiple technical pathways, and encourage innovation in frontier areas such as vision-language-action models and world models, thereby accelerating technological convergence and practical deployment.
+The NDRC will also expand the library of embodied-training scenarios, encourage enterprises in relevant industries to open up real-world environments, and support embodied-intelligence firms in conducting reliability and safety testing. These steps aim to speed the real-world application of embodied intelligence across manufacturing, healthcare, consumer markets, services, and public safety, Li noted.
+Global Times

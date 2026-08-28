@@ -1,0 +1,62 @@
+TITLE:
+China’s New Economic Growth Drivers Index Increased by 12.5% in 2025
+
+PUBLISHED:
+2026-08-28 15:00:00
+
+SOURCE:
+National Bureau Statistics English
+
+CATEGORY:
+Economic
+
+URL:
+https://www.stats.gov.cn/english/PressRelease/202608/t20260828_1965135.html
+
+ARTICLE TEXT:
+China’s New Economic Growth Drivers Index Increased by 12.5% in 2025
+To continuously monitor the changes in new drivers of China’s economic development, the Institute of Statistical Sciences of the National Bureau of Statistics of China calculated the new economic growth drivers index for 2025 by employing the fixed-base index method, according to the Statistical Monitoring System for New Industries, New Business Forms and New Business Models. The results showed that China’s new economic growth drivers index in 2025 (taking 2022 as 100) was 153.0, an increase of 12.5% over the previous year. In 2025, all sub-indexes increased compared to the previous year, among which the transformation and upgrading index and the innovation-driven index contributed the most to the growth of the total index.
+I. Transformation and upgrading index. The transformation and upgrading index in 2025 was 156.8, an increase of 22.7% over the previous year, contributing 34.1% to the growth of the overall index.
+II. Innovation-driven index. The innovation-driven index in 2025 was 156.3, an increase of 12.9% over the previous year, contributing 31.4% to the growth of the overall index.
+III. Network economy index. The network economy index in 2025 was 157.8, an increase of 10.8% over the previous year, contributing 27.2% to the growth of the overall index.
+IV. Economic vitality index. The economic vitality index in 2025 was 137.2, an increase of 4.8% over the previous year, contributing 7.3% to the growth of the overall index.
+New Economic Growth Drivers Index, Sub-indexes and Their Growth Rates from 2023 to 2025
+| Items | 2023 |  | 2024 |  | 2025 |  | 
+|  | Index Value | Growth Rate (%) | Index Value | Growth Rate (%) | Index Value | Growth Rate (%) | 
+| New Economic Growth Drivers Index | 119.1 | 19.1 | 136.0 | 14.2 | 153.0 | 12.5 | 
+| Economic vitality | 114.3 | 14.3 | 130.9 | 14.5 | 137.2 | 4.8 | 
+| Innovation-driven | 122.4 | 22.4 | 138.5 | 13.2 | 156.3 | 12.9 | 
+| Network economy | 122.5 | 22.5 | 142.4 | 16.2 | 157.8 | 10.8 | 
+| Transformation and upgrading | 113.6 | 13.6 | 127.8 | 12.5 | 156.8 | 22.7 | 
+Attachment: Statistical Indicator System and Calculation Method for the New Economic Growth Drivers Index
+I. Statistical Indicator System for the New Economic Growth Drivers Index
+Table 1 Statistical Indicator System for the New Economic Growth Drivers Index and Weights
+| Sub-index | Weight | No. | Indicator | 
+| Economic vitality index | 0.2 | 1 | Number of newly established business entities | 
+|  |  | 2 | Number of high-tech enterprises | 
+|  |  | 3 | Express delivery business volume | 
+|  |  | 4 | Growth rate of investments in high-tech industry | 
+| Innovation-driven index | 0.3 | 1 | Expenditure on R&D | 
+|  |  | 2 | Full-time equivalent of R&D personnel per 10,000 people | 
+|  |  | 3 | Number of high-value invention patents owned per 10,000 people | 
+|  |  | 4 | Contract amount in the technology market | 
+|  |  | 5 | Number of “Little Giant” firms | 
+| Network economy index | 0.3 | 1 | Mobile internet access traffic | 
+|  |  | 2 | Number of 5G base stations | 
+|  |  | 3 | Cross-border e-commerce export value | 
+|  |  | 4 | Online retail sales of goods | 
+| Transformation and upgrading index | 0.2 | 1 | Added value of strategic emerging industries | 
+|  |  | 2 | Proportions of enterprises engaging in e-commerce | 
+|  |  | 3 | Export value of “the new three” products [1] | 
+|  |  | 4 | Non-fossil energy consumption | 
+|  |  | 5 | Added value of digital product-related industries | 
+| Note: [1] The export volume of the “new three” products is measured after excluding the impact of price fluctuations. |  |  |  | 
+II. Calculation Method for the New Economic Growth Drivers Index
+The New Economic Growth Drivers Index is a composite index calculated using a linear weighted comprehensive evaluation method. The calculation is based on data from surveys on the “three new” economy (namely, new industries, new business forms, and new business models). The year 2022 is taken as the base period (taking 2022 as 100) in this calculation. The index value represents the variation trend of new economic growth drivers compared to that of 2022. The specific calculation steps are as follows:
+1. Standardization of basic indicators
+Where represents the corresponding index of, represents the value of the reporting period, and represents the value of the base period.
+2. Calculation of sub-indexes
+Where is the weight of , is the -th value of the sub-index, is the ordinal number of the first basic index in the whole index system in the category of , and is the ordinal number of the last basic index in the whole index system in the category of .
+3. Calculation of the new economic growth drivers index
+Where NEI is the new economic growth drivers index and is the weight of the sub-index .
+4. Calculation of each sub-index’s contribution to overall index growth

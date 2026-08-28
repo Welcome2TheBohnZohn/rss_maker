@@ -7,7 +7,225 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 00:58:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 16:41:22 +0000</lastBuildDate>
+    <item>
+      <title>China’s New Economic Growth Drivers Index Increased by 12.5% in 2025</title>
+      <link>https://www.stats.gov.cn/english/PressRelease/202608/t20260828_1965135.html</link>
+      <description>Published: 2026-08-28 15:00:00
+
+China’s New Economic Growth Drivers Index Increased by 12.5% in 2025
+To continuously monitor the changes in new drivers of China’s economic development, the Institute of Statistical Sciences of the National Bureau of Statistics of China calculated the new economic growth drivers index for 2025 by employing the fixed-base index method, according to the Statistical Monitoring System for New Industries, New Business Forms and New Business Models. The results showed that China’s new economic growth drivers index in 2025 (taking 2022 as 100) was 153.0, an increase of 12.5% over the previous year. In 2025, all sub-indexes increased compared to the previous year, among which the transformation and upgrading index and the innovation-driven index contributed the most to the growth of the total index.
+I. Transformation and upgrading index. The transformation and upgrading index in 2025 was 156.8, an increase of 22.7% over the previous year, contributing 34.1% to the growth of the overall index.
+II. Innovation-driven index. The innovation-driven index in 2025 was 156.3, an increase of 12.9% over the previous year, contributing 31.4% to the growth of the overall index.
+III. Network economy index. The network economy index in 2025 was 157.8, an increase of 10.8% over the previous year, contributing 27.2% to the growth of the overall index.
+IV. Economic vitality index. The economic vitality index in 2025 was 137.2, an increase of 4.8% over the previous year, contributing 7.3% to the growth of the overall index.
+New Economic Growth Drivers Index, Sub-indexes and Their Growth Rates from 2023 to 2025
+| Items | 2023 |  | 2024 |  | 2025 |  | 
+|  | Index Value | Growth Rate (%) | Index Value | Growth Rate (%) | Index Value | Growth Rate (%) | 
+| New Economic Growth Drivers Index | 119.1 | 19.1 | 136.0 | 14.2 | 153.0 | 12.5 | 
+| Economic vitality | 114.3 | 14.3 | 130.9 | 14.5 | 137.2 | 4.8 | 
+| Innovation-driven | 122.4 | 22.4 | 138.5 | 13.2 | 156.3 | 12.9 | 
+| Network economy | 122.5 | 22.5 | 142.4 | 16.2 | 157.8 | 10.8 | 
+| Transformation and upgrading | 113.6 | 13.6 | 127.8 | 12.5 | 156.8 | 22.7 | 
+Attachment: Statistical Indicator System and Calculation Method for the New Economic Growth Drivers Index
+I. Statistical Indicator System for the New Economic Growth Drivers Index
+Table 1 Statistical Indicator System for the New Economic Growth Drivers Index and Weights
+| Sub-index | Weight | No. | Indicator | 
+| Economic vitality index | 0.2 | 1 | Number of newly established business entities | 
+|  |  | 2 | Number of high-tech enterprises | 
+|  |  | 3 | Express delivery business volume | 
+|  |  | 4 | Growth rate of investments in high-tech industry | 
+| Innovation-driven index | 0.3 | 1 | Expenditure on R&amp;D | 
+|  |  | 2 | Full-time equivalent of R&amp;D personnel per 10,000 people | 
+|  |  | 3 | Number of high-value invention patents owned per 10,000 people | 
+|  |  | 4 | Contract amount in the technology market | 
+|  |  | 5 | Number of “Little Giant” firms | 
+| Network economy index | 0.3 | 1 | Mobile internet access traffic | 
+|  |  | 2 | Number of 5G base stations | 
+|  |  | 3 | Cross-border e-commerce export value | 
+|  |  | 4 | Online retail sales of goods | 
+| Transformation and upgrading index | 0.2 | 1 | Added value of strategic emerging industries | 
+|  |  | 2 | Proportions of enterprises engaging in e-commerce | 
+|  |  | 3 | Export value of “the new three” products [1] | 
+|  |  | 4 | Non-fossil energy consumption | 
+|  |  | 5 | Added value of digital product-related industries | 
+| Note: [1] The export volume of the “new three” products is measured after excluding the impact of price fluctuations. |  |  |  | 
+II. Calculation Method for the New Economic Growth Drivers Index
+The New Economic Growth Drivers Index is a composite index calculated using a linear weighted comprehensive evaluation method. The calculation is based on data from surveys on the “three new” economy (namely, new industries, new business forms, and new business models). The year 2022 is taken as the base period (taking 2022 as 100) in this calculation. The index value represents the variation trend of new economic growth drivers compared to that of 2022. The specific calculation steps are as follows:
+1. Standardization of basic indicators
+Where represents the corresponding index of, represents the value of the reporting period, and represents the value of the base period.
+2. Calculation of sub-indexes
+Where is the weight of , is the -th value of the sub-index, is the ordinal number of the first basic index in the whole index system in the category of , and is the ordinal number of the last basic index in the whole index system in the category of .
+3. Calculation of the new economic growth drivers index
+Where NEI is the new economic growth drivers index and is the weight of the sub-index .
+4. Calculation of each sub-index’s contribution to overall index growth</description>
+      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260828_1965135.html</guid>
+    </item>
+    <item>
+      <title>Profits of Industrial Enterprises above the Designated Size from January t...</title>
+      <link>https://www.stats.gov.cn/english/PressRelease/202608/t20260828_1965134.html</link>
+      <description>Published: 2026-08-28 09:30:00
+
+Profits of Industrial Enterprises above the Designated Size from January to July in 2026
+From January to July, the total profits of industrial enterprises above the designated size nationwide reached 4,582.06 billion yuan, a year-on-year increase of 17.6% (calculated on a comparable basis, see Annotation 2 for details).
+From January to July, among industrial enterprises above the designated size, state-holding enterprises realized a total profit of 1,491.89 billion yuan, a year-on-year increase of 16.3%; share-holding enterprises realized a total profit of 3,549.40 billion yuan, an increase of 23.6%; enterprises funded by foreign investors and investors from Hong Kong, Macao and Taiwan realized a total profit of 1,013.78 billion yuan, an increase of 1.2%; private enterprises realized a total profit of 1,135.22 billion yuan, an increase of 10.9%.
+From January to July, the mining industry realized a total profit of 666.05 billion yuan, a year-on-year increase of 34.9%; the manufacturing industry realized a total profit of 3,437.60 billion yuan, an increase of 18.8%; the production and supply of electricity, heat power, gas and water realized a total profit of 478.42 billion yuan, a decrease of 5.8%.
+From January to July, the profits of main industries were as follows: the profit of the manufacture of computers, communication equipment and other electronic equipment increased by 110% year on year, that of the smelting and pressing of non-ferrous metals increased by 91.8%, that of the manufacture of raw chemical materials and chemical products increased by 56.6%, that of the mining and washing of coal increased by 50.4%, that of the extraction of petroleum and natural gas increased by 15.4%, that of the textile industry increased by 7.9%, that of the manufacture of general-purpose machinery increased by 1.4%, that of the manufacture of special-purpose machinery increased by 0.8%, that of the manufacture of electrical machinery and apparatus decreased by 7.6%, that of the production and supply of electricity and heat power decreased by 8.0%, that of the processing of food from agricultural and sideline products decreased by 12.3%, that of the manufacture of automobiles decreased by 20.4%, that of the manufacture of non-metallic mineral products decreased by 48.2%, that of the smelting and pressing of ferrous metals decreased by 51.2%, and the processing of petroleum, coal and other fuels turned from loss to profit.
+From January to July, industrial enterprises above the designated size achieved a business revenue of 80.92 trillion yuan, a year-on-year increase of 6.5%; the operating costs incurred were 68.79 trillion yuan, an increase of 5.9%; the profit rate of business revenue was 5.66%, a year-on-year increase of 0.54 percentage points.
+At the end of July, the assets of industrial enterprises above the designated size totaled 195.76 trillion yuan, a year-on-year increase of 6.4%; the liabilities totaled 114.33 trillion yuan, an increase of 7.1%; the owners’ equity totaled 81.43 trillion yuan, an increase of 5.5%; the asset-liability ratio was 58.4%, a year-on-year increase of 0.3 percentage points.
+At the end of July, the accounts receivable of industrial enterprises above the designated size totaled 28.88 trillion yuan, a year-on-year increase of 8.5%; the inventory of finished goods was 7.27 trillion yuan, an increase of 10.8%.
+From January to July, the costs for per-hundred-yuan business revenue of industrial enterprises above the designated size were 85.00 yuan, a year-on-year decrease of 0.47 yuan; the expenses for per-hundred-yuan business revenue were 8.41 yuan, a year-on-year decrease of 0.09 yuan.
+At the end of July, the business revenue brought by per-hundred-yuan assets of industrial enterprises above the designated size was 72.2 yuan, a year-on-year increase of 0.3 yuan; the per capita business revenue was 1.913 million yuan, a year-on-year increase of 125 thousand yuan; the turnover days of finished goods inventory were 21.3 days, a year-on-year increase of 0.6 days; the average collection period for accounts receivable was 71.9 days, a year-on-year increase of 0.9 days.
+In July, the profits of industrial enterprises above the designated size increased by 11.2% year on year.
+Table 1 Key Financial Indicators of Industrial Enterprises above the Designated Size from January to July in 2026
+| Category | Business Revenue |  | Operating Costs |  | Total Profits |  | 
+|  | Amount (100 million yuan) | Growth Rate Y/Y (%) | Amount (100 million yuan) | Growth Rate Y/Y (%) | Amount (100 million yuan) | Growth Rate Y/Y (%) | 
+| Total | 809230.7 | 6.5 | 687861.5 | 5.9 | 45820.6 | 17.6 | 
+| Of which: Mining | 31745.4 | 8.6 | 20602.2 | 2.5 | 6660.5 | 34.9 | 
+| Manufacturing | 703941.3 | 7.0 | 601300.5 | 6.5 | 34376.0 | 18.8 | 
+| Production and supply of electricity, heat power, gas and water | 73544.0 | 0.9 | 65958.8 | 1.9 | 4784.2 | -5.8 | 
+| Of which: State-holding enterprises | 223924.5 | 5.3 | 187581.1 | 4.8 | 14918.9 | 16.3 | 
+| Of which: Share-holding enterprises | 657414.4 | 7.2 | 560603.5 | 6.5 | 35494.0 | 23.6 | 
+| Enterprises funded by foreign investors and investors from Hong Kong, Macao and Taiwan | 148411.3 | 3.7 | 124381.9 | 3.6 | 10137.8 | 1.2 | 
+| Of which: Private enterprises | 281933.6 | 5.0 | 243022.3 | 4.8 | 11352.2 | 10.9 | 
+| Notes: 1. Due to overlap between ownership categories, the sum of sub-items is greater than the total. 2. Due to rounding and without mechanical adjustment, the sub-items may not add up to the total. |  |  |  |  |  |  | 
+Table 2 Performance Indicators of Industrial Enterprises above the Designated Size from January to July in 2026
+| Category | Profit Rate of Business Revenue | Costs for per-hundred-yuan Business Revenue | Expenses for per-hundred-yuan Business Revenue | Business Revenue Brought by per-hundred-yuan Assets | Per Capita Business Revenue | Asset-Liability Ratio | Turnover Days of Finished Goods Inventory | Average Collection Period for Accounts Receivable | 
+|  | Jan-Jul (%) | Jan-Jul (yuan) | Jan-Jul (yuan) | By the end of July (yuan) | By the end of July (10 thousand yuan/person) | By the end of July (%) | By the end of July (days) | By the end of July (days) | 
+| Total | 5.66 | 85.00 | 8.41 | 72.2 | 191.3 | 58.4 | 21.3 | 71.9 | 
+| Of which: Mining | 20.98 | 64.90 | 9.44 | 36.6 | 142.9 | 57.0 | 15.5 | 53.8 | 
+| Manufacturing | 4.88 | 85.42 | 8.71 | 84.8 | 184.6 | 58.0 | 23.7 | 73.6 | 
+| Production and supply of electricity, heat power, gas and water | 6.51 | 89.69 | 5.08 | 36.0 | 380.4 | 60.6 | 1.1 | 63.9 | 
+| Of which: State-holding enterprises | 6.66 | 83.77 | 5.89 | 53.7 | 327.4 | 57.8 | 12.6 | 56.2 | 
+| Of which: Share-holding enterprises | 5.40 | 85.27 | 8.18 | 70.9 | 190.6 | 59.5 | 21.5 | 69.8 | 
+| Enterprises funded by foreign investors and investors from Hong Kong, Macao and Taiwan | 6.83 | 83.81 | 9.43 | 78.9 | 198.2 | 53.0 | 20.2 | 81.5 | 
+| Of which: Private enterprises | 4.03 | 86.20 | 9.86 | 90.5 | 139.7 | 59.9 | 26.8 | 75.6 | 
+Table 3 Key Financial Indicators of Industrial Enterprises above the Designated Size from January to July in 2026 (By Industry)
+| Industry | Business Revenue |  | Operating Costs |  | Total Profits |  | 
+|  | Amount (100 million yuan) | Growth Rate Y/Y (%) | Amount (100 million yuan) | Growth Rate Y/Y (%) | Amount (100 million yuan) | Growth Rate Y/Y (%) | 
+| Total | 809230.7 | 6.5 | 687861.5 | 5.9 | 45820.6 | 17.6 | 
+| Mining and washing of coal | 15854.6 | 10.4 | 10974.9 | 4.8 | 2508.5 | 50.4 | 
+| Extraction of petroleum and natural gas | 7581.1 | 12.4 | 4018.7 | 9.1 | 2407.3 | 15.4 | 
+| Mining and processing of ferrous metal ores | 2491.9 | -6.4 | 1966.8 | -7.3 | 287.7 | 2.0 | 
+| Mining and processing of non-ferrous metal ores | 3056.3 | 32.3 | 1427.0 | 8.2 | 1241.1 | 74.9 | 
+| Mining and processing of non-metal ores | 1622.6 | -13.7 | 1161.7 | -12.8 | 171.4 | -0.3 | 
+| Professional and support activities for mining | 1137.6 | -10.3 | 1052.1 | -10.5 | 44.4 | 116.6 | 
+| Mining of other ores | 1.4 | -17.6 | 1.0 | -23.1 | 0.1 | 0.0 | 
+| Processing of food from agricultural and sideline products | 29181.6 | 2.9 | 27147.5 | 3.2 | 540.8 | -12.3 | 
+| Manufacture of foods | 12635.0 | 5.1 | 9937.7 | 5.1 | 974.7 | 3.3 | 
+| Manufacture of liquor, beverages and refined tea | 7990.6 | -7.5 | 5256.1 | -5.5 | 1312.2 | -16.1 | 
+| Manufacture of tobacco | 9481.0 | 0.6 | 2664.6 | 0.5 | 1303.2 | -0.5 | 
+| Textile industry | 12383.6 | 2.2 | 11038.0 | 1.9 | 326.8 | 7.9 | 
+| Manufacture of textile, wearing apparel and accessories | 5626.3 | -3.0 | 4758.0 | -3.7 | 168.1 | -17.2 | 
+| Manufacture of leather, fur, feather and related products and footwear | 3746.9 | -3.5 | 3245.4 | -3.5 | 123.0 | -14.2 | 
+| Processing of timber, manufacture of wood, bamboo, rattan, palm and straw products | 3578.4 | -14.6 | 3287.7 | -14.3 | 57.8 | -36.9 | 
+| Manufacture of furniture | 3004.4 | -8.6 | 2498.1 | -8.0 | 58.5 | -58.2 | 
+| Manufacture of paper and paper products | 8050.5 | 5.2 | 7097.7 | 4.9 | 227.5 | 27.6 | 
+| Printing and reproduction of recording media | 3471.0 | 0.8 | 2898.0 | 1.0 | 140.9 | -13.7 | 
+| Manufacture of articles for culture, education, arts and crafts, sport and entertainment activities | 6837.9 | -7.4 | 5994.7 | -8.2 | 191.7 | -17.5 | 
+| Processing of petroleum, coal and other fuels | 30825.1 | 4.1 | 25854.2 | 2.0 | 422.1 | (Note 1) | 
+| Manufacture of raw chemical materials and chemical products | 54477.2 | 9.3 | 46629.5 | 7.5 | 3159.9 | 56.6 | 
+| Manufacture of medicines | 13355.4 | -0.1 | 7696.0 | 0.9 | 1942.0 | 3.8 | 
+| Manufacture of chemical fibers | 6044.6 | 1.8 | 5452.1 | -1.0 | 260.9 | 107.7 | 
+| Manufacture of rubber and plastic products | 17629.5 | 2.9 | 14892.3 | 2.6 | 803.6 | -3.6 | 
+| Manufacture of non-metallic mineral products | 22303.0 | -9.2 | 19181.7 | -8.7 | 347.0 | -48.2 | 
+| Smelting and pressing of ferrous metals | 43060.5 | -0.8 | 41014.9 | -0.4 | 290.9 | -51.2 | 
+| Smelting and pressing of non-ferrous metals | 63744.7 | 19.6 | 58785.0 | 17.0 | 3520.9 | 91.8 | 
+| Manufacture of metal products | 26876.5 | 4.0 | 23910.5 | 4.2 | 758.2 | -6.0 | 
+| Manufacture of general-purpose machinery | 29791.7 | 5.8 | 24191.4 | 5.8 | 1934.7 | 1.4 | 
+| Manufacture of special-purpose machinery | 22138.9 | 7.0 | 17241.5 | 7.2 | 1430.4 | 0.8 | 
+| Manufacture of automobiles | 60780.4 | 2.7 | 54057.7 | 3.8 | 2162.4 | -20.4 | 
+| Manufacture of railway, ship, aerospace and other transport equipment | 10605.0 | 12.2 | 8760.2 | 11.7 | 864.5 | 12.2 | 
+| Manufacture of electrical machinery and apparatus | 69726.3 | 10.0 | 60605.5 | 10.9 | 3096.6 | -7.6 | 
+| Manufacture of computers, communication equipment and other electronic equipment | 110747.3 | 19.4 | 93807.4 | 16.0 | 7057.0 | 105.0 | 
+| Manufacture of measuring instruments and machinery | 6294.2 | 6.9 | 4663.0 | 6.9 | 557.1 | -1.9 | 
+| Other manufacture | 1227.3 | 5.8 | 1003.8 | 5.1 | 65.3 | 4.1 | 
+| Utilization of waste resources | 6638.6 | 1.7 | 6287.7 | 0.3 | 153.3 | 89.0 | 
+| Repair service of metal products, machinery and equipment | 1687.9 | 13.0 | 1442.7 | 14.1 | 124.0 | 21.4 | 
+| Production and supply of electricity and heat power | 57508.1 | 0.6 | 51534.7 | 1.9 | 3999.5 | -8.0 | 
+| Production and supply of gas | 13394.1 | 2.4 | 12511.4 | 2.4 | 542.9 | 9.3 | 
+| Production and supply of water | 2641.8 | -0.2 | 1912.7 | -0.1 | 241.7 | 2.4 | 
+| Notes: 1. As the processing of petroleum, coal and other fuels recorded losses in the same period last year, the year-on-year growth rate cannot be calculated. 2. Due to rounding and without mechanical adjustments, the sub-items may not add up to the total. |  |  |  |  |  |  | 
+Annotations:
+I. Notes on Indicators
+1. Total profits: refer to the surplus of total revenue after deducting total costs and expenses from the production and operation of enterprises, reflecting the overall profit and loss of enterprises during the reporting period.
+2. Business revenue: refers to the inflow of economic benefits from the production and operation of enterprises, such as selling goods, providing labor services and transferring the right to use assets. It includes the revenue from the main business and other business operations.
+3. Operating costs: refer to the actual costs from the production and operation of enterprises, such as selling goods, providing labor services and transferring the right to use assets. They include the costs incurred by the main business and other business operations. Operating costs should be matched with business revenue.
+4. Total assets: refer to the resources derived from past transactions or events, owned or controlled by an enterprise, and expected to bring economic benefits to the enterprise.
+5. Total liabilities: refer to the current obligations generated from past transactions or events of an enterprise, and expected to result in an outflow of economic benefits from the enterprise.
+6. Total owners’ equity: refers to the residual equity in the assets of an enterprise after deducting liabilities, which belongs to the owners.
+7. Accounts receivable: refers to the amount that should be collected by an enterprise for its business activities, such as selling goods and providing services, measured at amortized cost on the balance sheet date.
+8. Inventory of finished goods: refers to products, with all production processes having been finished by enterprises, that are accepted and stored after inspection, can be delivered to ordering units according to terms in the contract, or can be taken as goods for external sale; as well as various goods purchased or processed by external parties, which have been accepted and stored for sale.
+9. Profit rate of business revenue = total profits / business revenue × 100%, unit: %.
+10. Costs for per-hundred-yuan business revenue = operating costs / business revenue ×100, unit: yuan.
+11. Expenses for per-hundred-yuan business revenue = (selling expenses + administrative expenses + R&amp;D expenses + financial expenses) / business revenue ×100, unit: yuan.
+12. Business revenue brought by per-hundred-yuan assets = business revenue / average assets / the cumulative number of months × 12 × 100, unit: yuan.
+13. Per capita business revenue = business revenue / the average number of employees / the cumulative number of months × 12, unit: 10 thousand yuan / person.
+14. Asset-liability ratio = total liabilities / total assets × 100%, unit: %.
+15. Turnover days of finished goods inventory = 360 × average finished goods inventory / operating costs × the cumulative number of months / 12, unit: days.
+16. Average collection period for accounts receivable = 360 × average accounts receivable / business revenue × the cumulative number of months / 12, unit: days.
+17. In the columns of year-on-year growth rate of total profits in the tables above, the “note” refers to negative total profits in the same period last year, which means loss, or 0.0 billion yuan; a positive value refers to a year-on-year increase of profits; a negative value between 0 and –100% (exclusive of 0) refers to a year-on-year decrease of profits; a decline of more than 100% indicates a turnaround from profit in the same period of the previous year to loss in the current period; a value of 0 indicates that the profits remain at the same level as last year.
+II. The growth rates of indicators such as the total profits and business revenue of industrial enterprises above the designated size are calculated on a comparable basis. There are incomparable factors between the data in the reporting period and the corresponding data published in the previous year, which cannot be directly compared to calculate the growth rate. The main reasons are: (1) According to the statistical policy, the survey scope of industrial enterprises above the designated size is adjusted regularly every year. Each year, some companies are included in the survey after having reached the designated size, and some exit the survey due to their smaller size. Changes also include enterprises that are newly established, those that go bankrupt, and those with their business licenses cancelled (revoked). (2) Statistical enforcement has been strengthened. Enterprises found in statistical inspections that failed to meet the requirements for industrial enterprises above the designated size were removed from the survey, and the relevant base figures were revised in accordance with regulations. (3) Data quality management has been strengthened by eliminating duplicate statistical data across regions and industries.
+III. Statistical Coverage
+Industrial enterprises above the designated size refer to industrial legal entities with annual revenue from the main business of 20 million yuan and above.
+IV. Survey Method
+Financial reports of industrial enterprises above the designated size are subject to a comprehensive monthly survey (the data of January is exempted).
+V. Industrial Classification Standard
+The Industrial Classification for National Economic Activities (GB/T 4754-2017) was implemented.</description>
+      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260828_1965134.html</guid>
+    </item>
+    <item>
+      <title>Latest Releases</title>
+      <link>http://www.stats.gov.cn/english/PressRelease/</link>
+      <description>Published: 2026-08-28
+
+Chinese(GB)
+RSS
+Organizational Chart
+Data
+Communiqués
+Legal Framework
+Classifications &amp; Methods
+Latest Releases
+International Cooperation
+Understanding Statistics
+Agency
+Release Calendar
+Home
+&gt;
+Latest Releases
+1.China’s New Economic Growth Drivers Index Increased by 12.5% in 2025
+2026-08-28
+2.Profits of Industrial Enterprises above the Designated Size from January to July in 2026
+2026-08-28
+3.Market Prices of Important Means of Production in Circulation, August 11-20, 2026
+2026-08-24
+4.Industrial Production Operation in July 2026
+2026-08-18
+5.Investment in Fixed Assets from January to July 2026
+2026-08-18
+6.Investment in Real Estate Development from January to July 2026
+2026-08-18
+7.Total Retail Sales of Consumer Goods from January to July 2026
+2026-08-18
+8.Energy Production in July 2026
+2026-08-18
+9.National Economy Maintained Steady Momentum with Innovation-driven and High-quality Dev...
+2026-08-17
+10.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
+2026-08-17
+11.Market Prices of Important Means of Production in Circulation, August 1-10, 2026
+2026-08-14
+12.Consumer Price Index in July 2026
+2026-08-10
+13.Industrial Producer Price Indexes in July 2026
+2026-08-10
+14.Market Prices of Important Means of Production in Circulation, July 21-31, 2026
+2026-08-04
+15.Purchasing Managers’ Index for July 2026
+2026-08-01</description>
+      <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
+    </item>
     <item>
       <title>Market Prices of Important Means of Production in Circulation, August 11-2...</title>
       <link>https://www.stats.gov.cn/english/PressRelease/202608/t20260821_1965094.html</link>
@@ -153,240 +371,6 @@ Attached Table: Specifications of Market Price Monitoring Products of Important 
 | 49 | Pulp | Imported Coniferous Pulp | Tensile Index≥85.0N·m/g, Burst Index≥6.5KPa·m2/g, Tearing Index≥9.0mN·m2/g | 
 | 50 | Corrugated Paper | AA Grade, 120g | 120±5g/m2 |</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260821_1965094.html</guid>
-    </item>
-    <item>
-      <title>Latest Releases</title>
-      <link>http://www.stats.gov.cn/english/PressRelease/</link>
-      <description>Published: 2026-08-24
-
-Chinese(GB)
-RSS
-Organizational Chart
-Data
-Communiqués
-Legal Framework
-Classifications &amp; Methods
-Latest Releases
-International Cooperation
-Understanding Statistics
-Agency
-Release Calendar
-Home
-&gt;
-Latest Releases
-1.Market Prices of Important Means of Production in Circulation, August 11-20, 2026
-2026-08-24
-2.Industrial Production Operation in July 2026
-2026-08-18
-3.Investment in Fixed Assets from January to July 2026
-2026-08-18
-4.Investment in Real Estate Development from January to July 2026
-2026-08-18
-5.Total Retail Sales of Consumer Goods from January to July 2026
-2026-08-18
-6.Energy Production in July 2026
-2026-08-18
-7.National Economy Maintained Steady Momentum with Innovation-driven and High-quality Dev...
-2026-08-17
-8.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
-2026-08-17
-9.Market Prices of Important Means of Production in Circulation, August 1-10, 2026
-2026-08-14
-10.Consumer Price Index in July 2026
-2026-08-10
-11.Industrial Producer Price Indexes in July 2026
-2026-08-10
-12.Market Prices of Important Means of Production in Circulation, July 21-31, 2026
-2026-08-04
-13.Purchasing Managers’ Index for July 2026
-2026-08-01
-14.The Value Added of the “Three New” Economy in 2025
-2026-07-31
-15.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
-2026-07-31</description>
-      <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
-    </item>
-    <item>
-      <title>Investment in Real Estate Development from January to July 2026</title>
-      <link>https://www.stats.gov.cn/english/PressRelease/202608/t20260819_1965077.html</link>
-      <description>Published: 2026-08-18 15:00:00
-
-Investment in Real Estate Development from January to July 2026
-I. The Completion of Investment in Real Estate Development
-From January to July, the investment in real estate development was 4,300.9 billion yuan, a year-on-year decrease of 19.2% (calculated on a comparable basis, see Annotation 5 for details), of which the investment in residential buildings was 3,317.2 billion yuan, down 19.1%.
-From January to July, the floor space of buildings under construction by real estate development enterprises was 5,575.72 million square meters, a year-on-year decrease of 12.7%. Specifically, the floor space of residential buildings under construction was 3,870.51 million square meters, down 13.0%. The floor space of buildings newly started was 267.00 million square meters, down 24.0%. Specifically, the floor space of residential buildings newly started was 194.90 million square meters, down 24.6%. The floor space of buildings completed was 191.95 million square meters, down 23.2%. Specifically, the floor space of residential buildings completed was 134.43 million square meters, down 25.5%.
-II. Sales of Newly Built Commercial Buildings
-From January to July, the floor space of newly built commercial buildings sold was 450.21 million square meters, a year-on-year decrease of 11.8%, of which the floor space of residential buildings sold decreased by 12.7%. The sales of newly built commercial buildings were 4,271.8 billion yuan, down 13.1%, of which the sales of residential buildings decreased by 13.2%.
-At the end of July, the floor space of commercial buildings for sale was 759.11 million square meters, down 0.8% year on year. Specifically, the floor space for sale held for less than three years was 555.59 million square meters, down 3.6%.
-III. Funds for Investment This Year for Real Estate Development Enterprises
-From January to July, the funds for investment this year for real estate development enterprises were 4,574.8 billion yuan, a year-on-year decrease of 20.3%. Among them, domestic loans were 630.0 billion yuan, down 32.1%; self-raised funds were 1,654.4 billion yuan, down 18.5%; deposits and advance receipts were 1,437.6 billion yuan, down 14.4%; individual mortgage loans were 604.0 billion yuan, down 23.5%.
-Table 1 Real Estate Development and Sales from January to July 2026
-| Indicator | Absolute Value | Growth Rate Y/Y (%) | 
-| Investment in real estate development (100 million yuan) | 43009 | -19.2 | 
-| Of which: Residential buildings | 33172 | -19.1 | 
-| Office buildings | 1580 | -21.9 | 
-| Buildings for commercial business | 2809 | -24.8 | 
-| Floor space of buildings under construction (10,000 sq.m) | 557572 | -12.7 | 
-| Of which: Residential buildings | 387051 | -13.0 | 
-| Office buildings | 24234 | -11.4 | 
-| Buildings for commercial business | 48545 | -12.8 | 
-| Floor space of buildings newly started (10,000 sq.m) | 26700 | -24.0 | 
-| Of which: Residential buildings | 19490 | -24.6 | 
-| Office buildings | 538 | -40.2 | 
-| Buildings for commercial business | 1730 | -24.1 | 
-| Floor space of buildings completed (10,000 sq.m) | 19195 | -23.2 | 
-| Of which: Residential buildings | 13443 | -25.5 | 
-| Office buildings | 637 | -19.4 | 
-| Buildings for commercial business | 1289 | -27.2 | 
-| Floor space of newly built commercial buildings sold (10,000 sq.m) | 45021 | -11.8 | 
-| Of which: Residential buildings | 37425 | -12.7 | 
-| Office buildings | 1209 | -4.9 | 
-| Buildings for commercial business | 2542 | -14.2 | 
-| Sales of newly built commercial buildings (100 million yuan) | 42718 | -13.1 | 
-| Of which: Residential buildings | 37543 | -13.2 | 
-| Office buildings | 1494 | -8.2 | 
-| Buildings for commercial business | 2224 | -19.8 | 
-| Floor space of commercial buildings for sale (10,000 sq.m) | 75911 | -0.8 | 
-| Of which: Residential buildings | 40556 | 0.0 | 
-| Office buildings | 5200 | 1.6 | 
-| Buildings for commercial business | 13535 | -5.0 | 
-| Funds for investment this year for real estate development enterprises (100 million yuan) | 45748 | -20.3 | 
-| Of which: Domestic loans | 6300 | -32.1 | 
-| Foreign investment | 4 | -77.3 | 
-| Self-raised funds | 16544 | -18.5 | 
-| Deposits and advance receipts | 14376 | -14.4 | 
-| Individual mortgage loans | 6040 | -23.5 | 
-Table 2 Real Estate Investment in Eastern, Central, Western and Northeastern Regions from January to July 2026
-| Region | Investment |  | Growth Rate Y/Y |  | 
-|  | (100 million yuan) | Residential Buildings | (%) | Residential Buildings | 
-| National Total | 43009 | 33172 | -19.2 | -19.1 | 
-| Eastern | 25485 | 18994 | -19.7 | -20.4 | 
-| Central | 8409 | 6982 | -20.0 | -18.0 | 
-| Western | 8355 | 6596 | -15.9 | -15.2 | 
-| Northeastern | 760 | 600 | -29.7 | -29.9 | 
-Table 3 Sales of Commercial Buildings in Eastern, Central, Western and Northeastern Regions from January to July 2026
-| Region | Floor Space of Newly Built Commercial Buildings Sold |  | Sales of Newly Built Commercial Buildings |  | 
-|  | Absolute Value | Growth Rate Y/Y | Absolute Value | Growth Rate Y/Y | 
-|  | (10,000 sq.m) | (%) | (100 million yuan) | (%) | 
-| National Total | 45021 | -11.8 | 42718 | -13.1 | 
-| Eastern | 20346 | -11.2 | 25990 | -12.8 | 
-| Central | 11915 | -11.5 | 7915 | -12.1 | 
-| Western | 11318 | -12.0 | 7829 | -13.6 | 
-| Northeastern | 1441 | -21.5 | 984 | -23.8 | 
-Note: Due to rounding, the national total may not equal the total of regional sales.
-Annotations:
-1. Notes on Indicators
-The investment completed by real estate development enterprises this year refers to all investments completed during the reporting period for housing, land development projects, public welfare construction, land acquisition, etc. The indicator is cumulative.
-Floor space of newly built commercial buildings sold refers to the total area sold of newly built commercial buildings in the contract during the reporting period (i.e., the floor space as specified in the formal contract signed by both sides). The indicator is cumulative.
-Sales of newly built commercial buildings refer to the total contract value of new commercial buildings sold during the reporting period (i.e., the total contract value of sales of commercial buildings as specified in the formal contract signed by both sides). This indicator is cumulative and is on the same comparable basis as the floor space of newly built commercial buildings sold.
-Floor space of commercial buildings for sale refers to the area of commercial housing that has not been sold or leased among the completed floor area of commercial housing available for sale or lease at the end of the reporting period, including the area of housing completed in the previous years and the current period, but excluding the area of housing that cannot be sold or leased, such as buildings demolished for rebuilding, unified and agency construction, public supporting buildings, buildings for self-use by real estate enterprises and relocation houses that have been completed during the reporting period.
-Funds for investment this year for real estate development enterprises refer to monetary funds utilized for real estate development by the real estate development enterprises during the reporting period. Specifically, the funds include domestic loans, foreign investment, self-raised funds, deposits and advance receipts, individual mortgage loans, and other funds. The indicator is cumulative.
-Floor space of buildings under construction refers to the total floor space of all buildings under construction by real estate development enterprises during the reporting period, including floor space newly started in the current period, floor space of continued construction of buildings from the previous period, floor space of buildings whose construction was suspended or postponed in the previous period and resumed in the current period, floor space completed during the current period, and newly started floor space in the current period but suspended or postponed. For multi-story buildings, the floor space under construction refers to the sum of the floor space of all stories.
-Floor space of buildings newly started refers to the floor space of buildings newly started by the real estate development enterprises during the reporting period, with each individual project as the accounting unit. It excludes the continued construction area of buildings that started in the previous period and the resumed construction area in the current period that was suspended or postponed in the previous period. The commencement of building construction is determined by the date when excavation for the foundation (ground treatment or the driving of permanent piles) officially begins. Floor space of buildings newly started refers to the entire floor space of the whole building and cannot be calculated separately.
-Floor space of buildings completed refers to the total floor space of buildings that are completed during the reporting period in accordance with design requirements, meet the conditions for occupancy and use, pass the acceptance inspection, or reach the standards for completion acceptance, and can be officially delivered for use.
-2. Statistical Coverage
-Legal entities in the real estate development and operation sector with development and business activities.
-3. Survey Method
-Statistics are collected through a comprehensive monthly survey (with reporting exempted for January).
-4. Definition of Eastern, Central, Western and Northeastern Regions
-The eastern region includes 10 provinces (municipalities), namely, Beijing, Tianjin, Hebei, Shanghai, Jiangsu, Zhejiang, Fujian, Shandong, Guangdong, and Hainan; the central region includes 6 provinces, namely, Shanxi, Anhui, Jiangxi, Henan, Hubei, and Hunan; the western region includes 12 provinces (municipalities and autonomous regions), namely, Inner Mongolia, Guangxi, Chongqing, Sichuan, Guizhou, Yunnan, Xizang, Shaanxi, Gansu, Qinghai, Ningxia, and Xinjiang; the northeastern region includes 3 provinces, namely, Liaoning, Jilin, and Heilongjiang.
-5. Explanation of Year-on-Year Growth Rate
-In compliance with the real estate development statistical rules, statistical law enforcement inspections, and other regulations, the data on the investment in real estate development and the floor space of newly built commercial buildings sold, among others, for the same period of the previous year have been revised. The growth rates are calculated on a comparable basis.</description>
-      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260819_1965077.html</guid>
-    </item>
-    <item>
-      <title>Investment in Fixed Assets from January to July 2026</title>
-      <link>https://www.stats.gov.cn/english/PressRelease/202608/t20260818_1965072.html</link>
-      <description>Published: 2026-08-18 15:00:00
-
-Investment in Fixed Assets from January to July 2026
-From January to July 2026, the national investment in fixed assets (excluding rural households) was 26,032.8 billion yuan, a year-on-year decrease of 6.7% (calculated on a comparable basis, see Annotation 7 for details). Specifically, the investment in intellectual property products increased by 9.1% year on year.
-By industry, the investment in the primary industry was 532.9 billion yuan, a year-on-year decrease of 0.5%; the investment in the secondary industry was 9,770.9 billion yuan, down 2.1%; and the investment in the tertiary industry was 15,729.0 billion yuan, down 9.5%.
-The industrial investment decreased by 2.1% year on year. Specifically, the investment in mining increased by 3.3%, the investment in manufacturing decreased by 1.7%, and the investment in production and supply of electricity, heat power, gas and water decreased by 5.3%.
-The investment in infrastructure (see Annotation 1 for details of statistical scope) decreased by 3.6% year on year. Specifically, the investment in information transmission increased by 26.0%, the investment in waterway transportation increased by 16.2%, and the investment in civil aviation transportation increased by 15.7%.
-By region, the investment in the eastern region decreased by 8.6% year on year, the investment in the central region decreased by 6.4%, the investment in the western region decreased by 8.6%, and the investment in the northeastern region decreased by 24.6%.
-By statistical category of registration, the investment in fixed assets of domestic-invested enterprises decreased by 6.4% year on year, the investment in fixed assets of enterprises funded by investors from Hong Kong, Macao, and Taiwan decreased by 8.1%, and the investment in fixed assets of foreign-invested enterprises decreased by 5.4%.
-From January to July 2026, non-governmental investment in fixed assets decreased by 9.4% year on year. On a month-on-month basis, the investment in fixed assets (excluding rural households) decreased by 1.42% in July.
-Investment in Fixed Assets (Excluding Rural Households) from January to July 2026
-| Indicator | Growth Rate Y/Y (%) | 
-| Investment in Fixed Assets (Excluding Rural Households) | -6.7 | 
-| Of which: State-holding | -3.3 | 
-| Of which: Non-governmental investment | -9.4 | 
-| By constitution |  | 
-| Construction and installation | -9.2 | 
-| Purchase of equipment and instruments | 9.0 | 
-| Other expenses | -10.9 | 
-| By industry |  | 
-| Primary industry | -0.5 | 
-| Secondary industry | -2.1 | 
-| Tertiary industry | -9.5 | 
-| By sector |  | 
-| Agriculture, forestry, animal husbandry and fishery | -1.1 | 
-| Mining | 3.3 | 
-| Manufacturing | -1.7 | 
-| Of which: Processing of food from agricultural and sideline products | -3.0 | 
-| Manufacture of foods | -9.4 | 
-| Textile industry | 7.9 | 
-| Manufacture of raw chemical materials and chemical products | -7.4 | 
-| Manufacture of medicines | -9.8 | 
-| Smelting and pressing of non-ferrous metals | -3.9 | 
-| Manufacture of metal products | -6.9 | 
-| Manufacture of general-purpose machinery | 1.4 | 
-| Manufacture of special-purpose machinery | -9.2 | 
-| Manufacture of automobiles | -5.3 | 
-| Manufacture of railway, ship, aerospace and other transport equipment | 18.7 | 
-| Manufacture of electrical machinery and apparatus | 1.4 | 
-| Manufacture of computers, communication equipment and other electronic equipment | 7.8 | 
-| Production and supply of electricity, heat power, gas and water | -5.3 | 
-| Transport, storage and post | 2.5 | 
-| Of which: Road transportation | -7.5 | 
-| Water conservancy, environment and public facilities management | -9.1 | 
-| Of which: Management of water conservancy | -11.0 | 
-| Management of public facilities | -9.1 | 
-| Education | -14.9 | 
-| Health and social services | -13.0 | 
-| Culture, sports and entertainment | -13.3 | 
-| By statistical category of registration |  | 
-| Of which: Domestic-invested enterprises | -6.4 | 
-| Enterprises funded by investors from Hong Kong, Macao, and Taiwan | -8.1 | 
-| Foreign-invested enterprises | -5.4 | 
-| Note: The growth rates in this table are not adjusted for price factors. |  | 
-Annotations:
-1. Notes on Indicators
-Investment in fixed assets (excluding rural households): It is a general term representing the monetary value of the workload completed in a certain period concerning the construction and acquisition of fixed assets, as well as the related expenses.
-Investment in infrastructure: In accordance with current statistical rules, investment in infrastructure includes fixed-asset investment in the following sectors: production and supply of electricity and heat power; production and supply of gas; production and supply of water; railway transportation; road transportation; waterway transportation; civil aviation transportation; pipeline transportation; multimodal transportation and transport agency industry; loading, unloading and handling; post; telecommunication, radio, television and satellite transmission services; Internet and related services; management of water conservancy; ecological conservation and environmental governance; and management of public facilities. The growth rate of investment in infrastructure is calculated on a comparable basis.
-State-holding enterprises: Absolute state-holding where the proportion of the paid-in capital (equity) owned by contributors with a state-owned economic component in the total paid-in capital (equity) of the enterprise is greater than 50%.
-Relative state-holding where the proportion of the paid-in capital (equity) owned by contributors with state-owned economic component in the total paid-in capital (equity) of the enterprise is no greater than 50%, but is more than the proportion of contributors with any other economic component; or state-holding by agreement where the proportion of contributors with state-owned economic component is no greater than that of contributors with other economic component, but the actual control of the enterprise is exercised by contributors with state-owned economic component according to the agreement.
-For enterprises in which both parties each hold 50% and no absolute controlling party is specified, if one of the parties is a state-owned economic component, the enterprise shall be classified as state-holding.
-The investment projects of administrative and public institutions are state-holding.
-Statistical category of registration: The classification is conducted in accordance with the Regulations on the Statistical Classification of Market Entities (Guotongzi [2023] No.14), jointly issued by the National Bureau of Statistics of China and the State Administration for Market Regulation.
-2. Statistical Coverage
-Investment in fixed asset projects with a total planned investment of 5 million yuan or more, as well as investment in all real estate development projects.
-3. Survey Method
-Statistics on investment in fixed assets are collected through a comprehensive monthly survey (with reporting exempted for January).
-4. Definition of Eastern, Central, Western and Northeastern Regions
-The eastern region includes 10 provinces (municipalities), namely, Beijing, Tianjin, Hebei, Shanghai, Jiangsu, Zhejiang, Fujian, Shandong, Guangdong, and Hainan; the central region includes 6 provinces, namely, Shanxi, Anhui, Jiangxi, Henan, Hubei, and Hunan; the western region includes 12 provinces (municipalities and autonomous regions), namely, Inner Mongolia, Guangxi, Chongqing, Sichuan, Guizhou, Yunnan, Xizang, Shaanxi, Gansu, Qinghai, Ningxia, and Xinjiang; the northeastern region includes 3 provinces, namely, Liaoning, Jilin and Heilongjiang.
-5. Industrial Classification Standard
-The Industrial Classification for National Economic Activities (GB/T 4754-2017) was implemented.
-6. Revision of Month-on-Month Data
-According to the results of automatic correction based on the seasonal adjustment model, the month-on-month growth rates of investment in fixed assets (excluding rural households) since July 2025 have been revised. The revised results and month-on-month data for July 2026 are as follows:
-| Year | Months | Growth Rate M/M (%) | 
-| 2025 | July | -0.38 | 
-|  | August | -0.77 | 
-|  | September | -0.77 | 
-|  | October | -1.16 | 
-|  | November | -0.46 | 
-|  | December | -1.97 | 
-| 2026 | January | 0.58 | 
-|  | February | -0.26 | 
-|  | March | -0.35 | 
-|  | April | -2.74 | 
-|  | May | -1.14 | 
-|  | June | -0.60 | 
-|  | July | -1.42 | 
-7. Explanation of Year-on-Year Growth Rate
-In accordance with the reform of investment statistical methods, statistical law enforcement inspections, and other regulations, the data on investment in fixed assets for the same period of the previous year have been revised, and the growth rates of investment in fixed assets were calculated on a comparable basis.</description>
-      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202608/t20260818_1965072.html</guid>
     </item>
     <item>
       <title>Industrial Production Operation in July 2026</title>
