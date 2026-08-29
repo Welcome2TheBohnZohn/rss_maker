@@ -1,0 +1,22 @@
+TITLE:
+China issues ethical guidelines for AI medical imaging
+
+PUBLISHED:
+2026-08-29
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260829/57d97cef13a640aa92b163999c85406f/c.html
+
+ARTICLE TEXT:
+BEIJING, Aug. 29 (Xinhua) -- China has released ethical guidelines for artificial intelligence (AI) medical imaging research, aiming to regulate algorithm development, trial verification and clinical application of this technology, the Ministry of Science and Technology said on Friday.
+AI medical imaging uses AI technology to analyze CT, Magnetic Resonance Imaging and ultrasound scans, assisting doctors in detecting lesions and improving diagnostic efficiency. However, the technology involves large amounts of sensitive health data and carries risks, such as privacy breaches, algorithmic bias and unclear accountability.
+The guidelines, released by the medical ethics subcommittee of the national science and technology ethics committee, outline six core principles: enhancing human welfare, promoting fairness, respecting human autonomy, protecting privacy and data security, ensuring safety and controllability, and strengthening transparency. Patients' health interests are prioritized, the guidelines noted.
+The guidelines require researchers to obtain informed consent from participants, and participants have the right to withdraw their authorization at any time.
+Human beings remain the ultimate accountable entities. AI outputs shall not be used as final diagnoses, and doctors retain the final decision-making authority, according to the guidelines.
+The guidelines also prohibit exaggerating model performance and underscore the importance of algorithmic fairness, to reduce diagnostic bias caused by imbalanced training samples. ■
