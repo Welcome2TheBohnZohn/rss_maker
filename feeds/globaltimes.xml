@@ -7,32 +7,63 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2026 03:45:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 11:09:10 +0000</lastBuildDate>
     <item>
-      <title>Chinese researchers complete Earth-Moon two-way laser link test</title>
-      <link>https://www.globaltimes.cn/page/202608/1369315.shtml</link>
-      <description>Published: 2026-08-29 09:49:00
+      <title>CXMT sues US Defense Department over blacklist to protect business interests, firm tells GT</title>
+      <link>https://www.globaltimes.cn/page/202608/1369325.shtml</link>
+      <description>Published: 2026-08-29 14:09:00
 
-Chinese researchers complete Earth-Moon two-way laser link test
-                        
-                        
-                            By Xinhua Published: Aug 29, 2026 09:49 AM 
-                            
-                                
-                            
-                         
-                     
-                    
-                         Researchers have completed a laser communications test between Earth and the Moon, successfully verifying two-way high-speed laser link capabilities in orbit, the Technology and Engineering Center for Space Utilization (CSU) of the Chinese Academy of Sciences said on Friday.
-After more than a year of in-orbit testing, the team established a two-way laser communication link across a distance of over 400,000 km, marking the expansion of China's space laser communications from near-Earth orbit to deep space.
-Compared with traditional microwave communications, laser communications offer faster speeds, greater bandwidth, stronger security and more compact hardware. However, enabling laser communications across the Earth-Moon distance required overcoming three major challenges: beam alignment, signal weakness and transmission speed.
-"Earth-Moon communication is like threading a needle from a thousand miles away," said Yang Lei, a researcher at the CSU and head of the laser communication test team. Given the extreme distance, minor satellite wobbles or ground atmospheric turbulence can cause laser beams to drift. A tiny angular deviation could translate into a kilometer-scale miss at the Moon's distance.
-The team developed an innovative acquisition and tracking scheme that integrates corrections for orbital, atmospheric, and optical propagation delays, enabling ground and spaceborne equipment to maintain precise alignment while in motion.
-After traveling 400,000 km back to Earth, the laser signal becomes so faint that ground telescopes receive only a few photons at a time. Moonlight, starlight and urban lighting add further interference -- akin to hearing the sound of a falling pin in a bustling market, the CSU said.
-The researchers developed high-speed superconducting single-photon detection technology and high-sensitivity algorithms to extract valid communication signals from background noise.
-To tackle the speed bottleneck, the team developed high-bandwidth signal processing technology and adopted special coding schemes to counter noise. The test achieved two-way communication rates of 1.25 Mbps uplink and 100 Mbps downlink.
-With manned lunar landings and lunar research station construction on the horizon, future lunar exploration will generate massive volumes of observation images and scientific data that traditional communications bandwidth can no longer support. This Earth-Moon laser "information highway" will provide a new high-speed data transmission route for upcoming lunar missions, the CSU said.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369315.shtml</guid>
+CXMT sues US Defense Department over blacklist to protect business interests, firm tells GT
+By Zhang Weilan and Tao Mingyang Published: Aug 29, 2026 02:09 PM
+CXMT File photo: VCG
+China's leading memory chipmaker Changxin Memory Technologies Inc (CXMT) has filed a lawsuit against the US Defense Department over its erroneous designation of CXMT as a “military company,” with Chinese experts saying Washington's arbitrary blacklisting scheme is a politically driven move that serves tech hegemony and violates market economy rules.
+"CXMT is not a military company and has no affiliation with the Chinese military. It designs and manufactures DRAM products for commercial and civilian use only, not for military use," the company said in a statement sent to the Global Times on Saturday.
+Since its initial designation in January 2025, CXMT has continuously suffered reputational and commercial harm, the company said in the statement, adding that it is pursuing this action to protect its reputation and business interests.
+The US Defense Department first designated CXMT as a military company in January 2025. The company said it spent more than a year providing information to challenge the designation and seek removal from the list. CXMT argues that the Pentagon's decision was "arbitrary", lacked evidentiary support and violated its due-process rights, according to Reuters.
+According to Reuters, the US Defense Department in June identified 188 Chinese entities, again including CXMT, that it claims meet the statutory requirements for inclusion on the most recent 1260H List.
+Under recent US law, the US Defense Department will be prohibited from contracting directly with companies on the list, and from buying their products or services via third parties beginning in 2027.
+The lawsuit, filed in the US District Court for the District of Columbia on Friday, names the US Department of Defense, Secretary of Defense Pete Hegseth, Deputy Secretary Steve Feinberg and Assistant Secretary of Defense for Industrial Base Policy Michael Cardinale as defendants. CXMT argued that the Pentagon's decision was "arbitrary," lacked evidentiary support and violated its due-process rights, Reuters reported.
+CXMT’s legal challenge comes amid broader tensions over US restrictions on Chinese technology firms. Washington has repeatedly targeted sectors it sees as critical to China’s technological rise, including semiconductors, telecommunications and artificial intelligence (AI), through blacklists, export controls and investment restrictions.
+The US has continued its “small yard, high fence” approach aimed at Chinese technology firms, expanding restrictions across multiple fronts under the banner of national security. Using the accusation of “military affiliation” is just one of the common measures in Washington’s broader containment strategy, Ma Jihua, a veteran industry analyst, told the Global Times on Saturday. This practice lacks sufficient evidence and imposes restrictions on enterprises based solely on administrative determinations. In essence, it serves tech hegemony under the guise of national security, Ma said.
+Ma noted that such external pressure will instead force China to accelerate independent innovation and industrial chain improvement. "For CXMT, short-term pressure is inevitable, but in the long run, external suppression will further strengthen domestic market confidence in homegrown chips and push China to achieve breakthroughs in key core technologies," he said.
+Despite US restrictions, CXMT has demonstrated strong operational resilience, continuing to expand capacity and advance its technology. According to the company’s first-half financial results, it reported a swing to profit and a nearly tenfold increase in revenue to 150.31 billion yuan ($22.37 billion) in the first half of the year. The result outperformed its own forecasts in its first financial results since a blockbuster Shanghai listing, said the South China Morning Post.
+For many Chinese enterprises, such lawsuits not only provide a path to seek redress, but also demonstrate their willingness to address disputes through formal legal procedures., Xiang Ligang, a veteran telecom observer, told the Global Times on Saturday.
+Zhou Mi, a senior researcher at the Chinese Academy of International Trade and Economic Cooperation, told the Global Times on Saturday that CXMT’s decision to sue the Pentagon demonstrated that Chinese technology companies are increasingly willing to defend their legitimate rights through legal channels, while also presenting evidence of their compliance, civilian focus and market-oriented operations.
+“Filing lawsuits is a positive and effective way for Chinese companies to counter discriminatory moves,” Zhou said. These enterprises have extensive business operations in the US and have brought abundant development opportunities to local stakeholders. By filing lawsuits, the companies aim not only to safeguard their reputation and business operations but also to preserve room for growth for their business partners, he added.
+Prior to CXMT's move, several other Chinese companies, including Alibaba and WuXi AppTec, filed similar lawsuits against the US Defense Department over their inclusion on the 1260H list.
+Analysts said these companies’ moves could test the scope of US administrative discretion in blacklisting Chinese companies and further sharpen debate over the use of national security tools in economic competition.
+Chinese Foreign Ministry spokesperson Lin Jian said on June 9 that China firmly opposes the US overstretching the concept of national security and formulating various discriminatory lists to go after Chinese businesses.
+"We urge the US to correct its wrongdoings and stop the unwarranted suppression of Chinese businesses," Lin said, adding that China will do what is necessary to firmly protect the legitimate and lawful rights and interests of its companies.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369325.shtml</guid>
+    </item>
+    <item>
+      <title>Latest satellite imagery reveals two potentially hazardous barrier lakes near Gyirong Port in Xizang</title>
+      <link>https://www.globaltimes.cn/page/202608/1369323.shtml</link>
+      <description>Published: 2026-08-29 12:54:00
+
+Satellite imagery shows two potentially hazardous barrier lakes near Gyirong Port.
+After a mudslide in Nepal struck Gyirong Port along the China-Nepal border in Southwest China's Xizang Autonomous Region on Wednesday, conventional optical remote-sensing technologies struggled to conduct effective observations due to the area's mountainous and rugged terrain, deep valleys, and persistent cloud and fog.
+Chinese commercial satellite company Spacety, in collaboration with Dachu Space Technology (Gansu) Co., Ltd, urgently tasked the Shenqi-02 SAR satellite with emergency imaging. Leveraging SAR's all-weather, day-and-night observation capabilities, the satellite penetrated the cloud and fog cover and acquired the second batch of emergency imagery of the disaster-stricken area at 12:41 pm Beijing Time on Friday.
+Imagery captured by the Shenqi-2 satellite shows that, in addition to Barrier Lake 01, which was identified from earlier emergency-response data, a second barrier lake, Barrier Lake 02, has now been identified upstream along the disaster path. The two lakes are approximately 5 kilometers apart.
+The lake is located near the source area of the ice-rock avalanche in Nepal upstream of the disaster site. In the satellite imagery, it appears as a closed, dark-toned area with a clear outline and discernible shape, showing typical characteristics of a lake formed by avalanche debris blocking a valley.
+After analyzing the satellite imagery, technical personnel said the barrier lake was formed in a high-altitude valley and that its dam consists of loose accumulated material, posing a potential risk of secondary disasters.
+Previously, according to the Ministry of Water Resources, a barrier lake formed near the confluence of the Chhochen Khola and the Purepu Tsangpo following a mudslide on the Nepalese side on August 26. 
+Based on the latest remote-sensing analysis at 11:43 am on Friday, the water surface area of the Purepu Tsangpo barrier lake was approximately 104,000 square meters, down by about 16,000 square meters from 1 pm on Thursday. This indicates that water has begun to flow slowly over the barrier, with the water volume gradually decreasing.
+The Global Times learned that the satellite imagery obtained in this operation has been provided to relevant domestic emergency-response and research institutions, providing data support for their assessment of the disaster situation and emergency response efforts.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369323.shtml</guid>
+    </item>
+    <item>
+      <title>China records 7.92 million births in 2025 as birth rate declines after 2024 rebound</title>
+      <link>https://www.globaltimes.cn/page/202608/1369306.shtml</link>
+      <description>Published: 2026-08-29 01:16:00
+
+Nurses take care of newborn babies at a hospital in Zunyi, southwest China's Guizhou Province. Photo:Xinhua
+China's National Health Commission (NHC) on Friday released a statistical bulletin on the country's health development in 2025, which showed that China recorded 7.92 million births last year, with the birth rate declining after a rebound in 2024, Jiangsu News reported on Friday. 
+China's population stood at 1.4 billion at the end of 2025. The country recorded a birth rate of 5.63 per 1,000 people, while the number of deaths stood at 11.31 million, with a mortality rate of 8.04 per 1,000, according to the bulletin.
+Data released by health authorities over the past five years showed that China recorded 10.62 million, 9.56 million, 9.02 million, 9.54 million and 7.92 million births annually from 2021 to 2025, respectively. After the country's birth rate rose by 0.38 per thousand year-on-year in 2024, it declined in 2025, according to Jiangsu News.
+The country continued to record negative natural population growth. Data previously released by the National Bureau of Statistics showed that China's natural population growth rate stood at -0.99 per thousand in 2024, when the total population decreased slightly. According to the latest bulletin, the natural population growth rate stood at -2.41 per thousand in 2025.
+Global Times</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369306.shtml</guid>
     </item>
     <item>
       <title>If the EU truly wants dialogue, it must first adopt the right attitude: Global Times editorial</title>
@@ -56,24 +87,6 @@ If the EU genuinely wants dialogue, it should show equal sincerity: conditions c
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369305.shtml</guid>
     </item>
     <item>
-      <title>Chinese experts slam Japan over using China as excuse to justify illegal maritime expansion</title>
-      <link>https://www.globaltimes.cn/page/202608/1369302.shtml</link>
-      <description>Published: 2026-08-29 00:30:00
-
-(File) China's Diaoyu Dao Photo: VCG
-The Japan Coast Guard (JCG) has requested a record 344.8 billion yen ($2.2 billion) for fiscal 2027, with Japanese media claiming the budget increase came partly against the backdrop of so-called increasing activities by China Coast Guard (CCG) vessels around Diaoyu Dao. Chinese experts slammed Japan for using China as an excuse to justify the continued expansion of the JCG and push it further toward quasi-militarization.
-According to a report by Japanese media Kyodo News on Thursday, Japan's increased budget was aimed at strengthening the JCG's response to Chinese activities.
-The JCG earmarked 189.2 billion yen for capability enhancement, including the construction of eight new large patrol vessels. Seven of them will be developed as part of what the JCG described as "enhanced territorial-water security capabilities" around Diaoyu Dao to "prepare for new threats".
-Japan's continued expansion of the JCG attempts to strengthen its ability to interfere in maritime activities in surrounding waters. Meanwhile, it has increasingly portrayed China's legitimate maritime activities and other regional issues as "threats" to justify expanding its maritime security forces, Song Zhongping, a Chinese military affairs expert, told the Global Times on Friday. 
-In the East China Sea and around Diaoyu Dao, such narratives risk turning China's normal rights-protection and law-enforcement activities into security issues while providing a pretext for the JCG's further security-oriented and quasi-military development, Song noted.
-Japan has increasingly portrayed China's legitimate maritime activities and other regional issues as "threats" to justify expanding its maritime security forces. In the East China Sea and around Diaoyu Dao, such narratives risk turning China's normal rights-protection and law-enforcement activities into security issues while providing a pretext for the JCG's further security-oriented and quasi-military development, Song noted.
-China has repeatedly rejected Japan's accusations over China's legitimate maritime activities around Diaoyu Dao. The Chinese Foreign Ministry said in July that Diaoyu Dao and its affiliated islands have always been part of China's territory and that activities by Chinese research vessels in adjacent waters are legitimate, lawful and beyond reproach.
-Notably, with Japan set to revise its three key security documents at the end of the year, additional funding deemed necessary was included as "item requests", for which no specific amounts have yet been provided, the Okinawa Times reported.
-Lü Chao, a research fellow at the Liaoning Academy of Social Sciences, said the JCG buildup should be viewed as part of a broader shift in Japan's security strategy ahead of the planned revision of its three key security documents. He said Japan has increasingly turned maritime issues involving China into security issues to justify expanding its maritime capabilities and support an increasingly  outward-looking security posture.
-From a broader perspective, Song said Japan's continued expansion of its maritime capabilities could fuel disputes with neighboring countries and negatively affect maritime security in the East China Sea and the wider Western Pacific. By amplifying perceived external threats, the Japanese government appears ultimately to be seeking to build domestic support for constitutional revision, Song said.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369302.shtml</guid>
-    </item>
-    <item>
       <title>Disasters testify to the shared destiny, and rescue operations embody the primacy of life: Hai Feng</title>
       <link>https://www.globaltimes.cn/page/202608/1369301.shtml</link>
       <description>Published: 2026-08-29 00:29:00
@@ -91,49 +104,6 @@ From collective moments of silence to full-scale search and rescue; from domesti
 The history of human survival is, in essence, a history of continuous struggle with natural disasters, continuous learning, and continuous adjustment. True civilization does not lie in the illusion of conquering nature, but in the ability to safeguard life amid uncertainty, to build order amid risk, and to support one another in hardship. The mudslide at Gyirong Port will eventually subside, and the valley will return to calm, but the questions it leaves behind will not disappear on their own: how to strengthen monitoring of high-altitude glacier disasters, how to build robust cross-border real-time early-warning networks, how to enhance emergency response capacity in remote border areas under conditions of disrupted roads, electricity, and communications, and how to redefine the boundaries of "security" in the context of global warming - all of these require long-term and substantive answers.
 Glaciers reflect not only fractures in mountains and rivers, but also the true interdependence between people and between countries. Moments of silence reveal not only sorrow, but also a firm affirmation of the value of life by a nation. Disasters are never worth glorifying, but what shines through them deserves to be remembered forever: placing people first, placing cooperation on a longer horizon, and transforming respect for nature into more prepared action. Only in this way can we do justice to those who have been lost, and to the days yet to come.</description>
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369301.shtml</guid>
-    </item>
-    <item>
-      <title>From SCO summit to state visits, Xi's trips to bring positivity amid world turbulence</title>
-      <link>https://www.globaltimes.cn/page/202608/1369300.shtml</link>
-      <description>Published: 2026-08-29 00:24:00
-
-Photo shows a vertical electronic screens in Bishkek showing footage of the national flags of China and Kyrgyzstan, alongside a welcoming slogan in both Chinese and Kyrgyz: "Kyrgyzstan and China stand side by side through thick and thin. Mutual trust forges profound friendship!" Photo: Ma Jingjing/GT
-On the streets of Bishkek, the capital city of Kyrgyzstan, billboards and signs bearing the logo of the 2026 Shanghai Cooperation Organization (SCO) Summit can be seen almost everywhere. Even SCO‑themed graphics on new‑energy buses serve as a reminder that the countdown for the SCO's "Bishkek Moment" is in its final hours.
-The coming SCO Summit 2026 will be held in Bishkek from August 31 to September 1, 2026.
-Amid a fast‑changing international landscape, Chinese President Xi Jinping will embark on his first overseas trip in the second half of 2026. From August 30 to September 3, he will attend the 2026 SCO Summit in Bishkek and pay state visits to Kyrgyzstan and Egypt, the Xinhua News Agency reported. 
-The upcoming and highly-anticipated head‑of‑state diplomacy integrates multilateral engagements with bilateral state visits, covering both neighboring regions and key hotspot areas. It is expected to expand practical cooperation avenues, deepen strategic alignment, drive progress in global governance, rally solidarity among the Global South, and inject greater positive momentum into world peace and development, analysts said on Friday. 
-Upholding the Shanghai Spirit
-The 2026 SCO Summit carries the theme "25 Years of the SCO: Together Towards Sustainable Peace, Development and Prosperity." According to SCO Secretary-General Nurlan Yermekbayev, the country's priorities include strengthening regional stability, boosting economic cooperation, improving transportation links, accelerating digital transformation and expanding cultural exchanges.
-According to Xinhua, Xi has attended every SCO summit since 2013, steadily shaping the grouping's development along the way. 
-At the 25th Meeting of the Council of Heads of State of the SCO in North China's port city of Tianjin last year, Xi proposed the Global Governance Initiative, a vision that has rallied broad support across the international community.
-Also at the Tianjin summit, the SCO mapped out a strategic blueprint for its development over the next decade and ushered in a new stage of high-quality development. Over the past year, seven cooperation platforms covering green industry, digital economy, scientific and technological innovation, energy, higher education, vocational and technical education, and artificial intelligence have been launched, generating more than 160 projects. 
-Guided by the Shanghai Spirit featuring mutual trust, mutual benefit, equality, consultation, respect for diverse civilizations and pursuit of common development, the SCO has continuously yielded new achievements in practical cooperation. With rising influence and cohesion, it firmly defends multilateralism and serves as one of the major pillars of a multipolar world, Zhu Yongbiao, a Middle East affairs expert at Lanzhou University, told the Global Times. 
-The Bishkek Summit is poised to serve as a key milestone in deepening and substantiating cooperation among SCO member states across security, economy, finance and connectivity, said Zhu. "Against a backdrop of an increasingly complex and volatile international landscape, the summit will also bring more opportunities for global peace and development."
-According to Alibek Tazhibayev, a Kazakhstani political analyst and the Director of the Eurasian Monitoring Center for Analytical Research, a think tank based in Kazakhstan, the Shanghai Spirit offers, to some extent, an alternative to the rigid logic of bloc politics. Countries do not have to be identical to one another or share identical stances on every issue to carry out effective cooperation. 
-He told the Global Times that the SCO is well‑positioned to emerge as a major force within the evolving multipolar international order and play a vital role in steering the global governance system toward greater balance.
-Founded in Shanghai in June 2001, the SCO has expanded from six founding members into the world's largest regional organization with cooperation covering more than 50 areas and a combined economic output of nearly $30 trillion.
-New chapter for friendship
-In a signed article published in Kyrgyz media outlets ahead of his state visit to the Central Asian country, President Xi hailed the historic leap in China-Kyrgyzstan ties from a good-neighborly friendship to a strategic partnership and then to a comprehensive strategic partnership for a new era, per Xinhua. 
-Kyrgyz state news agency Kabar said the upcoming state visit by China's head of state will serve as an important step to further strengthen bilateral relations built on solid friendship, mutual trust and support. 
-Signs of bilateral friendship are also visible across Bishkek's streets. On major city thoroughfares, Global Times reporters saw vertical electronic screens showing footage of the two national flags, alongside a welcoming slogan in both Chinese and Kyrgyz: "Kyrgyzstan and China stand side by side through thick and thin. Mutual trust forges profound friendship!" 
-Erdenet Kasymov, First Deputy Director of the State Agency for Tourism Development of the Kyrgyz Republic, told the Global Times that China‑Kyrgyzstan relations are now at their best in history. The upcoming SCO Summit in Bishkek will inject fresh impetus into practical cooperation between two sides across multiple sectors. 
-Among them, the China-Kyrgyzstan-Uzbekistan Railway stands out as a landmark cooperation project. In a congratulatory letter to the commencement ceremony of the project in December 2024, Xi said that the construction of the railway is a strategic decision made by the three governments to promote regional connectivity, prosperity and stability, which also reflects the shared aspiration of the three countries to open up this strategic corridor.
-According to Zhu Yongbiao, the upcoming head‑of‑state visit will give strong impetus to building the China‑Kyrgyzstan community with a shared future," said Zhu. 
-On the practical cooperation front, construction of the China‑Kyrgyzstan‑Uzbekistan Railway is expected to gather pace. Cooperation will also see further improvement in quality and efficiency across full‑chain energy sectors, the China‑Central Asia Gas Pipeline, digital economy and people‑to‑people exchanges, said the expert. 
-During a press briefing on Thursday, Chinese Ministry of Commerce spokesperson Huang Ling said that China has long remained Kyrgyzstan's largest trading partner, with bilateral economic and trade cooperation making steady progress. 
-China-Kyrgyzstan trade reached $11.7 billion in the first seven months of this year. During the period, China's exports of electric vehicles, lithium batteries and photovoltaic products, known as the "new three", as well as mechanical and electrical products to Kyrgyzstan grew rapidly, Huang said. 
-Egypt, the first Arab and African country to establish diplomatic ties with the People's Republic of China, also enjoys a time‑honored traditional friendship with Beijing. 
-Egyptian media outlet Ahram online said the trip to will be Xi's first to Egypt since he visited Cairo in 2016, and the two leaders will discuss "ways to strengthen the strategic partnership between the two countries across various fields of mutual interest."
-It also noted progress in the two countries' economic and defense cooperation.
-The year 2026 marks the 70th anniversary of the establishment of diplomatic relations between China and Egypt, as well as the 70th anniversary of diplomatic relations between China and Arab states.
-In 2014, the two countries elevated their relationship to a comprehensive strategic partnership. In 2024, Egypt became the first Arab country to include the goal of building a community with a shared future in a bilateral joint statement, according to Xinhua. 
-A recent survey titled "How Chinese people view Egypt" conducted by the 
-Global Times Institute
- found that nearly 90 percent of respondents gave positive or neutral evaluations of current China-Egypt relations. Among them, 63 percent said China-Egypt relations are "very good" or "relatively good."
-According to Xinhua, Chinese language education has been introduced into Egypt's national education system. By the end of June this year, China-Egypt Suez Economic and Trade Cooperation Zone, the flagship project of China-Egypt industrial cooperation, had attracted more than 200 companies, brought in over $4.7 billion in investment, created more than 10,000 direct jobs and supported tens of thousands of additional job opportunities. 
-China has long enjoyed a profound friendship with Kyrgyzstan and Egypt, both key members of the Global South. This round of head‑of‑state diplomacy is expected to further upgrade China's cooperation with the two countries and strengthen their coordination within multilateral mechanisms, Zhu said. 
-"It will also generate exemplary and driving effects for China's cooperation with other countries in their respective regions," said the expert.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369300.shtml</guid>
     </item>
     <item>
       <title>On Taiwan question, Kiribati sets an example for Palau</title>
@@ -166,43 +136,6 @@ At this moment, we stand in solidarity with our compatriots in the disaster zone
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369283.shtml</guid>
     </item>
     <item>
-      <title>Xi chairs CPC leadership meeting on rescue efforts in Xizang region</title>
-      <link>https://www.globaltimes.cn/page/202608/1369272.shtml</link>
-      <description>Published: 2026-08-28 18:50:00
-
-The first team of six members from the Xizang Fire and Rescue Corps and the first group of 15 members with a search dog from the Sichuan Fire and Rescue Corps arrive at the disaster-hit area of the Gyirong Port in Xigaze, Southwest China's Xizang Autonomous Region, at about 4:30 pm, on August 28, 2026. They were the first professional rescue teams to reach the core rescue area, the National Fire and Rescue Administration said. Photo: Xinhua
-Xi Jinping, general secretary of the Communist Party of China (CPC) Central Committee, on Friday chaired a Party leadership meeting to deliberate and make arrangements on rescue and relief efforts after a devastating mudslide hit Gyirong county in Southwest China's Xizang Autonomous Region.
-At the beginning of the meeting of the Political Bureau of the CPC Central Committee, Xi, who is also Chinese president and chairman of the Central Military Commission, and other leaders observed a moment of silence to mourn the victims of the disaster, the Xinhua News Agency reported. 
-A mudslide in Nepal on Wednesday struck the border port of Gyirong, causing heavy casualties and leaving many people missing.
-Entrusted by Xi, Premier Li Qiang, a member of the Standing Committee of the Political Bureau of the CPC Central Committee, traveled to the disaster-hit area to visit the affected people and rescue and relief personnel, and to supervise rescue and emergency response efforts.
-According to the meeting, emergency rescue operations have been carried out swiftly and in an orderly and well-coordinated manner under the strong leadership of the Party Central Committee, with comprehensive efforts underway for the resettlement of affected people and handling of the aftermath.
-Rescue efforts continue
-According to Xinhua, as of 3 pm on Friday, the disaster had left five people dead and 558 others missing. 
-At around 4:30 pm, the first group of six rescuers from the Xizang fire and rescue corps and 15 rescuers and one search dog from the Sichuan fire and rescue corps arrived at the national border gate area within the jurisdiction of Gyirong Port, becoming the first professional rescue teams to reach the core area of the mudslide disaster, as reported by CCTV News.
-The disaster occurred in a severely cold plateau region with steep valleys, variable weather, many surrounding glaciers and glacial lakes, as well as potential geological hazards, which poses significant challenges to emergency rescue operations, per Xinhua.
-The meeting emphasized that all relevant authorities and departments must take resolute and effective measures for the rescue-related work. Search and rescue plans should be formulated in a scientific manner, and every effort should be made to search for and rescue all missing Chinese and foreign nationals, it stressed.
-Rescue and relief efforts have made further progress, with 499 people affected by the disaster relocated and 555 stranded tourists transferred to safety as of Friday morning, according to CCTV News.
-As of 10 am on Friday, a total of 681 personnel and 113 vehicles from China's national comprehensive fire and rescue forces had been dispatched to the disaster site, according to the National Fire and Rescue Administration.
-Authorities have also allocated 6,612 pieces or sets of rescue equipment and comprehensive support supplies across 19 categories and three major types, which have been sent to Gyirong.
-Rescuers are conducting a comprehensive search for missing people through land, water and air operations.
-According to the rescue operation plan, three specialized rescue teams have been established, carrying out search and rescue operations using inflatable boats along waterways, trekking on foot across mountainous terrain, and deploying drones for aerial search and supply delivery.
-At around 8 am on Friday, a land search-and-rescue team arrived at a forward assembly point in Labi village, Sale township, carrying lightweight rescue equipment and satellite communications gear toward the core area of Gyirong Port, conducting searches for missing people and checking for potential hazards along the route. Additional teams remain on standby for reinforcement.
-About 70 personnel in the first rescue and emergency response group were working to clear roads and remove silt about 3 kilometers from Gyirong Port when they were informed that the barrier body was at risk of breaching. A breach could potentially trigger secondary disasters, including landslides and avalanches.
-The Lhasa fire and rescue mobile detachment launched a kayak into the river at the point on Friday and tried several times as part of efforts to test whether kayaks could be used to approach the port and carry out search and rescue operations, the Global Times learned from the detachment.
-Chen Hongqi, an engineer with the Geological Disaster Technical Guidance Center under the Ministry of Natural Resources, said rescue operations face major challenges due to the narrow access routes, which make it difficult for heavy machinery to advance, as well as the destabilizing impact of high-speed mountain floods and mudflows on riverbanks and roadbeds, per CCTV News.
-Pledge to offer intl aid
-The death toll from devastating floods in Nepal has risen to 538, the National Disaster Risk Reduction and Management Authority said in a statement on Friday, as reported by Xinhua. 
-Chitwan district recorded the highest number of deaths at 221, followed by Nawalparasi East with 134 and Dhading with 33. Deaths were also reported in several other districts.
-A total of 977 people remain missing, including 517 foreigners, according to the authority.
-Xi extended his condolences over the mudslide disaster in Nepal. China will provide emergency aid to the disaster-hit area in Nepal and carry out international rescue cooperation, the meeting said, per Xinhua.
-Earlier, experts and relevant official agencies from China and Nepal conducted preliminary assessments indicating that the mudslide was triggered by the collapse of a high-altitude glacier in Nepal, Chinese Foreign Ministry spokesperson Lin Jian said on Friday.
-Guo Zhaocheng, director of the geological disaster investigation and monitoring center at the China aero geophysical survey and remote sensing center for natural resources, revealed that the disaster was not caused by a glacial lake outburst, as some had speculated, but was instead a chain disaster that began with a high-altitude ice avalanche and evolved into a high-speed debris flow before hitting the port, the People's Daily reported.
-High-resolution satellite imagery taken before and after the disaster shows that a high-altitude ice avalanche occurred in the upper reaches of Chhochen Khola river, a tributary in the upper reaches of the Lhende Khola river, on the Nepalese side upstream of Gyirong Port, according to the report. 
-"More precisely, this was a chain disaster involving the sequential evolution of a 'high-altitude ice avalanche — high-speed debris flow — mudslide'," Guo said. The disaster did not suddenly originate near the port, but began in a high-altitude glacial area upstream and was transmitted and amplified downstream along the Chhochen Khola river, Jhambu River and Lhende Khola river.
-Guo explained that the ice avalanche itself carries substantial gravitational potential energy. As it rapidly descends, it scours the channel bed and erodes the banks, continuously entraining loose rocks, soil and glacial debris along its path. As the amount of material increases, so does the destructive force. The steep terrain acts as a natural "accelerator", allowing the disaster mass to travel long distances at high speeds, the People's Daily reported.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369272.shtml</guid>
-    </item>
-    <item>
       <title>China, Nepal experts assess high-altitude glacier collapse in Nepal as cause of China's Xizang region mudslide: FM</title>
       <link>https://www.globaltimes.cn/page/202608/1369261.shtml</link>
       <description>Published: 2026-08-28 16:49:00
@@ -216,6 +149,29 @@ The mudslide originated on the Nepalese side of the China-Nepal border at around
 As of Friday morning, 499 people affected by the disaster had been relocated, while 555 stranded tourists had been transferred to safety, according to CCTV News.
 Global Times</description>
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369261.shtml</guid>
+    </item>
+    <item>
+      <title>Xi chairs CPC leadership meeting on Gyirong County mudslide rescue efforts</title>
+      <link>https://www.globaltimes.cn/page/202608/1369257.shtml</link>
+      <description>Published: 2026-08-28 14:08:00
+
+Xi chairs CPC leadership meeting on Gyirong County mudslide rescue efforts
+                        
+                        
+                            By Xinhua Published: Aug 28, 2026 02:08 PM 
+                            
+                                
+                            
+                         
+                     
+                    
+                         Xi Jinping, general secretary of the Communist Party of China (CPC) Central Committee, on Friday chaired a Party leadership meeting to deliberate and make arrangements on rescue and relief efforts after a devastating mudslide hit Gyirong County in southwest China's Xizang Autonomous Region.
+At the beginning of the meeting of the Political Bureau of the CPC Central Committee, Xi, who is also Chinese president and chairman of the Central Military Commission, and other leaders observed a moment of silence to mourn the victims of the disaster, which struck the border port of Gyirong on Wednesday.
+According to the meeting, emergency rescue operations have been carried out swiftly and in an orderly and well-coordinated manner under the strong leadership of the Party Central Committee, with comprehensive efforts underway for the resettlement of affected people and handling of the aftermath.
+The disaster occurred in a severely cold plateau region with steep valleys, variable weather, many surrounding glaciers and glacial lakes, as well as potential geological hazards, which poses significant challenges to emergency rescue operations.
+The meeting emphasized that all relevant authorities and departments must take resolute and effective measures for the rescue-related work. Search and rescue plans should be formulated in a scientific manner, and every effort should be made to search for and rescue all missing Chinese and foreign nationals, it stressed.
+China will provide emergency aid to the disaster-hit area in Nepal and carry out international rescue cooperation, the meeting said.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202608/1369257.shtml</guid>
     </item>
     <item>
       <title>China requires robotics industry development to suit local conditions and avoid blind rush</title>

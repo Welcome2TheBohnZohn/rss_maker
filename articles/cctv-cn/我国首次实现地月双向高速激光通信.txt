@@ -1,0 +1,17 @@
+TITLE:
+我国首次实现地月双向高速激光通信
+
+PUBLISHED:
+2026-08-29
+
+SOURCE:
+CCTV Chinese
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://news.cctv.com/2026/08/29/ARTI5VCpTLO3uEE7368aWjYA260829.shtml
+
+ARTICLE TEXT:
+记者从中国科学院空间应用工程与技术中心获悉，日前，我国在地月激光通信试验任务中取得重要突破，成功在超过40万公里的地月距离上建立起双向激光链路，首次实现地月双向高速激光通信。这标志着我国空间激光通信正式从近地轨道迈入地月空间。
