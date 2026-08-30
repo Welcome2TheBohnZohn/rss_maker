@@ -1,0 +1,29 @@
+TITLE:
+CXMT's lawsuit pushes back against groundless US tech bullying
+
+PUBLISHED:
+2026-08-30 21:08:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1369394.shtml
+
+ARTICLE TEXT:
+Chinese companies defend themselves against US weaponization of tech and trade. Illustration: Chen Xia/GT
+On Friday, Chinese dynamic random-access memory (DRAM) chips maker ChangXin Memory Technologies (CXMT) formally filed suit in the US District Court for the District of Columbia, naming the Department of Defense, Defense Secretary Pete Hegseth, Deputy Defense Secretary Steve Feinberg and Assistant Secretary of Defense for Industrial Base Policy Michael Cadenazzi as defendants. China's largest memory chipmaker said that the Pentagon's decision to place it on the so-called "Chinese military companies" list was "arbitrary," unsupported by evidence, and violated its due-process rights.
+CXMT stated clearly that the DRAM chips it designs, manufactures, and sells are "for civilian and commercial use, not for military use," and that every US determination is not supported by "factual record, by applicable law, or by reasoned decision-making."
+The lawsuit did not come out of nowhere. CXMT's entanglement with the Section 1260H list began in January 2025 when the Pentagon first designated the company. In February 2026, the Defense Department published a notice removing CXMT - only to withdraw it the same day - and in the June 2026 update, it formally relisted the company.
+Why is Washington doing this? On the surface, it's "national security"; at its core, it's "technological hegemony." The list has ballooned in recent years - from 134 companies in January 2025 to 188 this June. Even more telling is its industrial spread: from traditional aerospace and shipbuilding to electric vehicles, new energy, biopharmaceuticals, artificial intelligence, and every other field Washington regards as a "new frontier of US-China strategic competition." Globally recognized civilian companies - Alibaba, Baidu, BYD, BOE, WuXi AppTec - have all been swept in.
+The US targets China's key industries, weaponizing tech and trade via "national security" to retain dominance, masking eroding competitiveness. But can this really sustain America's market hegemony? Quite the opposite.
+First comes the backlash of market logic. The foundation of tech hegemony has never been merely "technological leadership"; it is "market monopoly" - extracting outsized profits from global markets and reinvesting them in R&D, forming a virtuous cycle. The current issue is that, when US technology faces competition from China, it has become increasingly difficult for the US to maintain its original technological leadership and market monopoly; forcibly squeezing out Chinese enterprises cannot reverse this trend. Chinese tech competitiveness is growing globally. US chip production dropped from 37 percent in 1990 to 10 percent in 2022, showing accelerated industrial decline.
+The reputational damage stemming from the "military" label may, in the short term, deter customers across global supply chains; however, this approach - forcing businesses worldwide to choose between the US and China - will also harm the US itself.
+Choosing technologically advanced products made in China has become a growing trend, which aligns with the principles of the global economy. Moreover, China is the world's largest semiconductor market, and forced "decoupling" means American chipmakers voluntarily abandoning their biggest customer. Falling profits inevitably shrink R&D spending - self-amputation, in effect. Nvidia CEO Jensen Huang said bluntly that US AI chip export controls on China were "a failure": They not only failed to halt China's progress toward chip self-sufficiency, but cost American companies billions of dollars in lost sales.
+At the same time, CXMT, blacklisted by the Pentagon, launched LPDDR6 DRAM chips for Xiaomi phones. Apple, a US giant, seeks to buy from "military-labeled" CXMT, highlighting "national security" merely as a pretext for tech dominance.
+What Chinese companies are challenging in court is the US government's credibility. Arbitrarily listing commercial firms as "military-linked" and then reversing course erodes the procedural justice on which American judicial and administrative credibility rests. When the world sees that Washington can slap a label on a company and wreck its business reputation without evidence simply because it perceives it as a "threat," allies in Europe, Japan, and South Korea will inevitably wonder: Am I next?
+That is why more Chinese companies are taking up legal weapons to defend their rights head-on. CXMT is the latest major Chinese company - after corporations such as Xiaomi, AMEC, Hesai, WuXi AppTec, Alibaba, and Yangtze Memory - to fight this list in court. Precedents show that, when faced with groundless unilateral bullying, proactively using local legal channels offers a real chance of a fair and reasonable outcome.
+Chinese companies are gradually learning to use US own legal system to contest the US government. Building this capability may matter more than the outcome of any single case. CXMT's lawsuit is not only one company's self-defense; it is a microcosm of China's tech industry moving from passive endurance to proactive engagement. The US wants to lock away China's future with a sheet of paper, but history has proven time and again: Technology can be blockaded - innovation cannot.

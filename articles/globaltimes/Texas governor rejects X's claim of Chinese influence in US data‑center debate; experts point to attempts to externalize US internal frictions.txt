@@ -1,0 +1,35 @@
+TITLE:
+Texas governor rejects X's claim of Chinese influence in US data‑center debate; experts point to attempts to externalize US internal frictions
+
+PUBLISHED:
+2026-08-30 23:02:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1369414.shtml
+
+ARTICLE TEXT:
+Demonstrators wave signs during a nationwide protest against AI data center expansion in Imperial, California on July 18, 2026. Photo: VCG 
+While US social media platform X hyped the narrative that China is influencing America's data center debate in the US, Texas Governor Greg Abbott pushed back against the notion, saying "none of that has anything to do with China," media reported. 
+The remarks came in the wake of X's Global Government Affairs account claiming the platform's safety team investigated suspected Chinese inauthentic accounts involved in "influence operations."
+Within a bot farm of approximately 200,000 accounts it identified, 200 accounts posted in a manner that could manipulate a legitimate debate about American AI and energy policy, and the posts contained claims that AI data centers are driving up household electricity prices and straining the grid, X's Global Government Affairs account claimed on Friday.
+The account, owned by Elon Musk's influential platform X, often posts international cases involving regulatory issues and content restrictions. The post has also been reported by multiple US media outlets, with Axios report claiming that "it appears Chinese propaganda has infiltrated American circles with the hope of slowing the US down."
+Chinese analysts said the debate over data centers has already existed in American society, but the attempt to frame it as a China-related issue could be seen as an attempt to externalize its own internal contradictions onto China, turning it into a politically driven public opinion maneuver.
+Following the X post, Abbott in a Fox News interview on Friday explained his recent moratorium on data center construction in Texas, saying: "I haven't done it because of anything said by China. I've done it by listening to and working with constituents and seeing the real problems they're facing in their communities," according to a Business Insider report on Saturday.
+"None of that has anything to do with China," the Texas governor added.
+Abbott was initially an ardent supporter of AI data center projects in Texas for their economic benefit. But earlier in August, he said his administration had halted some 1,800 AI data center projects in the state, Business Insider reported.
+The "influence campaigns" were discovered as debate rages over AI, Fox News alleged. Critics of AI development say the data centers required to power it harm the environment, drive up electricity costs and decrease neighborhood property values. Proponents, meanwhile, say AI data center development is critical to national security and boosts local economies by creating jobs.
+Zhu Ying, a professor at the Baize Institute at the Southwest University of Political Science and Law, told the Global Times on Sunday that contemporary American society is engaged in debate concerning AI computing infrastructure.
+What is happening based on the X post is an ideologically and politically driven public-opinion maneuver, rather than a genuine technical discussion, Zhu said, adding that Washington is attempting to externalize its own internal debates and contradictions onto China.
+Whatever role foreign influence campaigns may play, organic opposition to data centers is very real, a report by US media outlet Axios noted. Sixty-one percent of Americans oppose building new data centers in their area, according to an early August University of Pennsylvania survey, a rise of 12 percentage points from a previous UPenn survey conducted in February and March.
+That squares with a YouGov survey released Tuesday that found only 24 percent of Americans say building new data centers is very or somewhat good for the country, the report said.
+From a cybersecurity perspective, online public opinion manipulation and cyberattacks can both evade attribution through established techniques such as IP hopping and overseas server relays. Attackers can use third-party nodes in multiple countries to disguise attribution information and easily conceal the true actors behind them, and traditional IP tracing methods are simply unable to accurately identify the operators behind such activities, an expert on cybersecurity, Qin An, told the Global Times.
+He said that in the AI era, botnets and automated accounts, supported by related technologies, have stronger capabilities to imitate and generate content and disguise identities. Their account characteristics can be highly realistic and their dissemination trails extremely difficult to detect, greatly increasing the difficulty of attribution and identification. 
+Based on this industry knowledge, the US side's attempt to label domestic public opinion discussions as "Chinese interference operations" without any substantive technical evidence is extremely unprofessional in its assessment and completely untenable in its conclusion, seriously violating objective technical principles in the field of cybersecurity, Qin said.
+Shen Yi, director of the International Research Institute of Global Cyberspace Governance at Fudan University, told the Global Times that the hype is a routine tactic to evade Washington's own governance shortcomings and shift domestic livelihood-related conflicts. Public resistance to data-center projects in the US arises because some local data centers fail to take corresponding livelihood costs into account in site selection, planning and operation, the expert said. 
+"Instead of addressing these substantive problems while shifting blame to China, such an approach achieves nothing to resolve its domestic challenges," Shen added.

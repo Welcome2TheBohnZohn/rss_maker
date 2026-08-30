@@ -1,0 +1,42 @@
+TITLE:
+Drones, satellites aid China's border rescue after Nepal mudslide, while experts explain why joint monitoring, early warning are challenging?
+
+PUBLISHED:
+2026-08-30 19:01:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1369386.shtml
+
+ARTICLE TEXT:
+A member of the Xizang Fire and Rescue Corps conducts emergency rescue operations at Gyirong Port on the China-Nepal border in Southwest China's Xizang Autonomous Region on August 29, 2026. Photo: IC
+Following the Nepal 8.26 mudslide disaster that severely impacted its border areas with China, advanced technologies have been mobilized to support rescue operations, including disaster-information datasets, aerial assets overcoming road and communication blockage, reconnaissance drones surveying the disaster area and searching for stranded people, and satellite remote sensing for disaster monitoring, according to media reports.
+A barrier lake formed upstream of Gyirong Port on the China-Nepal border in Southwest China's Xizang Autonomous Region following the mudslide caused by glacier collapse in Nepal. A total of 261 foreign nationals from 23 countries have been identified as unaccounted for, Xinhua News Agency reported on Sunday. Local authorities have warned that the barrier lake sits in an unstable geological setting and could breach, endangering rescue operations downstream, according to Xinhua.
+After the disaster occurred last Wednesday, the National Tibetan Plateau Data Center (TPDC) activated an emergency response, releasing its first dataset within seven hours and making all 26 datasets openly accessible by early Thursday. 
+Li Xin, director of the TPDC, said that the thematic datasets include disaster-triggering factors such as glaciers, glacial lakes, rock glaciers and debris slopes, as well as meteorological data and multi-source remote sensing imagery collected before and after the disaster. 
+The data center is simulating disaster scenarios and integrating new high-resolution imagery and drone survey data to continuously produce hazard and risk maps to support frontline rescue operations, the Science and Technology Daily reported. 
+With roads blocked and communications disrupted, aerial assets have played a key role in restoring information links. 
+China's Ministry of Emergency Management (MEM) deployed two Wing Loong unmanned aerial vehicles (UAVs) from Zigong in Southwest China's Sichuan Province and Xigaze in Xizang. The UAVs provided continuous relay support for more than 22 hours in the plateau valleys, enabling about 6,069 user connections and supporting over 661 calls. 
+Meanwhile, 11 drone pilots from member organizations of a mechanism under the National Disaster Reduction Center of China (NDRCC) are divided into monitoring and delivery groups, operating seven reconnaissance drones and two heavy-lift drones around the clock, according to the Science and Technology Daily. They provide real-time information and send basic necessities to frontline rescuers. 
+To guard against potential risks, China Anneng Construction Group deployed reconnaissance drones to survey the disaster area, assess terrain and search for trapped people. The portable wireless emergency surveillance cameras monitor potential hazards around the clock. Portable satellite stations provide emergency communications and transmit live video and voice data to keep rescue command and coordination running smoothly. 
+Satellite remote sensing, which enables all-weather and around-the-clock monitoring, is being used to track the debris-flow disaster in Gyirong County. The MEM instructed the NDRCC to activate its satellite emergency data acquisition mechanism. It is making comprehensive use of satellite data from Huanjing Jianzai, Ziyuan and Gaofen high-resolution Earth-imaging satellite programs to monitor the disaster, China Central Television (CCTV) reported. 
+Data from multiple Chinese satellite programs are being used to pinpoint the ice-and-rock avalanche source, map landslides, locate the barrier lake and assess downstream damage, while continuously monitoring changes in the lake's area and overflow, according to CCTV. 
+In the core rescue area, firefighters are conducting a systematic, grid-by-grid search with the assistance of enhanced radar life detector that can detect signs of life buried up to 20 meters beneath mud; a long-probe gas detector can reach into narrow gaps to help guide rescue teams. 
+China Anneng has sent more than 200 experts and rescue personnel with 120 pieces of equipment, including reconnaissance drones and 3D laser scanners, to the disaster zone. Sixty workers and 28 machines are conducting road-clearance operations along National Highway G216, using rocks to rebuild damaged roadbeds. 
+Telecommunications engineers deploy a mobile base station in disaster-hit Gyirong Port on the China-Nepal border in Southwest China's Xizang Autonomous Region on August 27, 2026. Photo: VCG
+According to Wu Zhonghai, an expert at the Chinese Academy of Geological Sciences, the rescue effort faces three major challenges: road access, aircraft landings and limited space for equipment. 
+Turbulent airflow in the high-altitude mountain valleys makes it difficult to find suitable takeoff and landing sites; soft deposits on the valley floor can cause equipment to become stuck; and towering mountains can block signals, placing enormous pressure on communications support, Wu told the Global Times on Sunday. 
+To prevent secondary disasters, Xizang authorities are closely tracking the barrier lake, slopes and weather conditions while stepping up inspections at key sites to ensure post-disaster safety. At Gyirong Port, satellite remote sensing, drone swarms, emergency communications, 3D modeling and ground reconnaissance are forming a dynamic safety network to maximize the effectiveness of rescue operations in the rugged terrain, the Science and Technology Daily reported.
+Wu also pointed out the longer term challenge to improve hazard identification, monitoring and early warning, and international cooperation amid glacier-related risk that spans national borders. 
+The affected region is located in the core ridge of Himalayas. The Gyirong Port area, given its extremely high altitude and harsh terrain, is sparsely populated; while the Nepali side is more densely populated. The joint warning mechanism requires international cooperation on information. 
+Another challenge is whether equipment can withstand the extreme cold and wide temperature swings in glacial areas, while limited communications further complicate deployment, Wu said. 
+Liu Qiao, a research fellow at the Institute of Mountain Hazards and Environment of Chinese Academy of Sciences, said the disaster-hit area lies in the Himalayan seismic belt together with extensive glacier distribution and is highly prone to cryosphere related geo-hazards. 
+Rapid glacier retreat and permafrost degradation in recent years may have contributed to the collapse of rock and ice, while the extreme high speed of rock-ice avalanche induced mass flow makes timely warnings difficult with conventional monitoring systems, Liu told the Global Times on Sunday. 
+Comprehensive monitoring should combine satellite remote sensing with real-time ground observations on the stability of both glacier itself and its surrounding terrain. Currently, the researchers at the institute are analyzing pre-disaster satellite images, weather data, terrain and other ground data to try to identify potential precursory signals before the event, Liu said.
+In recent years, advances in observation technology and the growing volume of remote-sensing data have improved scientists' understanding of glacier-related hazards, enabling them to better understand trigger mechanisms behind recent rock/ice avalanche and glacial lake outburst flood events. 
+According to Liu, the challenge ahead is that both China and many countries in south Himalayas have very limited ground monitoring in upstream. This kind of transboundary disasters can travel and affect areas along its moving path over very long distances, this time more than 130 kilometers to Nepal downstream, affecting areas in both China and Nepal.
