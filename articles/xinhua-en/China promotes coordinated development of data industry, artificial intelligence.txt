@@ -1,0 +1,59 @@
+TITLE:
+China promotes coordinated development of data industry, artificial intelligence
+
+PUBLISHED:
+2026-08-30
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260830/19b727aefdeb4b85bf3149e44cfdf103/c.html
+
+ARTICLE TEXT:
+*Riding the wave of digital industry growth, traditional industries are receiving a fresh boost from data and artificial intelligence, a transformation on full display at the 2026 China International Big Data Industry Expo.
+*The interplay between data and AI is doing far more than just upgrading traditional industries; it is also catalyzing the emergence of new business models and employment categories.
+*As an international event, the expo has attracted enterprises from multiple countries, including Singapore, Morocco and Canada, seeking new cooperation opportunities in the data and AI industries.
+GUIYANG, Aug. 30 (Xinhua) -- China's data industry hit 6.78 trillion yuan (about 1 trillion U.S. dollars) last year. Now, as the 2026 China International Big Data Industry Expo gets underway, one question emerges: how does data become the "new oil" of the AI era?
+"Wherever AI advances, we push forward the construction and application of high-quality datasets," Liu Liehong, head of China's National Data Administration, told the expo's opening ceremony in Guiyang, capital of southwest China's Guizhou Province.
+Yang Jie, secretary-general of the World Data Organization, added that the richness, purity, authenticity and professionalism of data directly determine the cognitive depth, knowledge accuracy, and capabilities of large models.
+Themed "Token: A New Path to Value of Data Elements," the expo was held from Friday through Sunday and has attracted 372 domestic and international companies and over 16,000 registered guests. It showcased new technologies, products, and applications in areas including the token economy, computing power, large model innovation, and data element circulation.
+ENERGIZING TRADITIONAL INDUSTRIES
+Riding the wave of digital industry growth, traditional industries are receiving a fresh boost from data and artificial intelligence, a transformation on full display at the expo. In the host province, hydropower stations, wind farms and solar plants along the Wujiang River are now connected through a unified digital system -- a vivid example of how data technology is transforming conventional industries.
+"We're bringing together hydropower, wind and solar into one smart dispatch platform," said Fan Sheng, deputy general manager of Guizhou Wujiang Hydropower Development Co., Ltd., at the expo.
+According to Fan, a long-standing challenge for the power industry is that changing wind, cloud and rain conditions cause large swings in renewable energy generation. Accurately forecasting these fluctuations and coordinating a mix of power sources has become essential for maintaining grid stability and making the most of clean energy.
+The company cleaned, integrated and standardized data from meteorological, hydrological, new energy station and grid operations, then established data exchange with the grid dispatch system so that forecast results could be directly applied to actual power generation planning.
+Using years of local data, technical teams trained multiple models that can now predict conditions up to 15 days ahead, giving operators more time to make informed decisions, Fan said.
+The results are promising. Company test data shows wind forecast accuracy at 91.95 percent, solar forecast accuracy at 94.54 percent, and cascade hydropower inflow forecast accuracy at 94.1 percent -- an improvement of about 4 percentage points year on year.
+"AI's edge in industrial upgrading goes beyond technology -- it lies in its reach as a foundational infrastructure," said Duan Zhongxian, a professor at Guizhou University.
+Duan advocated for integrating computing power with industry, agriculture and cultural tourism -- turning computing power into a powerful driver for upgrading traditional industries.
+"The real strength of computing power is in enabling businesses to undergo digital transformation," Duan said.
+FOSTERING NEW BUSINESS FORMS
+The interplay between data and AI is doing far more than just upgrading traditional industries; it is also catalyzing the emergence of new business models and employment categories.
+While many worry about jobs being replaced by AI, others are discovering new opportunities emerging from the technology's rapid advancement.
+Take embodied intelligence -- a field that gives AI a "physical body" to perceive, decide and act like humans in the real world. To make robots as dexterous as people, massive amounts of high-quality real-world data are essential.
+In a residential apartment in Guiyang, 21-year-old Wang Junbao, a recent graduate from Guizhou Tongren Data Vocational College, moves through daily household chores -- tidying up, washing dishes -- while wearing a panoramic data collection headset.
+As an embodied intelligence data collector, his task is to record human movements from a first-person perspective: how to grasp, how to exert force, how to navigate obstacles. The behavioral data, once processed, serve as "fuel" for training robots.
+"This industry has great potential, and it's deeply rewarding to contribute to the progress of embodied intelligence," said Wang, who joined Shanghai Benyuan Digital Technology Co., Ltd. in June after a three-month internship. "Five or six of my classmates stayed with the company after their internships."
+Duan Annan, general manager of the company's Guiyang branch, said the company has spent over a decade in AI data, specializing in four core areas: multimodal large models, world models, embodied intelligence and autonomous driving.
+"Real-world scenes, real interactions, and real action data are the core bottlenecks constraining model deployment," Duan noted.
+Duan said the Guiyang base currently employs 400 on-site staff, alongside 800 collectors across the country. With over 100,000 hours of effective collection, it has supplied high-quality data for domestic embodied intelligence models and boosted local digital employment.
+Beyond the rise of new job roles, data and AI are also reshaping how businesses operate. Many exhibitors at the expo are micro-enterprises with just three to five employees, or even "one-person companies," a sign of new entrepreneurial vitality fueled by data and AI.
+"AI is not simply taking away jobs. It is reshaping existing work and creating entirely new professions," said Qin Yongbin, vice president of Guizhou Minzu University.
+"While AI will replace routine and repetitive tasks, it will also generate more roles that demand creativity, decision-making, emotional intelligence and complex teamwork. The future is about human-machine symbiosis, where humans direct and machines assist. The essence lies in collaboration," Qin said.
+BOOSTING INTERNATIONAL COOPERATION
+As an international event, the expo has attracted enterprises from multiple countries, including Singapore, Morocco and Canada, seeking new cooperation opportunities in the data and AI industries.
+Dubuya Thulani, a Zimbabwean entrepreneur, launched his blockchain-based data platform two years ago. Named Wazisana, which means "very transparent" in Swahili, the platform connects African agricultural exporters with Chinese buyers.
+"Chinese buyers want to buy African agricultural products, and African farmers want to sell to China. They need a bridge like this," Thulani said. The platform requires African farmers to upload videos of their entire production process -- from planting to fertilization -- for products such as coffee. AI then processes the data to generate comprehensive, readable descriptions for potential Chinese clients, detailing fertilizer and pesticide usage.
+"We have already exported coffee, red wine and avocados successfully, and we are already profitable," Thulani said. "Next, we want to expand our business and contribute to win-win cooperation between China and Africa through data and AI. This is also what technological progress truly means -- sharing and advancing together, so that the benefits of AI can reach all of humanity."
+When talking about the delegation's trip to northwest China's Xinjiang Uygur Autonomous Region and Guizhou, which brought nearly 30 officials from Pakistan's Punjab province to study China's smart agriculture and AI expertise, Syed Muhammad Ashiq Hussain Shah, Punjab's agriculture minister, said his province is actively building an AI-powered digital monitoring network for farming.
+"We are focusing on finding partners in China and learning from China's experience," he said, "The big data expo is a great opportunity for us to showcase Punjab, meet potential partners and explore new areas of cooperation."
+Cristian Davis Acosta, consul general of Chile in Chengdu, shared his country's AI ambitions. "In Chile, we are trying to develop our own AI tool called Latam-GPT," he said. "It is similar to ChatGPT, but it is designed for Latin America. China already has very advanced AI tools, so perhaps we can establish cooperation between institutions on both sides and exchange experiences. We may even be able to develop new tools together."
+He noted that Guizhou is an important hub for data centers and the digital economy in China. "It is a very strong and interesting partner for us, so we see considerable potential for cooperation in this field."
+During the speech at the expo's opening ceremony, Muhammadou M.O. Kah, former chair and current vice-chair of the United Nations Commission on Science and Technology for Development, urged fostering open and inclusive international cooperation.
+"Expanding access to digital public goods, open AI methodologies, and capacity building, so that every nation can actively participate in the data economy," he said.
+"If we act together, with courage, data will create more value, and innovation will bring a better future," he added. ■
+(Video reporters: Liu Qinbing, Wusi and Yang Chunxue; video editors: Zhang Yichi, Zhu Cong and Lin Lin)
