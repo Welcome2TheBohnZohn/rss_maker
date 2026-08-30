@@ -1,0 +1,35 @@
+TITLE:
+Chinese researchers complete Earth-moon two-way laser link test
+
+PUBLISHED:
+2026-08-30
+
+SOURCE:
+CCTV English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.cctv.com/2026/08/30/ARTI0MQXG1iRW28nMthVtnqG260830.shtml
+
+ARTICLE TEXT:
+An illustration of a radio telescope under the moon at night. /VCG
+
+Researchers have completed a laser communications test between Earth and the moon, successfully verifying two-way high-speed laser link capabilities in orbit, the Technology and Engineering Center for Space Utilization (CSU) of the Chinese Academy of Sciences said on Friday.
+
+After more than a year of in-orbit testing, the team established a two-way laser communication link across a distance of over 400,000 kilometers, marking the expansion of China's space laser communications from near-Earth orbit to deep space.
+
+Compared with traditional microwave communications, laser communications offer faster speeds, greater bandwidth, stronger security and more compact hardware. However, enabling laser communications across the Earth-moon distance required overcoming three major challenges: beam alignment, signal weakness and transmission speed.
+
+"Earth-moon communication is like threading a needle from a thousand miles away," said Yang Lei, a researcher at the CSU and head of the laser communication test team. Given the extreme distance, minor satellite wobbles or ground atmospheric turbulence can cause laser beams to drift. A tiny angular deviation could translate into a kilometer-scale miss at the moon's distance.
+
+The team developed an innovative acquisition and tracking scheme that integrates corrections for orbital, atmospheric, and optical propagation delays, enabling ground and spaceborne equipment to maintain precise alignment while in motion.
+
+After traveling 400,000 km back to Earth, the laser signal becomes so faint that ground telescopes receive only a few photons at a time. Moonlight, starlight and urban lighting add further interference – akin to hearing the sound of a falling pin in a bustling market, the CSU said.
+
+The researchers developed high-speed superconducting single-photon detection technology and high-sensitivity algorithms to extract valid communication signals from background noise.
+
+To tackle the speed bottleneck, the team developed high-bandwidth signal processing technology and adopted special coding schemes to counter noise. The test achieved two-way communication rates of 1.25 Mbps uplink and 100 Mbps downlink.
+
+With manned lunar landings and lunar research station construction on the horizon, future lunar exploration will generate massive volumes of observation images and scientific data that traditional communications bandwidth can no longer support. This Earth-moon laser "information highway" will provide a new high-speed data transmission route for upcoming lunar missions, the CSU said.
