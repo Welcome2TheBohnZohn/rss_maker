@@ -1,0 +1,28 @@
+TITLE:
+Forcing businesses to cut ties with China shows US anxiety in AI devt
+
+PUBLISHED:
+2026-08-31 22:03:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202608/1369485.shtml
+
+ARTICLE TEXT:
+AI Photo: VCG
+Despite Washington's tightening grip on artificial intelligence (AI) technology exports to China, four major providers of data for AI models - which help collate, label and package the vast troves of information for Anthropic, Google, Meta, OpenAI and the Pentagon - are still quietly working with China's AI labs on the side, the New York Post reported on Sunday.
+Notably, for one such US company, only about 2 percent of its second‑quarter revenue came from China. Even so, US Representative Michael McCaul, former chairperson of the House Foreign Affairs Committee, warned that these companies must stop working for China if they want US government contracts, the report said.
+From US media disclosing business ties between US and Chinese companies to US politicians calling for severing such ties, this has become a typical playbook in Washington, as it continues to intensify its technology containment against China. Rather than demonstrating American AI supremacy, however, it lays bare the deepening anxiety of certain US politicians in the face of profound shifts in the global AI landscape.
+For years, Washington has tightened the technological containment of China in the name of national security. Since October 2022, it has progressively restricted China's access to advanced computing and semiconductor manufacturing items, while imposing various restrictions to pursue a tech "decoupling." 
+The US' so-called Section 1286 list, for instance, now includes 88 Chinese entities - ranging from companies to universities - marking a widening of Washington's campaign against what it deems unwanted Chinese influence and technology transfers. Meanwhile, the US has unveiled bans targeting imports of new Chinese robots and power inverters, and is reportedly drafting a ban on new models of Chinese data center components.
+The development of the AI industry depends on three core elements: computing power, algorithms, and data. High-quality data that has been professionally processed and labeled is a core production resource for training large-language models and optimizing AI algorithms. By targeting this link, politicians in Washington are trying to slow the progress of China's AI development from the data source.
+However, in areas such as model weights, data services, inference deployment, and evaluation tools, both China and the US have their respective strengths. Some US companies can deliver high-end, expert-level data processing and professional technical services, while Chinese companies can provide large-scale, cost-efficient basic annotation and localized linguistic data support. Cooperation on both sides is driven purely by market principles centered on cost, quality and efficiency. Any attempt to overturn this market logic in the name of "national security" will only lead to a fractured global AI industrial chain, forcing all parties to pay a much higher price to gain resources that could have been shared.
+Moreover, exerting political pressure to break the normal business ties with China will backfire on the US itself, eroding the global credibility of its tech companies. When politicians politicize normal cross-border commercial cooperation and use government contracts as a weapon to dictate corporate decisions, global investors and partners have every reason to worry that US companies may be pressured to sacrifice larger overseas businesses tomorrow for so-called "national security." Such unpredictability is the biggest uncertainty for global commercial cooperation.
+While US politicians busy themselves with shackling their own tech firms, China has consistently kept an open door to global AI cooperation. Washington's restrictions have only reinforced Beijing's resolve to pursue technological self‑reliance. Faced with repeated attempts to curb its progress, China has ramped up investment in domestic semiconductors, AI, advanced manufacturing, and scientific infrastructure. 
+It has turned new external restrictions into further incentives for homegrown innovation, achieving sustained breakthroughs in AI models, open-source ecosystems, and industry applications—gradually building a more open and dynamic AI ecosystem of its own.
+Some US politicians may believe that various restrictions on AI-related supply chains can stall China's AI development pace. Yet, technological waves do not stop because someone builds a wall. True AI leadership is not sustained by preventing others from buying data or using chips - it is earned through sustained innovative vitality, open industrial ecosystems, and technological strength that can withstand the test of fair global competition.
