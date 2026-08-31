@@ -87,15 +87,16 @@ RSS FEED: feeds/globaltimes-military.xml
 
 SOURCE: MOFCOM English
 URL: https://english.mofcom.gov.cn/
-STATUS: WORKING
-CANDIDATE LINKS FOUND: 20
-ARTICLES ATTEMPTED: 11
-ARTICLES WITH TEXT: 10
-ARTICLES WITH PUB DATE: 10
-ARTICLES WITH PUB TIME: 10
+STATUS: SOURCE FAILED
+CANDIDATE LINKS FOUND: 0
+ARTICLES ATTEMPTED: 0
+ARTICLES WITH TEXT: 0
+ARTICLES WITH PUB DATE: 0
+ARTICLES WITH PUB TIME: 0
 ARTICLES WITH EXPLICIT TIMEZONE: 0
-ARTICLES SKIPPED/FAILED: 1
+ARTICLES SKIPPED/FAILED: 0
 RSS FEED: feeds/mofcom-en.xml
+ERROR: HTTPSConnectionPool(host='english.mofcom.gov.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1032)')))
 
 ----------------------------------------------------------------------
 
@@ -341,12 +342,12 @@ SOURCE: CCTV Chinese
 URL: https://www.cctv.com/
 STATUS: WORKING
 CANDIDATE LINKS FOUND: 30
-ARTICLES ATTEMPTED: 15
+ARTICLES ATTEMPTED: 14
 ARTICLES WITH TEXT: 10
 ARTICLES WITH PUB DATE: 10
 ARTICLES WITH PUB TIME: 5
 ARTICLES WITH EXPLICIT TIMEZONE: 0
-ARTICLES SKIPPED/FAILED: 5
+ARTICLES SKIPPED/FAILED: 4
 RSS FEED: feeds/cctv-cn.xml
 
 ----------------------------------------------------------------------
