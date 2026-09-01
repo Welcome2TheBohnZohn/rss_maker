@@ -1,0 +1,42 @@
+TITLE:
+China accelerates AI integration with transportation
+
+PUBLISHED:
+2026-09-01
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0901/c90000-20494709.html
+
+ARTICLE TEXT:
+China accelerates AI integration with transportation
+Autonomous new energy mine trucks work in an open mine in northwest China's Xinjiang Uygur Autonomous Region. (Photo/He Long)
+From autonomous vehicles navigating city streets and drones conducting inspections to robots sorting parcels at delivery centers, China is accelerating the integration of artificial intelligence (AI) into the transportation sector, opening up new applications across roads, railways, aviation, ports and postal services. From intelligent driving and smart highways to automated sorting and drone-based inspections, AI is increasingly being deployed to improve transport efficiency, safety and services.
+In June, China's Ministry of Transport, together with four other government departments, issued an action plan for innovation in typical application scenarios of "AI + transportation." The plan envisages that by 2030, a new wave of infrastructure, technical equipment, service models, and industrial forms driven by "AI + transportation" will emerge.
+How will innovation in these application scenarios be advanced? And how can AI help drive high-quality development in transportation? People's Daily spoke with officials and industry experts.
+On the Beijing-Xiong'an Expressway, AI-powered technologies are becoming part of the driving experience throughout the one-hour journey. A dedicated mini program provides drivers with real-time traffic updates.
+Smart roadside poles flash yellow in heavy fog, helping drivers identify their position on the road. At toll stations, robots dispense tickets automatically, helping shorten waiting times.
+"Through cooperation with Baidu AI Cloud and leveraging large-scale AI models, the Beijing-Xiong'an Expressway achieves second-level alert push and one-click notification for abnormal incidents, with an accuracy rate of over 95 percent in identifying emergencies," said an executive from Hebei Expressway Group, which manages the expressway.
+As roads become smarter, vehicles are becoming more intelligent, too.
+"In recent years, we have accelerated the integration of AI with transportation, focusing on infrastructure, vehicles and equipment, transport services and industry governance. We have identified 860 pioneering application scenarios covering all major transport sectors, including railways, highways, waterways, aviation and postal services," said Xu Wenqiang, director of the science and technology department of the Ministry of Transport.
+The action plan identifies 10 major areas, including intelligent driving, smart highways, intelligent railways, smart civil aviation, smart postal services and intelligent multimodal transport. It also sets out a first batch of 41 typical application scenarios, along with guidelines for their development.
+A review of these scenarios reveals two notable features.
+Automated guided vehicles transport cargo at a shore-parallel fully-automated container terminal of Rizhao Port, east China's Shandong province. (Photo/Zhang Jingang)
+The first is a strong focus on people's needs and tangible benefits for the public.
+For example, the plan promotes applications such as intelligent passenger-flow management for urban public transportation and smart route optimization. It also includes applications addressing shared concerns of the public and businesses, such as early warning systems for dense fog on expressways, intelligent security check, and smart monitoring of cold-chain transportation. The aim is to use AI to make travel more convenient and ensure the smooth movement of goods.
+The second is a strong focus on industrial applications and mutual empowerment.
+Many of the typical scenarios target areas with strong potential to drive industrial transformation, including intelligent driving for heavy-duty trucks, smart scheduling at ports and autonomous health management of railway equipment. Such applications can inject new momentum into the transformation and upgrading of the transportation sector while providing AI companies with large-scale, real-world testing environments. This helps align transport needs with AI technologies, creating opportunities for both sides to grow.
+"These 10 areas will help promote large-scale innovation and application of AI in transportation," Xu said. He added that the ministry will continue to monitor technological advances and industry needs, issue guidelines for additional batches of application scenarios, and continuously expand the range of available AI applications.
+The postal and express delivery sector is another important area for AI applications. At the front end, intelligent route-planning technologies are improving network-wide scheduling. At the middle end, smart sorting systems boost operational efficiency. At the last mile, more than 16,000 autonomous delivery vehicles and over 400 drones are now in operation across China, improving the quality and efficiency of delivery services.
+"By focusing on production, services and management across the postal and express delivery sector, AI is helping improve quality while reducing costs and increasing efficiency," said Xu Huarong, deputy director-general of the department of policy and regulation of the State Post Bureau.
+Safety is the lifeline of railway operations. "AI enables us to identify potential safety risks on railways in advance and take preventive action proactively," said Liu Yan, deputy director-general of the department of science, technology and law of the National Railway Administration.
+Autonomous delivery vehicles run on a road in Bozhou, east China's Anhui province. (Photo/Hu Weiguo)
+Along China's high-speed railways, 56,000 cameras have been connected to monitoring systems, covering key locations such as tunnel entrances and bridge approaches. Using AI-powered analysis that combines video and radar data, the systems can automatically identify people or foreign objects that have entered railway tracks. As of April 2026, nearly 310,000 valid alerts had been handled.
+Looking ahead, the action plan calls for advancing large-scale innovative application of "AI + transportation" in a steady and orderly manner. It aims to support the building of an intelligent, comprehensive and multi-dimensional transport network, and to boost integrated development, safety improvement, digital-intelligent upgrading and green transition of the transportation sector.
+"Building a modern, high-quality national comprehensive multi-dimensional transport network, alongside progress in integrated development, safety improvement, digital-intelligent upgrading, and green transition, constitutes the core guideline for high-quality transportation development both now and in the long run," Xu Wenqiang said. "AI + transportation will serve as the key technological engine to drive its implementation."
+Copyright © 2026 People's Daily Online. All Rights Reserved.
