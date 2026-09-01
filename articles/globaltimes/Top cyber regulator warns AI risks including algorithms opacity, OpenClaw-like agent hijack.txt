@@ -1,0 +1,28 @@
+TITLE:
+Top cyber regulator warns AI risks including algorithms opacity, OpenClaw-like agent hijack
+
+PUBLISHED:
+2026-09-01 19:51:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369564.shtml
+
+ARTICLE TEXT:
+Photo: WeChat account from Ministry of State Security
+As artificial intelligence (AI) technology advances rapidly and accelerates its penetration into various industries and sectors, China’s top cyberspace regulator warned that the rapidly expanding use of AI is creating five major security challenges, namely inherent technological vulnerabilities, model-control risks, evolving threats from AI agents, misuse and malicious use, and technological hegemony, China Central Television (CCTV) reported on Tuesday. 
+Wang Lihong, deputy head of the Cybersecurity Coordination Bureau at the Cyberspace Administration of China, said during a press conference on Tuesday that the inherent vulnerability of AI technology is difficult to eliminate and can affect the stability and reliability of its outputs, CCTV reported. 
+According to Wang, the complex and opaque nature of AI algorithms such as deep learning makes their faults difficult to identify and correct, while even minor input changes can produce erroneous error in results. Meanwhile, diverse data sources during research and development can introduce bias and discrimination, causing AI models to learn flawed patterns and generate discriminatory content. 
+These inherent technological flaws make system failures harder to troubleshoot and AI decisions harder to verify, severely constraining the large-scale deployment of AI in environments with stringent safety requirements, low tolerance for errors and complex operating conditions, Wang said. 
+The second major security risk is cutting-edge models’ capability to identify vulnerabilities, which overturned the traditional cybersecurity defense logic, Wang said. Recent incidents at several tech giants have highlighted the risk of advanced AI models losing control, with some frontier models bypassing sandboxes and security boundaries and gaining unauthorized access to external real-world production systems during safety tests. 
+Wang said the third key challenge is the rapid evolution of AI agent applications, which is accelerating the emergence and evolution of new forms of risks. When AI shifts from answering questions to performing tasks, the security risks are shifting from generating harmful content to taking autonomous actions. 
+High-privilege terminal AI agents such as OpenClaw have raised security concerns because they have system-level access that allows them to execute terminal commands and access files and tools across networks, while many agent “skills” plugins for such agents have also been found to pose security risks. 
+If exploited by attackers, such high-privilege AI agents could become tools for breaching networks, launching attacks and stealing sensitive information, turning from helpful assistants into covert accomplices, according to Wang. 
+Wang also pointed out that in the information services sector, AI can generate illegal or harmful content, distort facts, mislead users and undermine the online information ecosystem. In scientific research, AI has lowered the barriers to entry in fields with high ethical risks, such as biology and genetics, potentially increasing the risk of violations of research ethics. In the employment sector, AI is accelerating the restructuring of traditional economic structures, resulting in declining demand for traditional labor. 
+In addition, the global AI sector faces the risk of technological hegemony. According to Wang, the AI industry’s supply chain is characterized by a highly globalized division of labor and collaboration. However, some countries pursue “technological hegemony” by creating supply-chain barriers through unilateral measures such as export controls. They also use their influence over public opinion to produce misleading test reports on large AI models to maliciously discredit the technological development of other countries, while using their advantages in training-data resources to promote their own values, further widening the governance gap, Wang said. 
+Global Times
