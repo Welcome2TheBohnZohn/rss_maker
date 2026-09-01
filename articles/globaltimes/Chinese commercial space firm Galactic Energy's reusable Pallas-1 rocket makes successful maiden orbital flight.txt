@@ -1,0 +1,38 @@
+TITLE:
+Chinese commercial space firm Galactic Energy's reusable Pallas-1 rocket makes successful maiden orbital flight
+
+PUBLISHED:
+2026-09-01 10:51:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369524.shtml
+
+ARTICLE TEXT:
+Photo: Courtesy of Galactic Energy 
+Chinese private rocket company Galactic Energy successfully launched its medium-to-large reusable liquid-propellant Pallas-1 carrier rocket on its maiden flight on Tuesday, marking a major expansion of the company's launch capabilities from small and medium-sized solid rockets into the reusable liquid-fueled rocket sector, the Global Times learned from the company.
+The Pallas-1 Y1 rocket lifted off at 10 am on Tuesday from a dedicated launch pad for the Pallas series at the Dongfeng Commercial Space Innovation Pilot Zone in Jiuquan, Northwest China. The rocket flew according to plan and successfully entered its designated orbit, completing its maiden orbital mission, according to Galactic Energy.
+Pang Zhihao, a senior space expert and former researcher at the China Academy of Space Technology, told the Global Times that Pallas-1's successful orbital insertion is an important advance for China's commercial space sector, as a privately developed medium-to-large liquid-propellant carrier rocket has completed its baseline flight verification.
+From an industry perspective, the mission signals Galactic Energy's transition from a launch provider centered on solid-fuel rockets into a market increasingly shaped by medium- and large-sized liquid rockets, reusable launch systems and the deployment of large low-Earth orbit satellite constellations. It also places the company in direct competition with other Chinese private rocket developers that are pursuing different routes toward lower-cost and higher-frequency access to orbit.
+The flight marked the first use of the company-built launch facility dedicated to its Pallas-series liquid rockets and represented an important milestone in Galactic Energy's strategy of developing solid- and liquid-propellant launch vehicles in parallel.
+The Pallas-1 is one of Galactic Energy's core launch vehicles designed for large-scale low-Earth orbit satellite constellations and launches of relatively large spacecraft, the company told the Global Times.
+The two-stage rocket, which can also be equipped with an optional upper stage, measures 52 meters in length, with a core diameter of 3.35 meters, a liftoff mass of about 283 tons and generates about 350 tons of liftoff thrust.
+Its low-Earth orbit carrying capacity is designed to cover the mainstream demand for launching payloads of around 5 to 7 tons for current low-Earth orbit constellation deployment missions.
+The rocket is also being developed for repeated use, with a designed reuse capability of no fewer than 25 flights, according to the company. Galactic Energy said it wants to turn the Pallas series into a high-efficiency, lower-cost launch service for commercial satellite operators as constellation deployment accelerates.
+A major technological feature of the Pallas-1 is its propulsion system.
+Its first stage is powered by seven CQ-50 reusable liquid oxygen-kerosene engines independently developed by Galactic Energy. The company said it is the first Chinese private rocket developer to adopt such a seven-engine cluster configuration.
+The configuration provides propulsion redundancy while also meeting requirements for future first-stage recovery. If one engine encounters a malfunction during certain phases of flight, the remaining six are designed to provide sufficient capability to support the mission, improving overall system reliability, according to the company.
+The CQ-50 is a pintle-injector engine specifically designed with reusable operations in mind. Ground testing has demonstrated a deep-throttling range from 32 percent to 105 percent of rated thrust as well as capability of multiple starts, both of which are important for controlling a returning rocket stage during deceleration and landing.
+The engine has accumulated more than 23,000 seconds of ground firing tests, the Global Times learned.
+The seven-engine reusable liquid oxygen-kerosene propulsion system is designed with low-cost and high-frequency launches in mind and is well suited to the growing demand from low-Earth orbit satellite constellation deployment, Pang said. He added that Pallas-1's progress further enriches China's reusable rocket technology pathways and reflects the steady, iterative development approach increasingly adopted by the country's private space companies.
+Galactic Energy is taking a phased approach toward actual first-stage recovery rather than attempting orbital insertion and booster recovery simultaneously on the maiden flight.
+The company said the first Pallas-1 mission focused on establishing a flight baseline, completing orbital insertion and obtaining comprehensive flight data to verify the rocket's overall propulsion, control and structural performance.
+During subsequent launches, Galactic Energy plans to test technologies including first-stage atmospheric reentry control, grid-fin operation, braking and deceleration, as well as targeted recovery at sea or on land, before attempting a complete vertical landing of the first stage.
+Once those technologies mature, the company plans to move toward higher-frequency reuse and commercial operations, with further work focusing on simplifying inspection and refurbishment, lowering reuse costs and shortening turnaround time between flights.
+The Pallas-1 debut also comes amid accelerating reusable rocket development across China's commercial space sector. On August 19, private aerospace company LandSpace launched its Zhuque-3 Y2 reusable carrier rocket, with the second stage sending the Honghu-03 satellite into its designated orbit while the first stage completed a controlled land recovery using deployable landing legs. It marked China's first successful land-based recovery of an orbital-class rocket first stage using such a landing-leg configuration, underscoring the parallel progress being made by different private launch companies along multiple reusable rocket development pathways.
+As of Tuesday, Galactic Energy had carried out 22 successful orbital launches and sent 89 commercial satellites with different functions into their designated orbits, according to figures provided by the company.
