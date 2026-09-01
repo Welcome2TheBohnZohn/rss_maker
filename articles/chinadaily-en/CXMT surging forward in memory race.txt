@@ -1,0 +1,39 @@
+TITLE:
+CXMT surging forward in memory race
+
+PUBLISHED:
+2026-09-01
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202609/01/WS6a9622e1e4b06d4aa055b8a7.html
+
+ARTICLE TEXT:
+CXMT surging forward in memory race
+Chinese chipmaker's DRAM to debut in Xiaomi's upcoming foldable
+Chinese memory-chip maker ChangXin Memory Technologies is moving closer to a vanguard position amid the global DRAM race with one of the earliest commercial deployments of LPDDR6 in a flagship smartphone, industry experts said on Monday.
+They made the comments as CXMT said on Saturday that it had begun mass production of its self-developed LPDDR6 DRAM, which will debut in Xiaomi's upcoming 18 Fold handset.
+The chip has a peak data-transfer rate of 12,800 megabits per second and capacity of up to 16 gigabytes.
+"For a Chinese company that only began mass-producing its first DRAM products in 2019, the bigger significance is not simply being first with one product," said Wang Peng, a researcher at the Beijing Academy of Social Sciences.
+"It put CXMT into the first wave of competition around the latest mobile-memory standard alongside global heavyweights Samsung Electronics, SK Hynix and Micron Technology," Wang said.
+LPDDR6 is designed to raise memory bandwidth and parallelism while cutting power consumption, with these features becoming increasingly important as artificial intelligence models migrate from cloud data centers into phones, PCs, cars and other modalities.
+The Xiaomi partnership adds another dimension. It puts a Chinese-designed mobile processor and the country's newest-generation DRAM together inside a premium smartphone.
+Xiaomi founder and CEO Lei Jun said the company's Xring O3 would support CXMT's LPDDR6, and he expects deeper collaboration among Chinese tech companies.
+Advanced chips require years of engineering but also large-scale customer validation to improve yields, reliability and costs.
+China's huge base of smartphone, computer, electric vehicle and internet companies can give local chipmakers something laboratory breakthroughs alone cannot provide — millions of devices on which new technology can be tested and refined, industry experts said.
+Liu Zhiying, a professor at the University of Science and Technology of China, said, "An important factor in the growth of Chinese high-tech companies is their ability to connect research, commercialization and market applications, allowing leading companies to pull suppliers across the industrial chain forward."
+CXMT's technological progress is arriving alongside a dramatic expansion in its financial firepower. On Monday, shares of CXMT closed at 58.01 yuan ($8.6), down 1.01 percent on the day, valuing the company at about 3.94 trillion yuan and making it one of China's most valuable listed companies.
+The company recently reported first-half revenue of 150.31 billion yuan, up about 874 percent from a year earlier, while net profit attributable to shareholders reached 77.61 billion yuan, reversing a 2.33 billion yuan loss a year earlier.
+The surge was driven by sharply higher memory prices and rising sales as demand for computing power tightened global DRAM supplies, the company said.
+CXMT has grown into the world's fourth-largest DRAM producer, behind Samsung Electronics, SK Hynix and Micron, turning China from a marginal player in memory chips into an increasingly consequential competitor.
+Last week, CXMT sued the US Department of Defense in federal court in Washington, seeking removal from a Pentagon list of companies alleged to have ties to China's military.
+CXMT said its chips are designed primarily for civilian and commercial use and that it has no affiliation with the Chinese military.
+It said the designation was unsupported by facts and had damaged its reputation and business interests since it was first placed on the Pentagon's blacklist in January 2025.
+The lawsuit follows similar legal challenges by Chinese companies including Xiaomi and WuXi AppTec. Xiaomi successfully challenged an earlier Pentagon military designation in 2021.
+Zhang Sinan, an independent commentator who has been following the situation, said, "The US can keep extending the list, but the world will not stop needing cheaper clean energy, more efficient electric vehicles, more advanced drug development services or more flexible robotic applications simply because of a list."
+chengyu@chinadaily.com.cn
