@@ -1,0 +1,25 @@
+TITLE:
+China cracks down on AI misuse, removes 5.6 million pieces of unlawful, rule-violating content
+
+PUBLISHED:
+2026-09-02
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260902/1ac6ec1c7d2346d29b9b759ab875217b/c.html
+
+ARTICLE TEXT:
+BEIJING, Sept. 2 (Xinhua) -- Cyberspace authorities across China have removed more than 5.61 million pieces of unlawful or rule-violating content and taken action against over 49,000 accounts as part of a nationwide campaign targeting misuse of artificial intelligence tools.
+The campaign against irregularities in AI applications has also dealt with more than 2,400 websites and apps found in violation of the rules, according to the Cyberspace Administration of China (CAC).
+It is targeting the fabrication and spread of false information using AI, the production of violent or vulgar content, AI-enabled impersonation of real people, and content that infringes on the rights of minors.
+The latest move comes as China continues to refine its regulatory framework for generative AI, following rules that took effect in August 2023 requiring providers of generative AI services to fulfill personal information protection obligations, and content-labeling regulations, effective from September 2025, that require AI-generated text, images, audio and video to carry visible or embedded identifiers.
+Regional authorities have adopted differing enforcement approaches, the CAC said. In Beijing, authorities have directed platforms to upgrade content-review systems to better detect new variants of banned material, while Shanghai regulators have pushed platforms to conduct internal audits and issued public-facing materials explaining AI-related risks.
+Major Chinese online platforms, including Douyin, Kuaishou, Weibo, Tencent, Baidu, Bilibili, Xiaohongshu, Zhihu, Douban and Taobao, have strengthened multimodal detection systems and expanded databases used to identify manipulated faces, cloned voices and known violation samples, according to the CAC.
+AI chatbot and content-generation services, including ByteDance's Doubao, Tencent's Yuanbao, Alibaba's Qwen and Baidu's Ernie Bot, have tightened review of training and output content and stepped up compliance with the AI-labeling requirements, the regulator said. Smartphone app stores run by Huawei, Xiaomi, OPPO and Vivo have also introduced stricter vetting standards for app developers, including rechecking apps already listed on their platforms.
+The CAC published examples of accounts and applications that had been penalized, including social media accounts using AI face- and voice-swapping tools to impersonate public figures, and websites and platforms hosting AI agents whose cover images, profile descriptions or generated dialogue contained sexually explicit material or other content harmful to minors.
+The regulator said it would continue to monitor emerging risks tied to AI-generated content and take further steps to curb misuse of the technology, while stating a parallel goal of fostering healthy and orderly development of AI applications in China. ■

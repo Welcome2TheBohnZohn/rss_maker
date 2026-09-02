@@ -1,0 +1,35 @@
+TITLE:
+Expert explains Chinese drones' critical capabilities in Nepal mudslide relief
+
+PUBLISHED:
+2026-09-02 19:34:00
+
+SOURCE:
+Global Times Military
+
+CATEGORY:
+Military
+
+URL:
+https://www.globaltimes.cn/page/202609/1369657.shtml
+
+ARTICLE TEXT:
+A Chinese People's Liberation Army (PLA) Air Force Y-20 transport aircraft arrives at the Tribhuvan International Airport in Kathmandu, Nepal, carrying China's second batch of emergency humanitarian aid for the Nepal mudslide disaster relief, on September 1, 2026. Photo: VCG
+On Tuesday evening, a Chinese People's Liberation Army (PLA) Air Force Y-20 transport aircraft arrived at the Tribhuvan International Airport in Kathmandu, Nepal, carrying China's second batch of emergency humanitarian aid for the Nepal mudslide disaster relief. The supplies include DNA testing equipment and reagents, water purification systems, lighting equipment and, notably, drones.
+What types of drones were included in the second batch of aid? What role can drones play in mudslide rescue operations? What specific adaptations were made to address Nepal's unique relief challenges? The Global Times interviewed experts to answer these questions.
+According to the experts, the drones provided to Nepal include a rotary-wing UAV model that has previously played a key role in multiple domestic emergency response missions in China.
+A source familiar with the matter told the Global Times that in complex disaster relief scenarios such as the Nepal mudslide, the drones provided by China can support the entire rescue chain, from disaster monitoring and search and rescue to emergency supply delivery and even aerial disinfection missions.
+"Following the August 26 mudslide, drones have proved to be a highly effective tool in the rescue operations at the Gyirong Port area. China's decision to provide this equipment to Nepal reflects the hope that this technology can also play a significant role in Nepal's relief efforts," the source said.
+The aid package includes a medium-sized multi-rotor drone model designated FC100, which has previously conducted transport missions on the southern slope of Mount Qomolangma, known in the West as Mount Everest, demonstrating strong adaptability to high-altitude and complex terrain conditions. During rescue operations at Gyirong Port, in addition to transport drones carrying out supply delivery and rescue missions, other types of industrial drones have also been used for disaster monitoring, mapping and modeling, as well as round-the-clock search and rescue and illumination support.
+"After the August 26 mudslide in Nepal, traditional aerial photography was insufficient to quantify the affected area. Rescue teams needed a comprehensive picture of the disaster site to support damage assessment and command decision-making," the source said.
+"Drones can collect oblique photography and image data during weather windows to produce 3D models of the affected area, allowing direct measurement of longitude, latitude, linear distances and areas, and enabling analysis of mudslide volumes and the extent of the barrier lake water surface. By comparing images captured during repeated drone surveys, responders can track the evolution of the disaster and support decision-making for rescue operations. The technology also facilitates coordinated command and resource dispatch among various rescue units," the source said.
+Chen Fang, a researcher at the Aerospace Information Research Institute of the Chinese Academy of Sciences, previously told the People's Daily that terrain and landforms at disaster sites often change dramatically after a collapse, making it difficult for rescue personnel to quickly reach high-risk areas. UAV 3D modeling technology offers a new technological approach to this challenge. Drones flying over affected areas can collect site data from multiple angles and sensors, rapidly reconstructing three-dimensional scenes of collapsed zones and enabling experts to assess the actual situation from afar.
+In addition, medium-sized multi-rotor drones can also carry out material transport and heavy-load rescue missions in harsh environments. 
+Footage from the Gyirong Port disaster site obtained by the Global Times shows that after roads were cut off and thick mud covered the area, drones delivered food, tents, generators and other supplies to the front lines. 
+In one case, where a swift river current made it impossible to use assault boats, a transport drone used a cable to safely lift a firefighter across a 10-meter-wide torrent to set up rope bridges on the opposite bank, directly participating in the emergency response. During this rescue operation, a route that would have taken four hours on foot was crossed by drone in about one minute.
+However, the drones provided by China for Nepal's relief efforts also face challenges. "Nepal's complex terrain makes drone operations susceptible to external environmental factors," the source said. The mountainous and canyon landscape can lead to severe signal blockage, which can interrupt video transmission and remote control links. In extreme weather conditions, communication distances may also be significantly reduced, increasing the risk of signal loss.
+Additionally, most rescue sites in Nepal are located in river valleys, where unique climatic conditions pose further challenges. 
+"Rescue sites often experience strong winds with speeds reaching up to 15 meters per second, and nighttime rain storms with low visibility may also occur," the source said. Heavy rain can obstruct a pilot's line of sight, and can even cause the drone's lidar to mistakenly identify dense rainfall as obstacles, triggering its obstacle avoidance mode. Strong winds also place extremely high demands on drone stability.
+To address these challenges, the drones provided by China have undergone specific enhancements, including improved video transmission systems and anti-jamming technologies that enable signal transmission over distances of up to 40 kilometers. In addition, the drones are equipped with intelligent route planning features to ensure they can automatically and safely return to base under exceptional circumstances, and resume missions after regrouping. 
+"Even in extreme environments, the drones provided by China can carry out rescue missions safely and reliably," the source said.
+"China will stand firmly together with Nepal and jointly overcome the difficulties as part of our efforts to carry forward our traditional friendship as neighboring countries," Foreign Ministry spokesperson Guo Jiakun said at a regular press conference on Tuesday.

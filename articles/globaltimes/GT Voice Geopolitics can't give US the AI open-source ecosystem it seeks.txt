@@ -1,0 +1,29 @@
+TITLE:
+GT Voice: Geopolitics can't give US the AI open-source ecosystem it seeks
+
+PUBLISHED:
+2026-09-02 21:26:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369668.shtml
+
+ARTICLE TEXT:
+Conceptual diagram of AI Photo: VCG
+The US Congress on Tuesday (US time) advanced the new Open-Source AI Leadership Act, which aims to bolster the adoption and use of American open AI models while publicizing risks associated with using foreign adversary models.
+While this legislative move appears to be an embrace of technological trends, it lays bare a deep-seated anxiety in Washington over China's rapid rise in the open source AI ecosystem, as well as a tendency to turn cutting edge technology into a geopolitical battleground.
+For a long time, the US' AI industry has been dominated by closed‑source models, with a handful of Silicon Valley giants controlling the closed-source ecosystem. In recent years, however, China's open‑source AI sector has achieved breakthroughs. Domestic open‑source models - powered by solid technological iteration, a thriving community ecosystem, high cost‑effectiveness, and flexible localized deployment - have continually reshaped global perceptions of the industry, shattering the entrenched belief that "closed‑source AI is the future." This is precisely the core reason why some in the US are now rushing to adjust their AI development strategies and enter the open‑source arena, a shift forced by market realities.
+The global AI landscape is witnessing a booming open-source trend, with profound strategic shifts seen in America's tech industry. In a letter posted on X in July and signed by two dozen companies and groups including Microsoft, Meta Platforms, and IBM, Nvidia CEO Jensen Huang said that lawmakers should avoid "premature restrictions on open models that stifle competition or drive innovation overseas." The letter sparked widespread debates across business and policy circles.
+Market data further illustrates the trend. Open-weight models accounted for 54 percent of token volume on Vercel's AI Gateway on August 25, surpassing the 46 percent consumed by proprietary models; on August 22, open models reached a record share of 62 percent on the platform, reported the Xinhua News Agency. This surge was primarily driven by several Chinese open‑weight models, reflecting developers' dual pursuit of cost‑effectiveness and technological openness.
+Regrettably, however, the US approach to embracing open-source AI is disappointing as it is still burdened by a mindset of geopolitical competition. The new Open-Source AI Leadership Act adopts blatant double standards: While it promotes the adoption and use of qualified open models in interstate and foreign commerce, the act tries to hype the risks of foreign counterparts by mandating regular public announcements regarding any risk related to the adoption and use of foreign adversary models.
+Moreover, Representative Gabe Evans, the sponsor of the act, claimed that "The legislation also takes aim at the growing national security and economic risks posed by AI models developed by foreign adversaries," according to a press release posted on his website.
+This contradictory approach of embracing open-source AI while fragmenting global ecosystems fully reveals Washington's true intention of politicizing open-source AI.
+The essence of open source lies in sharing, collaboration, and co-creation, with decentralization, barrier‑free access, and inclusiveness as its core characteristics. Yet, the US is trying to weaponize open‑source development for geopolitical gain, build an exclusive American-led open-source bloc, and replace market-driven technological competition with political intervention. While seemingly aimed at establishing its global leadership in open-source AI, these moves will do little more than shatter the collaborative foundation of global AI progress.
+By comparison, China has long pursued an open, inclusive, and win‑win approach to AI. Its open‑source strategy rests on technological innovation, community building, market‑oriented iteration, and collaborative global governance while firmly opposing technology blockades, geopolitical divisions, and camp‑based confrontation. 
+China's position on open‑source AI is both consistent and clear. It welcomes all countries and companies worldwide to engage in open-source collaboration and share the inclusive dividends of AI technological progress, with the belief that healthy competition in the global open-source AI industry should be rooted in technological innovation and ecosystem building, rather than political manipulation and administrative barriers.
+If the US is serious about building a globally influential open-source AI ecosystem, its energy would be better spent on collaboration than on slapping risk labels on other countries' models. The only way forward is to drop the geopolitical obsession and return to the collaborative track that the global developers depend on.

@@ -1,0 +1,28 @@
+TITLE:
+China's first AI-assisted innovative drug approved for marketing: media
+
+PUBLISHED:
+2026-09-03 00:14:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369691.shtml
+
+ARTICLE TEXT:
+Photo: Screenshot from the WeChat account of Westlake University
+China’s first AI-assisted “Class 1” innovative drug has recently received market approval from China’s National Medical Products Administration (NMPA), taking just three and a half years from initial discovery of the drug candidate to the completion of its clinical trials, Westlake University announced on Wednesday. 
+The drug Mprosevir jointly developed by Westlake University, Westlake Laboratory and Westlake Pharmaceuticals and received conditional approval for marketing from the NMPA is used to treat mild to moderate COVID-19 infections in adults. 
+The “Class 1” medication, which, according to Xinhua News Agency, refers to innovative drugs that have not previously been marketed in China or abroad, is the highest category in China’s drug registration classification system. It represents original innovation from the ground up, with the core requirements being a completely new chemical structure, a novel mechanism of action, and clear clinical value.
+The drug has drawn attention in the industry as it is the world’s first small-molecule innovative drug successfully approved based on DNA-encoded library (DEL) technology. The milestone marks a historic breakthrough, coming 34 years after the concept of DEL technology was first proposed, Tide News reported on Wednesday. 
+The scientists designed a dual-screening strategy combining AI and DEL technology from the outset. AI was used for virtual screening to eliminate various “false positives” and identify the candidates with genuine potential to become drugs. The DEL library selected to search for Mprosevir contained as many as 49 billion compounds. DEL technology initially screened out more than 100 “promising candidates,” which were then examined one by one.
+Traditionally, testing the more than 100 molecules individually would have required substantial manpower and resources. However, an AI model narrowed the candidates to just nine in a matter of days. 
+Activity testing of the nine molecules showed that six of them demonstrated superior activity, indicating a very high predicted hit rate. 
+After a series of toxicity, metabolism and other drug-development assessments, the team ultimately selected the WLU6937 molecule as the lead candidate.
+According to the R&D team, Mprosevir has demonstrated that genuine AI-assisted drug development is currently both efficient and feasible. 
+Over the following two years, the team carried out a comprehensive drug optimization process centered on the molecule, including enhancing its activity, improving its drug-like properties, reducing toxicity, and advancing it from in vitro cell experiments and mouse studies through clinical trials. AI also played a key role throughout this stage. 
+Global Times
