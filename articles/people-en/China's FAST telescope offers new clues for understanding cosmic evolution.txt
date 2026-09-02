@@ -1,0 +1,29 @@
+TITLE:
+China's FAST telescope offers new clues for understanding cosmic evolution
+
+PUBLISHED:
+2026-09-02
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0902/c90000-20494948.html
+
+ARTICLE TEXT:
+China's FAST telescope offers new clues for understanding cosmic evolution
+This aerial panoramic photo taken on July 26, 2023 shows China's Five-hundred-meter Aperture Spherical Radio Telescope (FAST) in southwest China's Guizhou Province. (Xinhua/Ou Dongqu)
+BEIJING, Sept. 1 (Xinhua) -- Scientists have long grappled with a perplexing question: in the early universe, new stars appeared with dazzling frequency, yet today, star formation has clearly slowed. Now, a new study led by Chinese scientists is offering fresh and crucial clues to help unravel this cosmic mystery.
+An international team -- including the National Astronomical Observatories of the Chinese Academy of Sciences (NAOC), the Shanghai Astronomical Observatory (SHAO) of the Chinese Academy of Sciences, Shanghai Jiao Tong University, and other institutions -- has made significant progress on this front. Using China's Five-hundred-meter Aperture Spherical radio Telescope (FAST) together with the Dark Energy Spectroscopic Instrument (DESI), a global project involving more than 70 institutions, the researchers conducted high-precision measurements of neutral hydrogen evolution in the universe over the past 4.5 billion years. Their work is shedding new light on this long-standing puzzle.
+"Why is it becoming increasingly difficult for the universe to form new stars? This is a core question in the field of galaxy formation and evolution," said Jiang Peng, a researcher at NAOC. A widely held and intuitive explanation is that as the universe evolves, the cold gas that nurtures stars is gradually consumed, eventually leading to the decline in star formation. If this scenario holds, then the drop in the star formation rate should inevitably be accompanied by a commensurate depletion of cold gas reservoirs.
+Neutral atomic hydrogen is one of the most important cold gas reservoirs in galaxies and serves as a critical link between large-scale gas cycling and internal star formation. However, neutral hydrogen is primarily detected through its extremely faint 21-centimeter spectral line. And for distant galaxies, individual signals are often buried in background noises, resulting in a persistent lack of reliable, direct observational evidence, said Guo Hong, a researcher at SHAO.
+By combining FAST's ultra-sensitive radio observations with DESI's extensive spectroscopic sky survey, the study analyzed about 2.5 million galaxies across roughly one-third of the sky. This approach allowed researchers to trace the evolutionary history of cosmic neutral hydrogen with unprecedented statistical precision and sample size.
+The precise measurements reveal that 4.5 billion years ago, the cosmic star formation rate was about 2.5 times that of today, while the density of neutral atomic hydrogen at that time was only about 1.4 times its current value.
+In other words, even as star-forming activity plummeted, the universe's neutral hydrogen reserves did not dry up in tandem. This finding directly rules out the simplistic scenario that "a rapid exhaustion of neutral hydrogen caused the decline in star formation," Jiang said.
+So if neutral hydrogen reserves are still abundant, what is making star formation increasingly difficult?
+The researchers suggest that stars are mainly born within denser molecular gas clouds. As the overall cosmic gas density drops, the efficiency of converting neutral hydrogen into molecular hydrogen decreases accordingly, causing the molecular gas that can directly incubate stars to gradually diminish.
+The findings were published Tuesday in the international journal Nature Astronomy.
+Copyright © 2026 People's Daily Online. All Rights Reserved.

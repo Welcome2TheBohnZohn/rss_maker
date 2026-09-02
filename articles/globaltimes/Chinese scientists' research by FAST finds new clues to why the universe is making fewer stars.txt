@@ -1,0 +1,26 @@
+TITLE:
+Chinese scientists' research by FAST finds new clues to why the universe is making fewer stars
+
+PUBLISHED:
+2026-09-02 13:02:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369623.shtml
+
+ARTICLE TEXT:
+China's Five-hundred-meter Aperture Spherical Telescope (FAST) Photo: VCG
+Chinese scientists using the Five-hundred-meter Aperture Spherical Telescope (FAST) and the Dark Energy Spectroscopic Instrument (DESI) have found that while star formation has declined sharply over the past 4.5 billion years, the universe’s neutral atomic hydrogen reservoir has remained relatively stable, offering new clues to why galaxies are becoming less efficient at forming stars.
+Why the universe is forming fewer new stars is a major question in the study of galaxies. One possible explanation is that galaxies have gradually used up the cold gas needed to make stars. If that were the case, the amount of cold gas should have fallen along with the star formation rate.
+Neutral atomic hydrogen is one of the most important sources of this gas. However, it is difficult to observe because its 21-centimeter radio signal is extremely weak, especially from distant galaxies. Previous studies were limited by either small survey areas or insufficient sensitivity.
+To overcome this problem, Chinese researchers combined the sensitive radio observations of FAST with the large-scale galaxy survey conducted by DESI and studied about 2.5 million galaxies covering roughly one-third of the sky. By aligning and combining the weak signals from many galaxies according to their redshifts, the researchers were able to detect the average neutral hydrogen signal that could not be seen in individual galaxies.
+The results showed that about 4.5 billion years ago, the rate of star formation in the universe was about 2.5 times higher than it is today. However, the density of neutral hydrogen was only about 1.4 times higher than today.
+This means that star formation has declined much faster than the supply of neutral hydrogen. The finding suggests that the universe is not simply running out of the gas needed to make stars.
+Instead, the study raises a deeper question to whether galaxies still have large amounts of neutral hydrogen and why are they becoming less efficient at turning that gas into new stars. The finding has provided an important new clue to understanding the gradual decline of star formation and the evolution of galaxies across the universe.
+The research was carried out by an international team including the National Astronomical Observatories of the Chinese Academy of Sciences (NAOC), the Shanghai Astronomical Observatory (SHAO) of the Chinese Academy of Sciences, Shanghai Jiao Tong University, and other institutions.
+Global Times
