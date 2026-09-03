@@ -1,0 +1,29 @@
+TITLE:
+GT Voice: Boom in hard‑tech IPOs testifies to China's chip innovation drive
+
+PUBLISHED:
+2026-09-03 23:47:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369778.shtml
+
+ARTICLE TEXT:
+Unitree Robotics' application for an IPO on the STAR Market is accepted by the Shanghai Stock Exchange on March 20, 2026. Photo: VCG
+Chinese artificial intelligence (AI) chipmaker Shanghai Enflame Technology Co Ltd on Wednesday kicked off online and offline subscriptions for its IPO on Shanghai's tech-heavy Star Market, with the online tranche oversubscribed by about 6,109 times, according to a filing with the exchange. The high demand amounted to an initial allotment rate for the online offering of about 0.016 percent.
+It's another high-profile hard-tech enterprise seeking a public listing following the IPOs of Chinese memory chipmaker CXMT and Chinese robotics company Unitree Robotics. Market expectations are running high for Enflame, often dubbed one of the "four little Graphics Processing Unit (GPU) dragons" in China's AI chip sector. The other three - Moore Threads, MetaX, and Biren Technology - all went public last year to stellar first-day gains, setting a bullish tone for Enflame's debut.
+The strong response in the capital market reflects growing confidence in the prospects of Chinese AI chipmakers. As Enflame Technology noted in its prospectus, Nvidia's future sales in the domestic market are subject to notable uncertainties, and the trend toward an increasing share of shipments by local AI chip companies will continue.
+Beyond the subscription frenzy, however, the company's financials offer a more nuanced picture. Enflame Technology's sales have been expanding at an impressive pace: its total revenue climbed from 301 million yuan ($44.8 million) in 2023 to 990 million yuan in 2025, according to its prospectus. The company estimated a substantial year‑on‑year increase in operating revenue in the first half of 2026, which it said likely reached the level achieved for the entire year of 2025.
+Enflame also said in its prospectus that the funds raised in this offering would be used for the research and development (R&D) and industrialization of the fifth‑ and sixth‑generation AI chip product lines, along with the cutting‑edge AI hardware‑software synergy innovation program. 
+These investments will support the ongoing evolution of the company's flagship products, reinforce its supply chain resilience, and lay the foundation for the realization of the company's business strategic goals. From 2023 through 2025, the company invested 3.676 billion yuan in R&D, representing 182.55 percent of its aggregate operating revenue over that period. 
+Enflame's upcoming listing on the STAR Market is not merely a critical milestone in the company's development, but also a vivid microcosm of China's high-end semiconductor industry pushing against external pressure and accelerating its breakthroughs. This is not about the short term gains from a few IPOs; rather, it signals that hard tech has become a top priority for the capital market. 
+In the face of overseas technology blockades, China's semiconductor sector has not stalled. On the contrary, external headwinds have strengthened the nation's resolve for domestic innovation, driving a path toward self reliance and indigenous alternatives.
+The question that frequently captures international attention is this: how far has China's chip industry actually advanced? The wave of high-profile hard-tech IPOs on domestic exchanges offers a compelling signal - not because an IPO in itself proves commercial maturity, but because it indicates that years of R&D have reached a stage where products are being deployed and subjected to real-world market validation. This is particularly significant when multiple firms across the same sector reach this threshold in quick succession, suggesting a critical mass of technological readiness rather than isolated cases.
+The STAR Market's framework - which allows pre-profit companies with long R&D cycles to go public - has opened a channel for patient capital to flow into high-tech sectors. This provides a vital financial base that, if effectively deployed, can accelerate iteration and shorten catch-up timelines. When capital markets assign high premiums to local hard-tech enterprises genuinely committed to foundational innovation, this positive financial feedback can, in turn, fuel sustained R&D efforts across the supply chain.
+Some of the market's enthusiasm stems from not just high hopes for domestic AI chip substitution, but also short‑term market sentiment, which may have led to valuation premiums. Challenges persist - from technology upgrades and ecosystem building to client expansion, and the journey ahead is far from smooth. Yet, the industry's direction is clear, and China's strategic pivot toward technological breakthroughs and innovation‑led development remains steadfast.
+Global Times
