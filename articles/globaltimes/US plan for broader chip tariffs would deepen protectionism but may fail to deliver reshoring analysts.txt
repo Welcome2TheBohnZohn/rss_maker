@@ -1,0 +1,34 @@
+TITLE:
+US plan for broader chip tariffs would deepen protectionism but may fail to deliver reshoring: analysts
+
+PUBLISHED:
+2026-09-03 17:37:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369746.shtml
+
+ARTICLE TEXT:
+A view of the construction site for South Korean memory-chip maker SK Hynix's new semiconductor facility in West Lafayette, Indiana, US, on August 28, 2026. Photo: VCG
+The Trump administration is reportedly weighing a fresh round of semiconductor tariffs that could offer relief to companies investing in US manufacturing while potentially subjecting overseas production to higher duties, as Washington steps up efforts to use trade policy to draw more chip investment and production into the US.
+Chinese analysts slapped the move as a further escalation of industrial protectionism, warning that tariffs alone are unlikely to reshape a highly globalized semiconductor industry and could instead distort investment decisions and raise costs across the supply chain.
+US Commerce Secretary Howard Lutnick said in an interview with CNBC's Squawk Box on Wednesday that the Trump administration was working on a "targeted" and "thoughtful" semiconductor tariff policy. He said companies manufacturing in the US could receive tariff relief, while those producing elsewhere should expect to pay to enter the US market.
+Lutnick cast tariff relief for domestic manufacturing as a way to encourage US investment and offset some of the added tariff costs, Bloomberg reported on the same day. 
+That approach reflects Washington's attempt to use access to the US market as leverage to influence where semiconductor companies invest and manufacture, Xiang Ligang, director-general of the Zhongguancun Modern Information Consumer Application Industry Technology Alliance, told the Global Times on Thursday, calling the approach "essentially industrial protectionism."
+The policy builds on measures introduced earlier this year.
+Washington in January imposed a 25 percent tariff under Section 232 on a limited category of advanced computing chips and certain derivative products, while exempting imports that support the buildout of the US technology supply chain. A White House fact sheet also said that the US administration could later impose broader tariffs on semiconductors and derivative products, alongside a tariff-offset program aimed at incentivizing domestic manufacturing.
+Politico, cited source, reported last week that the administration was considering extending future tariffs beyond chips themselves to products containing semiconductors, potentially including laptops, gaming consoles and data-center servers. The proposal was still under discussion and subject to change.
+Xiang cautioned that there is a clear gap between Washington's policy ambition and the realities of semiconductor manufacturing. Chip production cannot simply be shifted through tariffs, he said, citing higher construction and operating costs in the US, shortages of skilled workers and engineers, and weaker supporting industrial ecosystems compared with established Asian manufacturing hubs.
+Higher tariffs may still be insufficient to offset the long-term costs of relocating capacity to the US. "What ultimately determines where companies manufacture is efficiency, cost, talent and the surrounding industrial ecosystem - not tariffs alone," Xiang added.
+Washington has already used subsidies and incentives to lure major Asian chipmakers such as TSMC, Samsung Electronics and SK Hynix, but the buildout continues to face practical constraints.
+TSMC has sharply expanded its Arizona investment, but its chief financial officer said in July that the company still faces "physical constraints," including shortages of construction workers and limited infrastructure, Reuters reported.  
+Labor shortages are emerging as a broader constraint on the US chip buildout. A recent industry analysis projected that the US could face a shortfall of about 127,000 to 157,000 semiconductor and microelectronics workers by 2030. Bloomberg reported that such a gap could delay billions of dollars in new fab construction and constrain future chip output.
+Critics cited by Bloomberg on Wednesday warned that extending semiconductor duties to servers and other chip-containing equipment could make US data centers more expensive to build.
+Xiang said that in such a highly interconnected industry, higher barriers could quickly ripple through to downstream technology companies and AI infrastructure developers, raising costs across the sector and putting further strain on global chip supply chains. "Forced relocation could deepen fragmentation and ultimately push added costs back onto US companies and consumers," he warned.
+For China, the expert said the direct impact on chipmakers would likely be limited, as US pressure on China's advanced semiconductor sector has so far relied mainly on export controls rather than tariffs. Broader duties on servers, laptops and other electronics could extend the impact to downstream manufacturing exports, but China's diversified markets and deep supply-chain base would provide room to absorb and adjust to the pressure, Xiang added.
+Responding in January to a US-Taiwan trade arrangement involving lower tariffs and major new investment commitments, a spokesperson for the Taiwan Affairs Office of the State Council said the talks were "in essence the US using tariffs to exert maximum pressure" in an attempt to hollow out Taiwan's competitive industries. The spokesperson warned that the DPP authorities' tolerance of such moves would "only completely jeopardize the island's development prospects."
