@@ -1,0 +1,36 @@
+TITLE:
+How AI, energy empower each other across China
+
+PUBLISHED:
+2026-09-04
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0904/c90000-20496265.html
+
+ARTICLE TEXT:
+How AI, energy empower each other across China
+BEIJING, Sept. 4 (Xinhua) -- "Urgent orders tomorrow afternoon. Prioritize the production load and charge the batteries when power is cheap in the morning." This is the instruction a plant manager fed into an energy management system, with no coding or rule-setting required, and within seconds a complete scheduling strategy was generated.
+The system behind this technology is known as WHES OS, an artificial intelligence (AI)-native energy operating system developed by Weheng Intelligent Technology Co., Ltd. It integrates an AI agent with "intent understanding," transforming energy storage from a rule-bound tool into an autonomous decision-maker that responds to natural language.
+This example offers a glimpse of a broader shift now underway across China's energy sector, where AI agents are rapidly being deployed in fields ranging from research and development (R&D) to operations and maintenance, safety monitoring and electricity market trading.
+Lyu Zhe, vice president of Beijing HyperStrong Technology Co., Ltd., a leading Chinese energy storage company, said AI is reshaping R&D by turning trial-and-error into predictive modeling and cutting development cycles from years to months, while on the operations side it boosts revenue by reducing unplanned outages and extending operating hours.
+In the case of safety monitoring, conventional threshold alarms often lag behind emerging problems, whereas AI uses deep learning to spot hidden risks before thermal runaway. The TENER Smart Storage platform developed by Contemporary Amperex Technology Co., Ltd. can issue fault warnings up to seven days in advance and pinpoint fault causes within five minutes.
+In electricity trading, AI optimizes charging and discharging strategies by forecasting prices based on variables including renewable energy output, weather, grid congestion and market quotes. Notably, at Envision Group's smart storage station in Binzhou, east China's Shandong Province, an AI trading agent has achieved 95 percent accuracy in predicting peak-valley price spreads.
+These applications point to a wider intelligent shift taking shape in China's energy landscape, underpinned by a policy push for greater coordination between computing and electricity. This endeavor has gained momentum in 2026, with multiple official signals released this year.
+This year's government work report called for launching new infrastructure projects on hyper-scale intelligent computing clusters and coordinated development of computing capacity and electricity supply -- the first time such a provision has appeared in the document. The outline of the 15th Five-Year Plan, meanwhile, calls for promoting the coordinated deployment of green electricity and computing power.
+A plan for developing a new energy system during the 15th Five-Year Plan period further calls for ensuring high-quality electricity supply for sectors including big data and AI.
+AI is a strategic technology driving a new round of scientific and technological revolution and industrial transformation, but the computing centers behind it guzzle electricity in staggering amounts, with volatile loads and sudden demand spikes.
+In 2025, China's data centers consumed 170 billion kWh of electricity, or 1.6 percent of the nation's total power use, according to the National Energy Administration (NEA). A China Galaxy Securities report projects that this figure will exceed 700 billion kWh by 2030, breaching the 5-percent mark.
+Such soaring demand is matched by a robust supply side. China is home to the world's largest and fastest-growing renewable energy system. The NEA announced on Tuesday that installed photovoltaic capacity had surpassed coal-fired power capacity for the first time, making solar the country's largest power source by installed capacity.
+"Only by combining the innovative strengths of China's domestically developed large AI models with the country's robust power supply capacity, particularly its abundant clean energy, can China turn its advantages in energy and electricity into competitive strengths in the AI industry," said Ding Zhaohao, a professor at North China Electric Power University.
+In May, four Chinese authorities unveiled an action plan, envisioning that by 2030, the clean energy supply capacity for AI computing power infrastructure will be significantly increased, while the application of AI in the energy sector will also be considerably improved.
+The plan calls for coordinating the development of large renewable energy bases with national computing hubs, directing more computing facilities to energy-rich regions where they can tap into abundant local renewable power.
+In Ulanqab, north China's Inner Mongolia Autonomous Region, a pilot project is paving the way. The country's first data center project that integrates renewable generation, storage and computing load went into operation in July 2025. It runs on self-generated wind and solar power, with the surplus stored in batteries and the grid reserved as a backup option.
+The early results are encouraging, yet the road to deeper integration is not without challenges, including a shortage of industry-specific large AI models, a limited supply of high-quality industry data, and inadequate mechanisms for cross-enterprise and cross-industry data sharing.
+Yuan Jun, vice president of the National Data Development Research Institute, said coordinated efforts should be made in policy mechanisms, development planning, market systems and technical standards.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
