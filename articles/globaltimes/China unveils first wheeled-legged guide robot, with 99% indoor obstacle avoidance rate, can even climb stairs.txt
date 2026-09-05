@@ -1,0 +1,26 @@
+TITLE:
+China unveils first wheeled-legged guide robot, with 99% indoor obstacle avoidance rate, can even climb stairs
+
+PUBLISHED:
+2026-09-05 17:21:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369876.shtml
+
+ARTICLE TEXT:
+Xiaoyuan, the country’s first wheeled-legged guide robot. Photo: Courtesy of Yuanshan Zhixing Technology
+China’s Yuanshan Zhixing Technology has unveiled Xiaoyuan, the country’s first wheeled-legged guide robot, which can glide on flat ground and climb stairs, offering a new mobility solution for people with visual impairments, GT learned from the company.
+The robot features a hybrid wheeled-legged design. It can move on wheels across flat surfaces and switch to legged mode to climb stairs, allowing it to navigate both up and down steps. It also operates with low noise to avoid interfering with users’ ability to identify their surroundings through sound, the company told the Global Times on Saturday.
+Xiaoyuan can detect overhead obstacles such as low-hanging branches and scaffolding, which can be difficult for conventional white canes to detect. It can identify such hazards in advance and automatically slow down or detour around them, the company said.
+The robot has an indoor obstacle-avoidance success rate of at least 99 percent and an outdoor success rate of at least 96 percent, while its outdoor positioning error is controlled within 30 centimeters, according to the report.
+Its functions include route navigation, voice interaction, as well as companionship and reminders. In emergencies, users can also initiate an alert and request assistance from volunteers remotely.
+Designed to resemble a guide dog, Xiaoyuan is intended to match users’ normal walking habits in terms of its walking rhythm and leash-based control.
+China has more than 17 million people with visual impairments, while only about 400 guide dogs are currently available, according to the report. Training a guide dog is a lengthy process, making it difficult for many visually impaired people to obtain one. Robotic guide devices such as Xiaoyuan could help fill the gap, according to the company.
+The product has already begun cooperation with disabled persons’ federations in several regions. Hangzhou’s Xihu district in East China’s Zhejiang Province launched a pilot program, opening up city roads, commercial areas and parks for field testing of the robotic dog, with experiments also being conducted in subway stations and shopping malls, said the company.
+The system is connected to disabled persons’ federation service platforms, accessible maps and a remote volunteer assistance portal.
