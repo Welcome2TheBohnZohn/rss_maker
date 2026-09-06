@@ -1,0 +1,30 @@
+TITLE:
+GT Voice: Global chip market is large enough for CXMT to expand
+
+PUBLISHED:
+2026-09-06 20:02:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369930.shtml
+
+ARTICLE TEXT:
+CXMT File photo: VCG
+The Bank of Korea said in a recent report that South Korea's lead over China in memory chip production is expected to widen thanks to an aggressive capacity expansion by Samsung Electronics and SK Hynix, Bloomberg reported on Friday. 
+New chip plants due to come online by 2028 will boost the country's output capacity by about 600,000 wafers per month, the central bank said. It also said that China's leading memory producer CXMT is likely to boost its production capacity to as high as 600,000 wafers per month, but its actual output is likely to "fall short of its nominal capacity".
+The report itself is both a signal and also a microcosm of the global semiconductor sector's growing attention to China's rapid advances in chipmaking. For CXMT, China's top memory producer, its years of technological breakthroughs and capacity expansion have moved far beyond domestic relevance to become a force affecting the global memory chip landscape, and the global attention it draws is itself a clear testament to its influence.
+Any credible assessment of its long‑term growth trajectory - along with its implications for the market - would require far more data. Narrowing the lens to the competitive relationship misses the larger picture. The fundamental driver of the global memory chip market is not about who challenges whom, but about the ever‑growing need for diversified supply. 
+As a key component of many consumer electronics devices including smartphones and laptops, memory chips have also become a critical part of artificial intelligence (AI) data centers and the servers that are installed in these facilities. In June, Apple hiked the prices of some laptops and tablets by almost 20 percent, saying that the electronics industry was facing an "unprecedented challenge" due to an "extraordinary surge" in demand for chips to power AI data centers. Also, Xbox raised the price of its popular gaming console for the second time in less than a year.
+Industry estimates forecast that global personal computer dynamic random-access memory (DRAM) supply will likely fall by about 15 percent by 2027, equivalent to about 58 million PCs, while the smartphone market could face a 12-percent shortfall, equivalent to about 134 million units. 
+Against this backdrop, CXMT's steady progress in capacity expansion and technology iteration is not primarily about challenging anyone for market share. Its unique value lies in offering an important alternative supply channel for a world that has a growing appetite for memory chips. For the developing countries in the world, diversified memory chip supply means more resilient supplies and better control of procurement costs.
+Some observers tend to frame CXMT's growth as a zero-sum contest between China and South Korea. That perspective overlooks the global market's rapid expansion. According to World Semiconductor Trade Statistics, global memory chip revenue is projected to surge 250 percent to $804 billion this year and could exceed $1 trillion in 2027. Meanwhile, memory's share of the overall semiconductor market is forecast to grow from 20 percent in 2023 to 55 percent in 2027. 
+Given the sheer scale of the global digital economy, there is no need to view market share through a winner-takes-all lens. This is not a rivalry where one player's gain comes at another's expense. The massive and still growing market is large enough to accommodate players such as Samsung Electronics, SK Hynix, CXMT and other producers.
+The path CXMT has walked mirrors that of numerous Chinese semiconductor enterprises advancing amid external technological restrictions. Step by step, Chinese enterprises have tackled tough challenges including equipment adaptation, yield optimization, and technological iteration. Their advancement is not a disruption to the existing industrial order but an important complement to it. 
+In July alone, China's industrial enterprises above the designated size produced 53 billion integrated circuit units, roughly 1.7 billion per day. In the first seven months of this year, memory chips accounted for 70.1 percent of China's semiconductor exports by value, surging 221.7 percent year-on-year, according to the Xinhua News Agency.
+The significance of China's chip industry growth may lie not in overtaking specific competitors, but in providing essential resilience to the global memory market. In an era of rising geopolitical tensions, where supply chain security has become a major concern, the steady advancement of China's semiconductor sector will ultimately benefit both the global supply chain and tens of millions of ordinary consumers. 
+Global Times
