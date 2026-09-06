@@ -1,0 +1,49 @@
+TITLE:
+Chinese firms redefine smart home tech at IFA 2026
+
+PUBLISHED:
+2026-09-06 18:25:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369924.shtml
+
+ARTICLE TEXT:
+Logos of several Chinese brands are seen outside the north entrance of Messe Berlin in Berlin, Germany, on September 5, 2026. Photo: Qing Mu/GT 
+A splash of ketchup on the floor became an impromptu challenge for a Chinese robot vacuum at IFA 2026 in Berlin, Germany.
+A visitor poured the sauce onto the exhibition floor, apparently eager to see whether the floor-cleaning robot from the Chinese company Ecovacs could handle a mess far removed from a carefully staged demonstration. The robot quickly detected the spill, rolled over the red stain and wiped it clean, prompting many nearby visitors to pull out their phones to capture the moment and praise its performance.
+Such encounters could be seen across the sprawling Messe Berlin, where robots climbed stairs, mowed lawns and cleaned windows, while humanoid machines demonstrated how they could one day sort laundry or help around the home. The scenes offered a vivid glimpse of how Chinese companies are transforming technologies once associated with the future into products designed for everyday life.
+IFA 2026, the world's largest event for consumer electronics, home appliances and future technology, is being held in Berlin from Friday to Tuesday. At the event, Chinese smart home robotics companies are using technology to reshape consumers' perceptions of what home appliances can do.
+The Chinese presence is hard to miss even before entering the venue. Approaching the north entrance of Messe Berlin, the Global Times reporter was greeted by giant advertisements from Haier, Midea, Xiaomi and Dreame. Inside, Chinese companies cluster across multiple halls, while brands including TCL, Haier and Xiaomi command large exhibition spaces of their own.
+This year, 928 companies from the Chinese mainland are exhibiting at IFA, along with 84 exhibitors from Hong Kong, German broadcaster rbb24 reported on Friday. Notably, Germany has 201 exhibitors, while Japan — which the report said "once defined the consumer electronics industry" — has only five exhibitors this year.
+Machines become smart helpers
+"Future is here" is a fitting description of what is unfolding at the show. For many Chinese exhibitors, the future they are presenting is no longer a distant concept. It is being realized through refrigerators, cleaning robots, cars and intelligent machines that can be brought into homes, factories and other real-world settings.
+What is future? At many Chinese companies' booths, "refusing owners' help" has become the answer.
+For example, the DEEBOT X12S, which just passed the visitor's sauce test, uses a more targeted cleaning process. For dried sauces and greasy kitchen stains, it first sprays cleaning solution to loosen the residue before its roller lifts and removes it in a single pass, significantly enhancing its ability to tackle heavy stains and effectively eliminating the need for manual touch-up cleaning.
+A similar push to free users from manual intervention was also on display at the booth of another Chinese company, Roborock.
+A representative for Roborock told the Global Times that competitiveness in robotic lawn mowers increasingly hinges on whether AI can help the machines handle an entire yard, from precise edge trimming to adapting to different terrain.
+The company displayed what it described as its most comprehensive smart-cleaning lineup to date, including a wheeled-legged robot vacuum capable of cleaning stairs, alongside robotic lawn mowers and its first pool-cleaning robot, all designed to minimize areas that still require separate manual cleaning.
+Dreame is also working to enable robots to directly tackle traditional cleaning blind spots that would otherwise require humans to step in and mop by hand.
+Its T16 Pro Steam floor washer packs 200 C high-volume steam, 90 C hot-water cleaning and 30,000 Pa suction into a 9.85-centimeter-thin body. It is designed to tackle grease and stubborn stains, disinfect floors and reach under furniture and other hard-to-clean areas, while also using steam and hot water to self-clean after use and reduce residual bacteria.
+These technologies are freeing consumers from more household chores — and prompting them to cast a valuable vote of confidence in Chinese companies with their wallets.
+A Forbes China report released alongside the exhibition said that Chinese companies swept the top five spots by global market share in the latest fiscal year. Citing industry data, the report noted that leading Chinese brands also maintained a strong edge in emerging segments. In window-cleaning robots, for example, five Chinese companies — Ecovacs, Hobot, Dreame, Roborock and Xiaomi — together accounted for more than 70 percent of the global market.
+The significance of this change, experts said, lies in the transformation of China's consumer electronics industry from supplying individual hardware products to offering integrated technological solutions, Chen Jing, vice president of the Technology and Strategy Research Institute, told the Global Times on Sunday. As European consumers place greater emphasis on energy efficiency, convenience and products tailored to different living environments, Chinese companies' extensive manufacturing base and rapid product iteration allow them to respond swiftly to those needs, Chen said.
+Chinese industry is shifting at IFA from the world's factory to a defining force in the smart ecosystem, Chen noted.
+AI brains power future appliances
+Another change is less visible but potentially more profound: Intelligence is shifting from screen-based control to machines that can perceive, decide and act on their own.
+At the exhibition booth of leading Chinese home appliance brand Haier, a refrigerator can recognize the type and quantity of food inside and automatically determine an appropriate preservation solution. Alongside conventional appliances, the company also displayed humanoid robots, cleaning robots, companion robots and an AI-powered exoskeleton, the Global Times learned.
+Meanwhile, Chinese smart home robotics company Narwal showcased its NarMind™ intelligent scene-perception system at the exhibition. Equipped with two high-definition cameras and an automotive-grade computing chip, the system enables robot vacuums to move beyond simply recognizing objects to understanding their surroundings, Bin Ye, global brand director of Shenzhen-based cleaning robot maker Narwal, told the Global Times on Sunday. 
+For instance, the robot can identify and avoid pet-related messes, adjust its operation to reduce noise in areas used by infants and young children, and autonomously choose the most suitable cleaning strategy for different types of stains, Bin said.  
+In other words, the exhibit is no longer just about making an appliance "smart." AI is increasingly becoming a tailor-made brain that allows a physical machine to perceive its surroundings, make decisions and act, industry observers noted.
+Chinese embodied-intelligence company MagicLab Robotics presented an integrated system combining robotic hardware, a physical AI "brain" and real-world deployment. Targeting the European enterprise market, the company is focusing on flexible material handling and logistics sorting — an example of physical AI moving from demonstrations toward actual industrial work.
+"After visiting the halls of major Chinese brands and then walking into exhibition areas dominated by companies from other countries, it felt almost like traveling through time," Jose, an entrepreneur from Spain, told the Global Times, pointing particularly to the advances in the design, quality and technological sophistication of Chinese products.
+Leif Lindne, CEO of IFA Management, also pointed to the evolution behind China's growing presence.
+Over the past few years, China has been working to make innovation more sustainable, actively responding to market trends while recognizing that design and durability also have to be taken into consideration, Lindner told media. That is why China is currently in a leading position, he said.
+The shift visible in Berlin reflects a broader change in China's technology sector, Chinese experts noted. After years of building manufacturing capacity and supply chains, Chinese companies are increasingly combining those strengths with AI, robotics and original product development, thereby shortening the distance between technological breakthroughs and practical applications, Ma Jihua, a veteran tech industry analyst told the Global Times.
+That matters beyond China's own industrial upgrading. A technology becomes more meaningful when it can move out of a laboratory, reach consumers at an affordable cost and solve real problems. China's enormous manufacturing ecosystem and increasingly sophisticated innovation capabilities are helping accelerate that process, Ma noted.
+The strong showing at IFA is just one example. Since the start of China's 15th Five-Year Plan period (2026-30), a growing number of leading advanced manufacturing companies have accelerated their expansion into overseas markets. From laboratories to real-world household applications, the responsiveness of China's supply chains can shorten innovation cycles severalfold, Chen said. This not only benefits European consumers, but also enables more developing countries to gain access to the wave of smart technologies at lower costs through technology spillovers and supply-chain cooperation, allowing them to share in the broader opportunities created by China's technological progress, according to Chen.

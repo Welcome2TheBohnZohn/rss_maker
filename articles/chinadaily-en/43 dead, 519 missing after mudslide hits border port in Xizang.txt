@@ -1,67 +1,19 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <title>China Daily English</title>
-    <link>https://www.chinadaily.com.cn/</link>
-    <description>Authoritative PRC Media feed generated from https://www.chinadaily.com.cn/</description>
-    <docs>http://www.rssboard.org/rss-specification</docs>
-    <generator>python-feedgen</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2026 13:44:43 +0000</lastBuildDate>
-    <item>
-      <title>Zheng reaches US Open last 16 with 'classic comeback'</title>
-      <link>https://www.chinadaily.com.cn/a/202609/06/WS6a9cae0fe4b06d4aa055c8ef.html</link>
-      <description>Published: 2026-09-06
+TITLE:
+43 dead, 519 missing after mudslide hits border port in Xizang
 
-Zheng Qinwen reaches US Open last 16 with 'classic comeback'
-NEW YORK -- China's Zheng Qinwen bounced back from 5-0 down in the decider to overcome home player Madison Keys and reach the US Open women's singles last 16 on Saturday.
-After losing the first set 6-1 with four double faults, Zheng gradually found rhythm to improve stability on serves. The two players were well-matched in the second set until the reigning Olympic champion won 7-6 (3) in the tie-breaker.
-22nd-seeded Keys then felt at ease in the third set to take a 5-0 lead, but Zheng showed resilience to win seven straight games to claim a 7-5 victory.
-In her sixth appearance in the Grand Slam last 16, Zheng will play against eighth seed Iga Swiatek of Poland.
-"It is a very classic comeback," Zheng said. "I kept holding every single point. Somehow, little by little, it just happened. I turned [around] 0-5. This is the first time [it] happened in my career."
-"It was a very tough game. At that moment, I showed no emotion. I just kept fighting. Against Maddie, you can't be too passive. I think I find the right balance at the end of the game. What I can say? Wow," the 23-year-old added.
-"I obviously got off to a really good lead, and then I just got really scared, like I couldn't swing. At the end, I felt like I couldn't play tennis anymore, and it felt like it was a much bigger deal than just playing a tennis match, all of a sudden," Keys said.
-Also on Saturday, China's Shang Juncheng and Kazakhstan's Alexander Bublik beat Fabian Marozsan of Hungary and Argentina's Sebastian Baez 6-2, 6-4 in the men's doubles first round.
-Chinese players struggled in the women's doubles second round, as Wang Xiyu and Xu Yifan lost to the top-seeded pair Katerina Siniakova of the Czech Republic and Taylor Townsend of the United States 6-3, 6-4. American pair Robin Montgomery and Ashlyn Krueger saw off China's Wang Xinyu and Japan's Moyuka Uchijima 6-2, 4-6, 6-1, while China's Tang Qianhui and Russia's Elena Pridankina lost to Australia's Ellen Perez and Demi Schuurs of the Netherlands 6-2, 6-7 (3), 6-3.</description>
-      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/06/WS6a9cae0fe4b06d4aa055c8ef.html</guid>
-    </item>
-    <item>
-      <title>China's air force to attend air show in Egypt</title>
-      <link>https://www.chinadaily.com.cn/a/202609/06/WS6a9d1866e4b06d4aa055c942.html</link>
-      <description>Published: 2026-09-06
+PUBLISHED:
+2026-09-06
 
-China's air force to attend air show in Egypt
-BEIJING -- The Chinese Air Force will dispatch multiple military aircraft to attend an international air show in Egypt from Sept 8 to 10, the Chinese People's Liberation Army announced in a statement on Sunday.
-The Chinese Air Force will send fighter jets, airborne early warning aircraft, refueling aircraft and helicopters to the air show to be held at the El Alamein International Airport, according to the statement.
-This event will be the second El Alamein International Airshow, following its first edition in 2024. Chinese military aircraft also participated in the first airshow, during which several J-10 fighter jets and a Y-20, China's domestically developed large transport aircraft, staged aerial performances.
-This year marks the 70th anniversary of the establishment of diplomatic relations between China and Egypt, which has been accompanied by a series of exchange events between the two countries. Last month, the two air forces launched a set of joint exercises under the code name "Eagles of Civilization-2026" in Egypt.</description>
-      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/06/WS6a9d1866e4b06d4aa055c942.html</guid>
-    </item>
-    <item>
-      <title>Ukraine crisis talks must be done in good faith</title>
-      <link>https://www.chinadaily.com.cn/a/202609/06/WS6a9d5a01e4b06d4aa055c984.html</link>
-      <description>Published: 2026-09-06
+SOURCE:
+China Daily English
 
-Ukraine crisis talks must be done in good faith: China Daily editorial
-The conflict between Russia and Ukraine, now in its fifth year, has only intensified over time, fueled by the continuous military support from different parties, particularly NATO. The West has also implemented multiple rounds of sanctions against Russia, aiming to force its capitulation. However, these sanctions have not achieved their intended effect. Instead, the conflict persists.
-As Slovak Prime Minister Robert Fico rightly pointed out in a video address on Facebook on Saturday, the United States and its allies "naively believed that through Ukraine — and its full political, military and financial support — they could bring hated Russia to its knees". Fico's observation echoes the reality that instead of ending the crisis, the help extended to Ukraine has prolonged it.
-The latest meeting between Russian President Vladimir Putin and US envoys Steve Witkoff and Jared Kushner, at the Kremlin on Saturday, therefore, represented a critical moment for reassessing the strategies employed by the West.
-The Kremlin announced that the talks were "substantive, constructive and extremely frank", during which Putin reaffirmed Russia's readiness to continue joint work with the US in search of political and diplomatic solutions to the crisis and once again emphasized the necessity of eliminating all root causes of the conflict.
-While any dialogue aimed at ending the conflict is to be welcomed, a genuine resolution that will pave the way to peace has to look beyond the immediate battlefield and address the deeper historical and geopolitical realities that have fueled this crisis.
-From the Russian perspective, the Ukraine crisis is a culmination of a long-standing security dilemma. Central to this is the repeated expansion of NATO, which Russia has consistently viewed as a significant threat to its security.
-Ultimately, the path to peace lies in political negotiations, not in the perpetuation of the fighting or sanctions. That both Russia and Ukraine have ordered a 72-hour temporary ceasefire during the Moscow talks shows that both are inclined to de-escalation if a path can be agreed.
-Russia and Ukraine have both displayed remarkable tenacity, but that is all the more reason to stop this grinding crisis — a conflict that the whole world is footing the bill for. The fighting cannot be allowed to continue simply because both sides refuse to yield.
-Although Ukraine's defense production capacity is rapidly growing, with US capabilities now stretched by the Middle East crisis, the US administration is increasingly inclined toward withdrawing military aid to Ukraine and pushing for negotiations. Meanwhile, European support for Ukraine faces uncertainty due to tightening budgets and internal divisions.
-In the interests of peace, the renewed US involvement in mediating the Russia-Ukraine conflict should be conducted in earnest. That means encouraging Russia and Ukraine to come to the negotiating table, addressing the root causes of this crisis, and working toward a balanced, effective and sustainable security architecture for Europe.
-China has consistently adhered to the direction of a political settlement to the Ukraine crisis and has maintained contact with relevant parties for an early end to the crisis. On Tuesday, China's deputy permanent representative to the United Nations, Sun Lei, called on the parties to the Russia-Ukraine conflict and the wider international community to step up efforts toward a ceasefire and a political settlement, warning that continued fighting is causing mounting civilian casualties and wider spillover effects.
-As Sun noted, adding fuel to the fire and exploiting the conflict to create division and confrontation would only make a political settlement more difficult.</description>
-      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/06/WS6a9d5a01e4b06d4aa055c984.html</guid>
-    </item>
-    <item>
-      <title>43 dead, 519 missing after mudslide hits border port in Xizang</title>
-      <link>https://www.chinadaily.com.cn/a/202608/30/WS6a8eee5ce4b06d4aa055a9bf.html</link>
-      <description>Published: 2026-09-06
+CATEGORY:
+Authoritative PRC Media
 
+URL:
+https://www.chinadaily.com.cn/a/202608/30/WS6a8eee5ce4b06d4aa055a9bf.html
+
+ARTICLE TEXT:
 President Xi Jinping urges all-out rescue, relief efforts after mudslide hits border port in Xizang
 Level-II emergency response activated after mudslide hits border port in Xizang
 China has established communication and information-sharing mechanisms with the affected countries as 261 foreign nationals from 23 countries remain missing following a recent mudslide at Gyirong Port on the China-Nepal border.
@@ -216,125 +168,4 @@ Search, monitoring and sanitation teams are working in shifts around the clock, 
 To support road reinforcement and deeper excavation, the Ministry of Emergency Management and the Ministry of Transport have also dispatched 40 sets of temporary roadbed panels, cranes and other equipment from a national highway emergency reserve center in Changji Hui autonomous prefecture, Xinjiang Uygur autonomous region.
 The panels help prevent excavators, cranes and dump trucks from sinking in mud and soft ground. The equipment has arrived at the rescue site.
 The ministry said rescue teams will continue adjusting deployments while maintaining intensive searches in the core area.
-Contact the writers at yangzekun@chinadaily.com.cn</description>
-      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202608/30/WS6a8eee5ce4b06d4aa055a9bf.html</guid>
-    </item>
-    <item>
-      <title>Xi on youth: Working hard is the brightest color of youth</title>
-      <link>https://www.chinadaily.com.cn/a/202609/06/WS6a9d2900e4b06d4aa055c952.html</link>
-      <description>Published: 2026-09-06
-
-Xi on youth: Working hard is the brightest color of youth
-        Share - WeChat
-        
-        
-      
-      
-      President Xi Jinping has always placed great importance on the growth of young people, calling on them to work hard and align their aspirations with those of the nation and the people.</description>
-      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/06/WS6a9d2900e4b06d4aa055c952.html</guid>
-    </item>
-    <item>
-      <title>China-Russia energy ties highlighted</title>
-      <link>https://www.chinadaily.com.cn/a/202609/05/WS6a9af254e4b06d4aa055c739.html</link>
-      <description>Published: 2026-09-05
-
-China-Russia energy ties highlighted
-Xi, Putin encourage more collaboration in congratulatory messages to forum
-President Xi Jinping has expressed China's readiness to deepen energy cooperation with Russia and make joint efforts to keep the industrial and supply chains in the energy sector stable and unimpeded.
-He made the remarks on Friday in a congratulatory letter sent to the 8th China-Russia Energy Business Forum, which was held in Vladivostok, Russia.
-In the message, Xi noted that this year marks the 30th anniversary of the establishment of the China-Russia strategic partnership of coordination and the 25th anniversary of the signing of the China-Russia Treaty of Good-Neighborliness and Friendly Cooperation.
-He said that amid a complex and evolving international landscape, the China-Russia comprehensive strategic partnership of coordination for a new era has maintained high-level development. The fruitful energy collaboration has promoted the common development of both countries, becoming a model of mutually beneficial cooperation, he added.
-Emphasizing that the global energy landscape is undergoing profound adjustments, with opportunities and challenges intertwined, Xi said that China stands ready to work with Russia to continuously deepen energy cooperation and jointly safeguard the stability of industrial and supply chains in the sector.
-Russian President Vladimir Putin also sent a congratulatory message to the forum, highlighting that energy has traditionally been one of the most important and dynamic areas of economic cooperation between Russia and China.
-Russia firmly holds the top position among suppliers of oil and natural gas to China and is also a leading exporter of coal and liquefied natural gas to the country, according to a statement published on the official website of the president of Russia.
-"The construction of several Russian-designed nuclear power units in China is nearing successful completion. Joint technological innovations are also being developed to improve the efficiency and environmental safety of hydrocarbon production, processing and trans-portation," Putin said.
-He expressed hope that the forum will be substantive and productive, and that the ideas and initiatives the participants put forward will be translated into practical actions.
-Amid continued volatility in global energy markets, China and Russia are accelerating the structural deepening of their energy partnership, anchored by stable fossil-fuel supply chains, while simultaneously breaking ground in next-generation clean-energy corridors.
-Pipeline cooperation remains central to their cooperative relationship. Also, one of the most closely watched developments came in April this year, when Chinese and Russian companies signed cooperation agreements related to a proposed cross-border hydrogen freight corridor.
-On Friday, Vice-Premier Ding Xuexiang and Russian Deputy Prime Minister Alexander Novak co-chaired the 23rd meeting of the China-Russia Energy Cooperation Committee in Vladivostok.
-Ding highlighted the steady growth of energy trade between the two countries, saying that major landmark cooperation projects have progressed smoothly and new advancements have been made in clean energy cooperation.
-Ding emphasized the importance of jointly advancing the transformation of the global energy governance system and making greater contributions to energy security and sustainable development for both countries and the world.
-Novak highlighted the important role of strategic guidance of the two heads of state in the growth of bilateral trade and in maintaining the stability of the energy supply chain. He said that Russia is willing to work with China to optimize existing cooperation projects, expand and plan new areas of cooperation for the next phase, and make new contributions to deepening pragmatic cooperation.
-caodesheng@chinadaily.com.cn</description>
-      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/05/WS6a9af254e4b06d4aa055c739.html</guid>
-    </item>
-    <item>
-      <title>Shenzhen: Soaring to new heights as a 'sky city'</title>
-      <link>https://www.chinadaily.com.cn/a/202609/05/WS6a9ba60ce4b06d4aa055c868.html</link>
-      <description>Published: 2026-09-05
-
-Shenzhen: Soaring to new heights as a 'sky city'
-        Share - WeChat
-        
-        
-      
-      
-      Shenzhen is rapidly evolving into a "sky city", where the low-altitude economy is seamlessly integrated into everyday life. Drones swiftly deliver packages, efficiently perform traffic patrols, and transport medical supplies across the city.
-At the heart of this transformation is Bao'an district, an innovation hub that is generating new jobs and fueling economic growth. With its drones making a global impact, Shenzhen is embracing openness and innovation, marking just the beginning of its journey as a "sky city".</description>
-      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/05/WS6a9ba60ce4b06d4aa055c868.html</guid>
-    </item>
-    <item>
-      <title>Tourism in fast lane: Visor down, confidence up</title>
-      <link>https://www.chinadaily.com.cn/a/202609/05/WS6a9a95bbe4b06d4aa055c6e2.html</link>
-      <description>Published: 2026-09-05
-
-As night descends over Chongqing, the mind-bending vertical metropolis in Southwest China with layered thoroughfares and surreal architecture turns into a dazzling display of neon.
-Against this backdrop, a quirky motorcycle-based video trend is taking hold, which many netizens say feels like "visa-on-arrival". The captivating experience involves zipping past illuminated landmarks on a heavy-duty mobile machine, further augmenting the spatial perception of the "eight dimensional" city of mountains and rivers.
-As the radiant glow of Nanbin Road on the southern bank of the Yangtze River and the towering skyscrapers of the Yuzhong Peninsula evoke scenes from a cyberpunk movie, visitors from around the world are drawn to what has become a new "entry ritual" in Chongqing, the largest municipality in China both in terms of land area and population.
-For only 198 yuan ($30), enthusiasts can embark on a guided motorcycle video shoot that captures the city's striking night view dotted with landmarks such as the Ciyun Temple, the Hongyadong complex and the Dongshuimen Bridge.
-These short videos of up to 30 seconds, include iconic gestures and custom soundtracks, offering a unique memento of the city's vibrant nightlife.
-Tatiana Dvortsova, 35, a marketing specialist from Moscow, Russia, recalled that she first saw the trend on Instagram two months ago. "It made me very curious. Is this for real, I thought," said Dvortsova.
-Intrigued, she and her husband chose Chongqing as their first stop during their recent 10-day trip to China. On Aug 26, she spent 498 yuan on an upgraded motorcycle tour, opting for several iconic moments such as being swept off her feet by the rider, riding into freedom with her arms open wide, forming a heart with her hands and executing a cool salute while lowering the helmet visor.
-"I have no words for how excited I was to see the city," Dvortsova said. "The motorcycle experience was scary, but totally worth it."
-Bai Yu, a former safety instructor and now a thrill rider, advised Dvortsova to clamp her knees to his waist and keep her body tense during the ride. This, he said, would help her maintain balance in case of sudden acceleration or lane switch, ensuring her safety while offering a very exciting experience.
-Mukhamadeeva Lina Olegovna, 22, a university junior from Moscow, also took the tour. "It was amazing! It was the first such experience of my life," she said.
-The trend is particularly popular among international visitors, unexpectedly showcasing Chongqing's motorcycle prowess on the global stage. Known as China's "motorcycle capital", the city boasts a unique motorcycle industry and culture. Bai, the rider, noted that around 95 percent of his customers are from foreign countries, including Russia, South Korea, Kazakhstan, Thailand and Singapore.
-According to Chongqing Daily, by early August, the trend garnered over 1.4 billion views on Chinese video-sharing platform Douyin. On travel platform Trip.com, foreign tourists have described the experience as "like being in a sci-fi movie".</description>
-      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/05/WS6a9a95bbe4b06d4aa055c6e2.html</guid>
-    </item>
-    <item>
-      <title>Nepali editor urges cooperation in disaster response</title>
-      <link>https://www.chinadaily.com.cn/a/202609/05/WS6a9c1fa4e4b06d4aa055c8c5.html</link>
-      <description>Published: 2026-09-05
-
-Nepali editor urges objectivity, cooperation in disaster response
-        Share - WeChat
-        
-        
-      
-      
-      At the Asia-Pacific Media Forum in Shenzhen on Saturday, Sharachchandra Bhandary, executive editor of Nepal's National News Agency, described the recent mudslide on the border with China as a catastrophic natural disaster beyond his country's capacity to handle alone.
-Bhandary thanked China for its continued support and slammed some Western media outlets for politicizing the disaster. He urged an end to blame games and called for cooperation to tackle such challenges.
- Most Viewed in 24 Hours</description>
-      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/05/WS6a9c1fa4e4b06d4aa055c8c5.html</guid>
-    </item>
-    <item>
-      <title>HK's super connector role highlighted</title>
-      <link>https://www.chinadaily.com.cn/a/202609/04/WS6a99fb9de4b06d4aa055c429.html</link>
-      <description>Published: 2026-09-04
-
-HK's super connector role highlighted
-High-level officials and society leaders gathered in Hong Kong on Thursday for a major conference on integration of the Guangdong-Hong Kong-Macao Greater Bay Area, with keynote speakers highlighting the Hong Kong Special Administrative Region's role as a "super connector" between the Chinese mainland and global markets amid rapidly shifting geopolitical and technological landscapes.
-The conference, themed "New Dynamics in Asia-Pacific Cooperation, New Opportunities for GBA Connectivity", was co-organized by China Daily and the Hong Kong Coalition, bringing together nearly 300 government officials, consuls general, business leaders and representatives from think tanks, academia and media, as well as public-private sector experts from across Asia.
-Leung Chun-ying, vice-chairman of the National Committee of the Chinese People's Political Consultative Conference, said that collaborative initiatives unveiled recently in data and healthcare between Hong Kong and Nansha in Guangzhou, Guangdong province, underscore the unique role of Hong Kong as a partner and super connector linking the Greater Bay Area with the rest of the world.
-He said the steps to be taken are clear and necessary — to promote better government-to-business and business-to-business interactions between Hong Kong and Guangdong.
-"The new momentum generated in recent months through cooperation between Guangdong cities in the Greater Bay Area and Hong Kong will benefit other Asia-Pacific countries and regions," Leung said.
-Hong Kong SAR Chief Executive John Lee Ka-chiu said in a video speech that the Greater Bay Area is fast becoming one of the most dynamic and integrated economic powerhouses in the world, underscoring Hong Kong's role as the only world city that converges both the China advantage and the global advantage.
-Lee said that this role takes on new significance this year, as the 33rd Asia-Pacific Economic Cooperation Economic Leaders' Meeting will be held in Shenzhen, Guangdong, in November, a historic first for the Greater Bay Area, and Hong Kong will host the APEC Finance Ministers' Meeting in October. He added that the region is ready for the spotlight.
-Lee said that Hong Kong has a deep and liquid market and a strong pool of financial and professional talent, and the city has become Asia's premier fundraising, asset management and risk management hub.
-He said the Hong Kong Park of the Hetao Shenzhen-Hong Kong Science and Technology Innovation Cooperation Zone is key to turning cutting-edge ideas into tangible outcomes and world-class research into products, by bringing together Hong Kong's research excellence and the Chinese mainland's advanced manufacturing capabilities.
-He added that talent is central to Hong Kong's innovation and technology push, while highlighting the "one town, five elements" framework for the Northern Metropolis University Town Area — a hub where universities, research institutes and industries will be set up together to integrate the five elements of education, technology, talent, industry and urban development.
-"Integrating into and serving overall national development, Hong Kong brings together ideas, capital and talent across boundaries, and connects the Greater Bay Area with global markets. Together, we are not just building the Greater Bay Area. We are shaping a more connected, innovative and prosperous future," Lee said.
-Qu Yingpu, publisher and editor-in-chief of China Daily, said that the China Daily Hong Kong Edition has chronicled Hong Kong's remarkable voyage — enduring storms, celebrating triumphs and now recording a new era of transformation from stability to prosperity, aligned with the vibrant rejuvenation of the Chinese nation.
-"Amid shifting communication landscapes and unprecedented global change, we will continue to share the living story of and contribute to this 'one country, two systems', the dynamism of the Greater Bay Area and China's unwavering commitment to an open global economy," he said.
-Qu also said that he believes that Hong Kong will continue to innovate, leap forward and forge new heights of achievement with its first five-year plan, which is scheduled to be published on Sept 16.
-Hong Kong SAR Financial Secretary Paul Chan Mo-po stressed connectivity and Hong Kong's role in connecting the world in an age of profound change driven by geopolitics and technological transformation.
-"As the country's most internationally connected region, the Greater Bay Area presents a strong value proposition for Asia-Pacific collaboration," Chan said. "It rests on a simple conviction: When we partner, we do not merely add up our strengths — we multiply them and extend their reach well beyond Asia."
-The conference also featured three panel discussions on Hong Kong's financial opportunities in the changing Asia-Pacific landscape, the synergy in commercial aerospace development between the HKSAR and Shenzhen, and education in the artificial intelligence era.
-Panelists highlighted how Hong Kong can seize opportunities arising from deeper Asia-Pacific economic and trade cooperation to enhance its influence as a global financial hub.
-Discussions also centered on harnessing the Greater Bay Area's manufacturing capabilities and Hong Kong's strengths, exploring ways to build a collaborative commercial space ecosystem.
-Panelists also examined how the education sector can reinvent its model with AI to cultivate talent that serves the Greater Bay Area and the Asia-Pacific market.</description>
-      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/04/WS6a99fb9de4b06d4aa055c429.html</guid>
-    </item>
-  </channel>
-</rss>
+Contact the writers at yangzekun@chinadaily.com.cn

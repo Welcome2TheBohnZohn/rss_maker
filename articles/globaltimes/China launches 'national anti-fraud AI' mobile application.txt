@@ -1,0 +1,25 @@
+TITLE:
+China launches 'national anti-fraud AI' mobile application
+
+PUBLISHED:
+2026-09-06 18:29:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369926.shtml
+
+ARTICLE TEXT:
+Photo: IC
+An anti-fraud mobile application integrated with large language models, multimodal models, and AI agent technologies was launched on Sunday, allowing users to describe suspicious situations in the app and receive risk assessments, scam tactic identification, and fraud-prevention guidance through text, audio and video, the Xinhua News Agency reported on Sunday. 
+The mobile application, named “national anti-fraud AI” and designed by the Shanghai Public Security Bureau under the guidance of China’s Ministry of Public Security (MPS), is expected to further enhance the use of information technology and artificial intelligence (AI) in efforts to prevent telecommunications and online fraud, helping the public effectively detect and avoid scams, Xinhua reported, citing the MPS. 
+The app is currently available on major mobile app stores. Mini programs of the platform on WeChat and Alipay are also available, allowing users to access a range of AI-powered anti-fraud services, according to Xinhua. 
+Users can input suspicious situations in the app, which assesses risks, identifies scam tactics, provides typical cases, analyzes scam methods through multiple formats, including text, audio and video, and offers fraud-prevention guidance, Xinhua reported.  
+The “national anti-fraud AI” app offers AI-powered intelligent Q&A. When users submit questions, the system provides answers from multiple perspectives, including scam risk analysis, scam-type identification and prevention advice. It also links to relevant video case studies, providing users with real-time access to anti-fraud knowledge and helping them assess potentially fraudulent scenarios. 
+In addition, the app provides anti-fraud news and information. It incorporates the national anti-fraud center and Shanghai’s “803” anti-fraud new-media network, regularly updating users with the latest fraud-prevention developments, alerts about prevalent scam types, and analyses of typical fraud cases and tactics. Through a combination of graphics, text and short videos, the app helps users stay up to date on emerging forms of fraud.
+The app also serves as an anti-fraud reference guide, offering digital versions of two fraud-prevention handbooks through which users can systematically learn about fraud prevention by browsing content by category, searching by keyword or listening to content via voice reading. 
+Global Times
