@@ -1,0 +1,26 @@
+TITLE:
+China's top court sets rules for AI deepfakes and other disputes
+
+PUBLISHED:
+2026-09-07
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260907/da3ca0d1225a409491840e0ad4c191a3/c.html
+
+ARTICLE TEXT:
+BEIJING, Sept. 7 (Xinhua) -- A familiar face on a video call may not be who it appears to be. Artificial intelligence (AI) can now replicate people's faces and voices with startling realism, creating new challenges for the law. China's top court on Monday issued guidelines spelling out when such AI-generated content can lead to legal liability.
+The guidelines, released by the Supreme People's Court (SPC), address a range of emerging disputes, including AI deepfakes and voice cloning, algorithmic price discrimination and AI-generated false information.
+They make clear that people cannot use AI to create or distribute recognizable digital replicas of others without their consent, including cloned faces and voices. Such use can infringe individuals' rights, while using AI-generated faces or voices to spread false claims or damage someone's reputation can also result in legal liability.
+The rules come as AI-generated impersonation becomes increasingly easy to create and difficult to distinguish from authentic content. A handful of photographs or a short voice recording can provide enough material to produce a convincing digital replica.
+The guidelines also address algorithmic discrimination against consumers. Businesses that use algorithms to offer different prices or other transaction terms for the same goods or services without reasonable justification may be held liable if the practice causes harm to consumers.
+"We cannot expect every consumer to become an expert at spotting deception. The law must step in promptly to protect consumers' legitimate rights and interests," said Zhou Jiahai, head of the research office of the SPC.
+Another challenge is that generative AI systems can produce false or inaccurate information, commonly known as "AI hallucinations."
+AI service providers can be held liable if they are notified that their systems have generated content that infringes a person's rights but fail to take timely action.
+Users, too, can be held responsible for how they use AI. A person who deliberately uses prompts or other methods to induce an AI system to generate infringing content and causes harm to someone else can be held liable.
+The guidelines also provide a way for people to seek swift protection when AI-generated content threatens to cause serious and irreversible harm. For example, someone whose face has been digitally altered and used to spread false and defamatory sexual claims may ask a court for an injunction if waiting to act could cause harm that would be difficult to repair later. ■

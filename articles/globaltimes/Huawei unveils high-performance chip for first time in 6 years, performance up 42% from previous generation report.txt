@@ -1,0 +1,23 @@
+TITLE:
+Huawei unveils high-performance chip for first time in 6 years, performance up 42% from previous generation: report
+
+PUBLISHED:
+2026-09-07 16:36:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369991.shtml
+
+ARTICLE TEXT:
+Huawei Photo: VCG
+Chinese tech giant Huawei unveiled Mate XT 2 tri-fold smartphone in Guangzhou, South China's Guangdong Province, on Monday, featuring the latest Kirin 9050 Pro chip - the first high-performance processor to adopt logic folding technology, according to the Xinhua News Agency.
+It is reported that the Kirin 9050 Pro arranges logic units in layered stacks within a single chip, similar to upgrading from a single-floor layout to a duplex. Internal vertical interconnect channels are added, functioning like "elevators," resulting in shorter signal transmission paths, lower latency and better performance.
+According to Xinhua, this marks the first time in six years that Huawei has launched a brand-new Kirin chip at a flagship product since the global debut of Huawei Mate 40.
+On the same day, the People's Daily reported that the performance of the new chip is 42 percent stronger than the previous generation (Kirin 9030 Pro).
+The transistor density of the Kirin 9050 Pro increased from about 155 million to 238 million transistors per square millimeter, or roughly 55 percent, compared with the previous generation. At comparable performance, NPU power consumption fell by 66 percent, GPU power consumption fell by 58 percent and CPU performance-core power consumption fell by 41 percent, according to the People's Daily.
+A new paper published on September 4 by Huawei's semiconductor segment chief, He Tingbo, on the company's Tau (τ) Scaling Law presented measurements from the Kirin 2026 chip, showing that transistor density increased while power consumption fell across several key computing units at comparable performance.
