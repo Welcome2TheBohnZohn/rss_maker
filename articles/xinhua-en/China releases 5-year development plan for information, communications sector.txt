@@ -11,13 +11,17 @@ CATEGORY:
 Authoritative PRC Media
 
 URL:
-https://english.news.cn/20260907/c08b895764b643e3836dc50860ea3470/c.html
+https://english.news.cn/20260907/e29e82ef4d0b4517b752277f32d9156f/c.html
 
 ARTICLE TEXT:
-BEIJING, Sept. 7 (Xinhua) -- China's Ministry of Industry and Information Technology has issued a development plan for the information and communications industry during the 15th Five-Year Plan period (2026-2030) to promote high-quality development of this sector.
-By 2030, a new-generation communications network with comprehensive coverage and leading performance is expected to be fully established, according to the plan, while adding that efforts will be made to accelerate the development of a technologically advanced, secure and controllable information and communications industrial system.
+BEIJING, Sept. 7 (Xinhua) -- China's Ministry of Industry and Information Technology has issued a development plan for the information and communications industry during the 15th Five-Year Plan period (2026-2030) to promote the high-quality development of this sector.
+By 2030, a new-generation communications network with comprehensive coverage and leading performance is expected to be fully established, according to the plan, which has called for efforts to accelerate the development of a technologically advanced, secure and controllable information and communications industrial system.
 Meanwhile, an agile and efficient governance system integrating technology and management is expected to be effectively established, and network and data security capabilities featuring all-domain coordination and practical application will be significantly enhanced, the plan said.
 The industry's empowerment level and degree of globalization will be further improved, laying a solid foundation for basically achieving modernization of the information and communications sector by 2035, the plan added.
 The plan also outlines 13 key indicators, including achieving information and communications industry revenue of 4.1 trillion yuan (about 604.8 billion U.S. dollars) by 2030, cumulative investment of 3.8 trillion yuan in information infrastructure, and an average annual growth rate of 7 percent in total telecommunications business volume.
 By 2030, there will be 50 5G (including 5G-A) base stations per 10,000 people, intelligent computing power will reach 9,800 EFLOPS, and the 5G user penetration rate will reach 95 percent, the ministry said.
-EFLOPS, or ExaFLOPS, is a unit of computing performance, with each unit representing 1 quintillion floating-point operations per second. ■
+EFLOPS, or ExaFLOPS, is a unit of computing performance, with each unit representing 1 quintillion floating-point operations per second.
+The plan lays out 26 key tasks across six major areas including information infrastructure construction as well as network and data security assurance. Among these, it specifically highlights the need to initiate 6G commercial services at an appropriate time and to accelerate the establishment of a nationwide integrated computing power network.
+Specific measures also include building an industry anti‑fraud laboratory and supporting enterprises to deeply promote the integration of artificial intelligence and manufacturing, the plan said.
+China has established the world's largest information infrastructure. Gigabit optical network access is available in every county, while 5G networks covers all towns and more than 95 percent of administrative villages.
+The country is pushing ahead with its Digital China initiative, aiming to raise the added value of the core industries of the digital economy to 12.5 percent of GDP by 2030, according to the 15th Five-Year Plan (2026-2030). ■

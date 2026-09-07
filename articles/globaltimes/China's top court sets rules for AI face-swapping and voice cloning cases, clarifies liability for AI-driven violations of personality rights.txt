@@ -1,0 +1,27 @@
+TITLE:
+China's top court sets rules for AI face-swapping and voice cloning cases, clarifies liability for AI-driven violations of personality rights
+
+PUBLISHED:
+2026-09-07 18:59:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1369996.shtml
+
+ARTICLE TEXT:
+Photo: VCG
+China's Supreme People's Court on Monday issued a guideline for handling AI-related disputes, addressing issues of broad public concern including AI-generated face-swapping and voice cloning, AI hallucinations, doxxing, big-data price discrimination and AI model training. The guidelines clarify liability for AI-related infringements and aim to strengthen civil rights protection in the digital age while promoting the orderly development of AI, Xinhua News Agency reported on Monday. 
+As the top court's first judicial rules on AI-related disputes, the guidelines were introduced in response to new AI technologies and emerging legal issues arising from their use, as China has yet to enact a dedicated AI law, People's Daily reported on Monday. 
+The guidelines provide principles and rules for handling AI-related cases in accordance with Chinese laws including the Civil Code, Cybersecurity Law, Copyright Law, and Personal Information Protection Law.
+The guidelines seek to address regulatory conflicts, social risks and ethical challenges, prevent and eliminate algorithmic discrimination, and curb AI misuse that infringes on people's legitimate rights and interests, according to the People's Daily. 
+The guidelines make clear that severe legal punishment will be imposed for deliberate AI-enabled crimes that threaten state security, infringe citizens' rights or disrupt social order. In regard to innovative acts in AI development and use, cases shall be handled prudently in accordance with the law, and uphold the principles of legality of crimes and punishments, and adaptability of crime, responsibility and punishment, according to a press conference introducing the guidelines on Monday.
+Drawing on the courts' judicial functions, the guidelines focus closely on issues of widespread public concern, including AI-generated face-swapping and voice cloning, AI hallucinations, doxxing, big-data price discrimination, autonomous driving and AI model training. On issues where consensus is difficult to reach currently, the guidelines leave them open for now, with clearer rules to be introduced when sufficient experience has been accumulated and conditions are in place. 
+The guidelines state that AI-generated digital avatars based on a person's name or likeness without consent can constitute an infringement of personality rights, while unauthorized voice cloning can infringe voice rights. Misuse of AI-generated avatars or voices to spread false information or damage someone's reputation may also incur liability. The rules further allow close relatives of deceased people to seek civil liability when there is infringement on the rights of the deceased, China Central Television reported.
+The guidelines clarify liability rules for AI-related infringements, covering cases involving violations of personality rights, personal information rights and consumer rights. The guidelines also clarify liability for generative AI service providers, AI products, and traffic accidents involving autonomous and driver-assistance vehicles.
+In addition, the guidelines call for stronger AI-related dispute prevention and resolution, case guidance and judicial oversight, along with greater inter-agency coordination and international judicial cooperation.
+Global Times
