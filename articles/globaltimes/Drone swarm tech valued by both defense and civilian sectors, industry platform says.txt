@@ -1,0 +1,41 @@
+TITLE:
+Drone swarm tech valued by both defense and civilian sectors, industry platform says
+
+PUBLISHED:
+2026-09-07 22:20:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370011.shtml
+
+ARTICLE TEXT:
+The Atlas drone swarm operations system opens the launcher and deploys drones. Photo: Screenshot from the military channel of CCTV News
+How advanced are China's drone swarms today? China Electronics Technology Group Corporation (CETC) Intelligent Technology Research Institute addressed this question in an article on Sunday, saying that drone swarm technology has become a critical hard-tech capability valued by both the defense sector and civilian industries. China is accelerating its transition from isolated experiments and small-scale demonstrations to systematic deployment and large-scale application.
+Based on autonomous single-node control and supported by efficient deployment and recovery, a drone swarm is an intelligent cluster combat system driven by collective emergence and centered on collaborative node interaction. 
+Its key features include collective emergence, force multiplication, distributed functionality, autonomous networking, robustness and cost-effectiveness, CETC said.
+In terms of application, drone swarms can be deployed from multiple carrier vehicle types, flexibly adjust their sizes to carry diverse mission payloads and precisely match various combat targets and scenarios.
+The article said that when assessing drone swarm capabilities, many are easily impressed by the spectacle of "hundreds of drones flying together," but looking impressive is not the same as being combat-effective. 
+To determine whether a swarm system is truly effective on the battlefield, five core capabilities must be evaluated: survivability, situational awareness, planning and decision-making, mission execution, and autonomous learning and evolution.
+Only when all five advance in sync can swarms adapt to high-intensity battlefields, strengthen the overall unmanned combat system and gain a competitive edge in future intelligent warfare.
+After years of systematic research and development, China has made significant progress in drone swarm technology across the five core areas. 
+In terms of survivability, homogeneous swarm technologies have matured, with decentralized networking, dynamic reconfiguration and adaptive algorithms enabling swarms to autonomously recover from combat losses, communication disruptions and electromagnetic interference, though cross-domain heterogeneous resilience in denial environments remains an ongoing challenge.
+In situational awareness, China has built a mature distributed collaborative sensing system that breaks through single-aircraft limitations, enabling autonomous target screening, camouflage identification and precise positioning through multi-drone detection and data fusion, though deep awareness of small targets in high-clutter environments still needs improvement.
+In planning and decision-making, the article said, China has fully mastered large-scale fixed-wing swarm coordination technologies like autonomous formation changes, path planning and dynamic task allocation, with tactical innovation and adaptive game optimization under adversarial conditions still being explored. 
+In mission execution, swarm systems have achieved systematic capability with rapid deployment and full combat loop support, from reconnaissance to precision strikes and damage assessment, though gaps remain in air-ground-sea heterogeneous coordination and joint multi-service adaptability. 
+In learning and evolution, swarms have moved from fixed programming to adaptive optimization and experience accumulation through reinforcement learning and adversarial iteration, though fully autonomous online evolution and advanced collective intelligence remain the next frontier.
+Overall, China has developed robust homogeneous swarm technology and engineering deployment capabilities, the article said. Once breakthroughs are made in underlying algorithms, heterogeneous coordination and wide-area networking, mixed heterogeneous swarms will gradually become viable. 
+In the long term, the goal is to build a drone swarm combat system covering all operational domains with multi-field coordination.
+A man takes photos of a light high mobility vehicle-mounted drone swarm weapon system at Airshow China in Zhuhai, South China's Guangdong Province. File photo: VCG
+Some drone swarm achievements have drawn attention this year. On March 25, 2026, the military channel of CCTV News offered the first full-process demonstration of China's Atlas drone swarm operations system. The domestically developed system consists of the Swarm-2 ground combat vehicle, a command vehicle, and a support vehicle.
+Wang Yunfei, a Chinese military affairs expert, told the Global Times that the system not only showcases expanding battlefield applications for drone swarms, but also reflects rapid development in algorithm-driven technologies, which are reshaping modern warfare by enabling autonomous coordination, precision engagement and system-level combat capabilities.
+On July 26, CCTV reported that during the impact of Typhoon Noul, Chinese meteorological researchers conducted high-frequency and multi-dimensional observation experiments using drone swarms to monitor the typhoon's entire landfall process, marking the first time China has applied drone swarm technology to observe a typhoon's full passage.
+However, according to CETC, as drone swarm technology gains momentum, rapid industry expansion has also exposed problems, including overlapping projects, redundant development, and excessive focus on hype over tangible results.
+To ensure healthy industry growth, CETC said, efforts should focus on four areas: demand-driven development to avoid blind imitation; improved top-level design with unified standards and interface protocols to break down system compatibility barriers; prioritized research and development breakthroughs in autonomous coordination, heterogeneous integration and jamming resistance; and strengthened testing and validation through high-frequency demonstrations and realistic drills to accelerate combat-ready capabilities.
+With necessary improvements and industry issues addressed, the long-term roadmap for drone swarms is clear: First, mature and iteratively upgrade homogeneous swarm systems; then achieve technological breakthroughs in mixed heterogeneous coordination; and finally realize full-domain system integration, driving continuous technological evolution and comprehensive combat system integration.
+In the future, drone swarms will move toward serialized equipment, diversified application scenarios and full-domain coverage. 
+Their development will not only enhance China's international competitiveness but also lay a solid foundation for the country's intelligent unmanned warfare and low-altitude economy industries, according to CETC.

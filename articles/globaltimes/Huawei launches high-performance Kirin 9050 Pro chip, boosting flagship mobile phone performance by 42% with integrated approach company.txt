@@ -1,0 +1,42 @@
+TITLE:
+Huawei launches high-performance Kirin 9050 Pro chip, boosting flagship mobile phone performance by 42% with integrated approach: company
+
+PUBLISHED:
+2026-09-07 22:35:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370015.shtml
+
+ARTICLE TEXT:
+A photo taken at a Huawei store in Hangzhou shows the Kirin 9050 Pro chip, Huawei's first high-performance processor to adopt logic folding technology, on September 7, 2026 Photo: VCG 
+Chinese tech giant Huawei unveiled its Mate XT 2 tri-fold smartphone on Monday, powered by the latest Kirin 9050 Pro chip - the first high-performance processor to adopt logic folding technology - at a launch event in Guangzhou, South China's Guangdong Province.
+The Kirin 9050 Pro stacks logic units in layers within a single chip, much like upgrading from a single-story apartment to a duplex, with vertical interconnects added inside the chip, akin to installing "elevators." This design shortens signal transmission paths, reduces latency and improves overall performance, Huawei said in a release sent to the Global Times on Monday.
+Monday's event marks the first time in six years that Huawei has launched a brand-new Kirin chip for a flagship product since the global debut of Huawei Mate 40, the Global Times learned. 
+Chinese analysts said the announcement by the tech giant marks a milestone in the development of China's homegrown chip industry, as the innovative technological approaches adopted by Chinese scientists and mobile chip developers have produced chips capable of competing head-to-head with leading Western products, despite the ongoing US technological crackdown on China. 
+The unique approach offers valuable insights into chip development in the post-Moore era and helps reduce the risk of over-reliance on a single technological path that could be vulnerable to external restrictions, they noted.
+Through a deep coordination of software, hardware, chips and cloud-computing, the Mate XT 2's overall performance is 42 percent higher than its predecessor, the statement said.
+As the first high-performance processor adopting the logic folding technology, the Kirin 9050 Pro has increased its transistor density from about 155 million to 238 million transistors per square millimeter, representing a growth of roughly 55 percent compared to the previous generation  (Kirin 9030 Pro). At comparable performance levels, neural processing unit (NPU) power consumption fell by 66 percent, Graphics Processing Unit (GPU) power consumption fell by 58 percent and Central Processing Unit (CPU) performance-core power consumption fell by 41 percent, according to the People's Daily.
+Huawei's announcement is also closely linked to breakthroughs in computer theory by Chinese scientists.
+A new paper published on September 4 by He Tingbo, Huawei's semiconductor segment chief, presented measurements from the latest Kirin chip, showing that transistor density has increased while power consumption has decreased across several key computing units at comparable performance levels. The paper puts heat and power consumption at the center of the discussion over Tau Scaling, arguing that a major source of chip energy consumption lies not only in computation itself, but also in the movement of data across the chip.
+Major breakthrough
+Liu Wei, director of the human-machine interaction and cognitive engineering laboratory at the Beijing University of Posts and Telecommunications, said that the Kirin 9050 Pro is the world's first mass-produced flagship system on a chip (SoC) to fully integrate logic folding technology and validate the Tau Scaling Law in a flagship terminal SoC. Therefore, it should not be seen as a simple generational iteration but as a major systemic and path-level innovation, he noted. 
+The latest Huawei processor firmly positions it among the world's top-tier mobile flagship chips, with impressive power efficiency as its standout feature. "While there is still a gap in single-core performance, it has significantly narrowed the gap in multi-core and artificial intelligence (AI) computing power," Liu said.
+Apple's A-series chips, leveraging TSMC's most advanced 2 nanometer platform, still lead in peak single-core performance. However, the Kirin 9050 Pro, thanks to logic folding technology, greatly closes the distance in multi-core concurrency and NPU computing power for on-device large language models, Liu said. "Its power efficiency advantage is outstanding, delivering significantly lower power consumption at the same computing performance."
+Liu Shaoshan, director of the Embodied AI at the Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS), said the Kirin 9050 Pro reflects the essence of Tau Scaling Law, which focuses on narrowing the route of signal transmission and shortening latency, rather than physically downsizing the transistors.
+This new approach heralds an important technological path in the post-Moore Era, a stage of the semiconductor development in which shrinking nanometer-scale transistor has become increasingly difficult, the Shenzhen-based expert said.
+Ma Jihua, a veteran technology industry analyst, told the Global Times on Monday that the Kirin 9050 Pro's performance could match that of the world's current top three flagship mobile chips - Apple Inc's A-series, Qualcomm's Snapdragon 8 Gen series and MediaTek's Dimensity series.
+By leveraging architectural innovation based on the Tau Scaling Law, the latest Huawei processor has achieved the capability to compete head-on with these leading chips in terms of power efficiency and system-level synergy, Ma said.
+"It is a significant milestone: Despite restrictions on advanced manufacturing processes, domestic Chinese mobile chips have carved out an alternative path to performance breakthroughs. It is fair to say that the launch of this chip is not only a breakthrough for Huawei but also for China, and a major breakthrough in the global semiconductor industry," Ma said.
+Diversified pathways
+The last time Huawei introduced a new Kirin chip at a flagship launch was during the global release of the Mate 40 smartphone six years ago. The company has continued to innovate and break new ground in recent years.
+Huawei's research and development (R&D) spending accelerated sharply to reach 121.38 billion yuan ($17.9 billion) in the first half of 2026, marking a record high for the period and accounting for more than a quarter of revenue, per Xinhua.
+Against the backdrop of continued US technological containment of Chinese technology companies, particularly chip manufacturers, the rollout of the Kirin 9050 Pro offers vital insights, Liu Wei said.
+In the post-Moore era, independent breakthroughs in chip technology can be achieved not only by deepening manufacturing process development but also by relying on independent foundational theories to explore new sources of performance gains through chip architecture and on-chip interconnection, Liu Wei said.
+"It is essential to adopt scenario-driven engineering validation, pursue a parallel path of process advancement and architectural innovation, and build diversified technological pathways to mitigate the risk of a single technical route being cut off by an external blockade," Liu Wei said.
+The company's approach appears to be paying off in the market. According to IDC data, Huawei's smartphone shipments grew 19.4 percent year-on-year in the second quarter of 2026, pushing its market share to 22.6 percent - the top position in China, according to Xinhua.
