@@ -1,0 +1,39 @@
+TITLE:
+Smart lighting makes the Wuhan Yangtze River Bridge greener
+
+PUBLISHED:
+2026-09-08
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0908/c90000-20497191.html
+
+ARTICLE TEXT:
+Smart lighting makes the Wuhan Yangtze River Bridge greener
+Photo shows the Wuhan Yangtze River Bridge in Wuhan, central China's Hubei province. (Photo/Zhang Heng)
+The Wuhan Yangtze River Bridge, located in Wuhan, central China's Hubei province, is hailed as the "First Bridge over the Yangtze River." It holds deep collective memories for generations of local residents. When night falls, the bridge glows with soft, warm-yellow lights, forming an iconic part of Wuhan's nighttime cityscape.
+Wan Quan, now 52, has been driving for over three decades. Once a taxi driver, he now works for a company that operates engineering vehicles. A frequent commuter between the two riverbanks of the Yangtze, he has witnessed the steady emergence of river-crossing bridges across Wuhan. He has also witnessed significant changes in the lighting of these bridges over the years.
+"In the early days, the bridge lights were quite dim, with low brightness and limited coverage. I had to be especially careful whenever driving at night," Wan recalled. Today, LED lights make driving across the bridges safer and more comfortable, providing brighter, more even illumination, a clear view and lower energy consumption.
+When the Wuhan Yangtze River Bridge opened to traffic in 1957, it was lit by 512 spherical lanterns fitted with 60-watt incandescent bulbs. In the 1970s, all light sources were replaced with 80- to 125-watt high-pressure mercury lamps.
+At the beginning of this century, the entire bridge was equipped with 250-watt high-pressure sodium lamps, creating the iconic orange-yellow glow that became a signature of Wuhan's nightscape.
+"Sodium‑vapour lamps appear bright, but their light is harsh and offers poor color rendering. Road surface colors and lane markings become hard to distinguish. Prolonged night driving often left drivers with sore, dry eyes," explained Chen Junyu, director of the industry technical review section at the streetlight management and service center of Wuhan Power Supply Company.
+Chen also noted that humidity is high over the Yangtze River. During rainy or foggy weather, light from fixtures without precision optical lenses scatters easily, creating a hazy curtain of light that can obstruct drivers' vision and compromise road safety.
+An even more pressing issue was energy consumption. High-pressure sodium lamps have relatively low photoelectric conversion efficiency, and at the time, smart lighting controls were not available. Regardless of weather or traffic conditions, the lights were switched on and off at fixed times and operated at a constant brightness.
+Hundreds of lamps on the bridge consumed large amounts of electricity, while prolonged operation at high temperatures accelerated aging and increased failure rate.
+In recent years, guided by China's carbon peaking and carbon neutrality goals, phasing out energy-intensive lighting equipment has become an inevitable step. The challenge for urban management is to strike a balance between preserving iconic nighttime landscapes and achieving greener, smarter, and more energy-efficient lighting.
+"With continued technological advances, LED light sources have made significant improvements in key indicators of light quality, including luminous efficacy and color rendering. This has made it possible to deploy energy-efficient lighting on a much larger scale," Chen said.
+Since the beginning of the 14th Five-Year Plan period (2021-2025), Wuhan has been comprehensively advancing its urban green lighting program, gradually replacing metal halide and sodium lamps, which have relatively low luminous efficacy and high energy consumption, with energy-efficient LEDs.
+The city has also promoted the installation of individual-lamp control systems. Combined with Internet of Things communications technology, these systems allow each lamp to be dimmed independently and enable road illumination to be precisely adjusted according to different time periods and road sections, improving energy saving and extending lamp life.
+In November 2025, the Wuhan Yangtze River Bridge began an upgrade of its lighting system. The existing 150 units of 250-watt high-pressure sodium lamps were replaced with 200-watt LED ones, supported by a smart control system that enables time-based dimming.
+Before the upgrade, the bridge consumed 450 kilowatt-hours of electricity per day. After the upgrade, daily consumption fell to 144 kilowatt-hours, representing an overall energy saving rate of 68 percent, equivalent to an estimated annual saving of about 110,000 kilowatt-hours of electricity.
+"The new streetlights have fully preserved the bridge's iconic nighttime appearance while effectively addressing problems such as harsh glare," Chen said. More importantly, the new LED fixtures combine high luminous efficacy, low energy consumption and a long service life, delivering substantially greater energy savings than traditional high-pressure sodium lamps.
+After dinner, Chen visited a smart lighting management and control office at the streetlight management and services center. A large screen displayed basic data on transformers, lamp posts, lights and cable lengths across the city, as well as maps showing how streetlights are connected to different circuits.
+"With this smart lighting management and control office, we can control individual lamps, adjust brightness according to different time periods, and provide lighting as needed, enabling more targeted energy saving," said data analyst Peng Jingjing.
+Peng clicked on the circuit serving the Wuhan Yangtze River Bridge on the map. The screen immediately displayed the dimming strategy for 70 LED lights along that road section, along with the resulting energy savings. The lights are no longer switched on and off at fixed times; instead, their operating schedules are determined according to outdoor light levels.
+So far, five river-crossing bridges in Wuhan have completed installation or upgrading of LED lighting systems along their entire length. By the end of 2027, all of them are expected to be equipped with smart lighting systems. The approach will also be rolled out across the city.
+Copyright © 2026 People's Daily Online. All Rights Reserved.

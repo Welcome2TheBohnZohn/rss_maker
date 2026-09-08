@@ -1,0 +1,33 @@
+TITLE:
+High-end chip from Huawei released
+
+PUBLISHED:
+2026-09-08
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202609/08/WS6a9f5024e4b06d4aa055cd33.html
+
+ARTICLE TEXT:
+High-end chip from Huawei released
+First high-performance processor to adopt the company's LogicFolding
+Huawei Technologies Co on Monday unveiled its latest flagship chip, the Kirin 9050 Pro, marking the company's first new high-performance Kirin processor launch at a flagship event since its Mate 40 smartphones global debut six years ago.
+The chip, which powers Huawei's newly released Mate XT 2 tri-fold smartphone, is the industry's first high-performance processor to adopt the company's LogicFolding technology. The approach rearranges logic units within a single chip into layered stacks — akin to converting a single-floor layout into a duplex — and adds vertical interconnect channels that function like "elevators" to shorten signal paths and reduce latency.
+The result is a 42 percent improvement in overall device performance over the previous generation chip, Huawei said.
+Yu Chengdong, Huawei's executive director and chairman of the terminal business group, described the chip at the Guangzhou, Guangdong province launch event as "super fast, intelligent and cool" — calling it the most powerful Kirin chip to date.
+The Kirin 9050 Pro delivers substantial improvements in large-file loading, multitasking, rendering performance and on-device artificial intelligence capabilities, Huawei said.
+According to real-world test data, the chip packs 55 percent more transistors per square millimeter than its predecessor, the Kirin 9030 Pro — jumping from approximately 155 million to 238 million transistors per sq mm in a single generation.
+The Lingxi CPU delivers a 24 percent increase in single-core peak performance and a 52 percent boost in multi-core concurrent performance.
+The breakthrough comes from LogicFolding, a concept rooted in what Huawei calls the "Tau Scaling Law" — a theoretical framework first proposed by He Tingbo, president of Huawei's semiconductor business, in May.
+On Friday, He published her third update in less than four months on the ChinaXiv preprint platform, a paper directly addressing industry skepticism about whether dense 3D stacking would inevitably lead to higher power density and heat.
+He's answer is a definitive no. The paper explains that the majority of energy consumption in modern chips comes not from computation itself, but from moving data across long on-chip wires — a phenomenon she likens to a worker's daily energy being consumed not by desk work, but by commuting. Logic-Folding replaces long horizontal journeys with short vertical connections — the chip's "elevators" — cutting typical core wiring length by about 20 percent and reducing some critical paths by up to 70 percent.
+She emphasized that "Tau is a time-scaling law, not an energy-scaling law" — the real value lies in converting saved time into lower voltage and frequency, rather than chasing peak performance at the cost of efficiency.
+Xiang Ligang, director-general of the Information Consumption Alliance — a telecom industry association, said that for Huawei, the Kirin 9050 Pro represents more than just a performance upgrade — it's a statement that the company's chip design capabilities continue to advance even as its access to US-related advanced chip manufacturing equipment remains constrained.
+The Kirin 9050 Pro's debut also comes as the global foldable smartphone market reaches a historic inflection point.
+Counterpoint Research said cumulative global foldable smartphone shipments are expected to surpass 100 million units by the end of 2026 — some eight years after the first commercial foldable device launched in 2019.
+The research firm projects the market will accelerate to 37 percent year-on-year growth in 2027, driven by Samsung's Galaxy Z Fold8 series and Apple's anticipated entry into the foldable segment.

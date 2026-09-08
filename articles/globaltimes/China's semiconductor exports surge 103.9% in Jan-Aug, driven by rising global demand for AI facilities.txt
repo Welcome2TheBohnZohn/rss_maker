@@ -1,0 +1,26 @@
+TITLE:
+China's semiconductor exports surge 103.9% in Jan-Aug, driven by rising global demand for AI facilities
+
+PUBLISHED:
+2026-09-08 13:30:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370063.shtml
+
+ARTICLE TEXT:
+A technician conducts chip quality inspections in a factory in Yiwu, East China's Zhejiang Province, in March 2026. Photo: VCG
+China's integrated circuit (IC) exports reached $40.731 billion in August, while cumulative exports for the January-August period totaled $256.75 billion, up 103.9 percent year-on-year, according to data released by the General Administration of Customs (GAC) on Tuesday.
+While growing demand for AI infrastructure provided a boost, the leap in China's IC exports was driven primarily by the country's rapid technological advances and a more sophisticated supply chain, a Chinese expert told the Global Times, projecting that China's chip exports will reach a total of 2 trillion yuan ($298.03 billion) this year.
+The robust growth in IC exports also came as China's overall foreign trade saw stable expansion. According to the GAC, China's foreign trade in goods rose 17.6 percent year-on-year to 34.78 trillion yuan in the first eight months of 2026. Of that, exports expanded 14.6 percent, while imports jumped 22 percent. 
+"China's accelerating IC export growth is driven both by the global AI boom, which has tightened memory chip supply, and, more importantly, by the rapid development of China's own IC industry," Xiang Ligang, a veteran telecom and tech policy observer, told the Global Times on Tuesday.
+China's IC industry enjoys two major advantages. The first is strong infrastructure-building capacity: the continued expansion of domestic fabs in recent years has made the IC supply chain increasingly complete, laying a solid foundation for the sector's growth. The second is technological advancement: more advanced process technologies have lowered production costs and sharpened China's international competitiveness, Xiang said.
+Meanwhile, there have been crucial technological upgrades in China's chip industry, such as Chinese tech giant Huawei's new Kirin 9050 Pro chip, the first high-performance processor to use logic folding technology. The international competitiveness of China-made chips is expected to increase, supporting further growth in exports, the expert noted, adding that he expected China's IC exports to reach a total of 2 trillion yuan in 2026.
+Underscoring the competitiveness of China's chipmaking industry, data from the National Bureau of Statistics (NBS) showed that China produced over 1.5 billion chips per day in the first half of this year.
+During the first half, China's integrated circuit output surged 23.1 percent year-on-year to 279.8 billion units, Wang Guanhua, a spokesperson with the NBS, said at a press conference in July. "This number is enormous," Wang said, calling it a vivid testament to the momentum driving China's semiconductor industry.
+China recently issued a revised regulation on the protection of IC layout designs. Scheduled to take effect on October 15 this year, the regulation aims to strengthen the protection and application of layout designs and improve registration and management systems by elevating proven practices into regulations, while also aligning with relevant laws and international treaties.
