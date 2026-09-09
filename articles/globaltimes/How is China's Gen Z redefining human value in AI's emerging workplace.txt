@@ -1,0 +1,75 @@
+TITLE:
+How is China's Gen Z redefining human value in AI's emerging workplace?
+
+PUBLISHED:
+2026-09-09 22:22:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370176.shtml
+
+ARTICLE TEXT:
+Peng Yun delivers a presentation on data capture with 3D spatial cameras in Southwest China's Chongqing Municipality on June 14, 2026. Photo: Courtesy of Peng Yun 
+The robot has made another mistake.
+The robot had performed flawlessly in the lab - under familiar lighting, with objects in their usual spots. But in a real factory, with dimmer light and a part shifted a few centimeters, it fumbled.
+For Jiang Zebin, that is where his work begins.
+He starts with the day's data-collection tasks, processes data left over from the previous day and retrains the model. Later, he puts the updated model back on a physical robot to see how it performs in the real world. If the robot gets it wrong, he adjusts the training and starts again. Jiang calls himself a "robotics engineer." 
+On Wednesday, China's Ministry of Human Resources and Social Security officially gave the job a more formal title: embodied-intelligence robot application technician, China Media Group reported.
+If Jiang's job is to teach robots in the physical world, 28-year-old Peng Yun works one step earlier in the process.
+Fresh out of a PhD program, Peng has joined a group of young engineers to build a virtual world where robots can train before entering the real one. Using consumer-grade spatial cameras and 3D reconstruction, Peng's team digitizes actual homes, supermarkets, and factories - replicating them 1:1 in simulation. Robots first navigate, manipulate, and adapt in these digital twins, then move to physical deployment.
+"Before a robot can enter a home, it needs to know what a kitchen looks like, where the fridge is, where cups usually sit," Peng said. So they digitize those spaces and let the robot learn - and fail - virtually, at scale.
+Jiang is the one who polishes the embodied robot's real-world skills; and Peng is the one who builds its virtual training ground. 
+Their work, though different, points to the same thing: moving AI from the lab into everyday life.
+And their jobs are the leading edge of a broader labor shift sweeping China. As generative AI develops rapidly, new occupations - from embodied-intelligence robot technicians to AI-agent developers and low-altitude logistics workers - are moving from concepts on paper into actual jobs.
+At the front of this emerging workforce are members of China's Generation Z, who have grown up alongside AI. Their choices are raising a broader question: As AI becomes a major source of productivity, how should young people choose a career, and what will allow them to keep up in an industry that changes so quickly?
+AI-native generation
+"People of our generation have grown up with AI. Embracing AI almost feels instinctive," Peng, who was born in 1998, told the Global Times.
+Jiang's path echoes that sensibility. He studied at the Technical University of Munich and interned at Huawei and BMW, gaining experience in AI cloud-based systems and autonomous driving. After graduation, he joined the Zhejiang Humanoid Robot Innovation Center Co Ltd in Ningbo, East China's Zhejiang Province, as a robotics engineer.
+"I chose embodied intelligence because I genuinely love robotics, and I also look at where the industry is heading and what problems it still faces," he said.
+Jiang Zebin tests and fine-tunes the movements of a humanoid robot in the lab in Ningbo, East China's Zhejiang Province, on September 9, 2026. Photo: Courtesy of Jiang Zebin 
+He saw both promise and a gap. Robots could deliver impressive 
+demos, but in real factories, they struggled with consistency. 
+"Under good lighting and simple conditions, we can get a robot to complete tasks successfully and consistently," he told the Global Times. "But in a noisy, chaotic factory environment, performance drops."
+Now, closing that gap is his daily routine: mornings for data and task setup, afternoons for model training and reading the latest papers, evenings for on-robot validation. Half his time is spent with data, half with the hardware.
+"The most rewarding moment is when you take a batch of data, produce a result and the robot actually understands the world and follows your command," he said.
+Peng's work sits one step earlier in the pipeline. He entered his robotics and AI lab in 2020, when humanoid robots were just 40-50 centimeters tall, "just like little robot dolls."
+The lab's tradition was competing in RoboCup, the robot soccer World Cup. "Back then, I couldn't imagine robots ever leaving the pitch and entering daily life."
+Then came 2025. The sector heated up: Companies like Unitree, Tesla and a wave of Chinese startups pushed robots toward factories and homes. Peng saw his chance and set up his company. In Shanghai, his team of about 35 employees - with most born after 2000, and the youngest intern born in 2006 - now uses spatial scanning to create 1:1 digital 3D replicas of real-world spaces, turning them into training assets that robots can use for simulation and evaluation.
+ "Think of it as building a gym for robots," Peng said. "They train and fail in the virtual world first, then step into reality."
+"Just like humans, from age 3 to 18, we learn by living in the world every day. Robots need that same process," Peng noted.
+Peng believes that in a way, robots are learning to navigate the human world, while humans are learning to navigate a world reshaped by AI, and then new workstations are emerging from that mutual adaptation.
+"Young Chinese people are growing up with a natural familiarity with technology," said Zhang Quan, an expert with the Shenzhen Artificial Intelligence Association in South China's Guangdong Province. "They are redefining what they look for in a career and, in the process, helping shape the future of China's smart manufacturing."
+An industrial shift
+According to research data from Chinese online job-hunting platform Zhaopin.com, in the first half of 2026, the number of companies hiring for AI roles rose 24.8 percent year-on-year, and job postings grew 10.6 percent. Large models and AI agents are spreading across industries, with demand shifting toward real-economy sectors and new first-tier cities. Multidisciplinary, cross-functional talent is now the most sought-after.
+New occupations don't appear out of thin air, Zhang noted. They arise at the intersection of technological breakthroughs and real industry needs. When AI enters manufacturing, logistics, and services, the old job framework can't fully absorb the new capabilities, so new roles emerge.
+The infrastructure for "real-world data" that Peng is building is one example.
+Robot training has traditionally relied on two broad approaches. One involves remotely operating physical robots to collect training data, a process that can be expensive and slow. The other generates data entirely in virtual environments, but those environments can differ from the physical world. By capturing actual locations and converting them into simulation-ready environments, Peng's team solves the problem of large-scale pre-deployment training for robots.
+Peng's work attempts to bridge the two.
+Real homes, stores, and factories are captured and replicated as virtual environments that robots can use directly for training and simulation. The aim is to make it possible to train robots at scale before they enter the physical world.
+"We don't build the athletes. We build the training ground," Peng said.
+The metaphor captures something about the new jobs themselves. 
+As AI moves deeper into industry, its capabilities have to be broken down into specific, workable parts of the production process.
+Jiang's role is similar. Traditional robot engineers focused on mechanical debugging and hard-coded motion sequences. Today's training engineers deal with variable lighting, shifting object positions, fluctuating assembly-line speeds. A robot that works in the lab isn't the final answer; the real test is whether it can work steadily across different factories and scenarios.
+Zhang said that AI-related jobs are also expanding beyond data labeling and model training. New roles include AI-native product managers, full-stack engineers, AI-agent developers and field engineers responsible for deploying AI systems in customer environments.
+The rise of "AI plus" jobs, he said, is not simply an increase in the number of positions. It reflects a growing industrial chain around AI.
+Growing with the tide
+A worker scans and inspects new-energy vehicle PTC heaters ready for delivery at a factory in Xiaogan, Central China's Hubei Province, on February 6, 2026. Photo: VCG 
+As AI takes over more repetitive work, another question becomes harder to avoid: Where does that leave people?
+Jobs are changing, and so is the way people need to prepare for them.
+Yang Qianhong, a head of the local artificial intelligence sector under the Ningbo Municipal Bureau of Economy and Information Technology, told the Global Times that AI is changing the logic of talent development. In the past, education placed greater emphasis on accumulating knowledge in a particular discipline. Increasingly, she said, employers will need people who can identify problems, analyze them and find solutions.
+Zhang pointed out that there is no single "entry ticket" for AI careers. Different roles have different thresholds, but what truly matters - beyond degrees or tool proficiency - is understanding real businesses and integrating AI capabilities into specific contexts. He sees two groups as especially competitive: young people who grew up with AI and use it habitually, without old-paradigm baggage; and seasoned professionals with five to 10 years of industry depth who can amplify their expertise with AI tools, potentially multiplying their output severalfold.
+For those already in the arena, the job itself is continuous self-training.
+Jiang reads cutting-edge papers every day. "Don't think about whether AI will replace you," he said. "Think about how to use it to amplify your own abilities." 
+He never lets industry competition turn into anxiety; what sustains him is genuine passion for robotics.
+Peng boils it down to curiosity plus fundamentals: Always imagine future possibilities, but also master the math and coding that underpin the technology. He often tells his team, "Be able to build the whole stack from the ground up even without AI assistance."
+In that sense, the generation entering these new AI jobs shares a distinctive quality. They are comfortable with change, but not blindly enamored with it. They use AI without wanting to become dependent on it. And they are willing to spend time on the slow, sometimes tedious, work of building strong foundations.
+That individual growth is closely tied to the evolution of the jobs themselves. And the long-term development of the industry also depends on the ecosystem around it.
+In Ningbo, Yang said, the local government is working to promote AI in the development of new industrialization and expand its use across manufacturing. The city is opening government application scenarios, setting up industry funds and encouraging universities to develop relevant programs, with the aim of connecting computing power, real-world applications and talent and gradually narrowing the gap between the skills employers need and those workers possess.
+The list of occupations is still changing. So is the shape of the workplace.
+For Jiang and Peng, however, the "future workstation" is not somewhere in the distant future. They are already there, at work.
+Sun Yong contributed to this story

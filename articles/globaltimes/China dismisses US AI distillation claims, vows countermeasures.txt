@@ -1,0 +1,47 @@
+TITLE:
+China dismisses US AI distillation claims, vows countermeasures
+
+PUBLISHED:
+2026-09-09 23:45:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370195.shtml
+
+ARTICLE TEXT:
+Logo of DeepSeek Photo: VCG
+China on Wednesday firmly opposed the US allegations that Chinese artificial intelligence (AI) companies had engaged in "industrial-scale" distillation of US models, condemning Washington for politicizing and weaponizing what it described as a normal technical and commercial practice in the industry, while applying double standards in practice.
+The US allegations that Chinese AI companies had engaged in "industrial-scale" distillation of US models were groundless and lacked legal basis. Relevant US advisory was further evidence of Washington's technological hegemony in the AI sector, its pursuit of a monopoly over computing power and its attempts to suppress competition, a spokesperson for China's Ministry of Commerce (MOFCOM) said on Wednesday. 
+The spokesperson stressed that distillation is a common practice for models to learn from one another in the AI field and is essentially a neutral technical approach used by model developers around the world, including US companies. Smearing such an industry-wide practice as an attack reflects both US anxiety and a clear double standard, the spokesperson said.
+Should the US, however, take actions to suppress Chinese AI companies under the pretext of countering distillation, China will take resolute countermeasures, the spokesperson said. 
+The comments came after several US agencies jointly issued an advisory accusing Chinese AI companies of conducting "industrial-scale" distillation to obtain capabilities from US frontier models and recommending defensive measures for US firms.
+Chinese industry insiders slammed Washington's hegemonic bullying of Chinese artificial intelligence (AI) firms, saying its claims lack factual basis and risk fueling confrontation and mistrust in the AI sector, undermining the industry's development.
+Stigmatizing Chinese AI firms will not weaken their competitiveness; rather, policymakers' failure to face the realities of technological and industrial development risks becoming a greater obstacle to healthy competition and global AI progress, they said.
+Malicious accusations cannot alter competitiveness
+On Tuesday, three US agencies, including the National Security Agency, issued a cybersecurity advisory, claiming that China-based artificial intelligence (AI) companies are engaging in aggressive, industrial-scale distillation activities that systematically extract restricted proprietary functionalities and capabilities of US frontier AI models with the purpose of training their own.
+Notably, the advisory provided no evidence despite making a series of security-related accusations against Chinese companies. Although it acknowledged that distillation is recognized as a legitimate and useful technique in AI research, it still used the practice as a basis for alleging misconduct by Chinese firms.
+The statement claimed that Chinese companies' use of distillation on US models enables Chinese AI models to continually narrow the technology gap, even fueling the advances of Chinese AI models, consequently enhancing their military and cyberattack capabilities that could be used against the US and their allies."
+According to the statement, the companies named in the allegations include several of China's leading large-model developers, including DeepSeek, Moonshot AI, Alibaba Group, MiniMax, StepFun and Z.AI.
+Liu Wei, director of the Human-Machine Interaction and Cognitive Engineering Laboratory at Beijing University of Posts and Telecommunications, on Tuesday slammed Washington for habitually conflating commercial and technological competition with national security, forcibly linking corporate technological activities to the Chinese government and military applications in an apparent attempt to manufacture justification for further sanctions.
+Liu Wei said the rapid advances of Chinese large language models, including continued breakthroughs in reasoning and multimodal capabilities, have fueled US' anxiety over its technological edge. Washington is therefore seeking to raise barriers to Chinese AI companies' access to resources through a combination of public-opinion pressure and hegemonic restrictions, to preserve its lead in frontier AI technologies, he said.
+This US' anxiety has recently intensified.
+US Treasury Secretary Scott Bessent said during a Breitbart News "State of the Economy" policy discussion that maintaining the US' lead over China in artificial intelligence is critical, while arguing that technology companies need to do more to address concerns from communities affected by the construction of data centers, US media outlet Breitbart reported on Tuesday.
+"Beating China — there is no day after tomorrow if China wins at this," Bessent said, read the report.
+Moreover, while stigmatizing Chinese AI companies over model distillation, the US has deliberately avoided addressing similar practices by its own firms. According to China's Ministry of Commerce in July, many US AI companies have previously used Chinese models for distillation in their research, development and training. Nearly 200 US startups have urged the US government not to cut off access to Chinese open-source models, arguing that doing so would weaken the competitiveness of US companies.
+By portraying normal technological activities by Chinese companies as national-security threats while applying different standards to US firms, Washington is attempting to seize the initiative in setting global AI industry rules while practicing an evident double standard, Liu criticized.
+Yet despite mounting pressure, Chinese AI developers have continued to advance through open-source innovation, with their models gaining growing traction among developers worldwide - perhaps the source of Washington's growing unease.
+The latest data from industry tracker OpenRouter showed that Chinese large language models recorded higher weekly usage than their US counterparts for the 19th consecutive week from August 31 to September 6, maintaining the top position globally, an industry media outlet reported. Four of the world's five most-used AI models last week were Chinese. Tencent's Hunyuan Hy4-preview ranked first, with weekly usage reaching 14.7 trillion tokens, up 379 percent from the previous week.
+Trust and co-op needed
+At a time when artificial intelligence is entering a critical stage of development, fragmentation and mistrust may pose a greater threat to the industry than technological competition itself, experts said.
+If geopolitical tensions prompt countries to restrict normal exchanges involving AI models, safety testing and research institutions, the damage would extend beyond industrial cooperation to AI safety evaluation itself. Recent developments suggest such mistrust may already be beginning to affect the industry, they noted.
+Just on Wednesday, the Financial Times reported that Anthropic declined to submit its latest model to Britain's AI Security Institute for testing before release, prompting fears inside the UK government that tech companies are falling into line with the US administration's AI protectionism.
+Notably, the report noted US administration has taken an increasingly restrictive stance on the AI industry in recent months, using sweeping export controls to temporarily curb access to Anthropic's most advanced models for all foreign nationals, including employees of US AI companies.
+Such indiscriminate and overly restrictive safeguards risk diverting US AI policy from the industry's more urgent task: contributing constructively to safer and more sustainable AI development, said Liu Gang, chief economist at the Chinese Institute of New Generation AI Development Strategies. He added that as AI advances at an unprecedented pace, many gaps in safety, governance and technological development still need to be addressed, yet geopolitical tensions are increasingly fragmenting global AI cooperation.
+To counter this growing fragmentation, China has stepped up efforts to share AI development opportunities with other countries, promote open cooperation, and strengthen AI safety, while translating these principles into concrete action.
+At the World Artificial Intelligence Conference held in July, China released an action plan on AI cooperation and development, as part of broader efforts to strengthen international AI collaboration and bridge the digital divide, according to the Xinhua News Agency. It also calls for greater access to high-quality data, more inclusive intelligent computing services, and broader sharing of open-source AI ecosystems.
+As fragmentation and confrontation increasingly spill into the technology sector, the priority should be to preserve channels for dialogue and rebuild conditions for global cooperation, Liu Gang warned. "Attempts to politicize AI development or shut out competitive technologies may deepen mistrust, but they will not erase market demand. Countries should focus instead on keeping the global AI ecosystem open enough for technologies to be tested, adopted and improved through real-world use, while managing risks through cooperation rather than exclusion," according to Liu Gang.
