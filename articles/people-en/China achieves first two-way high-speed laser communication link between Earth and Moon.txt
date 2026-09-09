@@ -1,0 +1,32 @@
+TITLE:
+China achieves first two-way high-speed laser communication link between Earth and Moon
+
+PUBLISHED:
+2026-09-09
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0909/c90000-20497722.html
+
+ARTICLE TEXT:
+China achieves first two-way high-speed laser communication link between Earth and Moon
+Photo shows a schematic diagram of two-way laser communication between Earth and the Moon. (Photo courtesy of the Technology and Engineering Center for Space Utilization under the Chinese Academy of Sciences)
+After more than a year of in-orbit testing, China has achieved a major breakthrough in its laser communication test between Earth and the Moon.
+Researchers have successfully established a two-way laser link across the roughly 400,000-kilometer distance between Earth and the Moon, marking the first time such high-speed laser communication has been conducted between the two celestial bodies.
+The breakthrough marks a significant step forward for China's space laser communications, extending their application from near-Earth orbit into cislunar space.
+Space laser communication transmits information using laser beams. Compared with conventional microwave communication, it offers several advantages, including greater bandwidth, higher data rates, improved pointing accuracy, and enhanced security.
+The equipment is also more compact and lighter, supporting high-speed two-way communication with flexible transmission and reception. However, longer transmission distances introduce considerable technical difficulties.
+"Deep-space communication can span hundreds of thousands of kilometers, placing extremely stringent demands on beam-pointing accuracy. By the time a laser signal travels such a long distance to reach the ground, it has undergone severe attenuation, becoming extremely weak and difficult to detect. At the same time, high-speed transmission technologies face constraints, making it difficult to achieve higher transmission rates," said Yang Lei, a researcher at the Technology and Engineering Center for Space Utilization under the Chinese Academy of Sciences (CAS) and head of the laser communication experiment team.
+Achieving precise pointing over an ultra-long distance was the first major hurdle. Communication between Earth and the Moon has been likened to "threading a needle across thousands of miles": it requires directing an extremely narrow beam of light toward a rapidly moving target some 400,000 kilometers away. Even a tiny angular deviation at the transmitting end can result in a positional error of several kilometers by the time the beam reaches the vicinity of its intended receiver.
+To address this challenge, the research team developed an innovative two-way acquisition and tracking approach designed for ultra-long distances and extremely weak signals. By calculating and systematically calibrating a range of factors -- including satellite orbits, telescope mounting and deformation errors, atmospheric refraction, and laser propagation time -- the team has enabled both orbiting satellites and ground-based telescopes to remain precisely aligned while in motion, ensuring the laser beam accurately reached its target.
+Once the pointing problem was solved, the team faced another hurdle: detecting and identifying extremely weak signals. By the time the laser traveled some 400,000 kilometers to reach the ground, its signal had attenuated to just a few photons, leaving the ground-based telescope with very little signal to detect. At the same time, interference from moonlight, starlight and city lights made it even more difficult to distinguish the useful signal -- akin to trying to hear a needle drop in the middle of a bustling city thousands of miles away.
+To tackle this, the research team deployed ultra-sensitive detectors capable of detecting individual photons and developed sophisticated signal-processing algorithms. These technologies allowed the team to filter through vast amounts of noise and accurately extract useful signal.
+Transmission speeds also needed to keep pace. After achieving stable signal reception, the team continued to improve data-processing efficiency. The experiment initially achieved an uplink rate of 1.25 Mbps (megabits per second) and a downlink rate of 100 Mbps. "Take an 8K high-definition image of the lunar surface, for example. Transmitting it down using a conventional 5 Mbps microwave link would take four to five minutes. With 100 Mbps laser communication, it takes only about 12 seconds," Yang said.
+The experiment was led by the Technology and Engineering Center for Space Utilization, with participation from Zhejiang Lab, the Yunnan Observatories under the CAS, and the Shanghai Institute of Microsystem and Information Technology under the CAS.
+"An Earth‑Moon 'information superhighway' is now up and running. Going forward, we will be able to secure more scientifically original datasets," Yang said. He added that the lightweight, compact, low-power and high-speed information transmission capabilities enabled by the technologies developed through the experiment will also provide a new means of high-speed information transmission for China's manned lunar missions, the development of a lunar research station and deep-space exploration, contributing to more original scientific achievements in China's space science and applications.
+Copyright © 2026 People's Daily Online. All Rights Reserved.

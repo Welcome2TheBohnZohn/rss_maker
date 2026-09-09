@@ -1,0 +1,28 @@
+TITLE:
+Chinese firms plan to build 100,000-GPU AI cluster to boost AI computing infrastructure
+
+PUBLISHED:
+2026-09-09 15:53:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370148.shtml
+
+ARTICLE TEXT:
+A logo of Moore Threads at the 2025 World Artificial Intelligence Conference in Shanghai on July 28, 2025 Photo: VCG
+Chinese cloud service provider JD Cloud and GPU maker Moore Threads are teaming up to build a 100,000-GPU intelligent computing cluster, Moore Threads said on Wednesday, in an effort to scale up domestically developed AI computing infrastructure.
+Moore Threads said that it would be the first time domestically developed GPUs are used in a 100,000-card core computing cluster at a leading Chinese AI cloud provider, a step it said would take homegrown intelligent computing from smaller-scale deployment toward broader commercial use.
+The cluster will be built around Moore Threads' Universal GPUs and support large-model training and inference, embodied intelligence, and other computing-intensive AI workloads. Its computing capacity will also be made available to companies across industries, according to a statement posted on Moore Threads' WeChat account.
+The plan adds to a broader buildout of AI infrastructure across China, as technology companies step up spending on computing capacity and policymakers place greater emphasis on larger intelligent-computing clusters and domestic chips.
+JD Cloud plans to channel more computing resources into supply-chain AI, embodied intelligence, integrated model training and inference, and industrial applications. That is increasing demand for domestic GPUs capable of supporting large-model training across clusters of thousands or even tens of thousands of chips. 
+Such computing infrastructure is becoming increasingly critical as embodied intelligence moves toward broader commercial use. 
+Moore Threads has developed GPUs for large-scale AI training as it has deployed clusters ranging from thousands to tens of thousands of GPUs on a single network. Its systems have been used to train foundation models, embodied-intelligence models and world models, according to the company.
+Under the new partnership, the two companies will cooperate across the full technology stack, from chips and cloud platforms to model training. The collaboration will support the continued development of JD's JoyAI models and accelerate model training, simulation and high-quality data generation, helping build an integrated pipeline from data and training to simulation and deployment, according to the statement.
+Moore Threads, founded in 2020, develops GPUs for AI and other high-performance computing workloads. The company was listed on Shanghai's STAR Market in December 2025, becoming one of the country's highest-profile publicly traded GPU developers.
+The project aligns with China's policy push on AI infrastructure. On Monday, the Ministry of Industry and Information Technology issued a plan for the information and communications industry during the 15th Five-Year Plan period, calling for the orderly deployment of intelligent-computing clusters with 10,000, 100,000 or more accelerator cards, the deployment of inference-computing facilities based on the needs of specific application scenarios, and greater efforts to adapt infrastructure to domestically developed computing chips.
+Global Times
