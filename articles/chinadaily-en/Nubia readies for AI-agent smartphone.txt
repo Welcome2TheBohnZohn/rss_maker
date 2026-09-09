@@ -1,0 +1,30 @@
+TITLE:
+Nubia readies for AI-agent smartphone
+
+PUBLISHED:
+2026-09-09
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202609/09/WS6aa09af5e4b06d4aa055d00d.html
+
+ARTICLE TEXT:
+Nubia readies for AI-agent smartphone
+Launch of NaviX Ultra represents 'phone itself an intelligent assistant'
+ZTE's smartphone brand Nubia is set to release its NaviX Ultra on Sept 16, a device it calls the world's first mass-produced artificial intelligence-agent smartphone, marking a major step in the commercial rollout of on-device AI models in China.
+The NaviX Ultra is powered by ByteDance's Doubao AI Phone Assistant, integrating the AI model at the system level rather than as a stand-alone app. Users interact with the embedded AI via voice or a dedicated orange physical button.
+"The essential difference is this: previous AI phones were 'hardware with AI features tacked on'. An AI-agent phone has the phone itself becoming an intelligent assistant," said Ni Fei, president of ZTE's terminal business division.
+The device is built around four core capabilities: understanding natural language, executing tasks across apps, remembering user preferences and ensuring security. Its system-level Graphical User Interface agent architecture can interpret on-screen content and simulate humanlike taps and swipes to complete multistep tasks across applications — all through a single voice command. For example, users can ask the phone to compare prices, fill in order forms and complete payments without manually switching between apps.
+The device received network access approval from China's Ministry of Industry and Information Technology on Sept 1, completing the full compliance process from large language model filing to terminal certification. Crucially, core AI model computations run entirely on-device, meaning user data does not need to be uploaded to the cloud — a design that significantly reduces privacy risks, Nubia said.
+The NaviX Ultra builds on lessons learned from the Nubia M153, a limited-edition engineering prototype released in December that sold out quickly and saw significant markups on the secondary market. That earlier device used a technique to simulate human touch on apps — which eventually led to being blocked by major platforms.
+For the NaviX Ultra, Nubia and ByteDance have shifted to standardized Model Context Protocol and A2A protocols, moving from "forced entry to requested access".
+The handset now requires partner apps to proactively provide MCP services and open up data and operational capabilities before the Doubao assistant can interface with them. More than 10 partner platforms — including Douyin, Luckin Coffee, Qunar, Meituan and Didi — are already integrated.
+"The year 2026 can be regarded as the 'first year of the agent smartphone'," said Lin Keyu, a senior analyst at Counterpoint Research.
+The launch comes as the broader smartphone market faces headwinds. IDC forecasts that global smartphone shipments could decline 13.9 percent year-on-year in 2026, driven by memory shortages and other factors.
+Yet within this challenging environment, AI is emerging as a key differentiator. IDC forecasts that AI-capable phones will account for 53 percent of China's smartphone market in 2026, with shipments reaching 147 million units.
+CITIC Securities said in a research report that AI agents represent a core scenario for AI application deployment, and their proliferation on end-devices will drive a revaluation of the entire consumer electronics supply chain.
