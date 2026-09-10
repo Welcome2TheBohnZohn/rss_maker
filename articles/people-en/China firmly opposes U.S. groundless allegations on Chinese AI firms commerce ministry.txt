@@ -1,0 +1,26 @@
+TITLE:
+China firmly opposes U.S. groundless allegations on Chinese AI firms: commerce ministry
+
+PUBLISHED:
+2026-09-10
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0910/c90000-20497875.html
+
+ARTICLE TEXT:
+China firmly opposes U.S. groundless allegations on Chinese AI firms: commerce ministry
+BEIJING, Sept. 9 (Xinhua) -- China's Ministry of Commerce on Wednesday voiced firm opposition to the recent U.S. announcements that Chinese artificial intelligence (AI) companies are engaged in so-called industrial-scale efforts to distill capabilities from U.S. AI models, calling the accusations groundless and without legal basis.
+The U.S. move politicizes distillation, which is a normal technical and commercial issue in the AI industry, a ministry spokesperson said, adding the U.S. announcements are another proof of the country's pursuit of technological hegemony and computing power monopoly in the AI field, as well as its suppression of competition.
+Distillation is a common practice for mutual learning among AI models, which is essentially a neutral technical means used by global model companies including U.S. firms. It can help models enhance their learning efficiency, achieve more efficient utilization of human knowledge, and is significant for the development of the AI industry in various countries.
+China's open-source models are open to global enterprises, including those from the United States. Some U.S. enterprises have disclosed the distillation of a large number of Chinese models, the spokesperson said.
+However, the U.S. side has repeatedly and unilaterally accused Chinese enterprises of engaging in "industrial-scale" distillation, and smeared common practices as aggressive acts. This reflects the anxiety and double standards of the United States, the spokesperson said.
+The United States frequently threatened sanctions on and suppression of Chinese companies' distillation practices this year, aiming to maintain the U.S. monopoly in computing power and data, and prevent other countries from participating in the inclusive sharing of AI innovation achievements, the spokesperson said.
+China and the United States should handle the challenges and risks in the AI field in a proactive and responsible manner. The two heads of state have agreed to hold an inter-governmental dialogue on AI. China is willing to engage in constructive and professional discussions with the United States based on the principles of equality, mutual benefit and win-win cooperation, said the spokesperson.
+If the U.S. side takes actions to suppress Chinese AI enterprises under the pretext of targeting distillation, China will surely take resolute countermeasures, the spokesperson added.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
