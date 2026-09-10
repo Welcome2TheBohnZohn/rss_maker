@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 19:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:18:14 +0000</lastBuildDate>
     <item>
       <title>If the EU is determined to wage a trade war against China, then let it try: Global Times editorial</title>
       <link>https://www.globaltimes.cn/page/202609/1370198.shtml</link>
@@ -79,49 +79,11 @@ If this step stays steady, solid, reasoned and sustained, later discussion can b
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370197.shtml</guid>
     </item>
     <item>
-      <title>China dismisses US AI distillation claims, vows countermeasures</title>
-      <link>https://www.globaltimes.cn/page/202609/1370195.shtml</link>
-      <description>Published: 2026-09-09 23:45:00
-
-Logo of DeepSeek Photo: VCG
-China on Wednesday firmly opposed the US allegations that Chinese artificial intelligence (AI) companies had engaged in "industrial-scale" distillation of US models, condemning Washington for politicizing and weaponizing what it described as a normal technical and commercial practice in the industry, while applying double standards in practice.
-The US allegations that Chinese AI companies had engaged in "industrial-scale" distillation of US models were groundless and lacked legal basis. Relevant US advisory was further evidence of Washington's technological hegemony in the AI sector, its pursuit of a monopoly over computing power and its attempts to suppress competition, a spokesperson for China's Ministry of Commerce (MOFCOM) said on Wednesday. 
-The spokesperson stressed that distillation is a common practice for models to learn from one another in the AI field and is essentially a neutral technical approach used by model developers around the world, including US companies. Smearing such an industry-wide practice as an attack reflects both US anxiety and a clear double standard, the spokesperson said.
-Should the US, however, take actions to suppress Chinese AI companies under the pretext of countering distillation, China will take resolute countermeasures, the spokesperson said. 
-The comments came after several US agencies jointly issued an advisory accusing Chinese AI companies of conducting "industrial-scale" distillation to obtain capabilities from US frontier models and recommending defensive measures for US firms.
-Chinese industry insiders slammed Washington's hegemonic bullying of Chinese artificial intelligence (AI) firms, saying its claims lack factual basis and risk fueling confrontation and mistrust in the AI sector, undermining the industry's development.
-Stigmatizing Chinese AI firms will not weaken their competitiveness; rather, policymakers' failure to face the realities of technological and industrial development risks becoming a greater obstacle to healthy competition and global AI progress, they said.
-Malicious accusations cannot alter competitiveness
-On Tuesday, three US agencies, including the National Security Agency, issued a cybersecurity advisory, claiming that China-based artificial intelligence (AI) companies are engaging in aggressive, industrial-scale distillation activities that systematically extract restricted proprietary functionalities and capabilities of US frontier AI models with the purpose of training their own.
-Notably, the advisory provided no evidence despite making a series of security-related accusations against Chinese companies. Although it acknowledged that distillation is recognized as a legitimate and useful technique in AI research, it still used the practice as a basis for alleging misconduct by Chinese firms.
-The statement claimed that Chinese companies' use of distillation on US models enables Chinese AI models to continually narrow the technology gap, even fueling the advances of Chinese AI models, consequently enhancing their military and cyberattack capabilities that could be used against the US and their allies."
-According to the statement, the companies named in the allegations include several of China's leading large-model developers, including DeepSeek, Moonshot AI, Alibaba Group, MiniMax, StepFun and Z.AI.
-Liu Wei, director of the Human-Machine Interaction and Cognitive Engineering Laboratory at Beijing University of Posts and Telecommunications, on Tuesday slammed Washington for habitually conflating commercial and technological competition with national security, forcibly linking corporate technological activities to the Chinese government and military applications in an apparent attempt to manufacture justification for further sanctions.
-Liu Wei said the rapid advances of Chinese large language models, including continued breakthroughs in reasoning and multimodal capabilities, have fueled US' anxiety over its technological edge. Washington is therefore seeking to raise barriers to Chinese AI companies' access to resources through a combination of public-opinion pressure and hegemonic restrictions, to preserve its lead in frontier AI technologies, he said.
-This US' anxiety has recently intensified.
-US Treasury Secretary Scott Bessent said during a Breitbart News "State of the Economy" policy discussion that maintaining the US' lead over China in artificial intelligence is critical, while arguing that technology companies need to do more to address concerns from communities affected by the construction of data centers, US media outlet Breitbart reported on Tuesday.
-"Beating China — there is no day after tomorrow if China wins at this," Bessent said, read the report.
-Moreover, while stigmatizing Chinese AI companies over model distillation, the US has deliberately avoided addressing similar practices by its own firms. According to China's Ministry of Commerce in July, many US AI companies have previously used Chinese models for distillation in their research, development and training. Nearly 200 US startups have urged the US government not to cut off access to Chinese open-source models, arguing that doing so would weaken the competitiveness of US companies.
-By portraying normal technological activities by Chinese companies as national-security threats while applying different standards to US firms, Washington is attempting to seize the initiative in setting global AI industry rules while practicing an evident double standard, Liu criticized.
-Yet despite mounting pressure, Chinese AI developers have continued to advance through open-source innovation, with their models gaining growing traction among developers worldwide - perhaps the source of Washington's growing unease.
-The latest data from industry tracker OpenRouter showed that Chinese large language models recorded higher weekly usage than their US counterparts for the 19th consecutive week from August 31 to September 6, maintaining the top position globally, an industry media outlet reported. Four of the world's five most-used AI models last week were Chinese. Tencent's Hunyuan Hy4-preview ranked first, with weekly usage reaching 14.7 trillion tokens, up 379 percent from the previous week.
-Trust and co-op needed
-At a time when artificial intelligence is entering a critical stage of development, fragmentation and mistrust may pose a greater threat to the industry than technological competition itself, experts said.
-If geopolitical tensions prompt countries to restrict normal exchanges involving AI models, safety testing and research institutions, the damage would extend beyond industrial cooperation to AI safety evaluation itself. Recent developments suggest such mistrust may already be beginning to affect the industry, they noted.
-Just on Wednesday, the Financial Times reported that Anthropic declined to submit its latest model to Britain's AI Security Institute for testing before release, prompting fears inside the UK government that tech companies are falling into line with the US administration's AI protectionism.
-Notably, the report noted US administration has taken an increasingly restrictive stance on the AI industry in recent months, using sweeping export controls to temporarily curb access to Anthropic's most advanced models for all foreign nationals, including employees of US AI companies.
-Such indiscriminate and overly restrictive safeguards risk diverting US AI policy from the industry's more urgent task: contributing constructively to safer and more sustainable AI development, said Liu Gang, chief economist at the Chinese Institute of New Generation AI Development Strategies. He added that as AI advances at an unprecedented pace, many gaps in safety, governance and technological development still need to be addressed, yet geopolitical tensions are increasingly fragmenting global AI cooperation.
-To counter this growing fragmentation, China has stepped up efforts to share AI development opportunities with other countries, promote open cooperation, and strengthen AI safety, while translating these principles into concrete action.
-At the World Artificial Intelligence Conference held in July, China released an action plan on AI cooperation and development, as part of broader efforts to strengthen international AI collaboration and bridge the digital divide, according to the Xinhua News Agency. It also calls for greater access to high-quality data, more inclusive intelligent computing services, and broader sharing of open-source AI ecosystems.
-As fragmentation and confrontation increasingly spill into the technology sector, the priority should be to preserve channels for dialogue and rebuild conditions for global cooperation, Liu Gang warned. "Attempts to politicize AI development or shut out competitive technologies may deepen mistrust, but they will not erase market demand. Countries should focus instead on keeping the global AI ecosystem open enough for technologies to be tested, adopted and improved through real-world use, while managing risks through cooperation rather than exclusion," according to Liu Gang.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370195.shtml</guid>
-    </item>
-    <item>
-      <title>From the world's biggest buyer of services to an emerging seller: 'China services' meet the world at CIFTIS 2026</title>
+      <title>From the world's key buyer of services to an emerging seller: 'China services' meet the world at CIFTIS 2026</title>
       <link>https://www.globaltimes.cn/page/202609/1370192.shtml</link>
       <description>Published: 2026-09-09 23:13:00
 
-The 2026 China International Fair for Trade in Services (CIFTIS) opened September 9, 2026 in Beijing's Shougang Park, which has drawn participants from 90 countries, regions and international organizations, with over 1,800 companies exhibiting on-site. Photo: Li Hai/GT
+The 2026 China International Fair for Trade in Services (CIFTIS) opened September 9, 2026 in Beijing's Shougang Park, which has drawn participants from 90 countries, regions and international organizations, with over 1,800 companies exhibiting on-site. Photo: Li Hao/GT
 Walk into the ICT-themed exhibition hall at Beijing's Shougang Park during this year's China International Fair for Trade in Services (CIFTIS), and the first things to catch the eye are artificial intelligence (AI) models. A trillion-parameter open-source AI large model - the first of its kind fully trained and run on a domestic 10,000-GPU cards computing cluster - is making its public debut. Nearby, a "logistics super brain" AI model paired with robots for global supply-chain solutions is showcased.
 This is the first CIFTIS of China's 15th Five-Year Plan period (2026-30). For the first time, the main exhibition features a dedicated "China Services" case zone, bringing together over 140 innovative cases across all 12 services trade categories. Nearly 40 percent of them are centered on AI, large models and intelligent agents. Beyond telecoms, the zone features BeiDou satellite navigation services, quantum computing cloud platforms, and even reusable rocket launch services. 
 The very establishment of this zone signals that Chinese companies are also increasingly exporting algorithms, digital intelligence and productivity solutions that are already reshaping industries worldwide, participants said.
@@ -155,6 +117,50 @@ This year's CIFTIS provides a key platform for expanding and upgrading the servi
 CIFTIS is where the world gathers to learn about China's policy progress and business sector development, de la Mora said.
 She added that China can be a strong partner for developing countries, not only as an importer of services but also as an investor, to expand the global services economy and create better jobs.</description>
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370192.shtml</guid>
+    </item>
+    <item>
+      <title>GraphicAnalysis: The rise of China's service sector</title>
+      <link>https://www.globaltimes.cn/page/202609/1370189.shtml</link>
+      <description>Published: 2026-09-09 23:00:00
+
+The rise of China's service sector Infographic: GT
+Nation's value added in the service sector grew 5.2 percent year-on-year, 0.5 percentage points faster than overall economic ...
+People watch underwater dancing performances by “mermaids” at the Tonglu service area along the Hangzhou-Qiandaohu Town expressway in ...
+Students visit the YTO Agriculture Cultivation Museum in Luoyang, Central China’s Henan Province, on May 14, 2026, to ...</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370189.shtml</guid>
+    </item>
+    <item>
+      <title>US businesses, local governments active at CIFIT, highlighting commitment to Chinese market</title>
+      <link>https://www.globaltimes.cn/page/202609/1370187.shtml</link>
+      <description>Published: 2026-09-09 22:53:00
+
+The 26th China International Fair for Investment and Trade kicked off on September 8, 2026 in Xiamen, East China's Fujian Province. Photo: VCG
+Representatives of US local governments and businesses attending the ongoing China International Fair for Investment and Trade (CIFIT) in Xiamen, East China's Fujian Province, on Wednesday expressed continued interest in strengthening economic and investment cooperation with China.
+From business representatives to officials from US states and counties, American participants at the fair said that maintaining engagement with China remains important for businesses and local economies, while platforms such as the CIFIT offer opportunities to identify investment projects, business partners and new areas of cooperation.
+Notably, a delegation of more than 30 US companies attended this year's CIFIT, spanning sectors including sportswear, healthcare, food and beverages, and health and wellness products, the Global Times learned.
+The US-China Business Council (USCBC) participates in the CIFIT every year, while this year's event marks Sean Stein's first time attending the fair since becoming president of the USCBC. Stein described the CIFIT as a very important platform for American businesses to learn about the latest developments in China.
+"If we look at CIFIT over its 26-year history, it's more important now because the types of investment and trade deals that are happening today are very different from before," Stein told the Global Times at the CIFIT on Wednesday.
+"Now, if a multinational — an American company, a European company or another company — comes to China, it's no longer looking for something as simple as cheap labor or just a large market. It's trying to identify where it should invest and, more importantly, who it should partner with and invest with," said Stein, "that becomes a much more strategic question than just where I should place a factory."
+That shift has also increased the value of platforms that allow businesses to identify and compare potential partners and projects, according to Stein.
+The continued search for investment opportunities is also reflected in the plans of US companies already operating in China.
+According to the 2026 Special Report on the State of Business in South China released by the American Chamber of Commerce in South China (AmCham South China), 45 percent of companies surveyed ranked China as their top global investment priority, while 75 percent planned to reinvest in China in 2026. 
+Member companies of AmCham South China have earmarked an estimated $13.79 billion from profits in China for reinvestment over the next three to five years, while 95 percent reaffirmed their commitment to maintaining operations in China.
+"These numbers are not just figures. They are a testament to confidence, resilience and long-term strategic vision," Harley Seyedin, president of AmCham South China, told the Global Times.
+This year, the chamber brought more than 30 companies to the CIFIT to explore new investment opportunities. Over the past 23 years of attending the fair, the chamber has averaged more than $2 billion in new investments signed each year, according to Seyedin.
+"I don't expect this year to be any different, and I think we're going to achieve similar numbers this year," he said, adding that member companies remain profitable and "not a single member company has left or decoupled from China." 
+"What we've done is that we have moved up the value chain. We're focused on producing higher-end goods and services in China for the Chinese market," Seyedin said.
+Such corporate-level engagement is complemented by economic links between Chinese and US localities, another theme evident at this year's CIFIT.
+Walter Chuck Jr., a commissioner of Lincoln County, Oregon, was among the members of a US government and business delegation attending the fair. Chuck told the Global Times on Wednesday that maintaining economic connections was an important purpose of the trip, his first to China.
+"We're here to see if we can make some connections, foster better business and better relationships between Oregon and China, and make sure that we keep our relationships going regardless of what's happening worldwide," he said.
+For Chuck, such links have direct economic implications. Chuck noted that China was Oregon's major export market in 2025, while Lincoln County hopes to further expand exports of seafood, including Dungeness crab, groundfish and shrimp, to China.
+"We just want to make sure that we can continue that partnership and show its importance. That's why we're here... we also try to make sure that we get fresh products over here for Chinese New Year," he said.
+The exchanges extend beyond the current CIFIT delegation. Chuck said that another delegation will visit China in two weeks, reflecting continued interaction at the subnational level.
+Such exchanges are particularly significant amid challenges in global trade.
+"It is important to note that the US-China relationship is too large, too interconnected and too consequential to be reduced to a zero-sum game. Our economies are not adversaries. They are partners," Seyedin said.
+"The challenges before us, from climate change to supply chain resilience to technological innovation, do not respect borders. They demand collaborative solutions," Seyedin said.
+The active participation of US businesses and local representatives at the CIFIT reflects US enterprises' expectations for entering the Chinese market, as well as the resilience of China-US economic ties, Zhou Mi, a researcher at the Chinese Academy of International Trade and Economic Cooperation, told the Global Times on Wednesday,
+Despite uncertainties in the global trade environment, companies continue to make investment decisions based on factors such as market demand, supply chains, competitiveness and long-term growth potential, Zhou said.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370187.shtml</guid>
     </item>
     <item>
       <title>GT Voice: Rate hike bets expose US-Japan rift over yen stabilization efforts</title>
@@ -226,97 +232,24 @@ For decades, US intelligence agencies have used sweeping surveillance and infilt
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370177.shtml</guid>
     </item>
     <item>
-      <title>How is China's Gen Z redefining human value in AI's emerging workplace?</title>
-      <link>https://www.globaltimes.cn/page/202609/1370176.shtml</link>
-      <description>Published: 2026-09-09 22:22:00
+      <title>China achieves breakthrough in rare-metal separation technology with world's first continuous tower extraction line</title>
+      <link>https://www.globaltimes.cn/page/202609/1370169.shtml</link>
+      <description>Published: 2026-09-09 21:31:00
 
-Peng Yun delivers a presentation on data capture with 3D spatial cameras in Southwest China's Chongqing Municipality on June 14, 2026. Photo: Courtesy of Peng Yun 
-The robot has made another mistake.
-The robot had performed flawlessly in the lab - under familiar lighting, with objects in their usual spots. But in a real factory, with dimmer light and a part shifted a few centimeters, it fumbled.
-For Jiang Zebin, that is where his work begins.
-He starts with the day's data-collection tasks, processes data left over from the previous day and retrains the model. Later, he puts the updated model back on a physical robot to see how it performs in the real world. If the robot gets it wrong, he adjusts the training and starts again. Jiang calls himself a "robotics engineer." 
-On Wednesday, China's Ministry of Human Resources and Social Security officially gave the job a more formal title: embodied-intelligence robot application technician, China Media Group reported.
-If Jiang's job is to teach robots in the physical world, 28-year-old Peng Yun works one step earlier in the process.
-Fresh out of a PhD program, Peng has joined a group of young engineers to build a virtual world where robots can train before entering the real one. Using consumer-grade spatial cameras and 3D reconstruction, Peng's team digitizes actual homes, supermarkets, and factories - replicating them 1:1 in simulation. Robots first navigate, manipulate, and adapt in these digital twins, then move to physical deployment.
-"Before a robot can enter a home, it needs to know what a kitchen looks like, where the fridge is, where cups usually sit," Peng said. So they digitize those spaces and let the robot learn - and fail - virtually, at scale.
-Jiang is the one who polishes the embodied robot's real-world skills; and Peng is the one who builds its virtual training ground. 
-Their work, though different, points to the same thing: moving AI from the lab into everyday life.
-And their jobs are the leading edge of a broader labor shift sweeping China. As generative AI develops rapidly, new occupations - from embodied-intelligence robot technicians to AI-agent developers and low-altitude logistics workers - are moving from concepts on paper into actual jobs.
-At the front of this emerging workforce are members of China's Generation Z, who have grown up alongside AI. Their choices are raising a broader question: As AI becomes a major source of productivity, how should young people choose a career, and what will allow them to keep up in an industry that changes so quickly?
-AI-native generation
-"People of our generation have grown up with AI. Embracing AI almost feels instinctive," Peng, who was born in 1998, told the Global Times.
-Jiang's path echoes that sensibility. He studied at the Technical University of Munich and interned at Huawei and BMW, gaining experience in AI cloud-based systems and autonomous driving. After graduation, he joined the Zhejiang Humanoid Robot Innovation Center Co Ltd in Ningbo, East China's Zhejiang Province, as a robotics engineer.
-"I chose embodied intelligence because I genuinely love robotics, and I also look at where the industry is heading and what problems it still faces," he said.
-Jiang Zebin tests and fine-tunes the movements of a humanoid robot in the lab in Ningbo, East China's Zhejiang Province, on September 9, 2026. Photo: Courtesy of Jiang Zebin 
-He saw both promise and a gap. Robots could deliver impressive 
-demos, but in real factories, they struggled with consistency. 
-"Under good lighting and simple conditions, we can get a robot to complete tasks successfully and consistently," he told the Global Times. "But in a noisy, chaotic factory environment, performance drops."
-Now, closing that gap is his daily routine: mornings for data and task setup, afternoons for model training and reading the latest papers, evenings for on-robot validation. Half his time is spent with data, half with the hardware.
-"The most rewarding moment is when you take a batch of data, produce a result and the robot actually understands the world and follows your command," he said.
-Peng's work sits one step earlier in the pipeline. He entered his robotics and AI lab in 2020, when humanoid robots were just 40-50 centimeters tall, "just like little robot dolls."
-The lab's tradition was competing in RoboCup, the robot soccer World Cup. "Back then, I couldn't imagine robots ever leaving the pitch and entering daily life."
-Then came 2025. The sector heated up: Companies like Unitree, Tesla and a wave of Chinese startups pushed robots toward factories and homes. Peng saw his chance and set up his company. In Shanghai, his team of about 35 employees - with most born after 2000, and the youngest intern born in 2006 - now uses spatial scanning to create 1:1 digital 3D replicas of real-world spaces, turning them into training assets that robots can use for simulation and evaluation.
- "Think of it as building a gym for robots," Peng said. "They train and fail in the virtual world first, then step into reality."
-"Just like humans, from age 3 to 18, we learn by living in the world every day. Robots need that same process," Peng noted.
-Peng believes that in a way, robots are learning to navigate the human world, while humans are learning to navigate a world reshaped by AI, and then new workstations are emerging from that mutual adaptation.
-"Young Chinese people are growing up with a natural familiarity with technology," said Zhang Quan, an expert with the Shenzhen Artificial Intelligence Association in South China's Guangdong Province. "They are redefining what they look for in a career and, in the process, helping shape the future of China's smart manufacturing."
-An industrial shift
-According to research data from Chinese online job-hunting platform Zhaopin.com, in the first half of 2026, the number of companies hiring for AI roles rose 24.8 percent year-on-year, and job postings grew 10.6 percent. Large models and AI agents are spreading across industries, with demand shifting toward real-economy sectors and new first-tier cities. Multidisciplinary, cross-functional talent is now the most sought-after.
-New occupations don't appear out of thin air, Zhang noted. They arise at the intersection of technological breakthroughs and real industry needs. When AI enters manufacturing, logistics, and services, the old job framework can't fully absorb the new capabilities, so new roles emerge.
-The infrastructure for "real-world data" that Peng is building is one example.
-Robot training has traditionally relied on two broad approaches. One involves remotely operating physical robots to collect training data, a process that can be expensive and slow. The other generates data entirely in virtual environments, but those environments can differ from the physical world. By capturing actual locations and converting them into simulation-ready environments, Peng's team solves the problem of large-scale pre-deployment training for robots.
-Peng's work attempts to bridge the two.
-Real homes, stores, and factories are captured and replicated as virtual environments that robots can use directly for training and simulation. The aim is to make it possible to train robots at scale before they enter the physical world.
-"We don't build the athletes. We build the training ground," Peng said.
-The metaphor captures something about the new jobs themselves. 
-As AI moves deeper into industry, its capabilities have to be broken down into specific, workable parts of the production process.
-Jiang's role is similar. Traditional robot engineers focused on mechanical debugging and hard-coded motion sequences. Today's training engineers deal with variable lighting, shifting object positions, fluctuating assembly-line speeds. A robot that works in the lab isn't the final answer; the real test is whether it can work steadily across different factories and scenarios.
-Zhang said that AI-related jobs are also expanding beyond data labeling and model training. New roles include AI-native product managers, full-stack engineers, AI-agent developers and field engineers responsible for deploying AI systems in customer environments.
-The rise of "AI plus" jobs, he said, is not simply an increase in the number of positions. It reflects a growing industrial chain around AI.
-Growing with the tide
-A worker scans and inspects new-energy vehicle PTC heaters ready for delivery at a factory in Xiaogan, Central China's Hubei Province, on February 6, 2026. Photo: VCG 
-As AI takes over more repetitive work, another question becomes harder to avoid: Where does that leave people?
-Jobs are changing, and so is the way people need to prepare for them.
-Yang Qianhong, a head of the local artificial intelligence sector under the Ningbo Municipal Bureau of Economy and Information Technology, told the Global Times that AI is changing the logic of talent development. In the past, education placed greater emphasis on accumulating knowledge in a particular discipline. Increasingly, she said, employers will need people who can identify problems, analyze them and find solutions.
-Zhang pointed out that there is no single "entry ticket" for AI careers. Different roles have different thresholds, but what truly matters - beyond degrees or tool proficiency - is understanding real businesses and integrating AI capabilities into specific contexts. He sees two groups as especially competitive: young people who grew up with AI and use it habitually, without old-paradigm baggage; and seasoned professionals with five to 10 years of industry depth who can amplify their expertise with AI tools, potentially multiplying their output severalfold.
-For those already in the arena, the job itself is continuous self-training.
-Jiang reads cutting-edge papers every day. "Don't think about whether AI will replace you," he said. "Think about how to use it to amplify your own abilities." 
-He never lets industry competition turn into anxiety; what sustains him is genuine passion for robotics.
-Peng boils it down to curiosity plus fundamentals: Always imagine future possibilities, but also master the math and coding that underpin the technology. He often tells his team, "Be able to build the whole stack from the ground up even without AI assistance."
-In that sense, the generation entering these new AI jobs shares a distinctive quality. They are comfortable with change, but not blindly enamored with it. They use AI without wanting to become dependent on it. And they are willing to spend time on the slow, sometimes tedious, work of building strong foundations.
-That individual growth is closely tied to the evolution of the jobs themselves. And the long-term development of the industry also depends on the ecosystem around it.
-In Ningbo, Yang said, the local government is working to promote AI in the development of new industrialization and expand its use across manufacturing. The city is opening government application scenarios, setting up industry funds and encouraging universities to develop relevant programs, with the aim of connecting computing power, real-world applications and talent and gradually narrowing the gap between the skills employers need and those workers possess.
-The list of occupations is still changing. So is the shape of the workplace.
-For Jiang and Peng, however, the "future workstation" is not somewhere in the distant future. They are already there, at work.
-Sun Yong contributed to this story</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370176.shtml</guid>
-    </item>
-    <item>
-      <title>GT on the spot: Foreign officials highlight China's growing role in global public security cooperation, from police training to cutting-edge tech</title>
-      <link>https://www.globaltimes.cn/page/202609/1370171.shtml</link>
-      <description>Published: 2026-09-09 21:38:00
-
-The opening ceremony of the 2026 Global Public Security Cooperation Forum in Lianyungang, China, on September 9, 2026. Photo: China's Ministry of Public Security
-As emerging security threats, from cybercrime and telecom fraud to drug trafficking, increasingly cut across borders, no country can tackle the challenges alone, foreign officials attending the 2026 Conference of the Global Public Security Cooperation Forum in Lianyungang, East China's Jiangsu Province, told the Global Times on Wednesday, calling for stronger international cooperation while highlighting China's role in strengthening global public security cooperation, as well as providing advanced policing technology and resources to other countries to improve their policing practices.
-The fifth edition of the forum revolves around the theme "Unite to advance public security governance, bring stability to a turbulent world." The event opened on Wednesday, followed by a main forum and a series of subforums focusing on cooperation in migration management, international counter-narcotics cooperation, international counterterrorism cooperation, cybersecurity, public security technology and equipment, international police education cooperation, tourism security, and international security services. Participants also visited the third Public Security Technology and Equipment Expo.
-More than 2,100 participants from 139 countries, regions, and international organizations have been invited to attend the forum. The event is hosted by the China Association for Friendship.
-A sub forum on anti-drug cooperation was held on Wednesday. More than 200 representatives from anti-drug, police and customs authorities, as well as experts and representatives from international organizations, attended the event, coming from 44 countries and regions.
-The forum focused on emerging threats, trends and challenges related to synthetic drugs, as well as possible solutions. Participants noted that the growing spread of synthetic drugs has become a serious global public health and security challenge.
-Participants called for stronger international cooperation to tackle synthetic drugs, stressing that no country can address the problem alone. They advocated comprehensive, balanced, science-based and evidence-based drug policies, with greater cooperation in prevention and education, law enforcement, drug control, rehabilitation and information sharing.
-"Today, no single country can confront public security challenges alone," Mohamed Higazy, advisor to the minister of local development for international cooperation and former assistant foreign minister of Egypt, told the Global Times, pointing to cybersecurity, terrorism, and drug trafficking as threats that increasingly transcend national borders and require countries to work together.
-He said the Lianyungang forum has established itself as "one of the most important forums" addressing public security challenges globally and has become an international platform advocating greater cooperation.
-"As we face more transboundary security threats, international cooperation has become a necessity," he said, adding that the forum provides countries with a platform to jointly pursue peace, stability, and cooperation.
-"The forum is increasingly important as a global platform, bringing together a growing number of countries and high-level representatives. It provides a unique opportunity to discuss emerging global security threats and explore possible solutions," Felipe Tavares Seixas, Director of International Cooperation of the Brazilian Federal Police, told the Global Times.
-"This event on global security and cooperation allows us to exchange information, experiences, knowledge, and best practices, helping our countries strengthen public security and citizen security," Francisco Diaz, Co-director General of the Nicaraguan National Police, told the Global Times.
-Apart from bringing countries together to discuss emerging global security challenges, participants also highlighted how cooperation with China has helped strengthen their law-enforcement capabilities through training, technology, and experience sharing.
-After visiting the third Public Security Technology and Equipment Expo, where he saw advanced robots and AI technologies designed to support modern policing, Seixas said he was impressed by what was on display.
-"The robots are really impressive, as are AI technologies, drones, and anti-scam technologies. There are a lot of interesting technologies that can be applied by law-enforcement agencies," Seixas said.
-He also highlighted expanding law-enforcement training cooperation between Brazil and China. "We have signed agreements with China to exchange police training programs. Some Brazilian officers are currently receiving specialized training in China, and we are developing more training exchanges between the two countries."
-"China has supported us, and continues to support us, in training officers of the Nicaraguan National Police in crime prevention, criminal investigation, and combating organized crime, particularly money laundering and international drug trafficking," said Diaz.
-He spoke highly of Chinese police instructors working in Nicaragua, saying they are "highly professional" and have helped improve the country's police training and law-enforcement capabilities.
-"Through China's Ministry of Public Security, we have received support not only in training, but also in logistics and improving police equipment," he said, adding that Nicaragua aims to build a police force with more advanced technology and resources to better combat both ordinary and organized crime.
-Since the forum was first held in 2022, more than 30 subforums, seminars, and roundtable meetings have been organized, drawing nearly 8,000 participants, including government and international organization representatives as well as prominent experts and scholars.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370171.shtml</guid>
+A 1,000-ton-scale continuous tower extraction demonstration line for producing rubidium carbonate and cesium carbonate in East China's Jiangxi Province. Photo: CCTV News
+China has put into stable operation the world's first demonstration production line using continuous tower extraction technology to recover rubidium and cesium from lithium ores, marking a major advance in the country's green separation technology for rare metals, according to the Chinese Academy of Sciences (CAS).
+The production line, jointly developed by the Institute of Process Engineering under the CAS and Ganfeng Lithium, is located in East China's Jiangxi Province. It can efficiently recover rubidium and cesium, two valuable rare metals often found in small amounts alongside lithium, and produce rubidium carbonate and cesium carbonate with purity levels above 99.9 percent. The products have already entered the market, the Xinhua News Agency reported on Wednesday.
+Rubidium and cesium are used in high-end industries including aerospace and precision instruments. However, China has limited deposits of pollucite, a mineral that can be directly mined for cesium. Much of the country's rubidium and cesium resources are instead found in low concentrations in lithium ores and salt-lake brines.
+Recovering these metals has long been difficult because their concentrations are low while the mineral solutions contain many other substances. Traditional separation methods often require large amounts of equipment and chemicals, making the process costly and making it more difficult to produce high-purity products.
+To address the problems associated with traditional separation methods, researchers and the company developed a tower-based extraction system. Compared with traditional extraction equipment, one of the new towers can handle a workload equivalent to as many as 15 conventional units, while reducing the use of extraction chemicals by 40 percent and cutting the required floor space by more than half, according to the CAS.
+Notably, the new equipment also has improved sealing, helping make the production process cleaner and more environmentally friendly.
+The full industrial system consists of 17 extraction towers. After lithium has been recovered from the ore, the remaining mineral solution is sent into the system, where rubidium and cesium are separated and purified through several stages.
+Operating data from the production line show that the overall recovery rate for cesium is above 98 percent, while that for rubidium exceeds 95 percent. The line has been able to steadily produce high-purity rubidium and cesium salts on an industrial scale.
+A project official said the demonstration line shows that tower extraction technology can be successfully applied to the production of key metals, according to the report. 
+In the past, rubidium and cesium contained in lithium ores were often left unused during lithium production. The new process makes it possible to recover more valuable resources from the same ore, improving the overall use of lithium deposits instead of allowing associated rare metals to go to waste.
+The project is a major result of a broader research program on the safe and efficient use of special lithium ores. The CAS said the technology could help improve China's comprehensive use of lithium resources while strengthening the supply security of rare metals such as rubidium and cesium.
+Global Times</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370169.shtml</guid>
     </item>
     <item>
       <title>Tourism providers pivot to deeper, immersive experiences amid 'China travel' boom</title>
