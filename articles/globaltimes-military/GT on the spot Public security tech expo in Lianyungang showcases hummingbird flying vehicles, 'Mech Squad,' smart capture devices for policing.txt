@@ -1,0 +1,36 @@
+TITLE:
+GT on the spot: Public security tech expo in Lianyungang showcases hummingbird flying vehicles, 'Mech Squad,' smart capture devices for policing
+
+PUBLISHED:
+2026-09-10 20:39:00
+
+SOURCE:
+Global Times Military
+
+CATEGORY:
+Military
+
+URL:
+https://www.globaltimes.cn/page/202609/1370264.shtml
+
+ARTICLE TEXT:
+The "Mech Squad" on display at the third Public Security Tech Expo Photo: Wang Haifeng/GT
+From Monday to Friday, the third Public Security Tech Expo is being held in Lianyungang, East China's Jiangsu Province. Walked into the exhibition hall, the Global Times was greeted by a dazzling array of flying vehicles overhead and humanoid robots and robot dogs on the ground. The products on display were not only the latest examples of technology empowering law enforcement, but also shared "China solution" in public security governance with the world.
+The exhibition covers more than 13,000 square meters and invited more than 100 companies from the public security and police equipment sectors.
+"I remember when I was young, I really wanted our own air capacity, but back then not many police forces around the world had it," Zeng Weixiong, chairman of the Global Public Security Cooperation Forum, told the Global Times. "Today, people can see drones being widely used. The improvement in law enforcement capabilities brought by technology has been exponential."
+Besides drones, another highlight of the air capacity on display was lightweight single-person flying vehicles.
+On the lawn outside the exhibition hall, international guests gathered around a sleek, roughly oval-shaped black flying vehicle. It had a single-seat cockpit and four arms extending from the corners, each fitted with rotor blades, the Global Times observed.
+A Hummingbird ZR-028 single-person electric vertical takeoff and landing vehicle on display at the third Public Security Tech Expo Photo: Wang Haifeng/GT
+Dai Liang, vice president of the Jiangsu Digital Eagle Group, told the Global Times that the "Hummingbird ZR-028" is an ultralight single-person electric vertical takeoff and landing vehicle. It weighs only 88 kilograms without batteries, and below 130 kilograms even with two batteries.
+It stands only 1.4 meters tall, and folds down to just 1.2 meters wide. Despite its small size, it can reach a top speed of 100 kilometers per hour, a maximum altitude of 1,000 meters and about 36 minutes of flight time without a payload.
+Dai said that while it cannot compete with helicopters in range and speed, its core advantages lie in extreme lightweight design, low noise and exceptional flexibility in takeoff, landing and deployment. It can adapt to multiple scenarios, such as low-altitude urban patrols and security alerts: It can take off from rooftops, plazas or open ground to cover blind spots in ground patrols.
+Trying out the cockpit, the Global Times found it easy to enter and not at all cramped. A screen sits in front of the pilot, while a control panel is to the right.
+A staff member handed over a helmet with sensors signaling a high level of technology. "Put it on and you can precisely lock onto targets. While wearing the helmet, if the vehicle is equipped with an aerial net capture device, looking at a target equals locking onto it. You can then deploy the net and catch it," Dai said, noting this is one of the vehicle's core features.
+The system uses AI vision and multi-sensor fusion to automatically identify, track and lock onto targets in complex environments. Combining high-definition zoom cameras and infrared thermal imagers, it distinguishes targets like people or vehicles with high accuracy, automatically zooming and tracking to keep them in view.
+The aircraft also incorporates onboard loudspeaker systems and high-power lighting modules, which enable real-time aerial broadcasts, nighttime illumination and long-range situational observation. It is mainly used for emergency aerial patrols, mountain rescue, on-site aerial command and rapid personnel delivery as it can quickly reach the scene of accidents inaccessible to ground vehicles, greatly improving emergency response efficiency.
+In one zone of the exhibition, humanoid robots and robot dogs were displayed prominently. The words "Mech Squad" were written on a nearby pillar.
+Among the mostly boxy, tech-heavy robot dogs, one round-headed orange robot dog stood out. Staff demonstrated its functions, revealing it is an intelligent guide dog with a panoramic camera and one-touch alarm. It can not only avoid obstacles and guide people with visual impairments across streets, but also trigger an alarm in emergencies so that police can come to aid at first time.
+At one booth, two rows of objects resembling ancient weapons sat on a shelf. Called "Tengfei smart capture devices," the spear-shaped objects differed from each other only in their heads. The forked head mainly consisted of two movable reverse serrated teeth, forming a trap-like device meant to lock onto a target's legs and arms. The billhook head one is designed to hook and subdue a target. 
+Zhang Tengfei, the inventor of the devices, told the Global Times that in real operations he found flaws in traditional capture devices. For example, when trying to subdue a target, the person could keep moving and dodging, making it difficult to control fast-moving targets. The hook model effectively solves this problem: No precise aiming is needed, simply sweep below the target's knees and pull, and the target is immediately subdued.
+The fork model, resembling a hunting fork, is designed to quickly disarm knives and address blade threats. The front end is also fitted with a nozzle that can spray water or tear gas to block the target's vision, then the fork head is aimed at the target's forearm holding the knife, locking it in place. Using downward and upward motions, the knife can be easily removed.
+The devices hold patents including "off-axis linkage triggering" and "reverse serrated locking." While these practical patents may not appear flashy, they deliver immediate improvements in law enforcement: greatly enhancing single-officer combat capability and the success rate of subduing moving targets.
