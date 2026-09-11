@@ -1,0 +1,35 @@
+TITLE:
+Smart, digital transformation revitalizes China's old industrial base
+
+PUBLISHED:
+2026-09-11
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260911/62566fcdfefb44c8b2d69fc8bde9ac0e/c.html
+
+ARTICLE TEXT:
+SHENYANG, Sept. 11 (Xinhua) -- A four-legged inspection robot showcased its agility to navigate challenging terrain as it effortlessly scaled a steep slope, while another robot fitted with flexible, articulated arms demonstrated tasks designed for hazardous high-voltage industrial environments.
+The robots, built and displayed by Nanjing-based YIJIAHE Technology Co., Ltd., were among the exhibits drawing attention at the 2026 Global Industrial Internet Conference in Shenyang, capital of northeast China's Liaoning Province.
+The three-day event, which concluded on Thursday, brought together guests from political, business, academic and other sectors to discuss innovation and development of the industrial internet. Powered by technologies involving 5G and AI, the industrial internet connects people, machines and other production resources, allowing manufacturers to better coordinate and optimize production.
+Northeast China is one of the country's traditional industrial bases, with deep industrial roots and a well-established industrial system. The region also faces challenges in upgrading equipment and shifting growth drivers. In recent years, smart and digital transformation has become an important part of its efforts to upgrade the manufacturing sector.
+The opportunities created are attracting companies from outside the region.
+YIJIAHE, headquartered in Nanjing, east China's Jiangsu Province, established its Northeast Asia international innovation center in Shenyang last month, focusing on the development of intelligent robots for healthcare, power and firefighting.
+"Liaoning boasts a wide range of industrial scenarios," said Zhang Jiachun, head of solutions at the company. "We hope to explore diversified real-world applications here and support the smart and digital transformation of the old industrial base."
+Local companies are also tapping into Liaoning's industrial resources. At the conference, the Liaoning branch of China Mobile displayed industrial large models for sectors that include petrochemicals, electric power and equipment manufacturing.
+Factories across Liaoning have accumulated large amounts of production data over the years, much of which has yet to be fully utilized, according to Tang Dianbo, deputy head of the company's industrial innovation research institute.
+At Genertec Shenyang Machine Tool Co., Ltd., AI is being applied directly to machining. With its self-developed numerical control system, 5G private network and industrial internet platform, AI can fine-tune the machining process in real time based on changes in materials and tool wear, automatically correct machining errors and provide early warnings of potential equipment problems.
+The transformation is not limited to heavy industry. At Dayang Group Co., Ltd. in Liaoning's port city of Dalian, after customers upload body measurement, fabric selection and pattern design through the company's industrial internet platform for customized clothing, its system generates production instructions and enables the production line to switch between different products with minimal adjustments.
+By linking measurements, design, cutting and production data, customized orders can move through the same production system, allowing the company to combine large-scale production with personalized demand.
+"Before the digital upgrade, even the most experienced pattern makers needed around two hours to turn measurements into a pattern. The process now takes just two seconds," said Hu Dongmei, general manager of the company, adding that a customized suit can now be completed in as few as three days.
+Similar applications are emerging across Liaoning, with major manufacturers working with local software service providers in areas such as equipment-failure prediction, adaptive optimization of machining processes and intelligent quality control in steel production.
+In April, the province launched a three-year action plan for the smart and digital transformation of manufacturing, aiming to develop more than 600 industrial 5G private network projects and cultivate 150 provincial-level industrial internet platforms by the end of 2028.
+Similar policy support has been introduced elsewhere in northeast China. In Jilin Province, financial incentives are provided for smart and digital transformation projects, while Heilongjiang Province has organized experts to offer one-on-one assessments for enterprises, while helping to connect companies with digital service providers.
+The regional push is part of China's wider development of the industrial internet. Data from the Ministry of Industry and Information Technology shows that the country's core industrial internet industry exceeded 1.6 trillion yuan (about 236 billion U.S. dollars) in 2025, while the number of industrial 5G private networks topped 26,000.
+The industrial internet is now applied across all major sectors in China, with 100 advanced 5G-enabled factories meeting global leading standards, according to the ministry. These facilities reported a 25 percent increase in average production capacity, a 21 percent improvement in product quality and a 19 percent reduction in operating costs.
+A think tank report released at the conference said northeast China's experience in applying smart and digital technologies to its well-established heavy industrial system could provide pointers for the upgrading of other traditional industrial cities in China and offer insights for similar industrial regions elsewhere in the world. ■
