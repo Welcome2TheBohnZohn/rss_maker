@@ -1,0 +1,31 @@
+TITLE:
+'Super power bank' goes live! World's largest salt cavern compressed air energy storage project starts up in East China
+
+PUBLISHED:
+2026-09-12 14:34:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370370.shtml
+
+ARTICLE TEXT:
+Screenshot of CCTV News
+The Jintan salt cavern compressed air energy storage project — one of China's massive energy storage facilities, located in Changzhou, East China’s Jiangsu Province has — completed the full startup of two units, CCTV News reported on Saturday. 
+With 350 megawatts (MW) of capacity per unit and the world’s largest total installed capacity of its kind, the project marks a major breakthrough in core technologies and system integration for large-scale compressed air energy storage.
+The project, dubbed a "super power bank," is the Huaneng Jintan salt cavern compressed air energy storage phase II project Its energy conversion efficiency is expected to exceed 70 percent once fully completed and put into operation.
+Compressed air energy storage works by using excess electricity during off-peak hours to drive compressors that press air into underground storage caverns. When power demand rises, the compressed air is released to generate electricity.
+As a form of physical energy storage, the technology can help balance supply and demand in the power grid and support the large-scale integration of renewable energy.  Unlike fossil-fuel-based peaking plants, salt cavern compressed air energy storage does not rely on combustion, making it a low-carbon and environmentally friendly option.
+The Jintan project makes use of deep salt caverns, which are regarded as ideal storage spaces because salt formations are dense and highly impermeable, reducing the risk of air leakage. 
+During periods of low electricity demand, surplus grid power is used to compress air to more than 130 atmospheres before injecting it into the salt caverns. During peak demand, the stored high-pressure air is released to drive turbines and generate electricity.
+China has a growing number of salt cavern energy storage projects, but this facility stands out for both scale and technical complexity.  
+According to CCTV News, the project also features Asia’s largest single-set thermal storage water tank matrix in the compressed-air storage sector. The system includes 16 spherical water tanks, each capable of holding 3,500 cubic meters of water, with a total volume of 56,000 cubic meters — roughly equivalent to 22 standard swimming pools.
+These thermal storage tanks play a key role in the process by capturing heat generated during air compression and reusing it later to warm the released compressed air, improving efficiency and reducing energy loss.
+The project also features what is described as the largest single intake and injection gas well in China’s compressed air energy storage sector. 
+Engineers said the well can handle as much as 2.16 million cubic meters of air per hour. Special anti-corrosion and sealing treatment has been applied to support long-term stable operation and minimize leakage, said the CCTV News report.
+At the project’s control center, operators can monitor real-time data from both the surface equipment and the underground salt caverns located about 1,000 meters below ground. With centralized digital management, the system is designed to ensure safe, stable and efficient operation under rapidly changing grid conditions, according to the report.
+Global Times
