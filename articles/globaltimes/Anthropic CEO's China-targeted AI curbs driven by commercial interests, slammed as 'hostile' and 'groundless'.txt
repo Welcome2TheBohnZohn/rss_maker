@@ -1,0 +1,53 @@
+TITLE:
+Anthropic CEO's China-targeted AI curbs driven by commercial interests, slammed as 'hostile' and 'groundless'
+
+PUBLISHED:
+2026-09-14 00:06:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370462.shtml
+
+ARTICLE TEXT:
+US against open-source AI. Illustration: Liu Rui/GT
+US AI company Anthropic CEO Dario Amodei claimed in an article published on Saturday, US time, that "Chinese lead in AI would pose grave danger for the US and the world" while calling for a series of measures to restrict China's development in the booming field. His remarks have quickly drawn questions from some Western media over his intentions and sparked criticism in China, with an expert slamming such rhetoric as "inappropriate," "hostile," and "groundless."
+Such claims were driven by commercial interests and competitive concerns, which risked turning AI safety into a geopolitical, zero-sum issue rather than addressing a global challenge that requires cooperation among major AI powers, the expert noted.
+Wide criticism
+In the article, the Global Times found that Amodei mentioned China 12 times and hyped the so-called "security threat" posed by China's AI development while calling for restrictions on the country.
+He called on companies and the US government to cooperate to make these steps as effective as possible. "If we execute these measures well, I believe they would slow China's progress enough to widen America's lead significantly over the next 3-5 years - the window when AI becomes geopolitically most important," Amodei claimed.
+The American industry representative also mentioned that global pacing will require cooperation with China, which he described as having "by far the most advanced AI capabilities."
+Amodei's proposals seek to portray China's legitimate development in AI as a threat and further fuel confrontation between China and the US in the field. Such rhetoric is "inappropriate," "groundless," and "hostile," Xiang Ligang, a veteran telecom and tech policy observer, told the Global Times on Sunday.
+AI development requires global cooperation, but Amodei's argument is biased and contradictory, Xiang said, noting that "on one hand, Amodei acknowledges that global efforts to pace AI development would ultimately require cooperation with China; on the other hand, he advocates restrictions on chips, computing power, and models to slow China's AI development, while explicitly seeking to widen the US technological lead over China."
+Commenting on the series of restrictive measures targeting China proposed by Amodei, Liu Shaoshan, director of Embodied AI at the Shenzhen Institute of Artificial Intelligence and Robotics for Society, said the issue has gone beyond AI safety, as it puts AI safety, national security, industrial competition, and commercial interests into the same framework.
+Liu, who previously worked with Amodei, told the Global Times on Sunday that in the short term, tech companies have strong incentives to portray AI as more powerful, mysterious, and even dangerous than it actually is.
+"Once AI is portrayed as a technology that will determine national competition, national security, and even the future of civilization, an AI company is no longer seen as an ordinary tech company, but as 'strategic infrastructure.' This directly increases its policy importance, raises industry barriers, and boosts its valuation," Liu noted. 
+Amodei's China-related remarks reflect multiple considerations, including commercial ones. Anthropic is facing growing competition from rapidly advancing Chinese open-source models, which are challenging the closed-source frontier model approach represented by Anthropic in terms of cost, performance, and the global developer ecosystem, Xiao Qian, vice dean of the Institute for AI International Governance at Tsinghua University, told the Global Times on Sunday.
+Amodei therefore advocates further restricting Chinese companies' access to advanced US models and technologies to protect his company's competitive advantage, Xiao said.
+Amodei's recent claims have also drawn skepticism from some Western media and tech industry insiders.
+The BBC reported that some observers suggested Amodei's post was "less about safety than about consolidating control over AI technology."
+"Dario makes the case to stop open source and concentrate enormous technological and economic power with Anthropic," Chamath Palihapitiya, an investor and co-host of the tech podcast "All-In," wrote, per the BBC.
+The BBC also noted that notions of slowing down or even pausing AI development have long been met with cynicism in certain corners of Silicon Valley, with critics accusing leading AI developers of hyping their technology as a marketing ploy.
+The Atlantic raised similar questions. It noted that some people will dismiss Amodei's essay as "the latest po-faced posturing" from an executive who has a vested interest in people thinking that his technology is unprecedented.
+"The skeptics see it as an elaborate marketing pitch: Oh no, our products are getting too powerful! The accelerationists dismiss it as a cynical ploy by incumbents to gatekeep the technology," The Atlantic wrote.
+Some critics have dismissed such warnings as ways to gin up excitement about the AI industry and its capabilities. The Associated Press noted that Anthropic and OpenAI are preparing for possible debuts on the stock market that could value them at many hundreds of billions of dollars.
+However, Amodei's position does reflect the views of some in the US, including certain US officials, who believe that China's AI development should be contained in order to preserve the US' technological lead, with groundless claims about China's so-called AI threat being repeatedly hyped, Xiang said.
+For example, US Treasury Secretary Scott Bessent claimed during a Breitbart News "State of the Economy" policy discussion that maintaining the US' lead over China in artificial intelligence is critical, while arguing that technology companies need to do more to address concerns from communities affected by the construction of data centers.
+The "China threat" narrative by certain US AI industry insiders serves a dual purpose here: on one hand, it serves US geopolitical competition; on the other, it amplifies the strategic value of some frontier AI companies and the rationale behind their valuations, Liu said, warning that long-term risks should be taken seriously.
+'Not a zero-sum game'
+As AI technology develops rapidly, its safety and governance have become an important part of global discussions. Against this backdrop, China has been an active participant in international efforts on AI safety and governance and the development of related global rules.
+For example, as AI develops at an unprecedented pace, the 2026 World AI Conference (WAIC) & High-Level Meeting on Global AI Governance was a milestone event, championing the sound, safe, and orderly advancement of AI to serve global development and human well-being.
+Meanwhile, in contrast to the US approach of seeking to maintain its technological lead through restrictions, China's growing open-source AI ecosystem is creating new opportunities for global innovation and cooperation. The country's open-source large models have now recorded more than 10 billion cumulative downloads, continuing to open up greater opportunities for global AI innovation and cooperation.
+In a recent interview with CNBC, Hugging Face CEO Clément Delangue said China is winning the AI race with open-weight models and could catch up to US model makers as soon as this year.
+Fueling this revolution is the open collaboration and sharing ecosystem in China, while model makers in the US are "building in silos" and risk falling behind, he said.
+Just days before Amodei published his article, China's Ministry of Commerce responded to US allegations that Chinese AI companies were engaging in so-called "distillation" of US models. Distillation is also one of the areas Amodei specifically called on the US to crack down on in his article.
+The US's accusation that Chinese AI firms are engaging in industrial-scale distillation of US AI models is groundless in fact and without basis in law, 
+China's Ministry of Commerce (MOFCOM) said on Wednesday
+, stressing that the US move is politicizing and weaponizing distillation - a normal technical and commercial practice in the industry - and applying double standards in practice.
+"The statement is further proof that the US is pursuing technological hegemony in AI, seeking to monopolize computing power, and suppressing competition. China firmly opposes this," a MOFCOM spokesperson said in a statement on the ministry's website.
+Commenting on the US moves on China's AI development, Xiang said effective AI governance should balance safety and development through dialogue, risk assessment, and multilateral coordination, rather than technological blockades or containment. As AI advances rapidly, communication and basic safety consensus among major AI powers will become increasingly important, the expert said.
+Liu also said China and the US can compete in AI, but safety rules should not be entirely zero-sum. "Mature AI governance is not about deciding who can develop AI, but ensuring that humans retain ultimate control, regardless of who develops it," Liu said.
