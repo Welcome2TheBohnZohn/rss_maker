@@ -1,0 +1,28 @@
+TITLE:
+China scales up embodied AI's reach
+
+PUBLISHED:
+2026-09-14
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202609/14/WS6aa734f0e4b06d4aa055dd0f.html
+
+ARTICLE TEXT:
+China scales up embodied AI's reach
+Vast industrial base, dense supply chains boosting robot performance
+Microduck, a robot duck that waddles, carries objects with its beak and skates on tiny wheels, has become an unlikely global AI hit. Priced at disarmingly $399, the gadget drew orders of as many as 10,000 units within days of its launch, with sales topping $2.6 million in the first 24 hours.
+Interestingly, it was developed by French robotics developer Pollen Robotics, part of New York-based AI platform Hugging Face, but it runs on a chip from China's Rockchip, and is manufactured in China by Shenzhen, Guangdong province-based firm Seeed Studio, according to media reports.
+Behind the toy-like duck is a much bigger technological shift. The global AI race is moving from models that generate words and images into embodied AI — robots that can perceive, reason and act in the physical world — and China is betting that its vast manufacturing base, dense supply chains and rapidly expanding robot fleet can give it an edge.
+This transition was on vivid display across Beijing in August. At the 2026 World Robot Conference, 373 companies packed exhibition halls with more than 3,000 products, including 311 debuts. Days later, more than 2,000 robots descended on the World Humanoid Robot Games, where they sprinted, fought, danced and tackled tasks drawn from factories, homes and service industries.
+Taken together, the events captured a Chinese robotics industry trying to make a crucial transition: from machines that look impressive on stage to machines that can earn their keep on factory floors.
+For much of the generative-AI boom, the competitive scoreboard was relatively straightforward: advanced semiconductors, computing clusters, foundation models, data and developers.
+Robots complicate that equation. A humanoid may need a sophisticated AI model, but it also needs motors, reducers, bearings, cameras, tactile sensors, batteries, power electronics, precision-machined joints and hands capable of manipulating objects.
+All of those components must work together reliably, repeatedly and cheaply.
+China already operates the world's largest industrial robot market and has spent decades building electronics, electric-vehicle and automation supply chains that can increasingly be redirected toward embodied AI. Components refined for smartphones and cars — cameras, batteries, sensors, motors and power electronics — are now turning up inside robots.
+Xi Ning, chair professor of robotics and automation at the University of Hong Kong, said at the World Robot Conference that China's gap with the United States in basic robotics theories and methods had shifted from one of "quality" toward one more of "quantity", while parts of China's supply chain had already moved ahead.
