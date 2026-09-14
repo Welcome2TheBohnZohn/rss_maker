@@ -1,0 +1,35 @@
+TITLE:
+Smart technologies power high-quality development of China's mining industry
+
+PUBLISHED:
+2026-09-14
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260914/1a220a2d7de14247a2364f967e48f362/c.html
+
+ARTICLE TEXT:
+TIANJIN, Sept. 14 (Xinhua) -- At the exhibition booth of Unissky (Nanjing) Technology Co., Ltd., a four-legged inspection robot moved steadily, autonomously adjusting its movements when encountering obstacles and following predefined routes. Designed for inspection in confined and hazardous spaces such as underground mines, the robot drew the attention of many visitors to the 2026 China Mining Conference and Exhibition.
+"This product is primarily designed for confined and hazardous environments such as underground mines, and it has broad application potential in the mining sector," said Xu Tao, a solution manager at Unissky.
+The global mining industry is undergoing a profound digital transformation. In recent years, China has embraced smart technologies to modernize its mining industry, with digital twins, autonomous mining, and AI-powered exploration gaining ground across operations.
+China's push for smart mining is helping drive the industry into a new stage of development. The coal industry offers a glimpse of this transformation. By the end of 2025, China had 1,066 intelligent coal mines, with intelligent production capacity accounting for more than 65 percent of total coal production capacity, according to data from the China National Coal Association.
+Artificial intelligence is being rapidly adopted across the coal industry, with applications spanning production and operations, safety management, and equipment maintenance. Autonomous driving technology is also gaining ground in open-pit mines. In China, more than 4,000 autonomous mining trucks were in operation by the end of 2025, according to industry statistics.
+In 2024, seven Chinese government departments jointly issued the guiding opinions on advancing the construction of intelligent mines and promoting the safe development of mines. The document calls for establishing a comprehensive system covering technology, equipment and management for smart mining by 2030, with greater integration and broader sharing of mining data.
+Ren Shoumai, an official at the China Geological Survey, said geological mapping is like drawing a "geological navigation map" for the subsurface mineral world.
+On Friday, the Ministry of Natural Resources unveiled an AI-powered mineral exploration system, AI-OreSeeking, and an AI-powered geological mapping system, AI-GeoMapping, aiming to reshape geological survey workflows and provide a new technological paradigm for global mineral exploration.
+AI-GeoMapping has been widely trialed on nearly 100 1:50,000-scale geological map sheets in Qinghai, Xizang, Xinjiang, Fujian, and other provincial-level regions of China, and has also been promoted in Morocco, Saudi Arabia, Laos and other countries. It identifies geological bodies with overall accuracy exceeding 90 percent and improves the efficiency of data processing, integrated analysis and geological map compilation by more than 50 percent compared with traditional methods.
+Experts attending the event said cutting-edge technologies such as artificial intelligence, the Internet of Things and 5G have become increasingly integrated into the entire mining lifecycle, driving breakthroughs in areas such as smart mine development and mining machinery manufacturing.
+At Huangling Mining Co., Ltd., a subsidiary of Shaanxi Coal and Chemical Industry Group, production data at the No. 1 Coal Mine are updated in milliseconds on screens at the surface dispatch and command center. Folds in rock layers and variations in coal seam thickness that were previously difficult to observe are now converted into 3D visual data through smart technologies, enabling more precise prediction and dynamic control of underground operations.
+At Yidong Group's Lijiata Coal Mine, a high-precision personnel positioning system and a 5G-based communication and dispatch system have created an underground high-speed information network, significantly improving mine safety management and emergency response.
+At Qinglong Coal Mine, operated by Guizhou Qianxi Energy Development Co., Ltd., intelligent shearers equipped with memory cutting and automatic following, as well as intelligent roadheaders featuring inertial navigation, laser positioning and infrared remote control, are being used in mining operations. These technologies have significantly reduced the physical workload of workers while boosting production efficiency.
+"Mining robots are helping enable unmanned operation at fixed workstations and robotic operations at hazardous posts," said Wang Lin, a marketing manager at CITIC HIC Kaicheng Intelligence Equipment Co., Ltd.
+The company's coal-gangue sorting robot on display at the conference uses big-data-based intelligent recognition technology to automatically identify and separate coal from gangue, helping mining companies improve sorting efficiency and operating returns, Wang said.
+Smart mining practices are also being extended to other fields. During the construction of a reservoir bridge in Macheng, central China's Hubei Province, the project team of China Railway 18th Bureau Group Co., Ltd. applied smart technologies to key construction processes and independently developed a range of tools, including a precision positioning device for embedded sleeves in track slabs. These innovations have helped address long-standing challenges such as significant positioning deviations in traditional manual operations, significantly improving construction quality and precision.
+Wang Sufeng, deputy director and secretary-general of the Smart Mine Professional Committee of the China Association of Work Safety, said smart mining is key to developing new quality productive forces and enhancing workplace safety, and is an essential path to the industry's high-quality development.
+Looking ahead, experts said the industry needs to improve intelligent decision-making and inter-system coordination, build centralized data platforms to enable data sharing, and accelerate the development of technologies for transparent geological information and safer, more energy-efficient power systems.
+Industry insiders called for closer cooperation among government agencies, mining companies, equipment manufacturers, universities and research institutes to advance smart mining and inject new momentum into the industry's high-quality development. ■

@@ -1,0 +1,41 @@
+TITLE:
+US AI race mind-set, fearmongering over China risk fragmenting global governance amid AI slowdown debate: Chinese experts
+
+PUBLISHED:
+2026-09-14 23:59:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370537.shtml
+
+ARTICLE TEXT:
+AI Photo: VCG
+Chinese experts warned on Monday that Washington's growing anxiety over China's rapid AI development appears to be increasingly distorting its policy priorities, a trend that could have far-reaching negative consequences for the balanced and healthy development of the US AI industry. 
+Amid the rapid evolution of AI, they urged the US to avoid further fueling confrontation and competition, saying that major AI powers should shoulder responsibility for the coordinated development of the broader industry ecosystem rather than defining technological progress through a simplistic winner-takes-all lens.
+These remarks came amid a widening US debate over AI safety and regulation, especially as US policymakers and tech leaders increasingly put competition with China at the forefront of their AI policy considerations and frame China's AI development as what they call national security concerns.
+The question, however, is whether drawing battle lines and crowning a winner would make shared AI risks any less real or even make them disappear. Clearly, it would not.
+A 'winner' cannot escape safety risks
+Senior US policymakers have recently underscored a broader tendency to weigh regulation and safety against the perceived imperative of staying ahead of China.
+A Reuters report noted that US President Donald Trump on Sunday likened critics of artificial intelligence to "very negative forces" bringing up scenarios that will not happen, and said he wanted to make sure that the US remains the industry leader.
+When asked whether the AI industry should slow down or face tighter regulation, Trump said the US was "leading China in AI" and that he wanted to keep it that way, arguing that whoever wins the AI race "wins." Trump's solution has been to "put guardrails" in place, according to Reuters, while reiterating that the concerns raised by what he called "negative forces" warning of AI risks would not happen.
+The US House Speaker Mike Johnson (R-La.) also said Sunday that Congress won't lead the charge on regulating AI safety, according to Axios. The report said Johnson also acknowledged the need to put in place "guardrails" and safety measures to prevent AI from running out of control. At the same time, he stressed the need to ensure that the US does not lose its edge in the global AI competition with China, warning that such an outcome would pose what he called a "national security threat."
+"They know that China has become a strong competitor in AI, and worry that if the US slows down development or tightens regulation, China could catch up even faster. That concern is increasingly shaping US AI policy, with containing China taking up more attention while issues such as safety, governance and long-term risks are in danger of being pushed aside. This is a rather narrow way of looking at AI development," Xin Qiang, deputy director of the Center for American Studies at Fudan University, told the Global Times on Monday.
+This way of thinking carries real risks, Xin stressed. As AI develops at an extraordinary pace, a winner-takes-all approach led by the US could subject global AI governance to growing geopolitical rivalry, making it harder to build common rules and leaving major powers without the basic coordination and safeguards needed to keep pace with the technology, according to Xin.
+As AI capabilities advance rapidly in China and elsewhere, US concerns over its narrowing lead are also growing. AI governance, however, should not become a tool to lock in existing technological advantages or constrain other countries' development, as that would risk further fragmenting global cooperation and governance, Xin said.
+AI governance needs leadership's co-op
+Amid growing concerns about AI safety risks, some US tech leaders are calling for a slower pace of AI development. 
+Over the past month, leading US AI companies have repeatedly disclosed safety risks, suggesting that advanced AI systems are beginning to exhibit behavior that can extend beyond developers' intended boundaries.
+Anthropic said on September 9 that it had identified four incidents in which Claude models gained unauthorized access to real third-party systems during cybersecurity evaluations. 
+Meanwhile, Anthropic's latest threat-intelligence report documented real-world misuse across cyber operations, influence operations, surveillance, scams and fraud, biological misuse and conventional weapons development. The company said that over the past eight months it had identified and disrupted operations in which threat actors tried to use Claude for malicious activity.
+OpenAI, meanwhile, said on September 1 that GPT-6 Astra had reached the "critical cybersecurity capability threshold" under its Preparedness Framework. It means that the model has capabilities that could create new pathways to severe cyber harm if misused or insufficiently controlled.
+However, concerns over China remain deeply embedded in the debate. Anthropic CEO Dario Amodei recently called for the slowing of AI development, but said any slowdown by democratically governed countries should be limited to preserving the lead US AI firms hold over China, while claiming that a Chinese advantage in AI would pose US national security risks, according to Reuters' Saturday report.
+Such rhetoric was criticized by China's Foreign Ministry (FM) as fueling fear-mongering, confrontation and vicious competition. AI is a consequential technology for the wellbeing of all humanity. All parties should jointly promote the open and inclusive development of AI for good and for all. Fear-mongering, confrontation and vicious competition will only hamper efforts toward sound global AI governance, which serves no one's interest, FM spokesperson Guo Jiakun said on Monday.
+In recent years, as Chinese companies have accelerated AI development, China has continued to roll out and refine regulatory measures in parallel, seeking to keep governance frameworks aligned with the needs of a rapidly evolving industry.
+At the inaugural session of the UN Global Dialogue on AI Governance in Geneva in July, Jia Guide, China's permanent representative to the United Nations Office at Geneva and other international organizations in Switzerland, said China, as an advocate, promoter and pioneer in AI capacity building, had proposed the Global AI Governance Initiative and was helping countries share the benefits of AI, according to Xinhua News Agency. He added that China looked forward to the active participation of all parties with a view to bridging the AI divides.
+"Backed by China's firm commitment to AI development and growing technological strength, the country's progress in the field will not be constrained by the US," Ma Jihua, a veteran tech industry analyst, told the Global Times. "As a key driver of the new round of technological revolution and industrial transformation, China is advancing technological development and governance in parallel with the evolving needs of the industry, while also promoting international cooperation to manage risks and support sustainable innovation," he added.
+Ma stressed that effective AI development should serve the common interests of humanity, rather than become a tool for individual countries to preserve technological advantages and contain competitors.

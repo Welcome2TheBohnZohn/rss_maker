@@ -1,0 +1,43 @@
+TITLE:
+China, India share objective interests in AI co-op, but greater political trust needed to unlock potential: Chinese analysts
+
+PUBLISHED:
+2026-09-14 22:37:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370526.shtml
+
+ARTICLE TEXT:
+A worker is decorating the sign for the 18th BRICS Summit showcased at Bharat Mandapam, New Delhi, India on September 10, 2026. Photo: Xian Yifan/GT
+China's proposal at the BRICS Summit in New Delhi to promote open-source and inclusive artificial intelligence (AI) cooperation among member countries has brought new potential for China-India cooperation into focus: as political ties continue to stabilize, could AI become one of the first emerging areas where the two Asian giants test whether their broader rapprochement can translate into practical cooperation?
+Chinese analysts reached by the Global Times on Monday said that China and India objectively share interests and cooperation needs in areas ranging from AI applications and open-source technologies to digital infrastructure, given their huge markets, development needs and respective technological strengths. Yet whether such potential can be translated into concrete cooperation will depend in large part on stronger political mutual trust, as concerns in India over data security, technological dependence and strategic autonomy continue to pose obstacles.
+Against this backdrop, AI could become an emerging area in which the two Asian giants test whether the improvement in political relations can translate into practical cooperation, analysts said.
+In a speech when attending the second day of BRICS summit in New Delhi, Chinese President Xi Jinping proposed five initiatives on "greater BRICS" cooperation in areas of AI, trade and investment facilitation, digital industry, intelligent manufacturing, and science and technology talent development, the Xinhua News Agency reported on Sunday.
+On the open source and inclusive AI initiative, Xi said that China will be a pioneer in establishing a BRICS AI open source community, support the cooperation in developing and applying large language models, hold specialized AI seminars and training courses, and build an open ecosystem for AI, per Xinhua.
+Xi also said that China will push for establishing a BRICS digital ecosystem cloud platform, and conduct digital skills training, technological exchange and industrial alignment, so as to jointly enable the development of the digital economy.
+The proposal quickly drew attention in India, where discussions reflected both interest in the potential of a more open AI ecosystem and concerns over technological dependence and security.
+In an analysis headlined "China wants to create a BRICS open-source AI ecosystem. Where does India fit?" The Indian Express noted that China's proposal could offer developing countries another option alongside proprietary AI systems dominated by major US technology companies.
+The newspaper said the proposal has particular relevance for India, which has also pushed for wider access to compute, datasets and AI models for developing countries, while simultaneously spending public money to build domestic AI infrastructure and Indian foundation models through the IndiaAI Mission. 
+Any BRICS initiative on shared models or cloud infrastructure would therefore sit alongside New Delhi's own effort to expand access to AI without relying entirely on foreign technology providers, it added.
+At the same time, the Times of India struck a more cautious note, suggesting that Chinese-led AI platforms could raise concerns in India over security and technological dependence.
+The complex reactions point to a larger discussion taking shape in India: whether participation in a more open BRICS AI ecosystem could advance the country's ambition for greater technological autonomy without simply replacing dependence on one foreign technology ecosystem with another.
+That discussion predates the summit. Indian technology and policy circles have increasingly debated whether India can chart its own path in the global AI landscape rather than being forced to choose between competing technological ecosystems.
+An analysis authored by Sagar Vishnoi, co-founder and director of Future Shift Labs and published by the Hindustan Times ahead of the summit asked whether BRICS could "write its own AI playbook, without the West," while cautioning that simply shifting dependence from Western cloud and technology providers to suppliers elsewhere would not by itself amount to technological sovereignty.
+Yet, the discussion comes at a significant moment for China-India relations.
+During their latest meeting in New Delhi, the leaders of China and India reaffirmed that the two countries should be partners for cooperation rather than rivals.
+As political ties gradually stabilize, an important question is whether progress at the leadership and diplomatic levels can generate new momentum for practical cooperation. Emerging technologies such as AI could provide an important test case, said some analysts.
+China and India have objective incentives to explore cooperation in AI, particularly in areas where open-source technologies could lower barriers to participation, Xiang Ligang, director-general of the Zhongguancun Modern Information Consumer Application Industry Technology Alliance, told the Global Times.
+India has strong incentives to seize opportunities brought by the rapid development of AI, Xiang said. As a country with a huge population and an expanding market, India has considerable strengths in software development and programming, although gaps remain in areas such as infrastructure and manufacturing capacity.
+China's proposal for open-source AI cooperation within BRICS could offer India additional opportunities to strengthen its own capabilities, according to Xiang. Indian developers and companies could build on open-source models, adapt them to local needs and develop specialized models and applications rather than starting from scratch.
+Open-source models could therefore be among the most feasible starting points for cooperation, with potential applications extending to talent development and industries such as healthcare and manufacturing, he said.
+In the longer term, Xiang noted, India also hopes to harness AI to strengthen its manufacturing capabilities and improve economic efficiency and governance, creating objective demand for greater access to AI technologies and applications.
+However, Hu Zhiyong, director of the Center for Indian Studies and distinguished professor at Zhejiang International Studies University, and a research fellow at the Institute of International Relations at the Shanghai Academy of Social Sciences, cautioned against overstating the near-term prospects for China-India AI cooperation.
+Hu told the Global Times that differences in technological capabilities, coupled with lingering political mistrust, could make cooperation difficult to translate from potential into concrete projects. 
+India has frequently subjected Chinese technology and investment to scrutiny on national security and data security grounds, he noted, arguing that such concerns could affect cooperation even in relatively less sensitive areas. 
+"China-India cooperation in AI could face a difficult path unless mutual trust improves," Hu warned, adding that greater political trust and a less confrontational approach toward technological competition would be necessary for AI cooperation to gradually move forward.
