@@ -1,0 +1,33 @@
+TITLE:
+AI moves from elite competition to everyday sports in China
+
+PUBLISHED:
+2026-09-14
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260914/ebba068c128f4b8982c197fa0f4db38a/c.html
+
+ARTICLE TEXT:
+Fitness enthusiasts are increasingly gaining access to AI-powered technologies in everyday sports, driving the digital upgrade of China's sports sector.
+by sportswriter Li Chunyu
+BEIJING, Sept. 14 (Xinhua) -- While sports fans have become accustomed to AI-assisted officiating at major events such as the FIFA World Cup and Grand Slam tennis tournaments, fitness enthusiasts are increasingly gaining access to similar technology in everyday sports.
+At the 2026 China International Fair for Trade in Services, held at Beijing's Shougang Park this week, organizers transformed the sports services exhibition area into a functioning sports venue to showcase how artificial intelligence is being applied to training, officiating and fitness.
+On an indoor tennis court, visitors waited to try an AI-powered system that tracks player movement, ball trajectories, landing positions and shot speed.
+"On-site cameras capture live footage of every rally. Whether in training or competition, this intelligent agent generates in-depth performance analytics and highlight videos based on the data," said Gao Kai, a product operations manager for the Smartshot system.
+"This smart system is redefining how players train, compete and refine their games. It has already been deployed across cities in China, including Beijing, Guangzhou, Shenyang and Yinchuan. The technology has also been gradually introduced in Canada, Australia and other markets," Gao added.
+The exhibition area also featured a simulated video assistant referee control room for football developed by Beijing Rigour Technology, alongside intelligent officiating systems for volleyball, baseball and softball.
+In 2023, FIFA confirmed that Rigour's VAR and offside technologies had been tested and certified to FIFA standards.
+"Human referees are limited by eyesight and reaction time, making it difficult to capture every detail in fast-paced competitions. The intelligent system offers an objective replay," said Wu Guoyu, a project manager with Rigour Technology.
+For football offside decisions, for example, the system analyzes camera feeds using deep-learning AI models and image-processing algorithms. Once an offside is detected, it generates a precise offside line on the broadcast feed to assist referees.
+While such technology is used in elite competitions, developers are also introducing it to grassroots and youth sports.
+"Many amateur tournaments lack professional referees and may simply rely on trust, which means calls over whether a ball is in or out are left to the players to agree on. That often leads to disputes," Wu said. "A more accessible intelligent officiating system is much needed for the public."
+AI and digital technology are also expanding the possibilities for recreational fitness. Sports such as rowing and canoeing traditionally require access to water, while skiing requires snow and specialized facilities. Virtual sports can simulate those activities in a wider range of locations.
+"Virtual sports venues can serve as daily fitness hubs while also hosting virtual sports events to inject vitality into people's lives," exhibitor Mei Zijia said. "Sports services are no longer merely about selling goods, but providing a set of solutions tailored to different sporting scenarios."
+A report on China's sports services trade and development released during CIFTIS showed that the country's total imports and exports of major sports services reached 74.875 billion yuan (11.16 billion U.S. dollars) in 2025, up 7.98 percent year on year.
+"China's sports services trade has reached new heights, with significant improvements in its trade structure and sports economy," said Yang Xuedong, economic director at China's General Administration of Sport. "We will accelerate the adoption of big data and artificial intelligence to empower the sports industry through technological innovation." ■

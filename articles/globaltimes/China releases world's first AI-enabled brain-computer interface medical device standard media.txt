@@ -1,0 +1,22 @@
+TITLE:
+China releases world's first AI-enabled brain-computer interface medical device standard: media
+
+PUBLISHED:
+2026-09-14 16:03:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370493.shtml
+
+ARTICLE TEXT:
+Photo: VCG
+China’s National Medical Products Administration (NMPA) on Monday approved the release of its third medical device standard for brain-computer interfaces (BCIs), which is also the world’s first medical device product standard for BCIs that uses artificial intelligence (AI) technology to process brain electrical signal data. The new standard will officially take effect on September 1, 2027, China Central Television (CCTV) reported on Monday. 
+The new standard systematically sets out technical requirements and testing methods for the entire data-handling process of BCI medical devices, covering data collection, processing, annotation, storage and access. It will help companies address common challenges in the sector, including inconsistent quality-control standards for datasets and non-standardized dataset development processes, according to the report. 
+The NMPA said that BCI medical devices are like intelligent machines capable of “reading” brain signals. They need to “learn” from large amounts of electroencephalography (EEG) data to “train” AI algorithms to accurately interpret patients’ intentions, making data quality crucial to both treatment outcomes and patient safety.
+In order to support major innovations in China’s BCI medical devices and meet the urgent needs of the industry, the NMPA used an expedited procedure to initiate and approve the standard. The new standard provides a unified “quality benchmark” for EEG datasets used in the research, development and production of BCI medical devices and is at an internationally leading level. 
+Global Times
