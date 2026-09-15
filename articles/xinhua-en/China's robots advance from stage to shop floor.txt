@@ -1,0 +1,48 @@
+TITLE:
+China's robots advance from stage to shop floor
+
+PUBLISHED:
+2026-09-14
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260914/b7068f1785bf4298a44c2df656e08320/c.html
+
+ARTICLE TEXT:
+BEIJING, Sept. 14 (Xinhua) -- A robotic hand picked up a calligraphy brush, dipped it in ink and wrote "fu," a Chinese character meaning good fortune, on a square of red paper, delighting crowds.
+Chinese robots like this one are no longer just event performers. They are increasingly clocking in for real work, and an entire industry is forming around teaching them how.
+FROM GALA STAGE TO CONVENIENCE POD
+At the China International Fair for Trade in Services (CIFTIS), which ended Sunday in Beijing, Galbot G1, which went viral after folding laundry in a video clip for this year's globally broadcasted Spring Festival Gala, staffed an unmanned convenience pod.
+Such pods are already operating at sites including Beijing's Summer Palace, a former imperial garden, where each is expected to serve more than 1,000 visitors a day. The first overseas store of this type opened in Hong Kong on Sept. 1.
+Robots are also being deployed in other jobs. At an "unstaffed post office" booth, a robot stamps postcards, drops them into a mailbox, then fetches blind-box toys for customers.
+A few meters away, a pancake robot flips crepes to order, while a coffee robot pours latte art onto a fresh cup.
+"We have a coffee-making robot on campus, but these are more advanced," said visitor Olga, a Belarusian professor at Beijing Foreign Studies University.
+It takes humans considerable effort to create latte art, she added, but robots do it with ease.
+CLOSING THE TRAINING GAP
+For all the novelty, a wide gap remains between demonstration and deployment: training.
+"China's domestic shipments of humanoid robots reached 23,000 units in the first half of this year, but fewer than 5 percent are working stably on real production lines," said Zhu Kai, head of the Shijingshan Embodied Intelligence Training Center.
+Production lines are far messier than a stage. "High-quality, multimodal real-robot data fit for industrial training doesn't reach even 1 percent of actual demand," Zhu said, adding that the shortage is the core obstacle to moving robots "from performing to actually working."
+Closing that gap starts in a "vocational school" for robots. The training center, a short walk from the CIFTIS fairground at Shougang Park, is where much of the "homework" gets done.
+Nearly 270 robots work there at full capacity on chores, caregiving drills and factory tasks such as automatically placing circuit boards onto a production line, producing nearly 20 million high-quality data entries a year.
+The "school" opened its doors to visitors during the fair, and the lessons translate into human-like movements: rows of robots practiced fetching and setting down boxes or ironing trousers, each following a human mentor demonstrating the moves.
+Those mentors now have an official title. On the fair's opening day, Sept. 9, China formally recognized a new occupation: embodied-intelligence robot application technicians, with two new trades within it -- robot data collectors and robot trainers.
+The tools are changing, too. Data collectors once puppeteered machines from fixed lab consoles. But with new capture rigs mounted, they can now easily enter real-world work scenarios, recording human hands at work.
+At one booth, VR maker NOLO displayed its EgoCapture, a head-mounted rig that records 360 degrees of real human operations.
+Wear it on a trail run, and it generates exactly the data a robot would need to judge a long-distance turn. Clients can buy the service instead of the full set of gear.
+Other booths harvest the rest of a robot's education: tactile sensors from Tashan Technology capture the sensation and force of a grip, while dexterous hands from CasiaHand Robotics -- with a built-in "brain" model -- learn to act on their own.
+The output of this schooling shows up on the fairground itself: much of the training data behind the exhibits in the fair came from the center, said Zhu.
+DATA ON THE MARKET
+Data itself is becoming a commodity, and this year's CIFTIS fair gave it a pathway to cross borders.
+At a forum, the fair launched China's first industry-level platform aiming to provide international service for embodied-intelligence data, built by Beijing Shijingshan Science and Technology Innovation Group in partnership with China Telecom's Beijing branch.
+The groundwork has been established in the Shijingshan district of Beijing: China's first 3D high-quality dataset for large-model training has been registered, four data service stations have opened, and more than 200 data products have been listed, while Beijing as a whole aims for 100 high-quality industrial datasets by 2028.
+"The government sets the stage, and the companies perform. CIFTIS works like an amplifier, turning Beijing's industrial strengths into international cooperation opportunities," Zhu said.
+The robots are already earning their keep with overseas deployment. Anyverse Dynamics, a Beijing embodied-AI startup participating in the fair, has signed a 500-million-yuan (about 74.66 million U.S. dollars) deal with green-tech group Envision, and the first batch of its K15 semi-humanoids arrived at Envision's battery gigafactory in France this month for autonomous loading and unloading work.
+But the machines are only part of the business. The training and the services that keep them working overseas are increasingly where China's services trade will lie in the future.
+The fairground tells the same story. The information and communications technology (ICT) hall alone featured more than 30 debut products, from high-jumping and cooking robots to wall-climbers and holographic cabins.
+"Visitors can feel an intelligent economy where carbon-based (humans) and silicon-based (robots) beings coexist," said He Qionghua, head of the ICT exhibition area.
+Back at the calligraphy booth, the "fu" is a blessing for visitors, while the fortune it points to is increasingly being created by robotic hands. ■

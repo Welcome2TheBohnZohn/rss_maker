@@ -1,0 +1,32 @@
+TITLE:
+Nation's smart computing scale surges
+
+PUBLISHED:
+2026-09-15
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202609/15/WS6aa87400e4b06d4aa055dfa9.html
+
+ARTICLE TEXT:
+Nation's smart computing scale surges
+China Mobile building AI data centers, deploying gigawatt-level parks
+China has achieved integrated, coordinated monitoring of computing power nationwide, the Ministry of Industry and Information Technology announced during the recent 2026 China Computational Power Conference in Langfang, Hebei province, as the country accelerates construction of a unified national computing network.
+By end-June, China's intelligent computing scale reached 2,185 EFLOPS, or exa floating-point operations per second, up 177 percent year-on-year. More than 70 computing transmission channels linking computing hubs and key regions have been built, and 17 regional nodes for national computing interoperability have been approved, it was noted at the conference, which concluded on Sunday.
+He Baohong, chief engineer of the China Academy of Information and Communications Technology, or CAICT, said policy attention has shifted from building computing facilities to whether resources can be perceived, scheduled and ultimately used by enterprises and industries.
+China is carrying out special initiatives to empower small and medium-sized enterprises with inclusive computing power, exploring service models such as computing supermarkets and computing banks, lowering the threshold for SMEs and pushing computing resources into the real economy. In the next stage, he said, the focus will be not only on building resources, but also on connecting resources, networks, applications and services.
+Zhong Zhihong, chief engineer of the Ministry of Industry and Information Technology, said the next step is to strengthen systematic planning, improve computing utilization efficiency and accelerate building a multilevel, tiered computing architecture.
+The ministry will continue improving coordinated monitoring and efficient use of computing resources. It will also strengthen computing-network integration, build high-speed, low-latency and resilient transmission channels, deploy city-level millisecond access on demand and advance construction of computing interoperability nodes, Zhong said.
+China will invest a cumulative 3.8 trillion yuan ($566 billion) in information infrastructure by end-2030 and boost its intelligent computing power to 9,800 EFLOPS, according to a new industry blueprint unveiled by the MIIT last week.
+The 15th Five-Year Plan (2026-30) period for the information and communications sector — officially published on Monday — sets a clear roadmap for high-quality development over the next five years, focusing on five priorities: consolidating infrastructure, improving public services, optimizing governance, mitigating risks and expanding opening-up.
+Chen Yangfan, general manager of China Mobile, said the company will focus on heterogeneous interconnectivity, cross-domain scheduling and model services, accelerate research and development and application of key generic computing technologies, and achieve full-stack domestic innovation from chips to models. It will also deepen capital coordination and strategic investment in artificial intelligence and chip companies.
+China Mobile is building stronger computing infrastructure with a moderately advanced approach. It is building AI data centers, aligning with the national "east data, west computing" project, and deploying gigawatt-level data parks.
+Its AI data centers contracted scale exceeds 7 GW.
+CAICT, together with partners such as Huawei, recently released the 2026 Storage Development Report, which showed that by end-June, China's total data storage capacity reached 2,021 exabytes, up 11 percent year-on-year.
+Advanced storage accounted for 32 percent, exceeding 640 EB. Regional storage development is becoming more intensive and coordinated, with imbalances improving. China's storage industry has entered a new cycle of simultaneous scale expansion and quality upgrading.
+masi@chinadaily.com.cn
