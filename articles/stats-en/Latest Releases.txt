@@ -2,7 +2,7 @@ TITLE:
 Latest Releases
 
 PUBLISHED:
-2026-09-14
+2026-09-15
 
 SOURCE:
 National Bureau Statistics English
@@ -29,33 +29,33 @@ Release Calendar
 Home
 >
 Latest Releases
-1.Market Prices of Important Means of Production in Circulation, September 1-10, 2026
+1.National Economy Remained Steady with Innovation-Led and High-Quality Development in Au...
+2026-09-15
+2.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
+2026-09-15
+3.Market Prices of Important Means of Production in Circulation, September 1-10, 2026
 2026-09-14
-2.Consumer Price Index in August 2026
+4.Consumer Price Index in August 2026
 2026-09-10
-3.Industrial Producer Price Indexes in August 2026
+5.Industrial Producer Price Indexes in August 2026
 2026-09-10
-4.Market Prices of Important Means of Production in Circulation, August 21-31, 2026
+6.Market Prices of Important Means of Production in Circulation, August 21-31, 2026
 2026-09-04
-5.Purchasing Managers’ Index for August 2026
+7.Purchasing Managers’ Index for August 2026
 2026-09-01
-6.China’s New Economic Growth Drivers Index Increased by 12.5% in 2025
+8.China’s New Economic Growth Drivers Index Increased by 12.5% in 2025
 2026-08-28
-7.Profits of Industrial Enterprises above the Designated Size from January to July in 2026
+9.Profits of Industrial Enterprises above the Designated Size from January to July in 2026
 2026-08-28
-8.Market Prices of Important Means of Production in Circulation, August 11-20, 2026
+10.Market Prices of Important Means of Production in Circulation, August 11-20, 2026
 2026-08-24
-9.Industrial Production Operation in July 2026
+11.Industrial Production Operation in July 2026
 2026-08-18
-10.Investment in Fixed Assets from January to July 2026
+12.Investment in Fixed Assets from January to July 2026
 2026-08-18
-11.Investment in Real Estate Development from January to July 2026
+13.Investment in Real Estate Development from January to July 2026
 2026-08-18
-12.Total Retail Sales of Consumer Goods from January to July 2026
+14.Total Retail Sales of Consumer Goods from January to July 2026
 2026-08-18
-13.Energy Production in July 2026
+15.Energy Production in July 2026
 2026-08-18
-14.National Economy Maintained Steady Momentum with Innovation-driven and High-quality Dev...
-2026-08-17
-15.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
-2026-08-17
