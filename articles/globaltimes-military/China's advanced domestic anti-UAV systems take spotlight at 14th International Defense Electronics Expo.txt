@@ -1,0 +1,35 @@
+TITLE:
+China's advanced domestic anti-UAV systems take spotlight at 14th International Defense Electronics Expo
+
+PUBLISHED:
+2026-09-15 23:00:00
+
+SOURCE:
+Global Times Military
+
+CATEGORY:
+Military
+
+URL:
+https://www.globaltimes.cn/page/202609/1370605.shtml
+
+ARTICLE TEXT:
+The 14th China International Defense Electronics Exhibition opened at the China National Convention Center in Beijing on Tuesday. Amid the showcases of new technologies, applications and trends in the electronic information sector, advanced domestic anti-UAV systems emerged as a focal point of the event.
+As drones are widely used in defense, civilian and other sectors, the risks posed by unauthorized flights of "low, slow and small" targets have been growing. How to systematically detect and defeat illegal drone intrusions has become a global challenge. At the exhibition, multiple Chinese companies presented comprehensive anti-drone solutions.
+One Beijing-based company proposed the concept of "air-ground integration, full-domain anti-UAV." A staff member from the company told the Global Times that the company developed an anti-drone system integrating detection, countermeasures and strikes, including navigation and positioning signal jamming, decoy measures, and both soft- and hard-kill options.
+Soft-kill methods mainly force drones to return or crash, while hard-kill options include using lasers and net capture to neutralize targets. The staff member said the system is highly suitable for urban anti-drone scenarios.
+An RDN-506 Global Navigation Satellite System (GNSS) jamming device on display at the exhibition Photo: Cui Meng/GT
+A green Global Navigation Satellite System (GNSS) jamming device drew particular attention at the company's booth. The device transmits navigation suppression signals to interfere with a drone's satellite navigation unit, preventing it from obtaining positioning information. This disrupts the drone's flight control system and undermines its ability to fly with precision, helping neutralize the drone.
+At another company's booth, a complete low-altitude anti-drone solution was displayed visually on an electronic screen. The screen marked five layers of drone defense circles at different ranges: 1 kilometer, 2 kilometers, 3 kilometers, 6 kilometers and 20 kilometers, representing a full solution from front-end identification to terminal engagement against incoming drones.
+Company staff cited several challenges in building an all-domain anti-drone system. First, identification is difficult, especially in urban areas where detecting "low, slow and small" targets is a real problem. Second, strike accuracy depends on drone speed, as faster drones are harder to counter. Large unmanned helicopters, for example, have manageable size and speed; but fast first-person-view (FPV) or swarm drones sharply raise the difficulty. Third, in cities, everyone carries at least one mobile phone, and drones themselves emit signals. Phones, televisions and network equipment all add to the signal clutter, posing major challenges for defense. Meeting these challenges requires a systematic, multi-layered defense mechanism.
+Another manufacturer displayed an "all-channel detection, strike and decoy integrated device" that resembles a shipborne multi-face phased array radar. The device integrates multiple functions and can address threats from conventional drones, FPV drones, non-standard drones, DIY drones and multi-target drone threats, achieving closed-loop protection ranging from target discovery and identification to precise engagement and coordinated control.
+Multiple foreign delegations also visited Chinese companies' anti-drone booths, engaging in detailed discussions with staff about product performance and application scenarios, the Global Times saw.
+Beyond anti-drone systems, a heavy-lift tandem unmanned helicopter drew a large crowd. Staff member Yang Yong at the booth for Flightwin told the Global Times that the FWH-3000 on display is currently China's largest domestically developed unmanned heavy-lift helicopter, featuring a tandem-rotor configuration, ton-level payload capacity, a large cargo hold and heavy-lift sling capability, with a maximum endurance of five hours. It is primarily designed for bulk cargo transport and emergency support in complex environments such as plateaus, mountains and islands.
+It can also be used for geological deformation monitoring in plateau regions, Yang said. In high-altitude, high-risk areas inaccessible to personnel, unmanned helicopters can deploy monitoring payloads to conduct routine observations of mountain displacement data. Once readings exceed safety thresholds, alerts can be issued to relevant authorities in a timely manner.
+Surface and underwater unmanned equipment also drew significant attention at the exhibition.
+At the Qingdao Penghai Ocean booth, multiple unmanned underwater vehicles of varying sizes were on display. Staff member Liu Xiaoqing explained that underwater vehicles mainly come in two shapes, torpedo-shaped and oval-shaped, and are primarily used for underwater detection. Torpedo-shaped vehicles have broader applications, including seabed hydrological mapping and surveying, underwater salvage, dam maintenance and inspections in freshwater environments, and submarine cable inspections.
+Three unmanned underwater vehicles of varying sizes on display at the exhibition Photo: Cui Meng/GT
+"Of the three models on display, the medium-sized oval one is our latest development, mainly for offshore wind power operation and maintenance. It abandons traditional vertical propulsion and can move straight up and down. As a highly customized product, it can be equipped with side-scan sonar, radar, satellite communications and other equipment based on user needs," Liu said.
+How to achieve lightweight design and longer underwater endurance while maintaining hull strength remains a future development direction, Liu said.
+The Global Times also saw a foldable shaftless pump-jet unmanned assault boat. At first glance, it looks unremarkable, but closer inspection reveals a shaftless pump-jet system installed at the rear. This offers two major advantages: ultra-quiet operation and anti-entanglement.
+According to a staff member, the unmanned boat can be remotely controlled within a 5-kilometer range, for example, during disaster rescue, personnel can operate it from shore without going out on the water. Another operating mode uses electronic fencing and trajectory planning for autonomous operation. It is mainly used in maritime policing, anti-drug operations and armed police dispatch scenarios.

@@ -7,7 +7,33 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 19:42:53 +0000</lastBuildDate>
+    <item>
+      <title>China's advanced domestic anti-UAV systems take spotlight at 14th International Defense Electronics Expo</title>
+      <link>https://www.globaltimes.cn/page/202609/1370605.shtml</link>
+      <description>Published: 2026-09-15 23:00:00
+
+The 14th China International Defense Electronics Exhibition opened at the China National Convention Center in Beijing on Tuesday. Amid the showcases of new technologies, applications and trends in the electronic information sector, advanced domestic anti-UAV systems emerged as a focal point of the event.
+As drones are widely used in defense, civilian and other sectors, the risks posed by unauthorized flights of "low, slow and small" targets have been growing. How to systematically detect and defeat illegal drone intrusions has become a global challenge. At the exhibition, multiple Chinese companies presented comprehensive anti-drone solutions.
+One Beijing-based company proposed the concept of "air-ground integration, full-domain anti-UAV." A staff member from the company told the Global Times that the company developed an anti-drone system integrating detection, countermeasures and strikes, including navigation and positioning signal jamming, decoy measures, and both soft- and hard-kill options.
+Soft-kill methods mainly force drones to return or crash, while hard-kill options include using lasers and net capture to neutralize targets. The staff member said the system is highly suitable for urban anti-drone scenarios.
+An RDN-506 Global Navigation Satellite System (GNSS) jamming device on display at the exhibition Photo: Cui Meng/GT
+A green Global Navigation Satellite System (GNSS) jamming device drew particular attention at the company's booth. The device transmits navigation suppression signals to interfere with a drone's satellite navigation unit, preventing it from obtaining positioning information. This disrupts the drone's flight control system and undermines its ability to fly with precision, helping neutralize the drone.
+At another company's booth, a complete low-altitude anti-drone solution was displayed visually on an electronic screen. The screen marked five layers of drone defense circles at different ranges: 1 kilometer, 2 kilometers, 3 kilometers, 6 kilometers and 20 kilometers, representing a full solution from front-end identification to terminal engagement against incoming drones.
+Company staff cited several challenges in building an all-domain anti-drone system. First, identification is difficult, especially in urban areas where detecting "low, slow and small" targets is a real problem. Second, strike accuracy depends on drone speed, as faster drones are harder to counter. Large unmanned helicopters, for example, have manageable size and speed; but fast first-person-view (FPV) or swarm drones sharply raise the difficulty. Third, in cities, everyone carries at least one mobile phone, and drones themselves emit signals. Phones, televisions and network equipment all add to the signal clutter, posing major challenges for defense. Meeting these challenges requires a systematic, multi-layered defense mechanism.
+Another manufacturer displayed an "all-channel detection, strike and decoy integrated device" that resembles a shipborne multi-face phased array radar. The device integrates multiple functions and can address threats from conventional drones, FPV drones, non-standard drones, DIY drones and multi-target drone threats, achieving closed-loop protection ranging from target discovery and identification to precise engagement and coordinated control.
+Multiple foreign delegations also visited Chinese companies' anti-drone booths, engaging in detailed discussions with staff about product performance and application scenarios, the Global Times saw.
+Beyond anti-drone systems, a heavy-lift tandem unmanned helicopter drew a large crowd. Staff member Yang Yong at the booth for Flightwin told the Global Times that the FWH-3000 on display is currently China's largest domestically developed unmanned heavy-lift helicopter, featuring a tandem-rotor configuration, ton-level payload capacity, a large cargo hold and heavy-lift sling capability, with a maximum endurance of five hours. It is primarily designed for bulk cargo transport and emergency support in complex environments such as plateaus, mountains and islands.
+It can also be used for geological deformation monitoring in plateau regions, Yang said. In high-altitude, high-risk areas inaccessible to personnel, unmanned helicopters can deploy monitoring payloads to conduct routine observations of mountain displacement data. Once readings exceed safety thresholds, alerts can be issued to relevant authorities in a timely manner.
+Surface and underwater unmanned equipment also drew significant attention at the exhibition.
+At the Qingdao Penghai Ocean booth, multiple unmanned underwater vehicles of varying sizes were on display. Staff member Liu Xiaoqing explained that underwater vehicles mainly come in two shapes, torpedo-shaped and oval-shaped, and are primarily used for underwater detection. Torpedo-shaped vehicles have broader applications, including seabed hydrological mapping and surveying, underwater salvage, dam maintenance and inspections in freshwater environments, and submarine cable inspections.
+Three unmanned underwater vehicles of varying sizes on display at the exhibition Photo: Cui Meng/GT
+"Of the three models on display, the medium-sized oval one is our latest development, mainly for offshore wind power operation and maintenance. It abandons traditional vertical propulsion and can move straight up and down. As a highly customized product, it can be equipped with side-scan sonar, radar, satellite communications and other equipment based on user needs," Liu said.
+How to achieve lightweight design and longer underwater endurance while maintaining hull strength remains a future development direction, Liu said.
+The Global Times also saw a foldable shaftless pump-jet unmanned assault boat. At first glance, it looks unremarkable, but closer inspection reveals a shaftless pump-jet system installed at the rear. This offers two major advantages: ultra-quiet operation and anti-entanglement.
+According to a staff member, the unmanned boat can be remotely controlled within a 5-kilometer range, for example, during disaster rescue, personnel can operate it from shore without going out on the water. Another operating mode uses electronic fencing and trajectory planning for autonomous operation. It is mainly used in maritime policing, anti-drug operations and armed police dispatch scenarios.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370605.shtml</guid>
+    </item>
     <item>
       <title>J-10 unit stays combat-ready in modern air combat through tactics, pilot skill: PLA Air Force unit</title>
       <link>https://www.globaltimes.cn/page/202609/1370527.shtml</link>
@@ -226,24 +252,6 @@ Set against the backdrop of international humanitarian medical rescue following 
 The exercise aims to explore operational models for cross-border joint medical rescue and further enhance the medical support coordination and emergency response capabilities of the two militaries.
 During the exercise, the two sides will also organize medical services and cultural exchange activities.</description>
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370052.shtml</guid>
-    </item>
-    <item>
-      <title>Pakistan Air Force unveils HQ-17AE air defense system; Chinese equipment helps address gap in short-range accompanying air defense: expert</title>
-      <link>https://www.globaltimes.cn/page/202609/1370013.shtml</link>
-      <description>Published: 2026-09-07 22:29:00
-
-China's HQ-17AE short-range air defense system in a promotional video Photo: Screenshot from the Pakistan Air Force
-The Pakistan Air Force unveiled China's HQ-17AE short-range air defense system in a promotional video posted on X on Monday. A Chinese military affairs expert said Pakistan has become yet another international user of the system, which will help address the country's current gap in short-range accompanying air defense and enhance its capability to counter low-altitude threats such as drones.
-Previously, Pakistan had already equipped and deployed China's HQ-9 long-range air defense systems, including the HQ-9/P and HQ-9BE variants, Wang Yunfei, a Chinese military affairs expert, told the Global Times.
-At the same time, Pakistan has introduced China's HQ-16 series air defense systems, ranging from the LY-80 to the extended-range HQ-16FE/AE, which together form the backbone of Pakistan's Army and Air Force regional medium-to-long-range air defense network, Wang said.
-These systems are all critical components of national strategic air defense. However, the expert said that short-to-medium-range air defense systems are the core of point defense, and Pakistan's capabilities in this area have had room for improvement. If adversaries penetrate the medium-to-long-range air defense network, troop assembly areas and armored formations might face threats.
-As Pakistan has become yet another international user of the HQ-17AE system, the system can help fill this short-range accompanying air defense gap and strengthen Pakistan's capability to counter low-altitude threats such as drones, Wang added.
-The HQ-17AE first appeared at the 13th China International Aviation and Aerospace Exhibition, or Airshow China 2021, in Zhuhai, south China's Guangdong Province, and is a domestically developed multifunctional air defense missile system.
-Developed by the Second Academy of state-owned China Aerospace Science and Industry Corporation (CASIC), the system is capable of intercepting high-performance targets and resisting saturation attacks, while integrating all functions into a single vehicle equipped with a wheeled off-road chassis for high mobility. It has been dubbed a "low-altitude aircraft hunter," according to a statement CASIC sent to the Global Times in March 2021.
-The HQ-17AE uses advanced technologies including an all-solid-state phased array radar, vertical cold launch missile system, direct force fast turn system and rotatable tail wings, giving the air defense missile system a fast reaction time and capability to adapt to complicated electromagnetic environments on the battlefield, its developer said, noting that the vehicle can launch while moving, and can interconnect with other vehicles into a network in combat, according to a previous Global Times report. 
-The report said each HQ-17AE vehicle can carry eight missiles and is capable of guiding four missiles to attack four targets simultaneously, as it has outstanding capability to intercept multiple targets.
-During a military parade in the city of Kruševac in June 2024, then-Serbian Prime Minister Milos Vucevic said that the country would display the recently acquired HQ-17AE short-range air defense system from China. Vucevic also underscored that HQ-17AE systems would provide even better protection for Serbian airspace and would pair perfectly with the country's most powerful air defense weapon, the FK-3.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370013.shtml</guid>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,30 @@
+TITLE:
+GT Voice: What dangers does Europe scent in America's 'tech-right' trends?
+
+PUBLISHED:
+2026-09-15 23:21:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370611.shtml
+
+ARTICLE TEXT:
+A concept picture of AI city File photo: VCG
+European Central Bank (ECB) President Christine Lagarde warned on Monday that Europe must develop its own artificial intelligence (AI) technology and build more European computing capacity or face the unprecedented risk of being cut off from AI, Reuters reported. 
+"A withdrawal of access, or a change in its terms, would then reach every sector at once," Lagarde said. "That is leverage of a kind no trade partner has ever held over Europe, and it could be used in any negotiation, on tariffs or on digital taxes, for example."
+The warning seems far more than a reference to the current industrial landscape, but rather anxiety among some in Europe over the politicization and weaponization of AI technology by the US, as European firms mostly import AI technology from the US. 
+What exactly does Europe see? First and foremost, it sees a domestic force in the US that is turning AI into a tool of geopolitical competition, creating real risks for Europe's AI development. Some tech-right forces are trying to maintain their monopoly over frontier AI through technology blockades, export controls and compliance barriers. They no longer treat AI as a matter of industrial competition, but as an instrument of national security and strategic control, using chip embargoes and model restrictions to limit other countries' access to critical technologies and politicizing technology issues.
+For the EU, this shift is particularly dangerous. The bloc has lagged in key areas such as cloud computing, chips, foundation models and operating system ecosystems. If the US further tightens export controls and raises compliance thresholds, the bloc will not only be constrained technologically, but its entire innovation chain may also be affected and exposed to uncertainties.
+Statistics lay bare the structural shortcomings and pressing situation facing Europe's AI industry. Last year, the US produced 59 AI models and China produced 35. France and the UK produced one each. Along the rest of the AI value chain, the picture is the same: the US hosts three-quarters of the world's AI computing capacity, while Europe hosts 5 percent.
+Lagarde also warned that Europe already has too little data center capacity to meet its own demand, and on current trends, that gap is projected to grow more than sixfold within a decade.
+While the EU aspires to develop its own AI technology, gaps in industrial foundation, technology iteration and ecosystem support mean the bloc clearly lacks the conditions to achieve fully self-reliant AI development in the short term. Diversified supply has therefore emerged as one of the viable ways forward. China, with its rapid advances in the AI field, has the potential to become one of Europe's reliable partners in promoting the diversification of AI technology.
+Unlike the US approach of camp confrontation and technology blockades, China has always opposed the use of technological monopolies and unilateral enforcement measures to create barriers to development and maliciously block global AI supply chains.
+The size of China's AI industry was estimated to exceed 1.2 trillion yuan ($176.7 billion) in 2025, up 40 percent year-on-year, according to a research institute under the Ministry of Industry and Information Technology. As of June 2026, China was home to more than 6,600 AI companies, representing 15 percent of the global total. The country has developed a complete industrial system spanning foundational infrastructure, models and frameworks, and sector-specific applications. 
+China and the EU have complementary strengths in AI innovation, ethical governance and industrial collaboration. China's vast application scenarios, combined with Europe's strengths in standards, regulation and basic research, are expected to foster a sound mechanism of interaction.
+The ultimate goal of such cooperation is to return to AI's inclusive and empowering essence. As ECB estimates suggest, if adopted quickly, AI could lift the level of productivity by up to 4 percent in Europe over a decade, which would be transformative for public finances. But this value can only be fully unlocked in an open, diversified and shared technology ecosystem. Once AI is hijacked by geopolitical games, the global tech landscape will be left to bear the transformation costs and exposed to cascading risks. 
+The future of AI should not replicate Cold War confrontations. All countries can build flexible and diversified technology supply systems based on their own industrial endowments, safeguard digital sovereignty through mutually beneficial cooperation, and ensure that technological progress benefits all nations and peoples worldwide.

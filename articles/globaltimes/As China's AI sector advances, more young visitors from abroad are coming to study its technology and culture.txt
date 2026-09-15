@@ -1,0 +1,64 @@
+TITLE:
+As China's AI sector advances, more young visitors from abroad are coming to study its technology and culture
+
+PUBLISHED:
+2026-09-15 20:45:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370591.shtml
+
+ARTICLE TEXT:
+A robot model Photo: IC
+Maria Julia Saraiva de Brito was sitting in a classroom in Xiamen city, East China's Fujian Province, staring at an unfinished image on the screen. 
+Following the method taught by her Chinese instructor, the Brazilian high schooler typed "panda," "bamboo forest" and "Brazilian tropical sunlight." Seconds later, a fluffy panda poked its head out from the bamboo shadows, set against a backdrop of colors that felt unmistakably South American. Brito watched the screen, the corners of her mouth unconsciously lifting.
+The 18-year-old had known little about AI - artificial intelligence - before. "I'm just a student from Piauí state, Brazil," she later recalled to the Global Times, "But I was given the chance to come to China and take part in an AI program."
+Not long before that, a selection process had just concluded in Piauí. About 20 high school students in the Brazilian state were chosen to travel abroad for a short-term study program. Possible destinations included the US, Japan, Russia and China. In the end, drawn by China's rapid progress in AI and its education opportunities, they chose China - and made their way to Xiamen.
+During the just past summer vacation, AI-themed study tours have begun to gain ground, with bookings surging 370 percent year-on-year, according to online travel platform Ctrip. And it is not only the domestic market that is booming. As industry insiders have observed, more and more visitors from around the world - especially young people - are crossing oceans and continents to come to China, adding learning about Chinese AI applications and experiencing AIGC - AI-generated content - creation to their travel plans.
+This is more than an extension of the glowingly popular China travel; it is becoming a new way of cultural exchanges, said Chen Duo, founder of Xiamen-based AI creator community "AINext," and organizer of the AI study program Brito attended.
+"They come for the technology, and leave with both the technology and a deeper understanding of China," Chen told the Global Times.
+A group of students from Piauí state, Brazil attend an AI-themed study program in Xiamen, East China's Fujian Province, in December 2025. Photo: Courtesy of Chen Duo
+Bringing images in minds to life
+The study program Brito joined was co-organized by AINext. Over the course of nearly a week, these Brazilian teenagers began learning how to use a few Chinese generative AI tools, including DeepSeek, Jimeng and Kling. Their classes covered how to create scripts, music, images and videos with AI. 
+"They had almost no prior exposure to AI at all. But in just a week, they gained practical skills and built a strong foundation," Chen said.
+For Brito, the experience meant far more than mastering a few tools. What she remembers most vividly is the process of working together as a team.
+"I learned a lot about technology, innovation and how to use technology to solve real-world problems," she told the Global Times. "I also learned about teamwork, and how to transform an idea into a real project, step by step."
+Daniel Lim, a student from Malaysia, followed a different path. This July, when the 19-year-old learned through his teachers that China offered AI study programs, he decided to come to China to attend the one-week program.
+"Before this program, I always thought that making a good video required filming, editing, visual effects and many complicated steps," Lim told the Global Times. "But with AI, if you can describe your ideas clearly enough, you can gradually turn something from your imagination into an actual video."
+The first lesson Lim learned at the camp was the importance of "being specific." "I used to think that I could simply tell AI, 'Make a beautiful image for me,' and that would be enough," he said. But he soon found that, "even if the idea is the same, the way you describe it can completely change the result." 
+During the program, Chinese teachers showed Lim how to break things down step by step - scenes, characters, lighting, camera angles and style - and after repeated adjustments, the image finally began to approach what he had in mind.
+According to Chen, over the past two years, several AI education institutions and nonprofit organizations, including AINext, have also held multiple AI study programs for young overseas students. Participants have come from countries including the US, Malaysia, Indonesia and Thailand. More and more people from around the world are following this path to China, where, in classrooms across the country, they are using AI to bring the images in their minds to life.
+Chinese and US teenagers participate in an AI co-creation event at Peking University on July 19, 2025. Photo: Courtesy of Zhang Youyu
+A new bridge for cultural exchanges
+If technology is what brought these young people from overseas to China, then cultural exchanges are what they discovered along the way.
+In July 2025, Zhang Youyu, a distinguished research fellow at Peking University and secretary-general of AIGCxChina, a nationwide civil group of AI industry insiders, organized an AI co-creation event for Chinese and US teenagers. 
+During the workshop, US secondary school students visiting China were paired with Chinese pupils. They first agreed on a broad theme, then took turns contributing ideas, ultimately finishing a piece of work together on the spot.
+"Our pandas and the Great Wall were combined with cultural and architectural elements from the US to form a single painting," Zhang recalled of the creations. "In that moment, cultural exchanges, creativity and friendship all came together."
+The year 2025 marked the 50th anniversary of the establishment of diplomatic relations between China and the European Union. That same year, Zhang organized another AI co-creation event, bringing together teenagers from China and Europe. 
+Within minutes, the young participants were sparking ideas around a library of Chinese and European cultural materials. Some imagined the ancient Chinese legend of Hua Mulan facing off with Polish composer and virtuoso pianist Fryderyk Chopin. Some placed Ludwig van Beethoven skating on the frozen Weiming Lake at Peking University in winter. 
+Behind these dramatic, playful images was something more significant: Young creators were learning to interpret and apply both Eastern and Western cultures in inventive ways, Zhang said.
+To Zhang, the reason is simple: AI has largely lowered the threshold for cultural exchanges. 
+"Previously, if you wanted to understand another culture, you had to learn the language first, and that took a long time," he told the Global Times. "But with AI co-creation, participants face no barriers, and the sense of gain they get may even exceed what they would experience in other forms of exchanges."
+Chen's team has also built that "sense of gain" into its classes. In one lesson, they taught Brazilian students to use DeepSeek to understand Chinese Tang Dynasty (618-907) poet Li Bai's poem Quiet Night Thought. The students did not know the Chinese language. But through repeated AI-assisted dialogue and questioning, "they gradually came to understand the feeling of homesickness in this poem," Chen said. 
+By the end of the class, the students used AI to turn that understanding into images.
+Chen described this process of learning about Chinese culture as "painless" - not the "painful" route of "first, I have to learn the Chinese language and understand classical texts," but something easy and gradual.
+On the day the program ended, Brito and the other Brazilian students gathered around and hugged their Chinese teachers. Many of them expressed a deeper understanding of, and affection for, China. 
+Chen said that after having returned home, one Brazilian student told the team that he had decided to apply for a scholarship and come to China to study.
+"That outcome isn't something you can design in advance," he said. "It happens naturally when the experience is sincere enough."
+Path to development
+In Zhang's observation, overseas teenagers are growing increasingly interested in China's AI development.
+"Some summer youth groups from the US come to China and specifically ask to visit these AI companies in Hangzhou," Zhang said. This summer, he added, young visitors had shown strong interest in events like Zhongguancun (ZGC) Forum in Beijing and the World Artificial Intelligence Conference (WAIC) in Shanghai. Many AI education-related programs are also evolving from one-off curiosities into regular, sustainable activities.
+Behind this shift lies the distinctive speed and breadth of China's AI development. According to the 57th Statistical Report on China's Internet Development, released in February by the China Internet Network Information Center, China's generative AI user base had reached 602 million, with a penetration rate of more than 42 percent. The country's core AI industry is expected to surpass 1.2 trillion yuan ($178.9 billion).
+"AI development in Europe is relatively slower. At this stage, China and the US are basically leading the field," Zhang told the Global Times. 
+In his view, China's edge does not lie in isolated lab breakthroughs, but in scale and comprehensiveness. "From large models to film and television production, China is present in almost every link and every niche AI application scenario," he said.
+Chen put the comparison more bluntly. "Some AI in the US is more elite-oriented - limited to a small circle, lab-based, closed-source and hard to access. China's AI is more inclusive - it offers more application scenarios and is available to everyone."
+That inclusiveness is now extending outward. Chen noted that in Xiamen, they are jointly building a physical space "AIMagic" to provide AI education for international students in China. They have also developed an AI-powered livestream commerce system for an African country, helping local users sell products online to North American markets. 
+"We are putting into practice China's commitment to helping Global South countries with capacity building to bridge the AI and digital divides, and promote sustainable development," Chen told the Global Times.
+By evening, Lim was in a classroom, fine-tuning prompts for an AI-generated video. He wanted to create a cinematic scene of Kuala Lumpur. Recalling the keywords his teacher had emphasized, such as settings, characters, lighting and camera angles, he waited for the image to appear. When it finally did, Lim looked at the screen and thought it could still be improved, though it already felt like the real Kuala Lumpur.
+The biggest impression the camp left on Lim was the speed of China's AI development, as it has already entered many real-world application scenarios, as the other young visitors had said. 
+"I also hope to bring what I learned back to Malaysia, and use it in my future studies and creative projects," Lim noted.
