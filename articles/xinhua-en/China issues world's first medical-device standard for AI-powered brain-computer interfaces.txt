@@ -1,0 +1,25 @@
+TITLE:
+China issues world's first medical-device standard for AI-powered brain-computer interfaces
+
+PUBLISHED:
+2026-09-16
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260916/85f0424b3554401395fedf2e2dc67eb1/c.html
+
+ARTICLE TEXT:
+BEIJING, Sept. 16 (Xinhua) -- China has approved and issued the country's third medical-device standard for brain-computer interfaces (BCIs), which is also the world's first such standard for BCI medical devices using artificial intelligence (AI) to process electroencephalogram (EEG) data.
+BCI technology establishes a direct communication route between the brains of humans or animals and external devices. By capturing and decoding neural signals, BCI enables seamless interaction between brain and machine, ultimately allowing control over assistive devices to execute intended actions.
+China's BCI sector is accelerating its transition from the laboratory to industrialization, making steady progress via the market launch of diverse related products and thanks to surging investment in the sector.
+The standard, issued by the National Medical Products Administration, specifies quality requirements and evaluation methods for EEG datasets used by AI algorithms in BCI medical devices. It applies to datasets used in research and development, production, quality control and other stages of BCI medical device technology that uses AI algorithms to post-process EEG signals.
+The standard covers requirements for the collection, processing, annotation, storage and access of EEG data, as well as methods for testing dataset quality. It will help address common industry challenges, including inconsistent quality-control criteria and non-standardized dataset development.
+The administration said AI-powered BCIs depend on large and high-quality EEG datasets to train algorithms to decode brain signals and identify patients' intentions. In medical applications, the quality and consistency of such data can directly affect the performance and safety of the devices.
+To support major innovations in BCI medical devices and meet the urgent needs of the industry, the administration adopted an expedited procedure for the development and approval of this standard.
+China previously issued two BCI medical-device standards in 2025, covering terminology and test methods for the sensing and response performance of implantable neural stimulators with closed-loop functions.
+The new standard will take effect on Sept. 1, 2027. ■

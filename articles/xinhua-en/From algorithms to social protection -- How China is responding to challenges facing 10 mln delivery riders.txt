@@ -1,0 +1,37 @@
+TITLE:
+From algorithms to social protection -- How China is responding to challenges facing 10 mln delivery riders
+
+PUBLISHED:
+2026-09-16
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260916/4bbe1df1bb114122aaa7210dd3b593f3/c.html
+
+ARTICLE TEXT:
+BEIJING, Sept. 16 (Xinhua) -- A red light once posed a routine dilemma for China's food delivery riders -- stop and risk an overdue delivery that could directly affect earnings, or press on to beat the countdown ticking away on their phones.
+For Li Yipeng, a rider in Suzhou, east China's Jiangsu Province, that trade-off is now coming into play less. His delivery app now records the time he spends waiting at red lights and adds it back to his delivery window, reflecting a wider effort to make the algorithms governing more than 10 million delivery riders take safety, rather than efficiency alone, into account.
+"We can clearly see how long we have waited and how much time has been added back," Li said. "There is no need to run red lights anymore."
+The "red-light clock stop" mechanism, first launched in parts of Suzhou in late July, was later pledged by Meituan, Taobao Flash Sale and JD Takeaway for future trials in parts of Beijing. It is among a series of recent changes to delivery algorithms, alongside broader exemptions for delays beyond riders' control and efforts to make platform rules more transparent.
+"Algorithms cannot calculate efficiency while leaving humanity out," said Zhao Lei, a senior researcher with the Meituan Research Institute, on the latest episode of China Economic Roundtable, an all-media talk show hosted by Xinhua News Agency.
+Apart from the red-light mechanism, platforms such as Meituan have also introduced penalty exemptions for late deliveries caused by extreme weather and abnormal road conditions. Zhao said such measures use technology to give riders more time and ease their anxiety over delivery deadlines.
+Other cities are seeking to give riders more time by removing obstacles during the final leg of a delivery. In north China's Tianjin Municipality, a digital access system was introduced, allowing delivery riders to enter residential compounds with their scooters after identity verification.
+JD delivery rider Zhai Zhongguo said that in some compounds where delivery vehicles were previously barred from entering, riders had to leave their scooters outside and continue on foot. "It used to take at least 20 minutes to walk in, make the delivery and walk back out," he said. For riders whose delivery time is calculated by the minute, a community gate can disrupt a string of subsequent orders.
+To further ease riders' time pressure, the platforms have also reduced or removed penalties for delayed deliveries and begun showing consumers estimated delivery windows rather than a single precise arrival time, according to China's cyberspace regulator.
+Greater flexibility has been accompanied by efforts to make the algorithms themselves less opaque. Zhao said Meituan has conducted 11 rounds of algorithm disclosure, explaining to riders how orders are assigned, prices set, and how rewards and penalties are determined.
+Such changes by platforms, together with measures introduced by Chinese cities, have been unfolding under a broader national policy framework aimed at strengthening protections for workers in new forms of employment, including delivery riders, ride-hailing drivers, truck drivers, online marketers, livestreamers and domestic-service workers.
+A detailed set of guidelines made public in April by the Chinese government calls on internet platforms to regulate algorithms, improve transparency, and protect workers' rights to be informed about, participate in and choose algorithm-related rules. They also require platforms to hear views from trade unions and worker representatives when adjusting rules on order allocation, pricing and delivery-time estimates.
+The guidelines also call for a social security system better suited to the characteristics of these workers, including expanding occupational injury protection and improving mechanisms for transferring social insurance accounts.
+In northwest China's Ningxia Hui Autonomous Region, 24-year-old delivery rider Cai Daizhu suffered a traffic accident less than a month after starting the job, injuring a ligament in his right knee and spending nearly half a year recovering.
+He recently learned that he was entitled to about 28,000 yuan (about 4,140 U.S. dollars) in occupational injury benefits, while eligible follow-up medical and rehabilitation expenses could also be reimbursed.
+Cai's case shows how occupational injury protection in China is adapting to new forms of employment. Traditional work injury insurance generally requires an established employment relationship, while many delivery riders work across multiple platforms or move frequently between jobs. The new scheme instead links coverage to whether an injury occurs while a worker is carrying out a platform order, and riders themselves do not pay.
+The scheme has expanded substantially since its pilot launch in 2022. From July 1 this year, it was rolled out nationwide, with participating platform companies increasing to 25. By the end of July, the number of people enrolled in this scheme had reached 34.59 million.
+Protection is also expanding beyond occupational injuries. JD pays the full cost of the five major social insurance programs, namely pension, medical, unemployment, work injury and maternity insurance, and the housing provident fund for its full-time delivery riders. Meituan subsidizes pension insurance contributions for eligible riders, while Taobao Flash Sale provides pension and medical insurance subsidies for eligible riders.
+At the national level, China is moving to expand social insurance coverage for more workers. The Ministry of Human Resources and Social Security said in July that it would encourage and support those in new forms of employment to join the basic pension insurance scheme.
+The expanded protection is already giving peace of mind to some riders. Li Yan, a full-time JD delivery rider, said signing a labor contract with the company and receiving full coverage under the five social insurance programs and the housing provident fund had "eased worries while working on the road."
+Highlighting the increasingly important role workers in new forms of employment play in promoting consumption, safeguarding people's livelihoods and stabilizing expectations, Zhao stressed the need to provide them with better support and protection. "They are not only 'connectors' of a better life, but also 'carriers of a city's warmth,'" he said. ■
