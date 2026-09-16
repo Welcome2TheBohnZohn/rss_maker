@@ -1,0 +1,38 @@
+TITLE:
+Sci-tech innovation propels China's services trade
+
+PUBLISHED:
+2026-09-16
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260916/5f907041c58f4f41ad3052386e079193/c.html
+
+ARTICLE TEXT:
+BEIJING, Sept. 16 (Xinhua) -- Zhang Qianchao, a solo exporter armed with just two computers, attracted large crowds at the Alibaba booth during this year's China International Fair for Trade in Services (CIFTIS), which wrapped up on Sunday in Beijing.
+Zhang, whose employees are eight artificial intelligence agents that vet clients, design products and chase orders around the clock, once sold more than 3,000 baseball caps to buyers in Europe, North America and Africa in just two months.
+"A client thought I had been in foreign trade for 10 years," said Zhang. When a Middle East customer sent a customized request, the AI "designer" returned three mock-ups within minutes, and a deal worth thousands of U.S. dollars was sealed on the spot. Behind his cap exports is a suite of AI-powered services, handling everything from market research and product design to order management.
+Zhang's story indicates that technology-intensive services are becoming a driver of China's services trade. In the first seven months of 2026, China's services exports rose 17.1 percent year on year, and knowledge-intensive services made up more than half.
+TOKEN AS COMMODITY
+More than 10 million small and medium-sized enterprises worldwide now run their businesses on Accio Work, an agent platform built by Alibaba's international branch. Its user count has grown more than 30-fold in a single year.
+"We want every entrepreneur, regardless of team size, to access an intelligent workforce that operates with the scale of a major corporation," said Kuo Zhang, president of Alibaba.com, the company's international website.
+China's telecom companies are also supplying the same workforce. China's three major telecom operators showcased their self-developed AI agents in an exhibition hall. Leading the display was China Mobile's MobileClaw, a desktop AI office agent launched for public trials in March with 25 million free tokens. MobileClaw can write code, prepare reports and manage e-mail accounts for its users.
+All this work is metered in tokens, units used by large language models to process information and determine pricing. At the fair, China Telecom displayed tiered token packages at its booth, available for purchase as easily as a mobile data plan. Meanwhile, China Mobile International showcased a compute trading platform that allows clients to access models across borders and settle payments by token.
+China Mobile says its digital services abroad already serve more than 15,000 enterprise clients, from a port in Peru and factory operations in Thailand to a tax system in Australia.
+Various regions across China are also experimenting with token-based trade. In late August, an AI company in the port city of Xiamen completed what the city described as its first commercial "token export": its home-grown model delivered scripts, translations and voice-overs to a livestream-commerce client in Ethiopia, with the first trade totaling 2.7 billion tokens. At the fair, Guangxi-based firm Runjian presented a "token factory" that supplies computing power on demand to Southeast Asian clients.
+Tokens are increasingly integrated into finance. At the fair's financial hall, Industrial and Commercial Bank of China launched an eight-product compute-finance suite, from settlement and computing loans to equity services, while insurer PICC rolled out insurance for the compute-power industry.
+SHIFT IN SERVICES
+The token trade represents just one frontier in a broader transformation, from exporting hardware to exporting services. BeiDou, China's satellite navigation system, has made a similar shift. Unveiled at the fair, its new overseas platform exports a long-lasting service which delivers continuous positioning and timing feeds from Chinese satellites. The service can be accessed inside client countries and is compatible with the world's major navigation constellations.
+"In the past, our partners exported devices to many countries, while operations and services lagged behind," said Xu Junjie, a senior expert with the platform's developer. "Moving from equipment exports to service exports will carry the whole industrial chain abroad."
+Weather services show the same shift at a larger scale. MAZU, an early-warning system named after China's guardian goddess of the sea and developed for the United Nations' Early Warnings for All initiative, integrates Fengyun satellite observations, numerical weather prediction and AI models. It can be delivered via the cloud or locally deployed. Custom versions now run in seven countries, from Pakistan and Sri Lanka to Djibouti, and its cloud products serve weather services in more than 40 countries.
+China Unicom's digital operations have already reached abroad. It has deployed a goods-to-person system in an e-commerce park in the United Arab Emirates and a 5G-powered sorting line in the Czech Republic that handles over 1,000 parcels an hour at 99 percent accuracy.
+SELLING INTO CHINA
+While Chinese players take their services abroad, foreign companies are also selling their smart services into this market. Honeywell Technologies made its CIFTIS debut with Forge, an industrial AI platform that turns operating data from factories, buildings and data centers into real-time guidance on maintenance, energy use and operations.
+Serving more than 25,000 customers at 288,000 sites worldwide, the Honeywell platform opened a Chinese version hosted only on Chinese cloud services in July. "Debuting at CIFTIS carries special meaning for us," said Yu Feng, president of Honeywell China, pinpointing the growing demand for industrial software and whole-lifecycle services.
+Schneider Electric came with a concrete version of the same pitch: AI-assisted services for power distribution, critical power and industrial automation that promise to catch failures before they happen. "With AI and digital technologies, we are moving from after-the-fact repairs to proactive prediction and preventive maintenance," said Xu Shaofeng, senior vice president of its services business in China.
+China's annual trade in services has exceeded 1 trillion U.S. dollars. "Services consumption and services trade have become a vital pillar supporting economic growth, smoothing circulation and boosting competitiveness," said Li Jun, who heads international services trade research at an academy under the Ministry of Commerce. "China is moving from a big trader in services to a strong one." ■

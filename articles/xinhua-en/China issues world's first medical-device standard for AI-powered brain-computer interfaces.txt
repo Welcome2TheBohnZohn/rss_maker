@@ -11,7 +11,7 @@ CATEGORY:
 Authoritative PRC Media
 
 URL:
-https://english.news.cn/20260916/85f0424b3554401395fedf2e2dc67eb1/c.html
+https://english.news.cn/20260916/638aad7c6d7944b3924a9d601c8f7acd/c.html
 
 ARTICLE TEXT:
 BEIJING, Sept. 16 (Xinhua) -- China has approved and issued the country's third medical-device standard for brain-computer interfaces (BCIs), which is also the world's first such standard for BCI medical devices using artificial intelligence (AI) to process electroencephalogram (EEG) data.
