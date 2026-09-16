@@ -1,0 +1,28 @@
+TITLE:
+GT Voice: Will US sourcing rules shock AI hardware supply chain?
+
+PUBLISHED:
+2026-09-16 23:44:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370700.shtml
+
+ARTICLE TEXT:
+Artificial intelligence Photo: VCG
+The US government is pressuring Mexican officials to accept new rules for exports of artificial intelligence (AI) hardware to prevent Chinese companies and other foreign firms from circumventing tariffs, The Wall Street Journal reported on Tuesday, citing people familiar with the negotiations. The proposal would limit the amount of components that come from outside North America in the production of AI hardware.
+The US and Mexico are reportedly racing to reach a bilateral trade deal. It remains unclear whether the proposal will cover the AI sector, but Washington may be using that leverage to reshape the regional supply chain for chips, AI servers and other emerging intelligent hardware through unilateral rules, marking an escalation of US technological trade hegemony and long-arm jurisdiction that further strains an already fragile global supply chain.
+The development comes as the World Trade Organization (WTO) warned on Tuesday that in a "geo-fragmented world," where trade cooperation is organized around geopolitical blocs, global GDP could fall by 5.1 percent and exports by 18.6 percent. The difference between strengthened multilateral cooperation and erosion of the system could amount to as much as 10 percent of baseline global real GDP, WTO Chief Economist Robert Staiger said.
+Recent industry data underscores Mexico's explosive rise as a significant and growing supplier of AI hardware. In the first half of 2026, Mexico exported $82.9 billion of computer servers used in AI-driven data centers, putting the category on pace to surpass autos and auto parts exports for the full year, according to S&P Global. 
+Computer server exports grew by 172.1 percent year-on-year in the 12 months to June 30, 2026, and the US remained the primary destination, absorbing 93.9 percent of Mexico's computer server exports.
+Nevertheless, Mexico's booming AI hardware industry is not a closed ecosystem built from scratch. Supported by global industrial networks, Mexican factories source the vast majority of key server components from the Asia-Pacific region. Mexico's current industrial advantage rests on its proximity to the North American market, coupled with mature supply capacity from across the world including China.
+Washington already requires that cars must have 75 percent or more of their content from North American suppliers to qualify for duty-free treatment. Now it is seeking to extend that same sourcing rule to AI equipment and other sectors, essentially tightening restrictions on Chinese AI hardware exports. However, the US logic of forcibly excluding Chinese hardware does not hold up against industrial reality.
+North America lacks the capacity to replace Asia-Pacific production in the short term. Disruption to the existing supply chains will not make them safer, only more expensive and slower. The delays caused by supply chain restructuring will ultimately be borne by downstream US cloud providers, AI companies and data center operators.
+Moreover, China has already established capacity and materials advantages in several key segments of AI hardware. In optical modules, for example, Chinese manufacturers hold a dominant position. While Graphics Processing Units serve as the computing cores of AI servers, optical modules act as the vital transmission arteries connecting tens of thousands of them. According to the 2025 global top 10 optical module supplier list published by LightCounting, an independent optical communications research firm, Chinese manufacturers hold seven of the 10 spots, with a combined share exceeding 60 percent.
+The current pattern of corporate capacity relocation through Mexico is already a direct consequence of the previous US tariff policies. Unilateral trade barriers have inflated cross‑border costs, driving global manufacturers to seek alternative production and transit routes. History shows that higher administrative trade barriers generate more complex market‑driven circumvention mechanisms. Ultimately, American downstream tech companies and local Mexican industries bear the brunt of these politically motivated disruptions.
+What truly deserves Washington's reflection is not how to push Chinese suppliers out of more markets, which is beyond the reach of unilateral US measures, but how to keep American firms technologically competitive in open competition. Politicizing supply chains neither stops firms from pursuing profit nor masks America's own shortcomings. From trade negotiations to chip bans, unilateral tools have been used repeatedly without achieving their intended results. Firms will pursue efficiency, and supply chains will flow to where costs are lowest and response is fastest. Political power can temporarily redirect those flows, but it cannot eliminate the economic logic behind them.
