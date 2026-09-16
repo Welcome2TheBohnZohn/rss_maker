@@ -1,0 +1,30 @@
+TITLE:
+China's Hualong One 2.0 unveils innovations to boost safety, efficiency
+
+PUBLISHED:
+2026-09-15 22:05:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370597.shtml
+
+ARTICLE TEXT:
+The Taipingling nuclear power project in South China's Guangdong Province. Photo: Xinhua
+China's Hualong One nuclear power technology unveiled its 2.0 version with a series of new innovations, marking a systematic upgrade in efficiency and performance based on the mature design of the Hualong One reactor, the Global Times learned from the joint working group for integrated innovation on the Hualong One 2.0 version on Tuesday.
+The upgraded version adopts Chinese standards and is capable of achieving 100 percent domestic production of key equipment, while its safety performance indicators rank among the first tier of large pressurized water reactors (PWRs) globally.
+The 2.0 version of Hualong One is an advanced "Generation III-plus" PWR technology developed based on feedback and experience from the construction and operation of Hualong One, through independent innovation and integrated coordination. It marks a major milestone in China's nuclear power development, as the country moves from broadly keeping pace with international peers toward matching them overall and taking the lead in some areas.
+Wu Yuxiang, deputy chief designer of subsequent Hualong One reactor models under China National Nuclear Corporation (CNNC), said at a press conference that the 2.0 version uses a reactor core with 177 fuel assemblies, each containing 264 fuel rods. Control rod assemblies are used to precisely regulate reactor operation.
+Safety remains the key focus of the upgraded design. The 2.0 version optimizes both active and passive safety systems, allowing no operator intervention for 72 hours after an accident and enabling the plant to maintain autonomous accident response for seven days.
+Niu Wenhua, chief expert on advanced Hualong One models at China General Nuclear Power Corporation (CGN), said that following the Fukushima nuclear accident, nuclear safety has become the foremost concern in the development of nuclear power worldwide.
+The Hualong One 2.0 design does not rely on alternating-current power supplies for key safety functions but features an all-passive safety system, Niu said.
+"The most critical step in reactor safety is cooling the reactor after shutdown," Niu told the Global Times. The design uses gravity to allow water to flow from elevated water tanks, while natural circulation and nitrogen expansion provide the driving force for cooling, eliminating the need for pumps.
+The design also takes into account extreme weather and climate-related conditions, including higher seawater temperatures. The nuclear power plant is designed with a safety margin based on a reference seawater temperature of 45 C, while its cooling system does not rely solely on seawater. Instead, external high-temperature water tanks provide an additional layer of protection under extreme conditions, Niu noted.
+The upgraded model has also simplified auxiliary systems. It reduces pipeline length by about 31 percent, the number of process valves by about 25 percent, the volume of nuclear island buildings by approximately 21 percent, and nuclear island installation work by about 33 percent. The proportion of automated operation of the units has also increased significantly.
+"This is not a ground-up reinvention or an entirely new technological development; rather, it is a systematic effort to enhance the quality and efficiency of a mature design, delivering comprehensive upgrades across five key dimensions: safety, construction schedule, cost, operation and maintenance, and environmental protection," Niu said.
+As of Monday, 11 Hualong One units in China and overseas had entered commercial operation, while another 36 units had been approved or were under construction, according to the project's information. The total number of units puts Hualong One at the forefront of third-generation nuclear power technology worldwide, and the 2.0 version is now available for the global market.
+The technology has been validated through large-scale and batch construction and operation, and has become a major domestically developed Generation III nuclear power technology in China, contributing to the country's efforts to achieve its carbon goals.

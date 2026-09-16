@@ -1,0 +1,35 @@
+TITLE:
+China prioritizes full-chain semiconductor push in new five-year plan to build resilient base for AI development
+
+PUBLISHED:
+2026-09-15 23:26:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370614.shtml
+
+ARTICLE TEXT:
+A technician conducts chip quality inspections in a factory in Yiwu, East China's Zhejiang Province, in March 2026. Photo: VCG
+Chinese authorities released the next five-year plan for electronic information manufacturing on Tuesday, placing "full-chain breakthroughs in integrated circuits" as the top priority for building foundational industrial strength. Analysts said that the move signals a strategic shift from piecemeal fixes to a systemic, structural reconstruction of the nation's semiconductor sector, which serves as the "heart" of next-generation industries such as artificial intelligence (AI), telecommunications, aerospace and smart devices.
+The plan for the 15th Five-Year Plan (2026-30) period set targets on the industrial scale. By 2030, revenues from enterprises above designated size in the electronic information manufacturing sector should exceed 30 trillion yuan ($4.5 trillion), with research and development (R&D) intensity reaching 3.5 percent, according to a release by the Ministry of Industry and Information Technology (MIIT) and the nation's top economic planner on Tuesday.
+Based on the current situation, this means an increase in revenue by about 10 trillion yuan within five years. According to the MIIT, the first-half revenue of the electronic information manufacturing industry reached 9.41 trillion yuan, up 18.5 percent year-on-year. The total profit reached 577.7 billion yuan, up 96.9 percent.
+How will the target of 30 trillion yuan be realized? Industry insiders pointed to the semiconductor industrial chain, computing foundation and energy electronics in the plan.
+Among the plan's 17 tasks and nine specific projects, "advancing full-chain breakthroughs in integrated circuits" ranks first under the priority of strengthening foundational industrial capabilities, in a bid to meet the needs of key fields such as AI, next-generation information and communications, aerospace, and next-generation intelligent terminals, and accelerate the development of a batch of mature, reliable and widely applicable industrial basic "shelf products."
+The plan clarifies that the full chain includes developing high-end chips such as high-performance processors, high-density memory, and highly reliable analog or mixed-signal chips; refining mature processes while advancing leading-edge nodes; industrializing ultra-wide-bandgap semiconductors including gallium oxide and diamond; and accelerating electronic design automation (EDA) tools and core intellectual property.
+Analysts said that the plan covers six core segments of integrated circuits: design, manufacturing, packaging and testing, equipment, materials, and design tools including EDA. 
+"The new plan has explicitly written the words 'solving choke points' into its 17 key tasks. Without controllable chips, the industry scale target of 30 trillion yuan lacks a foundation. The semiconductor measures focus on the most vulnerable, easily restricted points of China," Zhang Xiaorong, director of the Beijing-based Cutting-Edge Technology Research Institute, told the Global Times on Tuesday.
+A break in any link stops the entire system. Full-chain efforts therefore require synchronized progress across design, manufacturing, packaging and testing, equipment, materials, and tools, Zhang noted. 
+The pain points of China's semiconductor development involve lithography machines, EDA tools, and high-end materials or components. The largest technology gaps appear in advanced manufacturing of chips, while many segments sit in an intermediate state - alternatives exist but their performance lags, said Zhang.
+Apart from semiconductors, the plan also puts an emphasis on the computing foundation and energy electronics. It prioritizes new computing paradigms including in-memory computing, quantum computing and space-based computing, while supporting AI clusters of hundreds of thousands of chips. It advances next-generation high-efficiency photovoltaic cells and pushes the commercialization of solid-state batteries, sodium-ion batteries and flow batteries.
+Analysts pointed out that the plan has come at a time when the revenue of electronic information manufacturing has ranked first among China's 41 major industrial categories for 13 consecutive years, meaning that the sector has been and will remain a key pillar industry for national economic growth and development. Integrated circuits, or chips, serve as the "heart" of electronic products, powering smartphones, servers, vehicles, industrial controls, computing facilities and AI. 
+"The approach no longer centers on chasing single technologies. Instead, the goal over five years is a more resilient and self-reliant industrial system - one that cannot be easily crippled, has backups, and can lead in selected areas," said Zhang.
+Industry insiders also noted that the new plan came at a time when US export controls have tightened further. A guidance by the US Bureau of Industry and Security in May required export licenses for advanced AI chips shipped to any entity whose ultimate parent company is based in China, Russia, or another Country Group D:5 nation - no matter where that entity is physically located. 
+"Competition has moved from scale to systemic capability. The electronic information manufacturing industry is the hardware base of new industrialization," Ao Li, deputy dean of the China Academy of Information and Communications Technology, was quoted as saying by the Xinhua News Agency.
+The new plan is in line with China's previous plans to develop the semiconductor industry and other high-end sectors. Industry data has shown substantial progress, Ma Jihua, a veteran tech industry analyst, told the Global Times on Tuesday.
+In 2025, China's integrated-circuit sales reached 1.7331 trillion yuan, up 20.2 percent year-on-year. Exports surpassed $200 billion for the first time at 201.9 billion, rising 26.8 percent, according to industry statistics.
+"This marks significant progress from 2021, the starting year of the 14th Five-Year Plan (2021-25) period. By the end of 2030, China should be able to solve these choke points in the semiconductor field, which may also become the main area of our emerging exports," said Ma.
