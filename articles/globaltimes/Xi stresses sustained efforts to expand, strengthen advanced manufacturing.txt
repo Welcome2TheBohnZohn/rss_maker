@@ -2,7 +2,7 @@ TITLE:
 Xi stresses sustained efforts to expand, strengthen advanced manufacturing
 
 PUBLISHED:
-2026-09-17 12:10:00
+2026-09-17 23:59:00
 
 SOURCE:
 Global Times
@@ -11,18 +11,38 @@ CATEGORY:
 PRC Non-Authoritative Media
 
 URL:
-https://www.globaltimes.cn/page/202609/1370734.shtml
+https://www.globaltimes.cn/page/202609/1370796.shtml
 
 ARTICLE TEXT:
-Xi stresses sustained efforts to expand, strengthen advanced manufacturing
-                        
-                        
-                            By Xinhua Published: Sep 17, 2026 12:10 PM 
-                            
-                                
-                            
-                         
-                     
-                    
-                         Chinese President Xi Jinping has urged sustained efforts to expand and strengthen advanced manufacturing to provide strong support for advancing Chinese modernization.
-Xi, also general secretary of the Communist Party of China Central Committee and chairman of the Central Military Commission, made the remarks in a recent instruction, which was conveyed at a national conference on advanced manufacturing held in Beijing on Wednesday and Thursday.
+Industrial robots are operating on an intelligent production line in a smart manufacturing enterprise in Yangzhou, East China's Jiangsu Province. Photo: VCG
+Chinese President Xi Jinping has urged sustained efforts to expand and strengthen advanced manufacturing to provide strong support for advancing Chinese modernization. Xi, also general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission, made the remarks in a recent instruction, which was conveyed at a national conference on advanced manufacturing held in Beijing on Wednesday and Thursday, according to the Xinhua News Agency.
+Efforts should be made to ensure both high-quality development and greater security, pursue smart, green and integrated development, and make the country's industrial chains more self-supporting and risk-resilient, Xi stressed, Xinhua reported.
+The remarks come as advanced manufacturing is taking on a larger role in underpinning China's industrial growth and driving structural upgrading. In the first eight months of the year, value-added industrial output of major enterprises increased 5.3 percent year-on-year, while that of high-tech manufacturing rose 14.2 percent.
+Experts said that smart, green and integrated developments together chart the key direction for China's manufacturing upgrade, with intelligent technologies providing the foundation, green development shaping long-term competitiveness, and deeper integration helping traditional industries accelerate transformation. 
+They added that the push will also help strengthen China's indigenous capabilities in key technologies and make industrial and supply chains more independent and resilient, while maintaining openness to global industrial cooperation.
+Key directions for upgrading
+Xi emphasized the need to accelerate the development of a modernized industrial system with advanced manufacturing as the backbone, and reinforce the foundations of the real economy. 
+Premier Li Qiang, also a member of the Standing Committee of the Political Bureau of the CPC Central Committee, delivered a speech at the conference, Xinhua reported.
+Xi's important instructions provide essential guidance for developing advanced manufacturing, Li said, noting that China must treat developing advanced manufacturing as a major strategic task, and press steadily to boost its strength in manufacturing.
+Bian Yongzu, executive deputy editor-in-chief of Modernization of Management magazine, told the Global Times that smart development provides the technological foundation, with AI, big data, intelligent equipment and robotics increasingly embedded in production to improve efficiency, precision and automation. Green development points to the long-term direction, as lower-carbon and more resource-efficient production becomes an increasingly important part of industrial competitiveness, he explained.
+Integrated development, Bian said, is especially relevant to China's vast manufacturing base. China has both advanced factories and a large number of traditional industries that remain essential to the economy. The key is not simply to replace traditional manufacturing, but to upgrade it by bringing intelligent and green technologies into existing production systems.
+Chen Jing, vice president of the Technology and Strategy Research Institute, told the Global Times that the different dimensions of manufacturing upgrading reinforce each other. Intelligent technologies can serve as a common lever, supporting both technological upgrading and emissions reduction, while green development creates new demand for higher-end technologies. Stronger technological capabilities and higher value-added production can in turn support further investment in intelligent and green transformation.
+Chen also said competition in advanced manufacturing will go beyond production capacity and prices. Innovation capability, industrial security, product quality and branding, as well as low-carbon capabilities, will become crucial measures of competitiveness.
+The broader shift, he said, is from factor-driven growth toward innovation-driven development, and from advantages in individual products toward stronger industrial ecosystems and a higher position in global value chains.
+He added that moving in these directions will also help strengthen China's technological self-reliance, reduce excessive reliance on external sources in key areas, and improve its ability to make breakthroughs in critical technologies.
+China's advantages include its vast domestic market, complete industrial system, strong engineering workforce and rich application scenarios, Chen said. The large market gives companies room to test and improve new products quickly, while dense supply chains and a broad manufacturing base help shorten the path from R&D to mass production.
+Self-reliance, however, does not mean cutting China off from global industrial cooperation, Chen said. A more realistic path is to strengthen the substitutability of key technologies and improve supply-chain resilience, while continuing to participate in international cooperation and global markets.
+Breakthroughs across advanced manufacturing
+Smart, green and integrated upgrading is already taking shape across China's manufacturing sector, as emerging technologies move faster into industrial application.
+The Global Times learned from AGIBOT that its Genie G2 humanoid robot has been deployed on a tablet production line in Nanchang, East China's Jiangxi Province, where it performs precision loading and unloading tasks with a reported success rate of 99 percent.
+Yao Maoqing, co-founder of AGIBOT and chairman and CEO of Maniformer Technology, told the Global Times that embodied intelligence is a typical example of the deep integration of AI and advanced manufacturing. China's rich manufacturing scenarios, complete industrial system and growing innovation capacity could accelerate the transition of embodied intelligence from technological breakthroughs to large-scale applications, he said.
+The expansion of robotics into real production is not confined to factory assembly lines. DEEP Robotics told the Global Times that it is integrating AI with motion control, environmental perception and autonomous navigation, while deploying robots in energy, power inspection, emergency response and other complex environments.
+As Chinese robotic technologies enter a wider range of industrial scenarios, the company said it is also adapting its products and services to overseas markets and building local partnerships.
+Behind the expanding applications is an increasingly complete industrial ecosystem. Shenzhen's "Robot Valley," covering about 28 square kilometers, has gathered more than 200 robotics-related companies, including more than 25 humanoid robot manufacturers. Its industrial chain stretches from AI models, tactile sensors and lidar to servo motors, joint modules, robotic arms and dexterous hands, with the localization rate of key components exceeding 90 percent.
+The momentum seen in robotics is part of a broader acceleration across China's advanced manufacturing sector. In August, value-added output of equipment manufacturing rose 12.1 percent year-on-year, while high-tech manufacturing expanded 16.7 percent. New growth drivers, led by high-tech manufacturing and digital product manufacturing, contributed more than 60 percent of the growth in industrial output that month. Industrial robot output jumped 34.6 percent year-on-year.
+Besides robotics, recent advances have also extended in other fields. The CR450 high-speed train has completed whole-vehicle testing; the Zhuque-3 Y2 reusable carrier rocket achieved a land recovery of its first stage; and China's second domestically built large cruise ship, Adora Flora City, is scheduled for delivery in November.
+The transformation is also becoming greener. During the 15th Five-Year Plan period (2026-30), China plans to cultivate 500 zero-carbon factories and develop replicable models, while pushing traditional industries including steel, nonferrous metals and petrochemicals to adopt cleaner raw materials and fuels, optimize product structures and integrate low-carbon technologies.
+China will also improve standards for green factories, green supply chains and green industrial parks. By 2030, output from green factories at all levels is targeted to account for 45 percent of the total output of major manufacturing enterprises.
+Bian Yongzu told the Global Times that China's expanding advanced manufacturing capacity is increasingly translating into stronger global competitiveness. 
+As Chinese manufacturers improve technological capabilities, efficiency and product quality, they are not only meeting increasingly diversified domestic demand, but also supplying more high-tech and cost-effective products to overseas markets, he said.
+He said this reflects a broader shift in Chinese manufacturing from scale expansion toward higher technological content and stronger competitiveness, while creating more opportunities for industrial cooperation with other countries.
