@@ -1,0 +1,31 @@
+TITLE:
+China completes two space launch missions in one day, sending internet and remote-sensing satellites into orbits
+
+PUBLISHED:
+2026-09-17 20:22:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370765.shtml
+
+ARTICLE TEXT:
+People watch a Long March 12 rocket lifting off at the Hainan commercial spacecraft launch site on September 17, 2026. Photo: VCG
+ China on Thursday carried out two successful space launches within hours of each other, sending a new batch of low-orbit internet satellites and a pioneering pair of commercial interferometric synthetic aperture radar (InSAR) remote-sensing satellites into preset orbits, marking new progress in the country's commercial space and spatial infrastructure development, the Science and Technology Daily reported on Thursday.
+The first launch took place at 8:32 am at the Hainan commercial spacecraft launch site, where a Long March 12 carrier rocket lifted off and accurately sent the 25th group of low-orbit internet satellites into scheduled orbit. The mission, the 667th launch of the Long March rocket family, was a complete success, the report said.
+Developed by the eighth academy of the China Aerospace Science and Technology Corporation (CASC), the Long March 12, China's first single-core-stage carrier rocket with a diameter of 4 meters, makes use of a new-generation low-temperature liquid propellant. 
+With a total length of approximately 62 meters, the rocket boasts a carrying capacity of no less than 6 tons and is able to place satellites into 700-kilometer sun-synchronous orbit. It can be fitted with fairings of 4.2-meter or 5.2-meter diameters to adapt to single and multi-satellite launches with varied orbital requirements. The launch was undertaken by the commercial rocket company under CASC.
+Hours later, at 10:40 am, a Kuaizhou-11 Y3 solid carrier rocket blasted off from the Jiuquan Satellite Launch Center in Northwest China, successfully sending two satellites into preset orbit. This flight marked the Kuaizhou-11 rocket's 7th mission and the 40th launch of the entire Kuaizhou rocket series, per the Xinhua News Agency.
+A Kuaizhou-11 Y3 solid carrier rocket blasts off from the Jiuquan Satellite Launch Center on September 17, 2026. Photo: VCG
+The dual-satellite combination, consisting of Tianyi 51 (Caiyun SAR01) and Tianyi 52 (Tianyuan YG01), is the world's first group of successfully orbited commercial medium-inclination InSAR satellites, creating groundbreaking technological and application value for the global commercial remote sensing industry.
+Different from traditional sun-synchronous InSAR satellites, the new satellites adopt a 55-degree medium-inclination orbit, overcoming three core bottlenecks of conventional remote sensing technologies. 
+The medium-inclination orbit enables high-frequency revisit observation, shortening the interferometric revisit cycle from several days to one day, while the interval will be further reduced to several hours after the completion of satellite networking. 
+Also, the new orbital system realizes three-dimensional deformation inversion, solving the long-standing problem of inaccurate north-south deformation measurement of traditional InSAR equipment. 
+The multi-angle collaborative imaging eliminates observation blind zones in urban high-rise areas, mountainous regions and river valleys, achieving all-round spatial coverage.
+Empowered by the upgraded capabilities, the satellite group supports various key scenarios, including mountain geological disaster monitoring, risky urban construction identification, hydropower project inspection and traffic trunk line safety supervision. It can help build an efficient space-based monitoring system featuring daily routine detection and emergency rapid response, providing near-real-time data support for industrial safety governance, according to another report by Science and Technology Daily.
+Tianyi Space is steadily advancing the global networking layout of 120 high-performance SAR satellites in accordance with China's national civil space infrastructure plan, striving to build a full-link intelligent space ecosystem integrating space perception, computing and application with strategic partners.
+Independently developed by Kuaizhou Aerospace Space Technology Co, Ltd, the Kuaizhou-11 solid rocket features high flight reliability, high orbit insertion accuracy, a short preparation cycle, low logistical requirements and low launch costs, with a carrying capacity of 1 ton for 700-kilometer sun-synchronous orbit, serving as a reliable carrier for China's commercial space launch missions, according to the Science and Technology Daily.

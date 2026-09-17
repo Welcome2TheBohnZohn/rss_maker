@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:04:37 +0000</lastBuildDate>
     <item>
       <title>China opens trade shortcut to SE Asia</title>
       <link>https://www.chinadaily.com.cn/a/202609/17/WS6aab274be4b06d4aa055e73a.html</link>
@@ -23,46 +23,6 @@ Ding also called for efficient operation of the canal, which serves as key infra
 Construction of the Pinglu Canal started in August 2022 to address a long-standing geographical problem in terms of trade.
 While Guangxi boasts a coastline and borders Vietnam, its major inland rivers flow east, which means cargo moving by water from Nanning, the capital of Guangxi, and other parts of the Xijiang River basin could only reach the sea through Guangdong.</description>
       <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/17/WS6aab274be4b06d4aa055e73a.html</guid>
-    </item>
-    <item>
-      <title>AI production's prime-time triumph</title>
-      <link>https://www.chinadaily.com.cn/a/202609/17/WS6aab20e6e4b06d4aa055e718.html</link>
-      <description>Published: 2026-09-17
-
-What happens when an AI-generated series debuts on prime-time TV? A ratings win, a regulatory breakthrough, and a gold rush in the A-share market — Chinese yuan-denominated stocks listed on the Shanghai and Shenzhen stock exchanges.
-Recently, the mythology-themed series Beyond Wukong made history as the first AI-produced long-form drama to secure a prime-time slot on a major television network — Hunan Satellite TV. The premiere immediately topped the ratings among all provincial satellite channels in the same time slot.
-The production is also the first to clear the country's review-while-airing mechanism — a fast-track approval process introduced last August under the National Radio and Television Administration's 21 reform measures, designed to diversify and accelerate content supply for major TV platforms.
-Only the first five episodes have been released so far, with the remaining episodes to be produced, submitted for review, and rolled out progressively as the broadcast continues.
-Since the premiere on Aug 31, Mango Excellent Media Co, the show's producer, has seen its A-share stock surge by the daily 20 percent limit on two consecutive trading days.
-By the close of trading on Sept 4 — the same day the fifth episode aired — the share price had jumped from 14.15 yuan on Aug 28 to 21.25 yuan, adding over 10 billion yuan ($1.5 billion) in market capitalization in less than a week.
-Except for the numbers, Beyond Wukong has ignited a broader public conversation about the evolving relationship between AI and the art of visual storytelling.
-For Li Dongshen, the series director, the implications are both personal and profound.
-Previously a documentary filmmaker, Li says directing this AI-generated series has shifted his perception of what he produces — from "artworks" to "visual products".
-He notes that each 40-minute episode costs approximately 900,000 yuan to produce, or about 20,000 to 30,000 yuan per minute — less than one-tenth the per-minute production cost of an animated film of mediocre quality.
-In his view, the traditional film and television industry has been built around the camera for 150 years: writers author scenes, art directors re-create them, lighting technicians set the lights, cinematographers record the footage, editors assemble the final cut, and directors coordinate every department along the way. The production of Beyond Wukong, however, has completely abandoned this camera-centric mindset and established an entirely new production logic.
-"You have to remove the camera from your mind," he says.
-The underlying logic of AIGC (AI-generated content) video is frame-by-frame generation — essentially a sequence of temporally consistent individual images stitched together.
-"You have to think clearly about who is in each frame, where they are, which direction the light is coming from, and what emotional beat the scene is hitting. Then leave the transitions between frames to the model."
-The production team behind Beyond Wukong has more than 100 members, 70 percent of whom come from art-related backgrounds.
-Li believes that for future creators working with AIGC in film and television, the two most essential qualities are imagination, namely the ability to envision countless key frames, and judgment, since AI models can generate dozens of possibilities at once and creators need to select the best one quickly.
-Putting this philosophy into practice, however, is no easy feat.
-During the early stage of working with AI models such as Seedance 2.0 and Seedance 2.5, prompts for a single shot could run up to 7,000 to 8,000 Chinese characters, with granular details specifying which muscle on a character's face should begin to twitch.
-"So far, there hasn't been a single scene we could imagine that AI was unable to generate. The real problem right now is that our imagination can't keep up with what the models are capable of," Li says.
-"Within a year at the earliest, or two years at a conservative estimate, more than 90 percent of all film and television productions will incorporate AIGC to some extent," predicts Li.
-Beyond Wukong is adapted from an anonymous mythological novel from the late Ming Dynasty (1368-1644), and serves as a sequel to the classic Journey to the West.
-It follows the descendants of the original pilgrimage crew as they reunite and journey once more to the Western Heaven in search of the definitive interpretation of the scriptures.
-Ren Xu, general manager of Mango Excellent Media's AIGC Innovation Content Center, explains why the company chose this work as its AIGC pilot. In an era of exploding AI-generated content and shrinking audience attention, a familiar story tied to Journey to the West lowers the barrier to market entry, while adapting the sequel rather than the original allows far greater creative freedom.
-"Technically, a mythological theme also gives AI-generated content a margin for error, while its grand world-building and fantastical settings maximize AIGC's visual strengths," he adds.
-Ren notes that while AIGC has dramatically lowered barriers to content creation, triggering an explosion of AI-produced short dramas, only a handful can be considered truly high-quality.
-For the industry to evolve from "experimental works" to "consistent quality production", it must crack the challenge of long-form consistency.
-"One major bottleneck is maintaining visual uniformity across dozens of episodes. A character's face might change in the next shot, and costumes, movements, and environments are prone to distortion — all magnified in a long series," he says.
-Ren maintains that Beyond Wukong has pioneered an industrialized production workflow tailored to AIGC.
-The company built an end-to-end, AI-powered pipeline on its proprietary platform, LumeCreate, spanning everything from character design and storyboarding to final rendering and post-production. "This proves that AIGC long-form production can move from a 'handicraft workshop' to an 'industrial assembly line'," he says.
-The 109 character assets and 143 scene assets can be reused in future episodes and shared across other mythology projects, enabling long-term IP management and value growth, Ren adds.
-In response to viewer feedback that the pacing is sometimes slow, Li says they will make adjustments in subsequent productions of the seasonal series.
-"We haven't finished writing all the episodes for the first season yet, so that the story direction can be co-created with the audience. If I find that viewers have proposed a very interesting storyline, I will definitely adjust the one I currently have in mind," Li explains.
-Following the pilot, the company has charted a clear AIGC roadmap targeting three areas: children's animation, revival of classic Chinese-style IP, and quality mid-to-long-form dramas for female audiences, covering both serialized and stand-alone content.</description>
-      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/17/WS6aab20e6e4b06d4aa055e718.html</guid>
     </item>
     <item>
       <title>Dialogue should be grounded in reality</title>
@@ -121,6 +81,31 @@ The application scenario center will help accelerate the process of moving innov
 "Together, the two institutions will help address Hong Kong's long-standing weakness in midstream and downstream commercialization in its innovation and technology ecosystem," he added.
 irisli@chinadailyhk.com</description>
       <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/17/WS6aab2e6ce4b06d4aa055e76b.html</guid>
+    </item>
+    <item>
+      <title>How a delivery rider became China's first champion of the Alps</title>
+      <link>https://www.chinadaily.com.cn/a/202609/17/WS6aabe0bae4b06d4aa055ea34.html</link>
+      <description>Published: 2026-09-17
+
+How a delivery rider became China's first champion of the Alps
+Chinese trail runner Zhao Jiaju made history in Italy on Wednesday by winning the Tor des Géants ultramarathon in 65 hours, 55 minutes and 22 seconds.
+The 31-year-old became the first Chinese and Asian runner to win the race since its inception, while also setting a new course record, beating the previous mark by 13 minutes.
+More than a decade ago, however, Zhao was running for a very different reason.
+Around 2014, while working as a food delivery rider, he chose to run between deliveries instead of riding an electric bicycle like his colleagues.
+During his time working as a delivery courier, running became part of his daily routine. Zhao has recalled carrying several food orders in each hand and running through streets, over footbridges and through tunnels. At one point, he handled about 1,500 orders a month, with each delivery covering an average distance of 2 to 5 kilometers.
+"Although this wasn't systematic training, it helped improve my overall physical fitness," he said.
+That experience laid the foundation for Zhao's transition to full-time trail running in 2017.
+His journey to the sport was far from conventional. Born in Guizhou province in February 1995 and raised in Fenghuang ancient town in Hunan province, Zhao dropped out of junior high school. At 15, he went to Wudang Mountain in Hubei province hoping to learn martial arts, but eventually realized that becoming a professional fighter was beyond his reach.
+Then a poster for the Hangzhou Marathon caught his attention. Its slogan, "Run through the scenery, run through you," introduced him to a different possibility.
+"I realized there was such a competition, a marathon, and I wanted to give it a try," he said.
+Since then, running has become a long battle with himself. "You only lose to your own lack of effort and your own laziness," he said.
+That mindset was put to the ultimate test at the Tor des Géants, one of the world's premier ultradistance trail races. This year's 336.1-kilometer course featured more than 24,000 meters of cumulative elevation gain, roughly equivalent to three Mount Everests.
+Zhao did not make his first rest stop until 35 hours and 42 minutes into the race and slept for only about 20 minutes. For the remainder, he relied on short naps at aid stations. In total, he slept for only about one hour during the roughly 330-kilometer journey.
+After crossing the finish line, he posted on social media: "Tor des Géants, 330 kilometers. Finally, I've done it…"
+The victory, however, also marked a farewell to the most extreme stage of his running career. Zhao said it would be his final race in the 168-kilometer-and-above category. He plans to take two months off before moving on.
+Zhao said he hopes his experience can encourage more people to run.
+"I hope my experience can motivate more people and give everyone the determination to keep moving forward," he said.</description>
+      <guid isPermaLink="false">https://www.chinadaily.com.cn/a/202609/17/WS6aabe0bae4b06d4aa055ea34.html</guid>
     </item>
     <item>
       <title>Domestic firms score with AI tennis technologies</title>
