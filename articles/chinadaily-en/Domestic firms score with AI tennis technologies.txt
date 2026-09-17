@@ -1,0 +1,35 @@
+TITLE:
+Domestic firms score with AI tennis technologies
+
+PUBLISHED:
+2026-09-17
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202609/17/WS6aab1eb6e4b06d4aa055e705.html
+
+ARTICLE TEXT:
+Andre Agassi once famously branded fellow tennis great Pete Sampras "robotic" for his metronomic serve and emotionless on-court demeanor, but who knows what the eight-time Grand Slam winner would think of China's latest high-tech breakthrough.
+On a tennis court in Bao'an district of Shenzhen, Guangdong province's tech hub, a player can now scan a QR code, open a shared equipment locker and wheel out a robot to practice against.
+When a ball is struck, cameras track the ball's trajectory, and the robot scurries along the baseline, catches the ball and fires another one back from its new position.
+Chinese technology companies are developing artificial intelligence-powered sports equipment to create these training partners, which never tire and are always available.
+Unlike traditional ball machines that remain fixed in one corner and feed balls in preset patterns, some of the new machines can move left, right, forward and backward, varying the launch point to test players' footwork and reactions more effectively.
+Shenzhen-based Acemate's robot uses cameras to track the ball and the player, and can move across the court. A catching net collects an incoming shot before the robot launches the next ball, making the session feel more like a rally than a repetitive feeding drill.
+The product has attracted attention overseas. At a trial event in New York, more than 200 tennis enthusiasts lined up to try out the Chinese robot, according to the company.
+Acemate launched its mobile tennis robot on an overseas crowdfunding platform in May 2025, and has shipped about 6,000 units to over 60 countries and regions, with overseas markets accounting for more than 70 percent of sales, according to Huang Zihui, the company's CEO.
+"It is no longer simply about 'Made in China'," Huang said. "Chinese companies are defining new product categories and taking them to the global market."
+Shenzhen has also begun piloting shared rentals of AI tennis robots this year, with some machines available for about 88 yuan ($12) an hour.
+For players like Wang Yinan, the appeal is simple. Wang, who plays four or five times a week, said finding suitable partners in Shenzhen became increasingly difficult after he reached the 2.5-to-3.0 level on the National Tennis Rating Program scale. That range represents advanced-beginner to lower-intermediate recreational players.
+With a robot, "whenever I have time, I can come and play", he said.
+AceiiLab, founded in Shenzhen in late 2024, has deliberately chosen not to make its first robot catch every returning ball.
+Instead, its A1 robot uses a proprietary binocular vision system to track the player, ball position, speed and trajectory, and can move at up to 5 meters per second while feeding balls from different locations around the court.
+"Tennis is fundamentally about judging rhythm and spatial position," said Chao Guang, co-founder of AceiiLab. "Trying to catch every shot could interrupt the feeding rhythm, demand more computing power and heavier hardware, and push up costs for users."
+According to the General Administration of Sport of China, about 25.36 million people played tennis in China in 2025, with participation expected to top 32 million by 2030.
+Shanghai-based Future Mind is also going after the same fast-growing market.
+Founder and CEO Zhang Haibo said the company has sold more than 100,000 units of products cumulatively, and that sales in the first half of the year were considerably higher year-on-year. More than 90 percent of customers are individual consumers, he added.
+Zhang said that he expects AI-powered sports products to become standard equipment at tennis courts around the world within the next two to three years. He estimated that current penetration is only about 3 to 4 percent, but sees it climbing to between 30 and 40 percent over that period.

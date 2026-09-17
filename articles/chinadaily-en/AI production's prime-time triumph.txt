@@ -1,0 +1,49 @@
+TITLE:
+AI production's prime-time triumph
+
+PUBLISHED:
+2026-09-17
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202609/17/WS6aab20e6e4b06d4aa055e718.html
+
+ARTICLE TEXT:
+What happens when an AI-generated series debuts on prime-time TV? A ratings win, a regulatory breakthrough, and a gold rush in the A-share market — Chinese yuan-denominated stocks listed on the Shanghai and Shenzhen stock exchanges.
+Recently, the mythology-themed series Beyond Wukong made history as the first AI-produced long-form drama to secure a prime-time slot on a major television network — Hunan Satellite TV. The premiere immediately topped the ratings among all provincial satellite channels in the same time slot.
+The production is also the first to clear the country's review-while-airing mechanism — a fast-track approval process introduced last August under the National Radio and Television Administration's 21 reform measures, designed to diversify and accelerate content supply for major TV platforms.
+Only the first five episodes have been released so far, with the remaining episodes to be produced, submitted for review, and rolled out progressively as the broadcast continues.
+Since the premiere on Aug 31, Mango Excellent Media Co, the show's producer, has seen its A-share stock surge by the daily 20 percent limit on two consecutive trading days.
+By the close of trading on Sept 4 — the same day the fifth episode aired — the share price had jumped from 14.15 yuan on Aug 28 to 21.25 yuan, adding over 10 billion yuan ($1.5 billion) in market capitalization in less than a week.
+Except for the numbers, Beyond Wukong has ignited a broader public conversation about the evolving relationship between AI and the art of visual storytelling.
+For Li Dongshen, the series director, the implications are both personal and profound.
+Previously a documentary filmmaker, Li says directing this AI-generated series has shifted his perception of what he produces — from "artworks" to "visual products".
+He notes that each 40-minute episode costs approximately 900,000 yuan to produce, or about 20,000 to 30,000 yuan per minute — less than one-tenth the per-minute production cost of an animated film of mediocre quality.
+In his view, the traditional film and television industry has been built around the camera for 150 years: writers author scenes, art directors re-create them, lighting technicians set the lights, cinematographers record the footage, editors assemble the final cut, and directors coordinate every department along the way. The production of Beyond Wukong, however, has completely abandoned this camera-centric mindset and established an entirely new production logic.
+"You have to remove the camera from your mind," he says.
+The underlying logic of AIGC (AI-generated content) video is frame-by-frame generation — essentially a sequence of temporally consistent individual images stitched together.
+"You have to think clearly about who is in each frame, where they are, which direction the light is coming from, and what emotional beat the scene is hitting. Then leave the transitions between frames to the model."
+The production team behind Beyond Wukong has more than 100 members, 70 percent of whom come from art-related backgrounds.
+Li believes that for future creators working with AIGC in film and television, the two most essential qualities are imagination, namely the ability to envision countless key frames, and judgment, since AI models can generate dozens of possibilities at once and creators need to select the best one quickly.
+Putting this philosophy into practice, however, is no easy feat.
+During the early stage of working with AI models such as Seedance 2.0 and Seedance 2.5, prompts for a single shot could run up to 7,000 to 8,000 Chinese characters, with granular details specifying which muscle on a character's face should begin to twitch.
+"So far, there hasn't been a single scene we could imagine that AI was unable to generate. The real problem right now is that our imagination can't keep up with what the models are capable of," Li says.
+"Within a year at the earliest, or two years at a conservative estimate, more than 90 percent of all film and television productions will incorporate AIGC to some extent," predicts Li.
+Beyond Wukong is adapted from an anonymous mythological novel from the late Ming Dynasty (1368-1644), and serves as a sequel to the classic Journey to the West.
+It follows the descendants of the original pilgrimage crew as they reunite and journey once more to the Western Heaven in search of the definitive interpretation of the scriptures.
+Ren Xu, general manager of Mango Excellent Media's AIGC Innovation Content Center, explains why the company chose this work as its AIGC pilot. In an era of exploding AI-generated content and shrinking audience attention, a familiar story tied to Journey to the West lowers the barrier to market entry, while adapting the sequel rather than the original allows far greater creative freedom.
+"Technically, a mythological theme also gives AI-generated content a margin for error, while its grand world-building and fantastical settings maximize AIGC's visual strengths," he adds.
+Ren notes that while AIGC has dramatically lowered barriers to content creation, triggering an explosion of AI-produced short dramas, only a handful can be considered truly high-quality.
+For the industry to evolve from "experimental works" to "consistent quality production", it must crack the challenge of long-form consistency.
+"One major bottleneck is maintaining visual uniformity across dozens of episodes. A character's face might change in the next shot, and costumes, movements, and environments are prone to distortion — all magnified in a long series," he says.
+Ren maintains that Beyond Wukong has pioneered an industrialized production workflow tailored to AIGC.
+The company built an end-to-end, AI-powered pipeline on its proprietary platform, LumeCreate, spanning everything from character design and storyboarding to final rendering and post-production. "This proves that AIGC long-form production can move from a 'handicraft workshop' to an 'industrial assembly line'," he says.
+The 109 character assets and 143 scene assets can be reused in future episodes and shared across other mythology projects, enabling long-term IP management and value growth, Ren adds.
+In response to viewer feedback that the pacing is sometimes slow, Li says they will make adjustments in subsequent productions of the seasonal series.
+"We haven't finished writing all the episodes for the first season yet, so that the story direction can be co-created with the audience. If I find that viewers have proposed a very interesting storyline, I will definitely adjust the one I currently have in mind," Li explains.
+Following the pilot, the company has charted a clear AIGC roadmap targeting three areas: children's animation, revival of classic Chinese-style IP, and quality mid-to-long-form dramas for female audiences, covering both serialized and stand-alone content.

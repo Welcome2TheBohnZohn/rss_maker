@@ -1,20 +1,21 @@
 TITLE:
-U.S. Fed announces 1st interest rate hike in over 3 years as inflation stays sticky
+US Fed announces 1st interest rate hike in over 3 years as inflation stays sticky
 
 PUBLISHED:
-2026-09-17
+2026-09-17 07:51:00
 
 SOURCE:
-Xinhua English
+Global Times
 
 CATEGORY:
-Authoritative PRC Media
+PRC Non-Authoritative Media
 
 URL:
-https://english.news.cn/20260917/43a47ee1b7ce471eadf1d04bb676c3c0/c.html
+https://www.globaltimes.cn/page/202609/1370707.shtml
 
 ARTICLE TEXT:
-WASHINGTON, Sept. 16 (Xinhua) -- The U.S. Federal Reserve on Wednesday raised its target federal funds rate by 25 basis points to a range of 3.75 percent to 4 percent to address persistent inflation, marking its first interest rate hike since July 2023.
+U.S. Federal Reserve Chair Kevin Warsh attends a press conference in Washington, D.C., the United States, Sept. 16, 2026. (Xinhua/Li Rui)
+The US Federal Reserve on Wednesday raised its target federal funds rate by 25 basis points to a range of 3.75 percent to 4 percent to address persistent inflation, marking its first interest rate hike since July 2023.
 "Economic activity is expanding at a solid pace. While uncertainty remains elevated owing, in part, to geopolitical developments, domestic spending has been resilient. Productivity growth is strong, and capital investment is robust. Job gains have kept pace with the workforce, and the unemployment rate has changed little," said the Federal Open Market Committee (FOMC) in a statement.
 In support of the Federal Reserve's dual mandate, "the Committee decided to raise the target range for the federal funds rate by 1/4 percentage point to 3-3/4 to 4 percent," the FOMC said.
 The committee reaffirmed "its policy of maintaining ample reserves in the banking system."
@@ -40,4 +41,4 @@ Financial institutions, including Goldman Sachs, JPMorgan Chase and Morgan Stanl
 The rate hike would reinforce the Fed's credibility, said Shawn DuBravac, chief economist at the Global Electronics Association, in an interview with CNBC. "It is a shift in policy direction."
 "I would expect Chair Warsh to keep further hikes on the table while avoiding a commitment to a prolonged tightening cycle," DuBravac said.
 Nevertheless, some economists have questioned the fundamental necessity of the hike, arguing that recent increases in core prices stem largely from temporary or supply-side shocks rather than an overheated, demand-driven domestic economy.
-The Fed has two more meetings scheduled before the end of 2026, leaving room for further rate hikes if inflation remains elevated. ■
+The Fed has two more meetings scheduled before the end of 2026, leaving room for further rate hikes if inflation remains elevated.
