@@ -1,0 +1,32 @@
+TITLE:
+Chinese researchers achieve provably secure quantum-secure positioning, first experimental validation: media report
+
+PUBLISHED:
+2026-09-18 13:10:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370810.shtml
+
+ARTICLE TEXT:
+Photo: Courtesy of USTC
+The University of Science and Technology of China (USTC) announced on Thursday that a research team led by Academician Guo Guangcan has achieved quantum-secure positioning with provable security by combining fundamental principles of quantum mechanics with relativistic spacetime constraints, the Science and Technology Daily reported. 
+The study, which was recently published in the journal Nature Physics, marks the first experimental validation of the technology, according to the university. 
+The results establish secure position-based authentication as a practical possibility, paving the way for applications in financial transactions, disaster response and authenticated secure communications, according to the team’s article.
+According to the report, the new method enables trusted verification of a target’s location, offering a new technical approach to safeguarding location information in modern information systems.
+Location information is a basic element supporting human activities. Being able to reliably verify a target’s real position means a positioning system can not only determine where the target is, but also judge whether that location is authentic and trustworthy.
+Such verification capability could give location data new functions such as identity authentication and use as a security credential, providing protection in scenarios including commercial transactions, emergency rescue and public safety, according to USTC. 
+Under classical technical frameworks, attackers can forge their own positions by copying and forwarding classical verification information or by coordinating responses. Quantum information, however, obeys physical principles such as the no-cloning theorem. When being combined with relativistic spacetime constraints, it can in principle achieve information-theoretic security for location verification. 
+Yet the scheme had long remained experimentally unverified because it imposed extremely stringent requirements on transmission loss, system error rates and response delay.
+To address these challenges, the USTC team developed a theoretical quantum-secure positioning protocol adapted to practical experimental conditions and used it to complete the first full experimental validation.
+The researchers first designed a security protocol based on weak coherent states, significantly improving tolerance to system loss. To tackle errors in quantum-state preparation, they further developed a Sagnac quantum-state preparation scheme based on a microassembled beam splitter, reducing the qubit error rate to 0.27 percent.   
+Meanwhile, the team also developed key technologies including multi-wavelength intensity encoding, low-latency hollow-core fiber transmission, and high-speed random logic function processing, reducing the system’s overall latency to the hundred-nanosecond scale.   
+Based on these advances, the system achieved a positioning accuracy better than 75 meters, roughly the scale of a single building. 
+A research team member said that the experimental results verify the feasibility of quantum-secure positioning under real-world conditions and show its potential for practical applications. 
+This study expands the role of location information in modern information security systems and opens a new technical direction for developing location-based security mechanisms and information-processing methods, according to the team member. 
+Global Times

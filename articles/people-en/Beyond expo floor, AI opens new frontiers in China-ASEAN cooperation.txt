@@ -1,0 +1,63 @@
+TITLE:
+Beyond expo floor, AI opens new frontiers in China-ASEAN cooperation
+
+PUBLISHED:
+2026-09-18
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/0918/c90000-20501080.html
+
+ARTICLE TEXT:
+Beyond expo floor, AI opens new frontiers in China-ASEAN cooperation
+NANNING, Sept. 17 (Xinhua) -- Wei Qiaomei, a Chinese livestreamer, once struggled to grasp what her Thai customers wanted, though she speaks fluent Thai.
+Once, ahead of her pitch for a portable fan, AI analyzed Thai e-commerce data and popped up two selling points for her: quiet motors and long battery life.
+The trial has proven rewarding. Her employer, based in south China's Guangxi Zhuang Autonomous Region, reported a 300 percent sales jump.
+"Speaking the language isn't the same as understanding the market," said the 23-year-old, noting that AI had transformed her from a mere translator into a market-savvy presenter.
+Her story reflects a broader shift in relations between China and the Association of Southeast Asian Nations (ASEAN), as both sides aim to expand AI's role in bilateral trade, which exceeded 1 trillion U.S. dollars last year.
+In the first seven months of 2026, China-ASEAN trade rose 24.7 percent year on year to 744.41 billion dollars, Chinese customs data show, as AI use expands in marketing, agriculture, logistics and finance.
+This photo taken on Sept. 17, 2026 shows a view of the Nanning International Convention and Exhibition Center, the venue for the 23rd China-ASEAN Expo, in Nanning, south China's Guangxi Zhuang Autonomous Region. (Xinhua/Zhou Hua)
+FROM SHOWCASE TO APPLICATION
+The distinction between technology that draws a crowd and technology that delivers real value is central to the 23rd China-ASEAN Expo and the China-ASEAN Business and Investment Summit, slated from Sept. 17 to 21 in Nanning, Guangxi's capital.
+The event brings together more than 3,400 companies, with Timor-Leste attending for the first time as ASEAN's 11th member and an official co-host.
+The expo's inaugural "AI marketplace" features about 500 products from more than 70 companies across eight categories, such as wearables, health management, and consumer technology, allowing visitors to test and buy items on-site.
+"Last year, AI was mostly for show. This year, it is driving sales," said Wang Jicai, secretary-general of the China-ASEAN Expo Secretariat.
+For Wei, the results are clear. Her company trained its model on ASEAN languages, local preferences, and cultural nuances, enabling it to analyze products, process reviews, and draft localized scripts. Livestream hosts then decide when to pivot, how to handle tough questions, and what to emphasize.
+"AI didn't replace me. It amplified what I could do," Wei said.
+Beyond the livestream studio, AI applications are being deployed in several ASEAN markets.
+In Laos and Cambodia, a platform developed by a Guangxi enterprise and local partners uses satellite imagery, drones, and ground sensors to track pests and guide tropical crop cultivation.
+The system, built with Chinese technology, local field data and training support, has been tested on more than 20,000 mu (about 1,333 hectares) of crops, said project head Wen Biaotang.
+Visitors take photos of a humanoid robot performing tea ceremony during the 23rd China-ASEAN Expo in Nanning, south China's Guangxi Zhuang Autonomous Region, Sept. 17, 2026. (Xinhua/Zhou Hua)
+CROSS-BORDER DEPLOYMENT NARROWS AI DIVIDE
+In Guangxi's border city Chongzuo, the center for disease control and prevention has partnered with neighboring Vietnamese provinces to deploy a bilingual AI platform for early disease detection.
+It can slash epidemiological reporting time from four hours to 30 minutes, the project manager said.
+In Nanning, RunDo, a platform operated by Runjian Co. Ltd., monitors almost 300 megawatts of solar capacity across nearly 3,000 sites in Malaysia remotely, with drones and AI replacing manual inspections.
+"The platform has boosted maintenance efficiency by over 30 percent, raised power output by up to 5 percent, and cut labor costs by more than 20 percent," said Yang Yexi, marketing manager of the operator's Guangxi branch.
+Leveraging Nanning's computing infrastructure, ASEAN companies can avoid building large intelligent computing centers and remotely access models and computing power for their business needs, Yang said, whose company has launched more than 80 computing projects across ASEAN.
+These cases highlight the prerequisites for cross-border AI deployment: computing power, local data, skilled workers, and capable local partners.
+Guangxi's China-ASEAN Artificial Intelligence Application Cooperation Center has cataloged more than 1,000 potential AI scenarios, opened 279 to developers, set up offices in Vietnam, Laos, and Malaysia, backed more than 30 cross-border projects, and assembled an alliance of 55 companies.
+To address the low-resource challenge faced by some Southeast Asian languages, a training base in Malaysia has logged more than 1,900 hours of multilingual data annotation, while a six-month regional competition attracted more than 200 teams.
+Liu Jianmin, a professor at the School of Big Data and Artificial Intelligence of Guangxi University of Finance and Economics, said ASEAN universities, companies, and professionals could contribute to collecting, labeling and updating data if AI models are to work locally.
+"No matter how accurate a system is, if no one uses it, can afford it, or can keep it running, it remains just an exhibit," Liu said.
+The challenge is acute for ASEAN's smaller economies.
+Without collective action, the cost of cybersecurity, data governance, and reliable AI frameworks could deepen an "intelligence divide," said Miguel Marques Goncalves Manetelu, Timor-Leste's minister of transport and communications.
+This photo taken on Sept. 17, 2026 shows a scene of the opening ceremony of the 23rd China-ASEAN Expo and China-ASEAN Business and Investment Summit in Nanning, south China's Guangxi Zhuang Autonomous Region. (Xinhua/Cao Yiming)
+FROM MATCHMAKING TO RULE-MAKING
+Before the expo opened, an AI system had generated more than 8,000 buyer-seller matches and arranged nearly 2,000 face-to-face meetings.
+According to the summit's organizers, the system provides real-time tariff and compliance guidance during negotiations, and tracks leads after the exhibition.
+But, it still can not establish cross-border data protocols, guarantee electronic signatures, or assign liability when an algorithm fails.
+AI can turn industrial expertise into a service that can be sold and delivered over time, said Meng Shuang, an associate professor of international economics at the Central University of Finance and Economics in Beijing.
+Companies, she said, will increasingly package hardware, software, models, and long-term maintenance, with competitive advantage extending to algorithms, sector expertise, and local operating ability.
+This evolution has pushed regional trade into more complex territory: data governance, AI service pricing and billing rules, electronic authentication, and intellectual property.
+"Cross-border data flows are the lifeblood of AI," said ASEAN Secretary-General Kao Kim Hourn, who called for a trusted, secure, and seamless framework for data exchange.
+The China-ASEAN Free Trade Area 3.0 Upgrade Protocol, signed in October 2025, sets out a regional framework covering the digital and green economies, cross-border data flows, personal privacy, digital payments, and AI standards.
+Standardized electronic authentication, interoperable payments, and joint data frameworks would first benefit sectors such as cross-border e-commerce, smart logistics, and industrial inspection, Meng added.
+Ge Hongliang, a researcher at the School of Southeast Asian Studies at Guangxi Minzu University, said that cooperation among free-trade zones and ports under the upgraded protocol could support investment, data sharing, and intellectual-property protection.
+To that end, this year's expo is hosting its first high-level dialogue on aligning Regional Comprehensive Economic Partnership (RCEP) and China-ASEAN FTA rules.
+For livestreamers like Wei, it comes down to knowing which fan feature matters most to a customer hundreds of miles away.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
