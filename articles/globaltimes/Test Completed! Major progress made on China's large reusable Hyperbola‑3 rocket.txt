@@ -1,0 +1,23 @@
+TITLE:
+Test Completed! Major progress made on China's large reusable Hyperbola‑3 rocket
+
+PUBLISHED:
+2026-09-18 19:42:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370836.shtml
+
+ARTICLE TEXT:
+Ultimate-load static test of the first-stage methane tank  Photo: Science and Technology Daily
+According to a Friday report by Science and Technology Daily, Interstellar Glory Aerospace Science and Technology Corporation (hereinafter referred to as "Interstellar Glory") has announced the recent successful completion of ultimate-load static tests on the first-stage methane tank and the second-stage common-bulkhead tank of its independently developed Hyperbola-3 launch vehicle. The tests yielded key data covering the tanks' ultimate load-bearing capacity and failure modes.
+The test employed a protocol involving step-by-step pressure increase until structural failure. While fully evaluating the ultimate load-bearing capacity of the tanks bodies, circumferential and longitudinal welds, and various sealing interfaces, the test also fully collected key measurement data such as stress-strain profiles, pressure loads, and structural deformation across the entire tank.
+This data formed a comprehensive database, providing solid support for verifying the strength design margins of the tanks, conducting iterative structural optimization, refining manufacturing processes, and implementing weight-reduction designs.
+It is reported that the data measurement and acquisition system operated stably throughout the entire loading process. The deviation between the burst pressure of the first-stage methane tank and the predicted value was less than 10 percent; for the second-stage common-bulkhead tank, the deviation between the upper tank's burst pressure and the predicted value was less than 15 percent, while that for the lower tank was less than 10 percent. Observed structural failure modes were consistent with theoretical analysis and predictions, and the burst patterns of the tanks met design expectations.
+Hyperbola-3 is a reusable large-scale liquid-fueled launch vehicle with a tank diameter of 4.2 meters. The successful completion of the tanks' ultimate load tests validated the structural design margins and load-bearing reliability of the tanks, providing a crucial basis for subsequent design iterations and weight-reduction optimization. The tests also verified the structural soundness of the tanks and the stability of the manufacturing process, marking the achievement of high-quality, mass-production capabilities by Interstellar Glory's tank production line and providing strong support for the maiden flight of the Hyperbola-3 launch vehicle, the report said.
+Global Times
