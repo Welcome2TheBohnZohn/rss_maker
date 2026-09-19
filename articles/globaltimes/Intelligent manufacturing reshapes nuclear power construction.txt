@@ -1,0 +1,42 @@
+TITLE:
+Intelligent manufacturing reshapes nuclear power construction
+
+PUBLISHED:
+2026-09-19 21:15:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370892.shtml
+
+ARTICLE TEXT:
+Hainan Changjiang Nuclear Power Plant's Hualong One Units 1 and 2 in South China's Hainan Free Trade Port Photos on this page: Courtesy of China National Nuclear Corporation 
+Inside a nuclear power pipeline prefabrication base in East China's Jiangsu Province, pipes move between workstations on automated guided vehicles (AGVs), while a digital twin system mirrors the factory's operations in real time. From cutting and beveling to polishing, assembly and welding, much of the process is automated.
+The scene is unfolding at China's first intelligent prefabrication base for nuclear power pipelines. Covering about 311 mu, or 20.7 hectares, the base is planned to have seven core production lines, an unmanned warehouse and services covering processes from intelligent flaw detection to anti-corrosion treatment and pickling.
+During a visit to the site, a Global Times reporter observed a highly intelligent manufacturing process in which AI, digital twins and the industrial internet are being used to manufacture nuclear-grade pipelines, pushing the nuclear power supply chain toward greater self-reliance and intelligent upgrading.
+Inside the factory's "brain," a large screen monitors different production areas in real time, while a digital-twin model reflects their operating status. Green lights indicate safe conditions and yellow lights require attention.
+Liu Weihua, chief designer of the base, said intelligent manufacturing can shorten construction cycles and reduce costs, while improvements in materials and manufacturing processes can enhance quality and lower prices.
+At a press conference, Luo Wuxi, the deputy chief engineer at the Shanghai Electric Nuclear Power Group, told the Global Times that a steam generator contains a tube sheet nearly one meter thick with more than 10,000 precisely machined holes. While each hole once had to be manually inspected after machining, automated technologies such as planar scanning are now being used to reduce repetitive labor.
+Behind the machines are also years of human expertise. A youth task force representative is working on a multi-robot flexible manufacturing line, while a welding coach's 36 years of experience are being converted into data to build an intelligent welding agent.
+Toward greater self-reliance
+But the transformation is about more than automation. It reflects decades of efforts by China's nuclear industry to build an increasingly self-reliant supply chain.
+Luo said that in earlier projects, some key materials, welding consumables and components had to be imported. As domestic companies, design institutes and suppliers carried out joint research, more key materials and processes have gradually been developed and produced according to Chinese standards.
+This progress is also reflected in the 2.0 version of Hualong One, China's nuclear power technology, which has undergone a systematic upgrade in efficiency and performance.
+Li Yanbao, head of the technical department of Shanghai No.1 Machine Tool Works Co, Ltd, told the Global Times that efforts have been made to localize key materials and components and make structural improvements. The localization drive now covers raw materials, welding materials and relevant standards. It is also working on a new integrated welded core barrel assembly for reactor internals, while developing control rod drive mechanisms and high-temperature-resistant ceramic coils. The latter have already been demonstrated on an improved version of Hualong One. 
+An AI-controlled automated guided vehicle carries a pipe as visitors tour the nuclear power intelligent manufacturing base in Qidong, Shanghai.
+As self-reliance and intelligent manufacturing advance, Hualong One is also undergoing further upgrades. Liu said Hualong One 2.0 incorporates passive safety technologies and higher automation in construction and commissioning, while seeking to lower costs and shorten construction cycles.
+According to the National Energy Administration, as of August 2026, the Chinese mainland has a total of 120 nuclear power reactors in operation or approved for construction, with a combined installed capacity of 135 million kilowatts, the largest total nuclear power capacity in the world. Of these, 62 reactors are in operation, with an installed capacity of 66.14 million kilowatts. Another 58 reactors have been approved for construction, with a combined capacity of 69.51 million kilowatts, ranking first worldwide.
+If these upgrades answer the question of how to build nuclear power faster, better and more independently, another question follows: Once nuclear energy can be built and used more flexibly, what else can it do?
+Beyond power generation
+In Hainan Free Trade Port, the expansion of Hualong One is also translating into more electricity for households. Hualong One Unit 3 at the Hainan Changjiang nuclear power plant has just officially entered commercial operation, while Unit 4 has completed cold functional testing, further advancing the project toward operation. Once fully operational, the two units will provide additional clean electricity to the grid and households.
+In Lianyungang, nuclear energy has already entered industrial production.
+In June 2024, China's first industrial nuclear steam supply project, "Heqi No. 1," was completed and put into operation at the Tianwan Nuclear Power Plant. Using secondary-circuit steam from Tianwan Units 3 and 4, the project supplies industrial steam through an independent heat-exchange system to the Xuwei petrochemical industrial base about 23 kilometers away.
+Nuclear energy here is no longer simply electricity delivered to the grid; its heat is being directly integrated into industrial production.
+Workers lift the containment top ring onto the top of a reactor building at the Xuwei nuclear energy heating and power plant in Lianyungang, East China's Jiangsu Province. 
+Construction of the first phase of the Xuwei nuclear energy heating and power generation plant began in January 2026. It is the world's first nuclear energy comprehensive utilization project combining Hualong One pressurized water reactors with high-temperature gas-cooled reactors.
+The Global Times reporter observed at the site that Module 3 of the Unit 1 nuclear island's containment steel liner had been lifted into place, marking another key step forward in the project's construction. The project is designed to supply about 35 million tons of industrial steam annually once completed.
+As manufacturing expertise is converted into data, key materials and equipment become increasingly domestically controllable, and different reactor technologies are integrated into the broader energy systems, nuclear power is moving beyond a single-purpose model toward more diverse industrial and energy applications.

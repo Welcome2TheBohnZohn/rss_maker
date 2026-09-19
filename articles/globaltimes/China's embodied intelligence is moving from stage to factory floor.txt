@@ -1,0 +1,56 @@
+TITLE:
+China's embodied intelligence is moving from stage to factory floor
+
+PUBLISHED:
+2026-09-20 00:08:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370904.shtml
+
+ARTICLE TEXT:
+Postal workers check the application of embodied AI robots on a sorting line at the Guangzhou postal district center on September 3, 2026. Photo: VCG
+In a "robot school" on the embodied intelligence future island in Hangzhou, East China's Zhejiang Province, four machines have recently graduated. 
+One was hired as a guide at a major Chinese painting museum. Another stayed on to give tours at the school itself. A third headed to a Nestlé workshop in North China's Tianjin for inspection duties. The fourth, a piano-playing robot, is bound for entertainment venues in South Korea.
+These are not exhibition stunts. They mark a quiet but decisive shift: China's embodied intelligence is moving from the stage to the factory floor and daily scenarios.
+Prior to these recent robot "graduates", their predecessors have already been workers in factories. For example, at production lines of battery giant CATL, Galaxy General's heavy-duty humanoid Galbot S1 lifts crates weighing dozens of kilograms and carries them to the next stage of the production line. Meanwhile, Galaxy General has already deployed more than a thousand units across factories belonging to companies such as Bosch, Toyota and SAIC, according to Galaxy General. 
+In another plant in Nanchang, East China's Jiangxi Province, eight AGIBOT Genie G2 robots handle the full quality-inspection process for tablet computers, performing high-precision multimedia, audio and Wi-Fi tests alongside human workers. Project managers reported that the machines reach 80 to 90 percent of human efficiency and have logged more than 3,000 continuous hours, according to media reports. 
+Embodied intelligence is also serving daily life scenarios. One of the examples was 
+Fox News anchor Bret Baier
+, who interacted with robot workers at convenience stores in Beijing in May.
+The present moment is a "validation period" in which robots move from being able to perform to being able to work. The distinction matters. Performance impresses audiences; work must satisfy production managers, Tian Feng, president of the Fast Think Institute and former dean of Chinese AI software giant SenseTime's Intelligence Industry Research Institute, told the Global Times on Saturday.
+China's global position
+Before talking about the development of embodied intelligence in China and its global position, one thing needs to be clarified: what is embodied intelligence? It refers to artificial intelligence (AI) systems that live inside physical bodies - robots, vehicles or other machines - and learn by sensing, deciding and acting in the real world. 
+A complete embodied system mainly rests on three layers: sensing (cameras, force sensors, electronic skin), decision-making (chips, algorithms, operating systems) and execution (motors, reducers, joints and actuators). 
+"China's edge is not a single superior algorithm or a uniquely advanced chip. It is the ability to combine hardware, real factory demand, rapid supplier response and patient capital into a single loop. That loop is now being tested under industrial conditions," said Tian.
+Meanwhile, China follows a scenario-driven AI model building, small-batch whole-machine delivery and full-chain domestic supply. Unlike approaches that first build a general-purpose "brain" and then seek applications, Chinese developers start from specific workstation needs and then define model capabilities, said Tian.
+In China, manufacturers, robot makers, and the factories that use embodied intelligence systems are often located within the same industrial cluster. When a factory discovers any problem while using a robot, relevant suppliers can usually deliver a revised version for testing within weeks rather than quarters, Tian added.
+The 
+dense supply chain
+ is now driving down the cost of parts of a robot's execution system (serving as a human being's muscles): a motor that costs 50,000 ($7,467) to 60,000 yuan in 2018 can be had for about 500 to 600 yuan in 2026, according to industry statistics. High-precision tactile sensors that were once sold for 100,000 yuan have fallen to a few hundred yuan.
+Chinese researchers and companies are betting that useful data and reliable hardware emerge fastest when machines are placed in real jobs and are required to deal with real failures. 
+However, the obstacles are equally concrete, not just for China, but for developers all over the world. "Embodied AI faces a different kind of data scarcity from large language models," Pan Helin, deputy chairman of the AI System Construction Committee at China Society of Industrial Economics, told the Global Times.
+"Internet text was essentially free; physical interaction data must be deliberately produced in the real world and is expensive. AI models still struggle to generalize to unfamiliar environments," Pan said.
+Unitree founder Wang Xingxing also offered a clear threshold at the World Robot Conference in late August: when a general-purpose robot can complete about 80 percent of tasks in 80 percent of unfamiliar scenes from simple voice or text instructions, the industry will reach an inflection point. He estimates that moment is still two to three years away under optimistic assumptions, or longer.
+Apart from data scarcity, industry insiders pointed to the next-stage target for embodied intelligence: from "can do" to "do well."
+"Current applications of embodied intelligence are proof that the technology has entered a more demanding phase. However, success is measured less by viral videos than by whether a machine returns to the same workstation the next day and performs the same task with acceptable reliability and cost," said Tian.
+A telling detail emerged at the 2026 World Humanoid Robot Games. New real-world scenarios - factory, hotel, household, logistics - were added. In a home task, one robot scored highest by returning objects, folding clothes and loading a washing machine under offline conditions. In a restaurant scenario, however, the same class of machine failed to pick up a thinner than usual sausage. The boundary of current capability is being mapped by ordinary objects.
+This scene, however, is precisely what constitutes the logic of scenario-driven AI model building: first expose problems through real-world scenarios, then solve them with the speed of the supply chain. The challenges do not invalidate the path; they are simply the hard problems that must be tackled next, Tian noted.
+Policy and infrastructure catch up
+National and local governments have been responding systematically to the challenges ahead. 
+On the national level, the 15th Five-Year Plan (2026-30) listed embodied intelligence among future industries to be developed. 
+"Under this top-level design, the execution and sensing hardware are expected to benefit first," said Pan.
+In addition to top-level plans, ministries have launched real-scene training programs aimed at creating more than a hundred high-value application scenarios and enabling 10,000-unit scale deployment by the end of 2026. Meanwhile, the construction of embodied intelligence training infrastructure to better support embodied data collection will be accelerated in the next five years.
+Currently, more than 70 embodied-intelligence training grounds had opened across China by mid-2026. 
+A "robot kindergarten"
+ opened in Beijing on September 1, which is exploring a different approach to robot training: instead of having humans demonstrate every task, researchers want robots to learn through touch, trial and error, and their own experience.
+At the same time, local experiments continued. In July, Shunde in South China's Guangdong Province established the country's first local government bureau dedicated to the full embodied-intelligence industrial chain, building on its existing base as a major industrial-robot production cluster with more than 100 robot-related enterprises.
+During the just-concluded China Robot Summit held in Hangzhou, a capability evaluation framework for embodied intelligence in robots was officially released, establishing a unified assessment standard for the industry. Experts attending the event agreed that 2026 has become the "mass-production year" for humanoid robots.
+In fact, embodied intelligence is not a new concept. In China's National High-Tech Research and Development Program launched in 1986, the automation theme already called for the development of precision assembly robots, underwater operation robots and robots for complex and harsh environments. These machines had to operate in real settings and complete closed-loop tasks, making them early prototypes of embodied intelligence.
+In recent years, with the progress of algorithms, the improvement of computing power and the enrichment of multi-mode data, this direction really has the conditions for large-scale engineering. 
+China has accounted for 97 percent of global humanoid robot shipment in the first half of the year. As Tian put it, China is on the right direction of development, but overcoming the current challenges will take time.
