@@ -1,0 +1,33 @@
+TITLE:
+China's sea-based rocket launches advance as Haiyang builds full industrial chain
+
+PUBLISHED:
+2026-09-19
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260919/5e5893c11d62456180c3242a762660d2/c.html
+
+ARTICLE TEXT:
+HAIYANG, Shandong, Sept. 19 (Xinhua) -- For Song Wenfeng, deputy chief designer of the structural system for China's Gravity-1 rocket, the most anxious moment came before liftoff, not during it.
+"The ship was rocking noticeably. We were very nervous during the high-altitude operation," Song said, recalling the work to remove the rocket's protective cover at sea on Sept. 15. He and his colleagues worried about whether the launch could proceed smoothly the next day.
+At 6 a.m. (Beijing Time), the Gravity-1 Y3 rocket lifted off from a sea launch vessel in the East China Sea, placing nine satellites into orbit and setting a new national record for payload weight and orbital altitude from a sea-based launch.
+The nine satellites -- eight Qianfan constellation satellites and one ultra-high-speed wireless communications test satellite -- were sent into orbit at about 800 km, with a net payload of more than 3 tonnes.
+The launch followed a carefully monitored journey that began on Sept. 10, when the rocket left a vertical assembly building at the Haiyang Oriental Spaceport in east China's Shandong Province on a self-propelled modular transporter. The 400-meter trip to the dock took about an hour.
+"I counted the wheels -- 160 of them," said Zhang Tao, deputy chief designer of Gravity-1. "The main purpose is to keep the transport stable and avoid unnecessary disturbance."
+Once at sea, the challenges differ sharply from those at a land-based launch site. "The marine environment is complex and changeable. From boarding the ship to launch, we kept monitoring data," Song said, noting that high temperatures, humidity and salt spray can affect satellite and rocket components.
+There are reasons to persist with sea launches despite the difficulties.
+Sea launches offer greater flexibility, better mission adaptability and higher safety than land-based launches, said Teng Yao, chief engineer of the Oriental Maritime Spaceport (Shandong) Development Group. They require less prior coordination of airspace and shipping routes, allow launches at various inclinations and ensure rocket debris falls into unpopulated waters, he said.
+China has completed 28 sea-based rocket launches since its first in June 2019, sending 175 satellites into orbit with a 100 percent success rate. Recent launches from waters off the Yangtze River Delta have helped form an initial "Shandong-Shanghai-Guangdong" sea launch layout.
+Haiyang now has a complete industrial chain from final assembly to rollout and launch vessel integration, said Teng. The Haiyang Oriental Spaceport hosts the country's largest solid-rocket final assembly and testing facility, with an annual capacity to assemble and test 50 rockets and 50 propellant tanks. It has also attracted 30 aerospace projects, with total investment exceeding 32 billion yuan (about 4.8 billion U.S. dollars).
+More importantly, the spaceport has moved from service provider to standard setter, said Teng. Three national standards for sea-based rocket launches, led by the spaceport, were recently approved and will take effect in November 2026. They cover general environmental requirements, core metadata requirements for infrastructure, and technical requirements for infrastructure platform selection.
+The spaceport's industrial capacity underpins the commercial logic behind rockets like Gravity-1.
+"The core of commercial rocket launches is to send as many satellites into space as possible in the most reliable and economical way," said Xu Guoguang, the rocket's chief designer and commander.
+Gravity-1's design reflects that commercial logic. The rocket's squat, stubby shape and four strap-on boosters lower its centre of gravity and improve stability at sea while boosting payload capacity, Zhang said.
+Xu said China has accumulated sufficient technical reserves for reusable rockets, but the main challenges lie in engineering and management rather than research. Reusability must also be pursued with cost efficiency in mind, he added.
+That cost logic also points to combining sea launch with sea recovery. It would maximize payload capacity without extra fuel for trajectory adjustments, and if launch and recovery areas are adjacent, the logistics and time costs of refurbishment and re-flight could be sharply reduced. ■
