@@ -1,0 +1,34 @@
+TITLE:
+GT Voice: AI innovation competition should never become zero-sum rivalry
+
+PUBLISHED:
+2026-09-20 20:42:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370967.shtml
+
+ARTICLE TEXT:
+AI Photo: VCG
+Artificial intelligence (AI) competition has become a heated topic in the world, with assessments comparing the AI development in China and the US drawing particular attention. Lately, a research firm claimed that China's AI investment scale remains below US investment level, and Chinese AI firms appear to trail their US counterparts in business revenues.
+Such observations often draw public eyeballs. However, what many such comparisons overlook is that the Chinese and American AI industries are at different stages of development, rely on different industrial chain foundations, and have formed their own development approaches. Comparing them by a few financial indicators is limited and misleading too.
+And, many current discussions frame Chinese and American AI development as a zero-sum race where only one side can emerge as the winner. A close look at on-the-ground industrial reality paints a far more nuanced picture. 
+It is true that China and the US share overlapping competitive strengths, including developing general-purpose large-language model capabilities, high-performance computing infrastructure, and top-tier talent pools, but each also has cultivated unique strengths aligned with their respective industrial endowments.
+The US has channeled massive resources into exploring frontier foundation models, developing high-end computing chips, and building underlying frameworks, while its leading AI firms have accumulated deep technology reserves through inputting massive investment. 
+But China's rapid maturation on the application side should not be overlooked. Backed by the country's complete industrial system, a super-large market, and rich application scenarios, China has achieved globally leading industrial efficiency in automation, smart manufacturing, humanoid robotics, intelligent vehicles, smartphones, and wearable devices.
+And, the AI competition should never become a zero-sum game with just winners and losers. 
+The global AI ecosystem comprises diverse players with complementary strengths. Europe, leveraging its solid industrial foundations, is advancing breakthroughs in industrial software and precision manufacturing, while South Korea holds sustained advantages in upstream sectors, including manufacturing of high-end semiconductors.
+The development environment means that AI spans an extremely long and refined industrial chain. Data, computing power, algorithms, large-language models, and development platforms form the upstream "technology foundation"; the midstream carries large-language model products and middleware, playing the role of a "connector"; and the downstream extends widely into industry applications and end-user scenarios, serving institutions, businesses and ordinary consumers. 
+No single country can dominate every link of the whole industrial chain. US high-end computing power underpins its frontier researches, while China's mature application experiences drive rapid AI adoption in the country, and other economies' specialized expertise fills gaps in specific fields. Together, these forces far outweigh what a single player could achieve. 
+Those people who still believe in "winner-takes-all" in the current round of AI revolution will feel disappointed.
+Think of AI development as a sporting competition, where different countries can excel in different events. Obsession with "winner-takes-all" while ignoring other countries' development strengths is unwise. 
+The economic and social value of AI ought to ultimately show in whether it raises productivity, improves public services, spawns new business forms, and solves real problems. Realizing these values depends on technology diffusion and industrial collaboration, not decoupling and blockades. 
+History has long shown that the dividends of technological revolution are never obtained through rivalry and confrontation, but instead are maximized through open cooperation. The information technology revolution of the past century was precisely the fruit of the global division of labor and collaboration, driving decades of productivity gains. 
+The AI development carries the same promise. 
+Ultimately, AI's value lies in serving economic and social development and empowering the upgrading of the real economy in the world. Differences in development paths and advantages owned by some countries are not grounds for zero-game race but foundations for global collaboration. Only by developing AI in line with their respective comparative advantages and pursuing dialogue and cooperation within a reasonable rules-based framework can countries effectively unlock the economic and social value of AI.
+Global Times

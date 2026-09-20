@@ -1,0 +1,28 @@
+TITLE:
+False AI-generated US intelligence highlights urgent need for China-US cooperation on AI safety: experts
+
+PUBLISHED:
+2026-09-20 22:55:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370982.shtml
+
+ARTICLE TEXT:
+AI 
+ 
+A reported US military plan to board a Chinese ship over false intelligence generated with artificial intelligence has highlighted the urgency of China-US cooperation on AI safety, Chinese analysts said.
+CNN reported on Friday that US forces had prepared to intercept a Chinese ship in the Middle East after an intelligence report wrongly identified its cargo as components of a nuclear weapons program. A closer review before the planned operation revealed that an AI chatbot had misidentified the material aboard. 
+The incident occurred this spring, according to CNN. Military aircraft were already airborne, and personnel were preparing to board the vessel before the error was discovered. CNN's sources described the intelligence as "entirely false" and said it "almost started a war."  
+CNN reported that a US Special Operations Command analyst used a chatbot to combine open-source intelligence with secret signals intelligence about the ship's manifest, then used AI to turn the findings into a report circulated within the military. CNN could not establish whether the chatbot was commercially available or a government system. 
+The episode has drawn concern from international media. US technology publication Ars Technica described it as "one of the more potent and consequential instances of a hallucinating AI ruining the reliability of a professional report." 
+AI holds considerable appeal for the US military because it can shorten intelligence analysis, improve target identification and accelerate decision-making. But those advantages also create risks when speed takes precedence over verification, Shen Yi, director of the International Research Institute of Global Cyberspace Governance at Fudan University, told the Global Times on Sunday.
+According to CNN, across the US military and the intelligence community, officials are pushing to weave AI into nearly every facet of their work, from analyzing the huge volumes of raw intelligence the US collects and selecting targets for strikes, to more mundane applications like managing budgeting, logistics and supply chains.
+China-US cooperation on AI safety is therefore a practical requirement for crisis management, Shen said. As Washington's strategic anxiety over China grows and technological competition accelerates, establishing safeguards becomes more urgent.
+Cooperation need not involve sharing core algorithms, military models or sensitive data. The priority should be mechanisms to manage risks and prevent technological failures from escalating into security crises, Shen added.
+Tian Feng, former dean of SenseTime's Intelligence Industry Research Institute  stressed that large AI models remain susceptible to hallucinations. Preventing catastrophic consequences therefore requires maintaining the traditional intelligence discipline of checking information against multiple sources.
