@@ -1,0 +1,40 @@
+TITLE:
+Kinetica-1 successfully launches 9 satellites as China completes 6 orbital launches in 6 days
+
+PUBLISHED:
+2026-09-20 13:05:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370940.shtml
+
+ARTICLE TEXT:
+At 12:03 pm on September 20, 2026, the Kinetica-1 Y18 rocket lifted off from the Dongfeng commercial space innovation pilot zone in Northwest China, sending nine satellites into their designated orbits. Photo: Courtesy of CAS Space
+China completed six orbital launches in less than a week with a 100 percent success rate after a Kinetica-1 carrier rocket successfully sent nine satellites into orbit on Sunday afternoon, highlighting the country's increasingly intensive launch cadence and expanding space transportation capacity. 
+At 12:03 pm on Sunday, the Kinetica-1 Y18 rocket lifted off from the Dongfeng commercial space innovation pilot zone in Northwest China, sending nine satellites into their designated orbits. The payloads covered remote sensing, disaster prevention, scientific experiments, artificial intelligence computing and next-generation communications technologies, Global Times learned from the rocket's developer CAS Space on Sunday.
+The mission capped a launch streak that began on September 15 and involved the Zhuque-2E, Gravity-1, Long March-12, Kuaizhou-11, Long March-2D and Kinetica-1 rockets. 
+The significance of the six-launch streak lies not simply in the number of launches, but in the diverse missions behind them and the way commercial innovation is increasingly supplementing China's established national space capabilities, amid rapidly rising demand from satellite internet, remote sensing and space-based computing, Chinese space industry observers said.
+A particularly notable development came on September 15 and 16, when two privately developed rockets successively participated in deployment of the Qianfan, or Spacesail, mega-constellation.
+On September 15, a Zhuque-2E Y7 rocket developed by LandSpace sent 10 Qianfan satellites into orbit. The Xinhua News Agency described it as the first large-scale satellite internet constellation deployment undertaken by a Chinese private commercial rocket.
+Less than 16 hours later, the Gravity-1 Y3 rocket developed by OrienSpace launched another eight Qianfan satellites from waters off Shanghai. The Ministry of Industry and Information Technology said the two missions brought the number of Qianfan satellites launched to 256.
+The two missions highlighted that China's commercial launch sector is moving beyond technology demonstration toward providing meaningful additional capacity for large-scale constellation deployment, space industry observers noted.
+A high launch cadence is an important indicator of a country's overall space capability, space affairs commentator Song Zhongping told the Global Times. China's six successful orbital launches within a six-day span show that its launch capacity is continuing to expand, supported by a mature national space system covering rocket development, testing, launch infrastructure, tracking and control, as well as increasingly complete industrial and supply-chain support.
+Song noted that commercial space should be viewed as a complement to, rather than a parallel track separate from, China's national space system. The national sector provides the technological foundation, major infrastructure and strategic capabilities, while commercial companies can make use of these resources to develop more flexible, market-oriented and lower-cost launch services. 
+The participation of privately developed rockets in large-scale constellation deployment is particularly significant, as it adds new launch capacity and can help improve the efficiency and overall competitiveness of China's commercial space transportation system, he noted.
+As satellite internet and other constellations generate sustained launch demand, commercial space companies will increasingly need to prove not only that they can reach orbit, but that they can launch reliably, frequently and at competitive cost, the observer said. "A sustainable market and broader investment will be essential to support further innovation, including reusable launch technologies, and to turn today's high-density missions into more routine, flight-like commercial launch operations."
+The busy week also illustrated the diversity of China's launch system. 
+On September 17, a Long March-12 rocket launched the 25th group of China's low-orbit internet satellites from the Hainan commercial spacecraft launch site, underscoring the continued backbone role of the national space sector in large-scale infrastructure deployment. 
+Later the same day, a Kuaizhou-11 rocket sent two commercial InSAR remote-sensing satellites into orbit. Then on September 19, a Long March-2D rocket launched four PIESAT-2 synthetic aperture radar satellites developed by private satellite manufacturer GalaxySpace.
+These missions showed that commercial participation is expanding across the industrial chain. Private companies are not only developing rockets but also increasingly building satellites and applications that make use of China's mature national launch infrastructure.
+Sunday's Kinetica-1 mission also highlighted innovation on the satellite side.
+Among the payloads was Chaozhisuan-1, a remote-sensing satellite carrying a four-meter visible-light camera and an AI computer. It is designed to process imagery and identify targets directly in orbit, reducing the need to transmit large volumes of raw data to the ground before analysis, Global Times learned from CAS Space.
+Another payload, Pengcheng-1, also known as Pengcheng-Nanke-1, according to its developer Galaxy Space, is China's first technology-demonstration satellite to integrate a 5G NTN (Non-Terrestrial Network) base station and core network, onboard AI computing, space-to-ground laser communications and microwave communications on a single spacecraft.
+The satellite is designed to explore deeper integration of communications, sensing, computing and intelligent processing. It carries a 5G NTN communications payload based on 3GPP standards, a 100-Gbps high-speed space-to-ground laser communications payload and an onboard computing payload.
+According to GalaxySpace, the satellite will test whether remote-sensing information can be processed in orbit and distributed directly through a satellite communications network. 
+Ren Jiadong, deputy head of GalaxySpace's satellite system technology department, told the Global Times the concept can be understood as moving the "brain" of a terrestrial 5G network - its core network, normally deployed in ground-based data facilities - directly into space.
+The successful launch and upcoming in-orbit verification of Pengcheng-Nanke-1 also represent an example of collaboration among commercial space companies, research institutes and universities in China, Ren said. By integrating broadband communications, space-based remote sensing and onboard intelligent computing, the satellite will support tests of multiple frontier 6G technologies in orbit, providing experience for the development of integrated space-air-ground networks and next-generation satellite internet technologies, he added.
