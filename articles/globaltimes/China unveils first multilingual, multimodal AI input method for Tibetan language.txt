@@ -1,0 +1,30 @@
+TITLE:
+China unveils first multilingual, multimodal AI input method for Tibetan language
+
+PUBLISHED:
+2026-09-20 19:14:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1370962.shtml
+
+ARTICLE TEXT:
+The world's first Tibetan-language large language model, DeepZang, is unveiled on March 16, 2026. Photo: VCG
+China unveiled what was described as the country's first multilingual, fully multimodal AI input method for the Tibetan language on Sunday in Xining, Northwest China's Qinghai Province, marking a further step in bringing Tibetan-language AI technology into everyday use.
+The Zhida AI Input Method was unveiled at an event marking the 70th anniversary of Qinghai Normal University. Developed by the State Key Laboratory of Tibetan Intelligence, it is powered by the laboratory's proprietary large language models and supporting AI infrastructure, China News Service (CNS) reported on Sunday.
+The tool supports text, voice and image-based input across devices, allowing users to synchronize their personal dictionaries and input preferences through a single account.
+According to CNS report, a professor at Qinghai Normal University and executive deputy director of the laboratory said the tool integrates a Tibetan keyboard, Latin transliteration, mixed voice input, image recognition and AI-powered assistance into a single interface.
+Given the substantial differences between spoken Tibetan dialects and written Tibetan language, as well as the widespread use of mixed expressions, the input method supports both spoken and written forms of three major Tibetan dialects - U-Tsang, Amdo, Kamba, the report said.
+Its image recognition function can extract text in all three languages from photos or screenshots, supporting document digitization, teaching and office work.
+The tool also offers automatic error correction, text refinement and two-way translation, with formal, friendly and academic writing styles. Its vocabulary database covers 23 disciplines, including education, law and literature, and can learn users' frequently used words and expressions. 
+The Zhida large language model was also showcased at the event. It has nine versions, ranging from 800 million to 100 billion parameters, with three main models deployed online. It supports translation across 56 languages, as well as image and video understanding, with applications in education, research and government services.
+The launch highlights how China's Xizang region is becoming more integrated into China's broader AI development, as Tibetan-language models expand beyond translation and text processing into everyday applications, including education, document digitization, government services and tourism, analysts said.
+The development builds on earlier research. On April 22, the laboratory, jointly established by Qinghai Normal University, Xizang University and Nanjing University of Posts and Telecommunications, unveiled the Zhida Tibetan large language model and related applications. It was Qinghai's first Tibetan-language large language model to enter public testing and practical use, according to Qinghai Normal University.
+Meanwhile, Xizang region is also expanding Tibetan-language AI applications. On August 19, the Lhasa Municipal Science and Technology Bureau announced the approval of a project to develop multilingual simultaneous interpretation powered by the DeepZang Tibetan large language model.
+Once implemented, the project is expected to cut translation costs for foreign affairs and government services, while supporting Xizang region's digital economy, tourism and the digital preservation of ethnic languages, according to the bureau.
+Global Times

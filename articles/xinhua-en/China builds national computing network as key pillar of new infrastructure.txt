@@ -1,0 +1,36 @@
+TITLE:
+China builds national computing network as key pillar of new infrastructure
+
+PUBLISHED:
+2026-09-20
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260920/6d2215c3da5344e49f99ab9f54f22dc1/c.html
+
+ARTICLE TEXT:
+BEIJING, Sept. 20 (Xinhua) -- As artificial intelligence (AI) and large-scale data processing reshape the global tech landscape, China is accelerating the construction of a nationwide computing power network as a cornerstone of the country's future infrastructure.
+The computing power network has been incorporated into the national "six networks" infrastructure framework as the 15th Five-Year Plan (2026-2030) enters its first year, marking the industry's shift toward high-quality development, said Wang Jinping, president of the China Association of Information, at an industry conference.
+The Computing Power Network Industry Conference and AI Computational Power Industry Expo 2026, which concluded recently in Beijing, brought together academicians, researchers, industry leaders and other key stakeholders to explore pathways for building an integrated national computing power network, advancing technological innovation and fostering ecosystem collaboration.
+Formalized by a top-level decision in April 2026, the computing power network -- alongside the networks of water, next-generation power grids, next-generation telecommunications, underground urban pipelines and logistics -- has become as indispensable to the digital age as water and electricity. It is expected to unlock a new wave of strategic development opportunities.
+RAPID EXPANSION AND NATIONAL LAYOUT
+Strong policy support and robust market demand are already propelling China's computing power industry into a new stage of high-quality, large-scale development.
+As of June 2026, the country's intelligent computing capacity reached 2,185 EFLOPS -- each unit representing 1 quintillion floating-point operations per second -- up 177 percent year over year. More than 70 computing power transmission corridors linking major computing hubs and key regions have been built, and 17 national computing interconnection regional nodes have been approved.
+Building on this momentum, China is now accelerating the construction of an integrated national computing power network, forming an "8+10+3" spatial layout centered on eight national computing hubs, 10 national computing clusters and three computing-electricity coordination zones.
+To centrally pool the nation's computing resources, a national computing service platform is accelerating its expansion, steadily connecting platforms across 31 provincial-level regions. Its marketplace has attracted more than 10,000 enterprise users, over 200 service providers, more than 2,000 computing products and over 300 large models, while offering developers computing access services and accumulating billions of monitoring data records.
+COMPUTING-ELECTRICITY COORDINATION
+Beyond interconnecting existing facilities, the computing power network is matching supply in resource-rich regions with surging demand in the fast-growing east through "computing-electricity coordination."
+Regions such as Inner Mongolia Autonomous Region and Xinjiang Uygur Autonomous Region are converting abundant wind and solar power into on-site computing capacity, supporting the east's growing needs for large-scale data processing and AI training.
+Inner Mongolia offers a telling example. With green electricity priced at around 0.35 yuan (about 5 U.S. cents) per kilowatt-hour, a cool climate that allows natural cooling for nearly 10 months a year and network latency of no more than 5 milliseconds to Beijing, the region has emerged as a preferred destination for large-scale computing projects.
+As of the first half of 2026, 20 of China's 30 leading private computing companies had established a presence in Inner Mongolia, with combined investment exceeding 200 billion yuan, and nine of the country's top 10 computing service providers had set up operations in the region.
+GLOBAL REACH AND SERVICE INNOVATION
+The network's benefits are also extending beyond China's borders. As of early August, Chinese large models had ranked first in call volume for 15 consecutive weeks on model aggregation platforms that mainly serve overseas users, according to data from OpenRouter. More overseas developers are choosing to train AI models in China or directly tap its mature computing resources.
+Meanwhile, token export services -- providing overseas users with computing and AI services billed by tokens, the basic unit of AI information processing -- have emerged as a new form of services trade at this year's China International Fair for Trade in Services.
+INTELLIGENT FOUNDATION FOR NEW GROWTH
+According to Xiao Hongwei, a researcher at the State Information Center under the National Development and Reform Commission, the computing power network, functioning as an "intelligent foundation" for economic and social operations, can not only meet computing demands across diverse scenarios including large model training, film rendering, autonomous driving and smart finance, but also drive upgrades across the entire industrial chain encompassing AI, big data and industrial internet.
+"The computing power network will fuel the development of new quality productive forces," Xiao said, adding that the six networks are now interwoven and mutually supportive, jointly forming the infrastructure foundation for this new growth paradigm. ■
