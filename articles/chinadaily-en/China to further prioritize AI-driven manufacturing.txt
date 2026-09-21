@@ -1,0 +1,32 @@
+TITLE:
+China to further prioritize AI-driven manufacturing
+
+PUBLISHED:
+2026-09-21
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202609/21/WS6ab06e17e4b06d4aa055f1d8.html
+
+ARTICLE TEXT:
+China to further prioritize AI-driven manufacturing
+Efforts urged to make nation's industrial chains more self-supporting, resilient
+China is putting artificial intelligence at the heart of its next manufacturing push, seeking to make factories smarter and critical supply chains more resilient, while keeping the world's largest manufacturing base plugged into global markets, officials, company executives and industry experts said on Sunday.
+The message was delivered as the 2026 World Manufacturing Convention opened on Sunday in Hefei, Anhui province. It came just days after China's top leadership called for sustained efforts to expand and strengthen advanced manufacturing, and make the country's industrial chains more self-supporting and risk-resilient at a national advanced manufacturing conference in Beijing last week.
+The timing of the two gatherings underscores a shift in the country's industrial priorities. Xin Guobin, vice-minister of industry and information technology, said at the Anhui convention that China will make a new generation of intelligent manufacturing a priority and push for the deeper integration of AI in manufacturing.
+"China will cultivate smart factories, develop open-source foundation models and industry-specific AI models, strengthen domestic manufacturing software and hardware, and accelerate the low-carbon transformation of factories," Xin said.
+That transition is particularly visible in Anhui. Liang Yanshun, Party secretary of Anhui, said that every minute, factories across the province produce about 190 home appliances, 50 laptop computers and four new energy vehicles.
+"Such momentum benefits from Anhui's decades of technological innovation and intelligent transformation. More and more Anhui-made products are setting sail overseas and benefiting consumers around the world," he said.
+One of the prime examples is ChangXin Memory Technologies. The Hefei-based memory chip maker said on Sunday that it has begun mass production of its fifth-generation, or G5, DRAM technology platform, which has reached the industry's most advanced manufacturing level.
+CXMT said that each wafer can now produce over 50 percent more usable memory chips than the previous-generation platform. Its 24GB LPDDR5X mobile memory chips based on the new platform are also in mass production and have been adopted by mainstream Chinese flagship smartphones.
+LPDDR5X is a type of high-speed, low-power memory chip widely used in premium smartphones, where higher capacity and faster data transfer are increasingly important for AI and other computing-intensive applications.
+Luo Xiaodong, vice-president of CXMT, said that the company had reduced the half-pitch of the active area in its memory array to 11.95 nanometers, putting CXMT close to the most advanced DRAM manufacturing technologies currently in mass production worldwide. The figure refers to the spacing between key structures inside a memory chip: the smaller the spacing, the more memory cells can be packed onto the same area of silicon.
+Latest data from the Anhui provincial government showed that during the 14th Five-Year Plan (2021-25) period, revenue from the province's large industrial companies climbed to 5.9 trillion yuan ($866 billion) from 3.8 trillion yuan, taking the province to fifth place nationwide.
+Carlos Magarinos, global chairman of the Global Alliance of SMEs and a former director-general of the United Nations Industrial Development Organization, said that Anhui had made a "profound impression", pointing to the rapid growth of sectors including new energy batteries and electronic information.
+Industry experts said that for China, the next manufacturing race is no longer simply about making more, but about making smarter and greener, and creating more advanced technology.
+Tian Jietang, head of the industrial economics department at the Development Research Center of the State Council, said: "China needs stronger advanced manufacturing capabilities and more resilient supply chains to cope with intensifying international competition."
