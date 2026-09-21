@@ -7,122 +7,201 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 09:59:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:31:41 +0000</lastBuildDate>
     <item>
-      <title>Eight killed, one injured in textile factory fire in Shunde, S.China's Guangdong</title>
-      <link>https://www.globaltimes.cn/page/202609/1371028.shtml</link>
-      <description>Published: 2026-09-21 16:14:00
+      <title>Firms unveil large models, agents at WMC in Hefei as China pushes AI+manufacturing drive</title>
+      <link>https://www.globaltimes.cn/page/202609/1371080.shtml</link>
+      <description>Published: 2026-09-21 23:36:00
+
+Visitors walk past the logo of the 2026 World Manufacturing Convention (WMC) in Hefei, east China's Anhui Province, Sept. 20, 2026. Themed "Intelligent Manufacturing For a Better Future," the 2026 WMC kicked off here on Sunday. (Xinhua/Chang Nengjia)
+A slew of Chinese companies unveiled their latest industrial artificial intelligence (AI) products at the 2026 World Manufacturing Convention in Hefei, East China's Anhui Province, on Monday. The products are designed to handle real production work rather than just answer questions, as China accelerates its efforts to integrate AI into its vast manufacturing base. 
+At an "AI+manufacturing" session hosted by the Anhui Provincial Department of Industry and Information Technology, the province released a list of nine provincial-level featured industrial large models and 26 featured industrial AI agents, covering the full chain from R&amp;D and production to supply, sales and services.
+The Anhui branch of the China Academy of Industrial Internet also released the province's first collection of typical AI+manufacturing application cases, featuring 50 cases spanning 13 industries, including nonferrous metals, automobiles, building materials and high-end equipment.
+"Using AI to empower advanced manufacturing is a path we must take and a question we must answer," Pan Feng, an official at the department, told the Global Times on the sidelines of the event. He described the session as "a toolbox, and even more a refueling station" for manufacturers.
+"At present, AI is better at 'talking' than 'doing.' But what will truly change China and the world must be the combination of AI with the real economy and real-world demand scenarios, that is, 'doing'," Pan Helin, deputy chairman of the AI System Construction Committee at China Society of Industrial Economics, told the Global Times on Monday.
+Pan Helin stated that although enterprises' current exploration of "doing" is a long process, it will certainly be realized in the future. "Once it is achieved, the global competitiveness of China's manufacturing will be further enhanced, and the Chinese economy will gain a new pillar," he said.
+From answering to doing
+Anhui-headquartered automaker Chery, whose cumulative global sales have topped 20 million vehicles, including more than 6 million exported, presented Chery GPT, an enterprise-level AI platform built on its manufacturing-specific model AutoMind, the Global Times learned at the session.
+The platform now covers more than 150 scenarios across R&amp;D, production, supply, sales and services. Employees have created over 5,000 "digital employees" on it, and it completes more than 14,000 real work tasks a day, Luo Rui, head of Chery NEXAI Research Institute, said during the session. "We used to measure AI by how many times it was asked. Now we count how much work it has actually done," he said.
+AI's rise is also driving up demand for electricity. Xu Jiajia, president of Ling Yang Industrial Internet Co, backed by iFlytek, noted that many now see energy as the ultimate bottleneck for AI. He cited forecasts that computing centers could consume one-fifth to one-quarter of total US electricity within five years, adding that computing centers in China are also major power consumers. 
+The company launched version 3.5 of its industrial large model, which turns scattered vertical capabilities into agents capable of autonomous planning and execution. Its time-series foundation model has pushed average electricity-price forecasting accuracy above 85 percent, Xu said.
+At the booth of Hefei-headquartered Zetatech, marketing manager Zhang Yu told the Global Times that its Zhexue large model targets yield improvement in semiconductors, photovoltaics and display panels. A chip passes through some 1,500 process steps, each generating an amount of data too vast for manual analysis.
+Engineers can now ask in plain language how temperature in a given period has affected a batch's yield. The model can also flag when a tool's yield slips from 99.5 percent to 99.2 percent, prompting maintenance before a line stoppage that can cost millions of yuan.
+"Hefei has natural soil for this," Zhang said, noting that many of its benchmark clients are local, such as the chipmaker CXMT and display manufacturer BOE.
+These encouraging local level use cases did not emerge in a vacuum. Anhui's strong manufacturing base over recent years has laid solid groundwork for such AI transformation.
+During the 14th Five-Year Plan period (2021-25), the operating revenue of Anhui's major industrial enterprises rose from 3.8 trillion yuan to 5.9 trillion yuan, lifting the province from 12th to fifth nationwide, Pan Feng said.
+National push
+Anhui's efforts mirror a nationwide drive. The Ministry of Industry and Information Technology, the Cyberspace Administration of China and six other departments jointly issued implementation opinions on a special action for "AI+manufacturing," calling for the deep application of three to five general-purpose large models in manufacturing, 1,000 high-level industrial agents, 100 high-quality industrial datasets and 500 typical application scenarios by 2027.
+The national special action has cleared obstacles across the entire chain of AI implementation through top-level design and systematically lowered the threshold for enterprises to apply AI, Wang Peng, an associate research fellow at the Beijing Academy of Social Sciences, told the Global Times on Monday.
+"China leads the world in AI large model algorithm capabilities, and its huge population and industrial scale correspond to a vast amount of data, meaning China can obtain sufficient data resources," Pan Helin said. Combined with massive investment in the computing power network during the 15th Five-Year Plan period (2026-30), China has significant scale advantages in algorithms, data and computing power, he noted.
+The momentum is already showing up in the data. In the first half of 2026, the value-added output of Anhui's major industrial enterprises grew 12.4 percent year-on-year, while that of high-tech manufacturing surged 44.6 percent, according to official figures.
+With lightweight models that can be deployed directly on factory equipment breaking the high-cost barrier to AI adoption, AI applications will spread rapidly from leading companies to the vast number of small and medium-sized enterprises (SMEs), and the industry will bid farewell to the single-point pilot stage and enter a period of large-scale adoption, Wang said.
+"This transformation will fully unleash productivity gains, drive China's manufacturing sector to shift from factor-driven to innovation-driven growth, and accelerate the leap from 'Made in China' to 'Intelligently Made in China,'" Wang said, adding that it will inject core momentum of new quality productive forces into China's drive to become a manufacturing powerhouse.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1371080.shtml</guid>
+    </item>
+    <item>
+      <title>Xi's upcoming state visit to US draws broad expectations for greater strategic stability, dialogue and cooperation</title>
+      <link>https://www.globaltimes.cn/page/202609/1371075.shtml</link>
+      <description>Published: 2026-09-21 23:25:00
+
+Top News
+Chinese President Xi Jinping will pay a state visit to the US from September 23 to 25 at the invitation of US President Donald Trump, a Chinese foreign ministry spokesperson announced on Monday, according to the Xinhua News Agency.
+During his visit, President Xi will have in-depth exchange of views with President Trump on major issues concerning bilateral ties and world peace and development, according to information released by Chinese Foreign Ministry spokesperson Guo Jiakun on Monday.
+Guo said head-of-state diplomacy plays an irreplaceable role in providing strategic guidance to China-US relations, and the exchange of visits by the two presidents within the span of half a year will mark a milestone of historic significance. He noted that China will work with the US to enrich the dimensions of the China-US constructive relationship of strategic stability, strengthen dialogue and cooperation, and properly manage differences, so as to deliver greater benefits to our two peoples and further contribute to world peace, stability and prosperity.
+The visit comes just months after Trump paid a state visit to China in May, making the two-way presidential visits within half a year a notable development in bilateral ties. During Trump's May visit, the two presidents agreed on a new vision of building a constructive China-US relationship of strategic stability, providing strategic guidance for bilateral relations over the next three years and beyond. 
+Far-reaching significance
+Against an international landscape profoundly different from that surrounding Xi's previous US state visit in 2015, experts from both China and the US reached by the Global Times said that the significance of the upcoming visit extends well beyond any single issue on the bilateral agenda.
+Xin Qiang, deputy director of the Center for American Studies at Fudan University, told the Global Times that the visit is crucial for both China-US relations and global stability.
+He said that the visit will continue the momentum in bilateral engagement following Trump's trip to China in May while demonstrating a willingness to keep the relationship stable despite differences.
+Robert Lawrence Kuhn, chairman of The Kuhn Foundation, told the Global Times that regular meetings between the top leaders of China and the US send an important signal that both sides want to maintain a stable relationship.
+Stability does not mean that the numerous problems between the two countries have disappeared, nor does it guarantee long-term certainty; however, in an increasingly unsettled international environment, the willingness of the two leaders to meet demonstrates their commitment to maintaining a stable relationship, he noted. 
+"It's a dangerously different world in which we're living. This is especially why stable US-China relations are critical: to keep the world from getting any worse," Kuhn said.
+Geopolitical differences will continue to exist and need to be contained, he said, noting that the two countries should seek practical progress in areas that are non-strategic, non-threatening and non-sensitive.
+Even relatively small positive steps could represent meaningful achievements under the current circumstances, he remarked.
+Voices of the youth
+Expectations for more stable relations are not confined to political and strategic circles. At the people-to-people level, ongoing exchanges have also emphasized the need for more communication between the two societies.
+According to Xinhua on Monday, Xi recently replied to students from 10 US universities who wrote to him after attending youth exchanges in China. Xi said he was pleased to hear that the students expressed in the letter their appreciation for Chinese civilization, their hope for friendly cooperation between China and the US, and their willingness to act as envoys of friendship bridging the Pacific Ocean.
+Young people from China and the US, Xi said, share the same planet Earth and jointly shoulder the mission of the times.
+He expressed hope that the students would join the vast number of young people in both countries in striving to carry forward, uphold, and advance China-US friendly cooperation, and work together to foster mutual understanding and affinity between the two peoples and to ensure the steady and long-term development of bilateral relations, so as to contribute the vitality of youth to building a better world.
+The importance of that space for communication becomes clearer when viewed through the experiences of young Americans who have traveled to China.
+For these young Americans, such exchanges have offered a perspective on the relationship that differs from the often-presented lens of geopolitical competition.
+Maddox Cherry, a senior at Clarksburg High School in Maryland, described his two-week visit to China in April as "the best 14 days of my life."
+Traveling through Shanghai, Shenzhen and Beijing, Cherry said he was struck by how quickly American and Chinese students could find common ground.
+When asked whether frequent US media coverage of tariffs, semiconductor restrictions and high-tech competition had affected his view of China, Cherry acknowledged that such reporting inevitably shapes impressions at home.
+However, he emphasized that direct contact produced a very different experience.
+"Once you're over in China and you're actually making friends, it all just disappears," Cherry told the Global Times.
+Ryan Corkery, a student at the University of Maryland, had a similar experience. His first visit to China in April 2025 was also his first trip outside the US.
+"It was really life-changing," Corkery said. "It opened my eyes to how big the world is, and to how people of different cultures, backgrounds and languages can come together and form strong friendships."
+That experience brought him back to China three times this year, including a three-week solo trip during which he traveled through several Chinese cities.
+Although he arrived alone, Corkery said he rarely felt that way because he was constantly meeting friends and making new ones.
+More room for dialogue
+Such people-to-people experiences are unfolding against a bilateral relationship that is still battered by differences. Trade, technology and security issues remain sources of friction, and competition between China and the US in advanced technologies has not disappeared. However, dialogue has also been expanding.
+Chinese and US economic and trade officials held talks on Sunday local time on economic and trade issues of mutual concern, with artificial intelligence (AI) also among the topics discussed, Xinhua News Agency reported on Monday.
+Guided by the important consensus reached by the two heads of state and upholding the principles of mutual respect, peaceful coexistence and win-win cooperation, the two sides engaged in candid, in-depth and constructive exchanges on major economic and trade issues of mutual concern, including the implementation of the consensus reached during previous economic and trade consultations and the promotion of bilateral trade and investment. The two sides also held a dialogue on issues related to artificial intelligence.
+A Chinese expert noted on Monday that one key signal from the latest China-US economic and trade talks is that both sides remain committed to existing agreements and to turning the consensus reached by the two heads of state into concrete action.
+"In trade and investment, China and the US share many common concerns and interests, while differences remain on several issues, which makes continued consultations necessary to build consensus, reduce trade disputes and frictions, and create better conditions for normal business and commercial activity. This also reflects the central role economic and trade ties play in the broader China-US relationship," Zhou Mi, a senior research fellow at the Chinese Academy of International Trade and Economic Cooperation, told the Global Times on Monday.
+On Thursday, Chinese Foreign Minister Wang Yi spoke by phone with US Secretary of State Marco Rubio. During the talks, Wang said that for some time, China-US relations have generally moved along the path toward a constructive relationship of strategic stability set by the two heads of state, which is conducive to responding to the expectations of the international community.
+Ahead of the meeting, expectations voiced by experts and young people on both sides clearly indicate that stronger communication at the top is expected to provide greater certainty for the overall relationship while creating more room below for businesses to cooperate, scholars to communicate and ordinary Chinese and Americans to engage with one another.
+Political differences may continue to dominate headlines, but the experiences of young Americans who have traveled to China suggest that direct exchanges can offer another perspective on the relationship - one shaped less by geopolitical competition and more by personal contact and mutual understanding.
+As Cherry put it, even with an ocean between the two countries, some friendships can still "feel kind of like family."</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1371075.shtml</guid>
+    </item>
+    <item>
+      <title>Immersive red culture experience at Loushan Pass helps the Long March spirit resonate across borders</title>
+      <link>https://www.globaltimes.cn/page/202609/1371064.shtml</link>
+      <description>Published: 2026-09-21 22:30:00
+
+Actors and visitors perform in the immersive live-action production Victory at Loushan Pass at the foot of Loushan Pass in Huichuan District, Zunyi, Southwest China's Guizhou Province. Photos: VCG, Courtesy of Huichuan District Culture and Tourism Bureau
+The first simulated gunshot cracked across a misty valley in northern Guizhou Province. Russian traveler Renata instinctively ducked. 
+Around her, smoke rose through the mountain air as shouted commands, explosions and the sound of running feet turned a steep path into a scene from a battle fought more than nine decades ago. 
+Renata was not watching from a theater seat. Alongside Chinese visitors and other overseas content creators, she was moving up the rocky trail at Loushanguan, or Loushan Pass, carrying a prop rifle and taking part in an uphill "charge." The blasts were controlled and the fighting was staged, but the mountain beneath her feet was the terrain on which the real battle unfolded in 1935. 
+"Everything felt so real," she later told the Global Times. Having traveled widely, she described it as one of the most striking and unusual experiences she had encountered. 
+The experience is part of an immersive live-action production titled Victory at Loushan Pass. Built around the natural topography of the pass, it combines reconstructed trenches and battlefield positions with dramatic performance, special effects and direct visitor participation. 
+Instead of standing outside the story, visitors join a pre-battle mobilization, help move simulated supplies and follow the action up the mountain.
+Loushan Pass, in Huichuan District of Zunyi, Southwest China's Guizhou Province, occupies an important place in the history of the Long March. In February 1935, the Red Army fought for the pass in a key engagement of the Zunyi Campaign. The victory, achieved after the Zunyi Conference, is widely remembered as the Red Army's first major victory since the start of the Long March and as a turning point that helped reverse a difficult military situation.
+The year 2026 marks the 90th anniversary of the victory of the Long March. The anniversary has brought renewed attention to how the history is remembered and passed on, especially among young people who increasingly encounter the past through short videos, travel and interactive cultural products rather than through books and exhibition panels alone. 
+Loushan Pass has long drawn visitors seeking sites associated with the revolutionary history of the Communist Party of China. 
+A 2025 Financial Times report on China's "red tourism" described visitors of different generations traveling to Loushan Pass and other sites around Zunyi, calling the pass the scene of the Red Army's first significant victory during the Long March. The newer immersive production has added another layer to that established memorial landscape: People do not merely hear about the route taken by the soldiers; they also climb part of it. 
+Why has a mountain pass nestled deep in the mountains of northern Guizhou prompted people of different nationalities and cultural backgrounds to "step into history"? How can red culture move from being taught to being experienced? 
+To explore these questions, the Global Times spoke with interviewees offering different perspectives. Their accounts show how this historic revolutionary landmark is finding new forms of expression that are taking the Long March spirit beyond China's borders and resonating with audiences worldwide.
+A sculpture commemorating the victory at Loushan Pass
+When history becomes participatory At Loushan Pass, the answer begins with the landscape. The production is staged outdoors, using the slopes and paths around the historical area rather than separating the story from its setting. Trenches and field fortifications have been reconstructed at full scale. Actors, controlled pyrotechnics and a scripted sequence lead participants through moments of preparation, transportation and battle. 
+The design changes the visitor's physical relationship with the past. A museum visitor may pause before a document, photograph or artifact. Here, participants listen for instructions, carry objects, move with a group and feel the strain of the climb. The production does not reproduce the danger of combat, but it uses movement, sound and collective participation to give historical information a bodily dimension. 
+Renata first came across videos of the experience on Instagram while traveling in Chongqing. The footage and its online popularity convinced her to make a separate trip to Zunyi. She had expected an unusual attraction; she did not expect the emotional journey that followed. 
+"Previously, visiting memorial halls or history museums meant looking at history through text and glass and passively receiving information," she said. "But at Loushan Pass, due to the vast mountain scenery, realistic artillery effects and a fast-paced battle plot, I experienced a rollercoaster of emotions. I went from nervous excitement to tearful sadness."
+She said the warmth of the staff and other participants also mattered. It placed ordinary human contact alongside a heavy historical subject, making the episode feel less remote. The people around her were not simply an audience assembled for the same show; during the performance, they became a temporary group moving through the same sequence together. 
+Before the visit, Renata said she and many of her foreign friends knew little about either the Battle of Loushan Pass or the wider history of the Long March. Material on Chinese revolutionary history available on overseas social platforms was limited, she said, and what she did encounter often struggled to hold the attention of younger users. 
+After the experience, she began searching for historical material on the 1935 battle. 
+"I came to understand the significance of the campaign, as well as the Red Army's original aspiration and sense of responsibility in pressing forward from a desperate situation," she said. "Although my Chinese is limited, it did not stop me from being moved. The Red Army's fearlessness in the face of sacrifice and its unyielding resilience are precious qualities to which all humanity can relate."
+Her visit did not end when the performance was over. Renata posted videos and practical travel information across social platforms. One post drew millions of views, and its comment section became a place where overseas users, history enthusiasts and scholars discussed the Long March. 
+Many young foreign viewers contacted her directly, asking for more details, wanting to experience the production for themselves. A growing number of overseas users were visiting Loushan Pass and voluntarily sharing their own understanding of China's revolutionary culture, Renata said.  
+The offline audience has grown as well. Zhu Jingbo, Party chief and director of the Huichuan District Culture and Tourism Bureau, told the Global Times that Victory at Loushan Pass was staged 129 times in the first half of 2026, with more than 1,000 visitors taking part in the immersive experience each day on average.
+Actors and visitors perform in the immersive live-action production Victory at Loushan Pass at the foot of Loushan Pass in Huichuan District, Zunyi, Southwest China's Guizhou Province. Photos: VCG, Courtesy of Huichuan District Culture and Tourism Bureau
+"We developed the immersive project because we did not want 'red history' to remain only in books and on exhibition boards, or the Long March spirit to become an empty slogan," Zhu said. 
+The production is one expression of a wider "red tourism plus" approach in Zunyi: Revolutionary heritage is connected with live performance, study tours, outdoor experiences, and other local cultural and tourism resources.
+Its effect can be seen in Renata's own account. The explosions and movement first captured her attention; the questions raised by the experience then sent her back to historical records. The spectacle brought her to the mountain, but the context determined what she took away.
+'Emotional awakening' Zhu said staff working on the frontline of local tourism had noticed a change among international visitors. In earlier years, some arrived mainly out of curiosity or as part of a broader trip through Guizhou and knew little about the Long March. Now, he said, more overseas young people, scholars and military history enthusiasts are coming specifically to the site with questions already in mind. 
+Their accounts also widen the range of voices through which the story travels. When a foreign visitor explains the experience in another language and through the details that most affected them, the result does not read like a translated brochure. It begins with an individual encounter: a gunshot, a steep path, a moment of fear or the decision to look up what happened after returning to a hotel room. 
+Zhu said such accounts can help make Loushan Pass a window through which overseas audiences approach China's revolutionary history and the experience of struggle that shaped the country's later development. 
+Sun Jiashan, a research fellow from the Department of Chinese Culture Teaching and Research at the Central Institute of Socialism, described the project's popularity as a structural change in the way "red tourism" constructs a narrative. 
+A view of Loushan Pass in Huichuan District of Zunyi, Southwest China's Guizhou Province
+"Members of today's Generation Z tend to seek 'experiential identification,'" Sun told the Global Times. "The Loushan Pass model of 'real setting, interaction and plot' turns an abstract red narrative into a tangible scene in which people can participate. It transforms the Long March spirit from 'history that is told' into 'memory that is experienced,' reducing the instinctive distance that some overseas visitors may feel."
+Sun's assessment also points to a two-part task. Historical explanation supplies names, dates and consequences, while participation provides a point of emotional entry. At Loushan Pass, the performance, the historical landscape and the visitor's later research form successive parts of the same encounter. 
+Sun also pointed to the particular influence of personal storytelling. Because the storytellers are not merely repeating a prepared description, their accounts can carry a form of third-party credibility among their own audiences. 
+The values conveyed through those accounts - courage, resilience and the ability to keep moving in an apparently desperate situation - are not dependent on a visitor already knowing the full political and military history, Sun said. 
+"This shift from 'cognitive persuasion' to 'emotional awakening' is the key to the cross-cultural communication of the Long March spirit," he said.
+From being 'seen' to being 'recognized' The growing attention has also produced measurable benefits for the area. In the first half of 2026, the Loushan Pass scenic area received 209,700 visits and generated 16.93 million yuan ($252,775) in tourism revenue, an increase of 9.47 percent year-on-year, according to Zhu. The figures point to the economic role the heritage site now plays in the mountainous district. 
+Huichuan District now plans to make its red tourism products more appealing to young people, more accessible to international visitors and more sustainable as regular tourism offerings. Zhu said the district would further integrate the revolutionary resources of Loushan Pass with Hailongtun Fortress and the ecological landscapes and folk culture of northern Guizhou, while continuing to refine its immersive "red tourism plus" products. 
+But difficulties persist. Sun noted that many overseas visitors still lack the historical background needed to understand the site; immersive tourism products are difficult to standardize or reproduce without losing their connection to place; and the pursuit of online traffic may hollow out the values a project is meant to communicate. 
+"Only by continuously improving the international translation of historical context, raising professional standards in red tourism and holding fast to the core values of revolutionary culture can red tourism move internationally from being 'seen' to being 'understood' and 'recognized,'" Sun said. 
+That balance is visible in Renata's own journey. An Instagram video first brought her from Chongqing to Loushan Pass; the simulated battle then sent her searching for the history of the real one. Her video and travel guide are now drawing the attention of viewers who may have otherwise never heard the name Loushan Pass - including some already asking how to make the journey themselves.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1371064.shtml</guid>
+    </item>
+    <item>
+      <title>GT on the spot: From cattle to embroidery, how Ningxia turns local crafts into growth engines</title>
+      <link>https://www.globaltimes.cn/page/202609/1371054.shtml</link>
+      <description>Published: 2026-09-21 21:23:00
+
+A mountain in Xingsheng township, Guyuan, Northwest China's Ningxia Hui Autonomous Region Photo: VCG
+At a cattle-breeding park in Xingsheng township, Guyuan, Northwest China's Ningxia Hui Autonomous Region, local yellow cattle, black cattle and imported Simmental cattle were leisurely walking around their pens on Monday morning.
+Standing nearby, a local villager surnamed Yu was doing the math. The 50 cattle he is raising at the park are expected to bring him 100,000 yuan ($13,900) in income this year, more than he earned in 2025.
+In the past, local farmers like Yu mostly raised cattle independently on their own land. Once the cattle were ready for sale, they were often sold directly to middlemen, leaving farmers with little room to negotiate prices and thin profit margins.
+That began to change with the development of the Fujian-Ningxia cooperation program, under which a standardized breeding park with 12 cattle sheds was built locally. The facility has helped reduce the high costs and lack of standardization associated with individual farming, while also generating annual income for the village collective, with farmers receiving dividends.
+An even bigger shift came after the local beef industry expanded further down the value chain.
+Through a glass window, workers in dust-proof clothing and caps could be seen carefully cutting and vacuum-packing fresh beef at an agricultural and animal husbandry technology company's processing workshop.
+Different cuts of beef are processed into products tailored to different consumer needs, adding value beyond simply selling live cattle.
+"In the past, we just sold cattle. Now, we want to maximize the value of every animal," the company's general manager Guo Fangfang told the Global Times.
+To fetch higher prices for beef, the company has to keep innovating in response to market demand. "When customers wanted chilled beef, we invited experts from an agricultural research institute to develop preservation technologies. When they wanted standardized beef brisket cuts, we developed uniform specifications," she said.
+The approach has paid off. Guo said the company's revenue grew from more than 8 million yuan in 2023 to 40 million yuan in 2025. Its products have also moved beyond Ningxia and are now sold in major cities, including Beijing and Shanghai.
+Workers in dust-proof clothing and caps cut and vacuum-pack fresh beef at an agricultural and animal husbandry technology company's processing workshop in Guyuan, Northwest China's Ningxia Hui Autonomous Region. Photo: Chen Zishuai/GT
+As the industry chain expanded, farmers' returns have increased, with local processors now paying about 2 yuan per kilogram above market prices for cattle, local authorities said. In 2025, Guyuan had 1.112 million cattle and 40 beef-cutting centers, while the "Guyuan Yellow Cattle" and "Jingyuan Beef" geographical indications gained wider recognition.
+Thanks to innovations in business models and digitalization, many local industries are undergoing upgrades.
+At the Sihan Duixiu embroidery studio in Guyuan, embroiderers were livestreaming from their phones, showcasing traditional Duixiu works, cloth tigers and other cultural products featuring local intangible cultural heritage. On the other side of the screen, customers from Russia, the Middle East, Europe and the US were discovering the livestreams on RedNote and Taobao, placing orders directly and even requesting customized products.
+Gao Guangjuan, founder of the Sihan Duixiu Culture Innovation and Development Company, told the Global Times that she learned the traditional craft from her parents-in-law. When she started the business in 2009, she had just three sewing machines and three embroiderers. The company now generates an annual output value of around 27 million yuan.
+At major international exhibitions, including the China-Arab States Expo and the Shanghai Cultural Fair, overseas customers have shown strong interest in the products, reinforcing the company's confidence in expanding internationally, Gao said.
+As the industry has grown, the "fingertip economy" has also provided new momentum for rural revitalization. Gao said local embroiderers can take raw materials home and work there, allowing them to earn an income while caring for children and elderly family members.
+One illiterate woman in her 60s has even become a Duixiu embroidery instructor thanks to her skills, earning more than 4,000 yuan a month, Gao said.
+The company now operates 12 community-based handicraft workshops and 22 studios combining intangible cultural heritage with tourism, and has trained more than 4,000 embroiderers.
+Behind the expansion of such grassroots industries is growing policy support for skilled rural artisans and craft leaders. In recent years, Ningxia has provided funding, policy support and skill training to artisans who can pass on traditional skills while creating jobs. A nationally recognized rural artisan master studio or training center that creates jobs for at least 15 people from formerly impoverished or monitored households can receive a one-off subsidy of 300,000 yuan, while those helping such workers pass on skills and secure stable employment for at least six months can receive 5,000 yuan per person, People's Daily Online reported.
+The result is a broader shift in how local resources are being used. In Guyuan, traditional crafts and agricultural products are no longer simply local specialties; they are being turned into businesses, expanded into longer value chains and, increasingly, translated into tangible gains for ordinary villagers.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1371054.shtml</guid>
+    </item>
+    <item>
+      <title>China, Madagascar conduct first joint crackdown on telecom fraud</title>
+      <link>https://www.globaltimes.cn/page/202609/1371039.shtml</link>
+      <description>Published: 2026-09-21 18:43:00
 
 Latest news
-Eight people were killed and one injured after a fire broke out on Sunday afternoon at a textile company in Shunde district, Foshan, South China’s Guangdong Province, Xinhua News Agency reported on Monday, citing provincial authorities. 
-Search and rescue operations had been completed as of Monday afternoon, China Central Television (CCTV) reported.
-The injured person is in stable condition and receiving treatment at a hospital, while the cause of the accident remains under investigation, according to CCTV. 
-The fire broke out at a textile company in Changxing industrial park in Jun’an Township, Shunde district, at 3:12 pm on Sunday, with firefighters and rescue personnel dispatched to the scene, according to CCTV. 
-The fire was brought under control by 3:45 pm and fully extinguished by 4:10 pm. The fire broke out in a two-story brick-and-concrete factory building used for production activities including denim washing. 
-The fire affected an area of approximately 200 square meters and did not spread to other areas. A total of 63 people at the scene and in surrounding areas were rescued or evacuated, CCTV reported. 
+At Madagascar’s invitation, China’s Ministry of Public Security (MPS) recently sent a working group to assist local police in combating telecommunications and online fraud, which helped successfully dismantle multiple telecom fraud rings in places including the capital of Antananarivo. On September 8, with assistance from the Malagasy side, 50 Chinese nationals suspected of involvement in telecom fraud were repatriated to China, with the case under further investigation, Xinhua News Agency reported on Monday, citing the MPS. 
+An official with the MPS said the operation represents an important outcome of strengthened international law enforcement cooperation between China and Madagascar. Chinese police will maintain a “zero-tolerance” stance and work with law enforcement agencies in various countries through the recently established international alliance aimed at combating cross-border telecom and cyber fraud to coordinate efforts, resolutely dismantle fraud dens, pursue and apprehend criminal suspects, and effectively safeguard the legitimate rights and interests of people in all countries, the official said. 
 Global Times</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1371028.shtml</guid>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1371039.shtml</guid>
     </item>
     <item>
-      <title>Xi to pay state visit to US from Sept. 23 to 25</title>
-      <link>https://www.globaltimes.cn/page/202609/1371025.shtml</link>
-      <description>Published: 2026-09-21 15:02:00
+      <title>Manila's claim of standing by one-China policy while pursuing economic cooperation with Taiwan region may risk new friction with China, move to hurt itself: expert</title>
+      <link>https://www.globaltimes.cn/page/202609/1371019.shtml</link>
+      <description>Published: 2026-09-21 13:09:00
 
-Xi to pay state visit to US from Sept. 23 to 25
-                        
-                        
-                            By Xinhua Published: Sep 21, 2026 03:02 PM 
-                            
-                                
-                            
-                         
-                     
-                    
-                         Chinese President Xi Jinping will pay a state visit to the United States from Sept. 23 to 25 at the invitation of US President Donald Trump, a Chinese foreign ministry spokesperson announced on Monday.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1371025.shtml</guid>
-    </item>
-    <item>
-      <title>China's grain industry eyes 4.5 trillion yuan output value by 2030, as food security holds firm: official</title>
-      <link>https://www.globaltimes.cn/page/202609/1371024.shtml</link>
-      <description>Published: 2026-09-21 14:38:00
-
-A staff member works at a grain storage facility under Sinograin in Xiantao City, central China's Hubei Province, Sept. 10, 2026. As early autumn sets in, farmers are busy with farm work in Hubei, one of China's leading provinces in terms of agricultural output. (Xinhua/Xiao Yijiu)
-China aims to achieve its grain industry's annual output value above 4.5 trillion yuan ($666.8 billion) by 2030 through making use of latest technologies, government officials said on Monday, stressing that the country's food security remains guaranteed despite global market volatility.
-The annual industrial output value of China's grain industry is expected to exceed 4.5 trillion yuan during the 15th Five-Year Plan period (2026-2030), an official said.
-The grain sector will better meet people's demand for higher-quality, more nutritious and healthier food, said Liu Huanxin, head of the National Food and Strategic Reserves Administration, at a press conference in Beijing.
-Support will go to major grain-producing counties to boost their processing capacity and strengthen county-level grain economies, lifting value-added returns for the sector. Efforts will target savings and loss reduction across the entire post-harvest chain, including accelerated adoption of green grain storage technologies. Authorities will also nurture leading enterprises, guide smaller firms toward specialized, high-end development, and build grain brands to steer the industry toward newer, higher-quality growth, Liu said.
-Technology is set to play a central role. Efforts will be made to boost sci-tech support, step up breakthroughs in core grain technologies, popularize advanced technical equipment, and nurture grain-sector talent, Liu said.
-New equipment such as flexible rice milling machines and AI color sorters has already lifted processing efficiency, while technologies like low-temperature extraction and biomass conversion have turned by-products into valuable resources, pushing the industry toward smart, green development.
-During the 15th Five-Year Plan period, China will focus innovation on green grain storage, quality and safety, nutrition and health, processing and modern logistics, building an innovation chain from research to industrial application, officials said.
-Responding to a question about rising international grain prices driven by El Niño and global geopolitical conflicts, officials acknowledged that the current international grain market has indeed seen fluctuations of varying degrees, but they stressed that China's grain market has remained generally stable, and China's food security is reliably guaranteed.
-Liu listed three factors. On production, China's annual grain output has stayed above 650 million tons since 2015, topped 700 million tons for the first time in 2024, and reached 715 million tons in 2025, with per capita grain availability exceeding 500 kilograms—above the global average.
-On reserves, China has built a system combining government and enterprise stockpiles, with the ratio of grain stock to consumption far exceeding the 17-18 percent international warning line, allowing the authorities to release or absorb reserves to stabilize the market, Liu said.
-On food processing, 24,000 grain enterprises with an annual output value of over 4 trillion yuan ensure ample supply of flour, rice and edible oil, Liu said.
-Global Times</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1371024.shtml</guid>
-    </item>
-    <item>
-      <title>China, US hold economic and trade talks in New York; trade issues, AI among topics discussed</title>
-      <link>https://www.globaltimes.cn/page/202609/1371021.shtml</link>
-      <description>Published: 2026-09-21 13:49:00
-
-Photo: VCG
-Chinese and US economic and trade officials held talks on Sunday local time on economic and trade issues of mutual concern, with artificial intelligence (AI) also among the topics discussed, Xinhua News Agency reported on Monday.
-Chinese Vice Premier He Lifeng, also China's lead person for China-US economic and trade affairs, held economic and trade consultations in New York on Sunday local time with US Treasury Secretary Scott Bessent and US Trade Representative Jamieson Greer, the US lead persons.
-Guided by the important consensus reached by the two heads of state and upholding the principles of mutual respect, peaceful coexistence and win-win cooperation, the two sides held candid, in-depth and constructive exchanges on major economic and trade issues of mutual concern, including implementing the consensus reached during previous economic and trade consultations and promoting bilateral trade and investment. The two sides also held a dialogue on issues related to artificial intelligence.
-The latest consultations came as the two sides have maintained communication on implementing the outcomes of previous economic and trade talks. The talks in New York mark the latest exchange after China and the US achieved positive outcomes in economic and trade consultations in May in South Korea, including tariff arrangements, resolving non-tariff barriers and promoting two-way trade including in agricultural products.
-Chinese expert noted on Monday that one key signal from the latest China-US economic and trade talks is that both sides remain committed to existing agreements and to turning the consensus reached by the two heads of state into concrete action.
-“In trade and investment, China and the US share many common concerns and interests, while differences remain on several issues, which makes continued consultations necessary to build consensus, reduce trade disputes and frictions, and create better conditions for normal business and commercial activity. This also reflects the central role economic and trade ties play in the broader China-US relationship,” Zhou Mi, a senior research fellow at the Chinese Academy of International Trade and Economic Cooperation, told the Global Times on Monday.
-Following the consultations in South Korea in May, the two sides reached consensus on several measures that were in line with their existing agreements and market expectations, while some details still need to be further worked out and implemented, Zhou said, adding that the two sides will continue discussing the relevant issues on that basis.
-Recent high-level interactions between China and the US have become more frequent, a trend Chinese experts said points to greater overall stability in bilateral ties. At a time when some longstanding disputes remain difficult to resolve and new sources of friction are emerging, stronger strategic stability between the world’s two largest economies and major powers could also help underpin broader global stability.
-On Thursday, Chinese Foreign Minister Wang Yi spoke by phone with US Secretary of State Marco Rubio. During the talks, Wang said that China-US relations have for some time generally moved along the path towards a constructive relationship of strategic stability set by the two heads of state, which is conducive to responding to the expectations of the international community.
-In late August, when meeting US Ambassador to China David Perdue, Wang called on the two countries to earnestly implement the important consensus reached by the two heads of state and remove disruptions and overcome obstacles to high-level exchanges, according to Xinhua.
-Notably, the New York talks also touched on artificial intelligence, an issue drawing growing international attention. Chinese experts said that as AI advances rapidly, greater China-US coordination on governance is increasingly expected by the international community and is also needed to support the sector’s sound and responsible development.
-Zhou said AI had advanced rapidly over the past one or two years, with far-reaching implications for economies, industries and business models worldwide. As two of the world’s leading economies in AI, both with strong momentum in the sector, China and the US should use dialogue to explore workable approaches and development models, foster an environment for AI to be used for good, and reduce potential risks as the technology advances.
-Yet even engagements continue, the US has kept up trade restrictions and pressure on China, particularly in the technology and AI sectors.
-Recently, US agencies including the National Security Agency jointly issued an advisory accusing Chinese AI company of conducting “industrial-scale” model distillation to acquire capabilities from advanced US AI models, while recommending defensive measures for US companies.
-China’s Ministry of Commerce said on September 9 that it firmly opposes the US move, calling US accusations groundless and saying they reflected double standards as well as US efforts to pursue technological hegemony, monopolize computing power and suppress competition in the AI sector.
-Zhou said that practical cooperation with China requires greater sincerity and joint efforts to improve rules and support sustainable economic development.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1371021.shtml</guid>
-    </item>
-    <item>
-      <title>China's domestically built rescue vessel Beihai Jiu 151 commissioned</title>
-      <link>https://www.globaltimes.cn/page/202609/1371015.shtml</link>
-      <description>Published: 2026-09-21 11:07:00
-
-Photo: Screenshot from eworldship.com
-China’s domestically designed and built 4,000-kilowatt medium-sized marine rescue vessel, the Beihai Jiu 151, officially joined the fleet of the Ministry of Transport’s Beihai Rescue Bureau on Monday, China Central Television (CCTV) reported. 
-The vessel is the first medium-sized marine rescue vessel in China’s northern waters, purpose-built for local maritime conditions, with all its core equipment domestically produced, according to CCTV. 
-The vessel’s commissioning strengthens the modern maritime emergency rescue network, addresses gaps in rescue capabilities in China's northern waters and provides stronger support for lifesaving and emergency response at sea, CCTV reported. 
-The vessel designed by China State Shipbuilding Corporation Limited’s (CSSC) Shanghai Merchant Ship Design &amp; Research Institute (SDARI) and built by CSSC Huangpu Wenchong Shipbuilding Company Limited, was launched on April 9. 
-Based on the Dong Hai Jiu 151 rescue vessel, the Beihai Jiu 151 was developed and designed to meet new requirements and meet emerging scenarios in maritime rescue operations, with enhanced capabilities for operating in icy waters. It is primarily intended for lifesaving and vessel rescue in shallow waters, including coastal waterways and areas around islands and reefs, while also being capable of carrying out rescue missions in rough sea conditions, eworldship.com reported. 
-In addition to conventional rescue capabilities such as oil-spill response and firefighting, the 69.5-meter-long, 14.6-meter-wide vessel can carry out three-point anchoring and is equipped with a new type of unmanned rescue boat. It can support diving training and conduct search-and-rescue operations along pre-set routes, among other missions, according to eworldship.com.
-Global Times</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1371015.shtml</guid>
-    </item>
-    <item>
-      <title>Global mayors explore sustainable development prospects at China's Wuhan</title>
-      <link>https://www.globaltimes.cn/page/202609/1370999.shtml</link>
-      <description>Published: 2026-09-21 09:22:00
-
-This photo taken on Sept. 20, 2026 shows a scene of the 2026 Global Mayors Dialogue - Wuhan in Wuhan, central China's Hubei Province. (Photo by Ni Na/Xinhua)
-More than 80 city leaders and representatives from over 20 countries, along with heads of international organizations, have gathered in Wuhan, Hubei Province, central China, to discuss shared urban challenges and explore pathways to sustainable development at the 2026 World Mayors Dialogue.
-Held from Sept. 18 to 21 under the theme "River City: Shared Resonance, Shared Growth," the event focuses on how technological innovation, industrial cooperation and cultural exchanges can advance urban development and improve people's lives.
-Shaukat Ali, Lord Mayor of Manchester, said he was impressed by Wuhan's efforts in developing low-carbon industries and advanced manufacturing, noting that Manchester and Wuhan have jointly established the UK-China Clean Energy Forum to harness the two cities' shared industrial and technological strengths for eco-friendly development.
-Manchester and Wuhan became sister cities in 1986 because of shared industrial origins, leading educational institutions, and a shared appetite for economic transformation. As the cities have grown and evolved, the partnership continues to pioneer multi-level exchanges and developmental cooperation between the UK and China, Ali said.
-The dialogue comes as Wuhan continues to pursue greener urban development while transforming its traditional industrial base.
-Located at the confluence of the Yangtze and Hanjiang rivers, Wuhan is home to 166 lakes and 165 rivers. Once a major industrial center known for steel and automobile manufacturing, the city has in recent years stepped up efforts to improve its environment and promote greener industrial development.
-As part of its urban renewal efforts, Wuhan has transformed small plots of unused or underused land into "pocket parks," bringing green space closer to residents. By the end of May, the city had built 788 such parks.
-Water quality in Wuhan's sections of the Yangtze and Hanjiang rivers has remained at Grade II, the second-highest level in China's five-tier system, for six consecutive years.
-The city also showcased its experience to international participants through visits to its suspended rail transit system, a smart home appliance factory, and a Yangtze finless porpoise breeding and conservation center, offering a closer look at its infrastructure, technological innovation, and ecological protection efforts.
-"Our visits have given us different perspectives on how technological innovation and industrial development are reshaping cities and their economies," said Jordi Vaquer, secretary general of Metropolis. "We have also been reminded that innovation and development must coexist with the protection of natural systems."
-Vaquer said cities play an important role in keeping international cooperation channels open, as urban challenges transcend national borders.
-"None of us can address them entirely alone," he said.
-Beyond Wuhan's transformation experiences, the dialogue also comes as China places greater emphasis on sustainable urban development.
-This year marks the start of China's 15th Five-Year Plan period (2026-2030). The outline calls for a shift in the approach to urban development and for building cities that are more innovative, livable, beautiful, resilient, culturally vibrant and smart.
-Foreign guests visit an exhibition hall at Xiaomi's smart home appliance factory during the 2026 Global Mayors Dialogue - Wuhan in Wuhan, central China's Hubei Province, Sept. 19, 2026. (Photo by Ren Yong/Xinhua)
-Foreign guests try a train trip running on the suspension monorail line during the 2026 Global Mayors Dialogue - Wuhan in Wuhan, central China's Hubei Province, Sept. 19, 2026. (Photo by Ren Yong/Xinhua)</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1370999.shtml</guid>
+Illustration: Liu Rui/GT
+The Philippine Department of Foreign Affairs claimed on Sunday that Manila is standing by its one-China policy but will also keep pursuing economic and cultural cooperation with island of Taiwan. Chinese experts said the Philippines' growing engagement with Taiwan regional authorities could add another source of friction to existing South China Sea issue. They warned that actions involving China's core interests could trigger China's firm countermeasures.
+"The Philippines recognizes the Government of the People's Republic of China as the sole legal government of China. This policy remains consistent, clear and unchanged," the DFA said in a statement, referring to Manila's 1975 Joint Communiqué with Beijing, according to the Philippine Daily Inquirer.
+It claimed, however, that the policy "does not preclude the Philippines from pursuing economic, cultural and functional cooperation with Taiwan."
+The statement came after Lin Chia-lung, head of the so-called "foreign affairs" department of the Taiwan regional authorities, confirmed in a recent interview a plan to set up a "representative office" in the central Philippine province of Cebu, which he said would serve as a platform to deepen ties through the "Taiwan-Philippines economic corridor."
+In response, Chinese Foreign Ministry spokesperson Guo Jiakun said on Wednesday that he would like to stress again that no matter how the Democratic Progressive Party (DPP) authorities collude with external forces to seek "diplomatic breakthroughs" and advance their separatist agenda in whatever form, such attempts will be all in vain and doomed to fail.
+Guo warned that "we also urge the Philippine side to abide by the one-China principle with concrete actions, and refrain from taking any steps that could harm China-Philippines relations."
+Philippine Defense Secretary Gilberto Teodoro Jr. claimed on Friday that Beijing should not interfere in how the Philippines implements that policy, the Philippine Daily Inquirer reported.
+"We recognize the One China policy but how we implement it is none of their business," he claimed.
+Some anti-China figures in the Philippines may believe that focusing solely on the South China Sea issue is producing diminishing political returns and has become less effective as a tool for exerting pressure on China. As a result, they may seek to create new points of friction by bringing Taiwan region-related issues into the picture, Ding Duo, director of the Research Center for International and Regional Issues at the National Institute for South China Sea Studies, told the Global Times.
+Dai Fan, director of the Center for Philippine Studies at Jinan University, told the Global Times that prominent anti-China figures such as Teodoro are leveraging tensions between China and the Philippines and seeking political gains by posturing a tough stance toward Beijing while signaling alignment with US strategic interests.
+Ding said the growing interactions between the island of Taiwan and the Philippines, as well as between the island of Taiwan and Japan, have been facilitated by what he described as US support, tacit approval and, to some extent, encouragement. He said Washington may seek to rely on its allies and partners to take actions related to Taiwan region as a way to pressure China while limiting its own direct involvement.
+In February, Japan, the Philippines and the US held joint military drills near the Bashi Channel, the waterway between the Philippines and the island of Taiwan, for the first time, with the exercises running from February 20 to 26, according to the Japan Times.
+Later, Zhai Shichen, a spokesperson for the People's Liberation Army Southern Theater Command, criticized the Philippines for disrupting peace and stability in the South China Sea.
+Zhai said the navy of the theater command conducted a routine patrol in the South China Sea from February 23 to 26. The theater command forces will resolutely safeguard China's territorial sovereignty and maritime rights and interests, and firmly uphold regional peace and stability, Zhai said.
+In May, Chinese Foreign Ministry spokesperson Mao Ning said China strongly opposed planned maritime delimitation talks between Japan and the Philippines and had lodged stern representations with both countries in response to an inquiry regarding a joint statement issued by Japan and the Philippines claiming that the two sides decided to "commence formal negotiations to delimit the maritime boundary of the exclusive economic zone and the continental shelf between the two countries."
+Mao said that the maritime boundary area involved in the Japan-Philippines negotiations lies east of China's Taiwan island. In accordance with China's domestic laws and international law including the United Nations Convention on the Law of the Sea (UNCLOS), China enjoys exclusive economic zone and continental shelf rights in the relevant waters.
+Ding said the so-called maritime boundary delimitation talks between Japan and the Philippines could further draw Taiwan island into a potential trilateral framework involving Taiwan region, Japan and the Philippines.
+Ding said that for Manila, China remains a major neighbor, trading partner and source of investment, and the long-term damage to bilateral ties could ultimately come with significant costs for the Philippines itself.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202609/1371019.shtml</guid>
     </item>
     <item>
       <title>The Philippines stages provocations against China – what business does it have to do with Japan?: Global Times editorial</title>
