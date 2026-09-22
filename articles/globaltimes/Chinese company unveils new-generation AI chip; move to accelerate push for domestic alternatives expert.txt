@@ -1,0 +1,29 @@
+TITLE:
+Chinese company unveils new-generation AI chip; move to accelerate push for domestic alternatives: expert
+
+PUBLISHED:
+2026-09-22 17:56:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1371127.shtml
+
+ARTICLE TEXT:
+Attendees visit Alibaba Cloud's Zhenwu series supernode at the 2026 Alibaba Cloud Apsara Conference in Hangzhou, East China's Zhejiang Province on September 22, 2026. Photo: VCG 
+A Chinese chip company on Tuesday announced its next-generation training and inference artificial intelligence (AI) chip, Zhenwu V900, which it called the most powerful Chinese AI chip in terms of computing performance. The launch highlights the growing momentum behind homegrown alternatives to foreign AI processors, as China steps up efforts to achieve technological self-reliance under US export controls on advanced semiconductors, a Chinese expert said.
+Zhenwu V900 was unveiled by Alibaba's chip subsidiary T-Head Semiconductor Co at an industry conference held in Hangzhou, East China's Zhejiang Province on Tuesday. According to the company, Zhenwu V900 delivers roughly three times the performance of the previous generation Zhenwu M890, and is designed to support the training and inference demands of trillion-parameter-scale models. 
+Mass production and commercial sales are scheduled to begin in the first quarter of 2027, the company said. 
+The next-generation chip is built on T-Head's proprietary parallel computing architecture and provides native support for FP8 and FP4 low-precision computing. The company said that this significantly improves computing density while reducing inference costs, making the chip suitable for a wide range of scenarios, including high-precision training, low-precision inference and ultra-low-precision inference.
+Industry observers said that this launch reflects the broader progress of China's domestic AI chip sector, which has been expanding in both performance and supply to support cutting-edge model training and inference.
+Zhenwu series chips serve more than 650 enterprise customers across sectors including autonomous driving, finance, large-language models, embodied intelligence, energy and manufacturing. The supernode systems based on the Zhenwu M890 have supported domestic large-language models with more than 2 trillion parameters, including Alibaba's Qwen3.8 and Moonshot's Kimi K3.
+In addition to T-Head, Chinese AI chip producers such as Huawei, Hygon Information Technology, Biren Technology, Shanghai Enflame Technology, MetaX and Moore Threads also offer a diverse range of domestically developed chip solutions, contributing to a more self-reliant semiconductor ecosystem.
+A report by Bernstein Research cited by The Washington Post in June said that Nvidia had about a 40 percent share of China's AI chip market in 2025, roughly on par with Huawei. Bernstein projected that Nvidia's share could fall to about 8 percent this year, while Huawei's could rise to about 50 percent.
+Ma Jihua, a veteran tech industry analyst, told the Global Times on Tuesday that China's chip industry has entered a phase of "multiple breakthroughs, simultaneous progress and mutual support," with a more complete end-to-end coordination system taking shape across chip design, interconnect technologies, networking and storage, operating systems and related software ecosystems.
+Ma said that the sector is large and growing rapidly, and it has become an increasingly important part of China's export structure. He noted that China has built clear advantages in mature-process manufacturing, including production scale, yield rates, and supporting manufacturing and research and development capabilities.
+However, Ma stressed that key bottlenecks remain in upstream equipment and tools, including extreme ultraviolet lithography machines and electronic design automation software, which are still major areas for breakthroughs. Despite those challenges, he said that the overall trend is clear: China's semiconductor industry has made visible advances in recent years, especially in computing chips, and is steadily moving toward greater self-reliance and scalable deployment.
+As domestic chipmakers continue to expand their product offerings and improve performance, analysts said that China's AI hardware sector is likely to see intensified competition, faster commercialization and broader adoption across industries in the years ahead.
