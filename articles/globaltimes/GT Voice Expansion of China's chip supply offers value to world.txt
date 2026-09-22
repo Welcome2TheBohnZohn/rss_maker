@@ -1,0 +1,31 @@
+TITLE:
+GT Voice: Expansion of China's chip supply offers value to world
+
+PUBLISHED:
+2026-09-22 22:51:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1371149.shtml
+
+ARTICLE TEXT:
+An AI-generated image of a chip Photo: VCG
+Fresh figures from China's tax authority add to mounting evidence that China's semiconductor sector has entered a new phase of sustained performance gains. In the first eight months of this year, the sales revenue of artificial intelligence (AI)-related integrated circuit manufacturing surged 67.7 percent, the State Taxation Administration said on Monday, the Xinhua News Agency reported.
+Compared with the 7.3 percent increase in China's overall industrial sales revenue, the revenue growth of the AI chip sector is a clear sign of rapid expansion in the semiconductor sector and the continuous release of new quality productive forces.
+For a long time, observers tended to attribute the growth of China's chip industry simply to policy support. Yet striking operating figures now prove that the industry is increasingly self-driven. The operating quality of domestic chip companies has improved substantially, and the industry's development logic has moved beyond pure scale expansion into a new stage of making profits and independent iteration. This is the core foundation underpinning the continuous upgrading of China's chip supply capacity.
+The semiconductor sector is a capital-intensive industry with high barriers to entry. Revenue growth only reflects market momentum, while profitability is the true benchmark of competitiveness. 
+In the first half of 2026, 186 A-share listed semiconductor companies achieved total net profit attributable to parent companies of 160.51 billion yuan ($23.9 billion), up 607.2 percent year-on-year, a clear confirmation that the industry has completed its leap from production expansion to profit growth.
+Company-level results point in the same direction. Chinese semiconductor giant Semiconductor Manufacturing International Corp posted revenue of 38.6 billion yuan in the first half, up 19.4 percent year-on-year, while its net profit reached 4.47 billion yuan, up 94.2 percent. The company attributed this performance to robust demand for AI-related chips, the return of overseas orders, the continued strengthening of localized manufacturing, and a sufficient backlog of orders on hand.
+In memory chips, CXMT recorded net profit of 77.60 billion yuan in the first half, reversing a loss of 2.33 billion yuan in the year-earlier period, according to its interim report.
+Particularly striking was the collective improvement across the AI chip sector, which is riding a wave of profitability. Cambricon Technologies achieved profit growth of 122.61 percent, while MetaX and Iluvatar CoreX both swung to profit in the first half, reversing year-earlier losses. 
+This profitability carries significant implications. Stable profit streams allow chip companies to invest in next-generation technology research and production line upgrades. A virtuous industrial cycle takes shape: market expansion generates profits, which fund technological advances. Widespread profitability also helps stabilize expectations among upstream and downstream partners.
+As its technological strength grows, China's semiconductor sector is shifting from import substitution to global supply. Customs data showed that in the first seven months of this year, China's integrated circuit exports reached $216 billion, up 99.5 percent year-on-year, already exceeding the full-year total for 2025. 
+In July alone, exports amounted to $38.74 billion, with year-on-year growth reaching 116.57 percent. Notably, in the first half of the year, integrated circuits became China's largest export commodity, surpassing automatic data processing equipment and related parts, and automobiles. This development shows that China's semiconductor sector is gradually being integrated into global electronics supply chains with stable delivery. 
+Overall, the AI boom is fueling massive chip demand - driven by data center construction, intelligent vehicle upgrades, and large-language model training - keeping the global chip market under persistent supply pressure. Against this backdrop, the steady expansion of China's chip production carries dual strategic value. 
+Domestically, a complete local chip supply base reinforces supply chain resilience for AI, smart connected vehicles, and industrial digitalization, mitigating the risk of supply disruptions and sustaining robust growth in China's digital economy. Globally, a more capable Chinese supply base allows buyers to diversify their sources and make computing chips more affordable, especially for developing countries.
+Backed by genuine market demand and independent technological iteration, the long-term certainty of China's chip supply is steadily strengthening. As technological breakthroughs accumulate, domestic chips will continue to inject reliable Chinese momentum into global tech supply chains and the digital economy.
