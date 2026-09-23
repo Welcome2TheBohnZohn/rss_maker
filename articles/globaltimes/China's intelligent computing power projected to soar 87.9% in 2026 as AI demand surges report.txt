@@ -1,0 +1,29 @@
+TITLE:
+China's intelligent computing power projected to soar 87.9% in 2026 as AI demand surges: report
+
+PUBLISHED:
+2026-09-23 21:08:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1371207.shtml
+
+ARTICLE TEXT:
+A concept photo of GPU and computing power Illustration: VCG
+Rapid growth in the number of artificial intelligence (AI) agents and token consumption is driving a continued rise in demand for computing power, with China's intelligent computing power estimated to surge 87.9 percent year-on-year to reach 2,576.5 exaflops (EFLOPS) in 2026, according to a new industry report. 
+Released by US market research company International Data Corp and Chinese tech firm Inspur Group, the report projected that the figure will reach 10,524.3 EFLOPS by 2030. The compound annual growth rate of intelligent computing power from 2025 to 2030 is projected at 50.3 percent, up from the previous forecast of 46.2 percent. 
+"The soaring growth in computing power signals an acceleration in AI applications in China. This rapid growth is not merely the result of adding more hardware, but a reflection of genuine and robust industrial demand driven by large-scale commercialization. As AI agents emerge as a new engine of growth, AI is evolving from simple conversational agents to agents capable of executing complex tasks," Chen Jing, vice president and research fellow at the Society for the Study of Technological and Strategic Trends, told the Global Times on Wednesday.
+The expert said that the growth of China's intelligent computing power is among the fastest globally, although the US maintains advantages in advanced AI chips and high-end computing resources. 
+"The exponential expansion of China's computing power serves as a pivotal driver of the democratization and wider accessibility of AI. Most notably, it has drastically lowered the cost of global AI adoption. Spearheaded by Chinese models such as DeepSeek, global API prices have plummeted by roughly 90 percent, making AI more affordable for a wider range of enterprises," Chen said.
+Tokens, the basic units that AI models to process information, have become a barometer of industry development and a key indicator of AI adoption. Wang Guanhua, a spokesperson of the National Bureau of Statistics, told a press conference in July that China's average daily token usage had reached several hundred trillion, demonstrating the vitality and potential of the digital and intelligent economies.
+It is projected that by 2035, AI will contribute more than 11 trillion yuan ($1.64 trillion) to China's GDP, potentially driving a tenfold or even hundredfold increase in demand for computing power. To meet this massive demand, a balanced and orderly expansion of computing power supply is crucial, the Xinhua News Agency reported.
+As AI and large-scale data processing define the global tech competition, China has stepped up efforts to build a national integrated computing power network as a cornerstone of the country's new types of infrastructure.
+A top-level meeting in April 2026 called for stepping up efforts in planning and construction of computing infrastructure - alongside water networks, new-type power grids, new-generation communications networks, urban underground pipelines.
+In August,
+ Chinese green technology company Envision Group announced that its Envision Galaxy Campus - a large-scale AI Data Center - in Ulanqab, North China's Inner Mongolia Autonomous Region, officially entered operation. The facility is described as the world's largest single AI computing unit and China's biggest AI computing park, with a planned total capacity of 2 gigawatts.
+The rapid expansion of China's computing power will not only support domestic AI development but also contribute to the global AI ecosystem, Chen said. The growth of computing infrastructure is expected to spur the development of related sectors, including AI chips, optical modules and liquid cooling technologies, while China's extensive application of AI in manufacturing, e-commerce and healthcare provide opportunities for the deployment of AI agent.
