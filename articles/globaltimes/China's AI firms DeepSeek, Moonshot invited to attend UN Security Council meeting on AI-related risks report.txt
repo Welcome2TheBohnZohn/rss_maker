@@ -1,0 +1,31 @@
+TITLE:
+China's AI firms DeepSeek, Moonshot invited to attend UN Security Council meeting on AI-related risks: report
+
+PUBLISHED:
+2026-09-23 21:11:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1371208.shtml
+
+ARTICLE TEXT:
+AI Photo: VCG
+Representatives from Chinese artificial intelligence (AI) firms DeepSeek and Moonshot are expected to brief a United Nations (UN) Security Council meeting on AI and international security on Wednesday in New York, according to Reuters. Chinese experts said the move underscores the growing role of Chinese firms in global discussions on AI development and also highlights China's commitment to global AI governance, including sharing innovation, openness, and win-win cooperation. 
+Other participants are OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei and Hugging Face CEO Clément Delangue, CNBC reported.
+The meeting, chaired by France, is listed by the UN website as a discussion on AI and international security, under the agenda item "Maintenance of international peace and security." It marks the second time AI has been formally placed on the Security Council's agenda, following the body's first AI debate in 2023. At the time, China warned the technology should not become a "runaway horse."
+According to Reuters, UN Secretary-General Antonio Guterres warned world leaders last week that rapidly advancing AI poses risks that cannot be ignored.
+Chinese authorities on September 14 released AI Safety Governance Framework 3.0, in which the classification of AI safety risks was reviewed and updated, and recommendations on optimizing technological countermeasures and comprehensive governance measures were outlined.
+A Chinese foreign ministry spokesperson said on September 15 that China always supports the UN' s role as the main channel in global AI governance, and participates in the multilateral governance of AI in a responsible attitude. Noting that China puts equal emphasis on development and security in terms of AI and takes seriously the inherent and secondary risks of AI, the spokesperson said the country is committed to holding on to the bottom line of security, and has been making efforts to improve laws and regulations, policies, application norms and ethic rules to prevent the abuse and misuse of AI, and ensure that AI is safe, reliable and controllable, Xinhua News Agency reported. 
+According to Chinese industry observers, the meeting signals that the world's AI conversation is moving beyond national competition and toward a more difficult question: how to prevent risks while preserving the right of all countries to benefit from technological progress.
+With Chinese firms now invited to participate, the debate may reflect a broader recognition that meaningful AI governance requires participation from all major technology players, including those from China, the US, Europe and those from the Global South, Liu Gang, chief economist at the Chinese Institute of New Generation AI Development Strategies, told the Global Times on Wednesday.
+From the perspective of global AI governance, the participation of Chinese AI firms in the UN discussion highlights a key reality: AI-related risks now go beyond the governance boundaries of any country, leaving significant room for cooperation among all parties, Chen Jing, vice president and research fellow at the Society for the Study of Technological and Strategic Trends, told the Global Times on Wednesday.
+Like any technological advancement, AI raises a range of concerns, including privacy and security, that require joint oversight by countries around the world, Liu said. The ultimate goal is to promote sound development in every nation and ensure that AI truly benefits people across the globe, he added.
+The participation of Chinese AI firms reflects a broader recognition that AI risks cross borders and that meaningful governance will require voices from major technology players as well as developing countries, Chen noted.
+Experts have also highlighted the importance of governance and the right to development. For many countries in the Global South, AI is not only a security issue but also a development opportunity, Chen said, adding that under the UN framework, public infrastructure such as vulnerability reporting and deepfake detection could be established, with Western countries and China providing technical assistance.
+China is committed to further promoting open-source AI for industry, academia and research institutions, encouraging innovation, AI empowerment and an inclusive ecosystem through international cooperation, thereby injecting sustained momentum into AI development, according to experts.
+For the international community as a whole, the core message is that AI governance should be inclusive, non-discriminatory and development-oriented, Liu added.
