@@ -2,7 +2,7 @@ TITLE:
 Market Prices of Important Means of Production in Circulation, September 1...
 
 PUBLISHED:
-2026-09-14 09:30:00
+2026-09-24 09:30:00
 
 SOURCE:
 National Bureau Statistics English
@@ -11,76 +11,76 @@ CATEGORY:
 Economic
 
 URL:
-https://www.stats.gov.cn/english/PressRelease/202609/t20260914_1965300.html
+https://www.stats.gov.cn/english/PressRelease/202609/t20260923_1965404.html
 
 ARTICLE TEXT:
-Market Prices of Important Means of Production in Circulation, September 1-10, 2026
+Market Prices of Important Means of Production in Circulation, September 11-20, 2026
 China Economic Monitoring and Analysis Center
 SCI International
-In early September 2026, according to the monitoring of market prices of 50 kinds of important means of production under 9 categories in the national circulation field, the prices of 37 products increased, 9 kinds decreased, and 4kinds remained flat compared with those in late August 2026.
+In mid-September 2026, according to the monitoring of market prices of 50 kinds of important means of production under 9 categories in the national circulation field, the prices of 21 products increased, 26 kinds decreased, and three kinds remained flat compared with those in early September 2026.
 Market Prices of Important Means of Production in Circulation
-(September 1-10, 2026)
+(September 11-20, 2026)
 | Products | Units | Current Price (yuan) | Price Change over Previous Period (yuan) | ±Rate (%) | 
 | I. Ferrous Metals |  |  |  |  | 
-| Rebar (Φ20mm, HRB400E) | ton | 3182.7 | 52.4 | 1.7 | 
-| Wire (Φ8-10mm, HPB300) | ton | 3367.1 | 49.3 | 1.5 | 
-| Ordinary Medium Plate (20mm, Q235) | ton | 3564.7 | 37.8 | 1.1 | 
-| Ordinary Hot-Rolled Sheet (4.75-11.5mm, Q235) | ton | 3351.6 | 25.2 | 0.8 | 
-| Seamless Steel Pipe (219*6, 20#) | ton | 4026.9 | 15.0 | 0.4 | 
-| Angle Steel (5#) | ton | 3469.8 | 34.4 | 1.0 | 
+| Rebar (Φ20mm, HRB400E) | ton | 3165.1 | -17.6 | -0.6 | 
+| Wire (Φ8-10mm, HPB300) | ton | 3353.7 | -13.4 | -0.4 | 
+| Ordinary Medium Plate (20mm, Q235) | ton | 3548.0 | -16.7 | -0.5 | 
+| Ordinary Hot-Rolled Sheet (4.75-11.5mm, Q235) | ton | 3308.9 | -42.7 | -1.3 | 
+| Seamless Steel Pipe (219*6, 20#) | ton | 4022.4 | -4.5 | -0.1 | 
+| Angle Steel (5#) | ton | 3433.1 | -36.7 | -1.1 | 
 | II. Nonferrous Metals |  |  |  |  | 
-| Electrolytic Copper (1#) | ton | 110492.5 | 1593.2 | 1.5 | 
-| Aluminum Ingot (A00) | ton | 24356.3 | 520.6 | 2.2 | 
-| Lead Ingot (1#) | ton | 16006.3 | 59.9 | 0.4 | 
-| Zinc Ingot (0#) | ton | 26991.9 | 901.2 | 3.5 | 
+| Electrolytic Copper (1#) | ton | 108770.0 | -1722.5 | -1.6 | 
+| Aluminum Ingot (A00) | ton | 24191.7 | -164.6 | -0.7 | 
+| Lead Ingot (1#) | ton | 15883.3 | -123.0 | -0.8 | 
+| Zinc Ingot (0#) | ton | 26257.5 | -734.4 | -2.7 | 
 | III. Chemical Products |  |  |  |  | 
-| Sulfuric Acid (98%) | ton | 1835.7 | -68.1 | -3.6 | 
-| Caustic Soda (Liquid Caustic Soda, 32%) | ton | 682.6 | -2.8 | -0.4 | 
-| Methyl Alcohol (Superior Quality) | ton | 3379.1 | 505.9 | 17.6 | 
-| Pure Benzene (Petroleum Benzene, Industrial Grade) | ton | 9065.2 | 935.5 | 11.5 | 
-| Ethyl Alcohol (95.0%) | ton | 5355.9 | 15.4 | 0.3 | 
-| Polyethylene (LLDPE, Melt Index 2 Film Material) | ton | 9239.6 | 494.1 | 5.6 | 
-| Polypropylene (Wire Drawing Material) | ton | 9634.4 | 447.3 | 4.9 | 
-| Glacial Acetic Acid (99.5% and above) | ton | 3536.3 | 382.5 | 12.1 | 
-| Butadiene Rubber (BR9000) | ton | 15112.5 | 936.3 | 6.6 | 
-| Polyester Filament (POY150D/48F) | ton | 9287.5 | 312.5 | 3.5 | 
-| Lithium Iron Phosphate (Standard Power Grade) | ton | 55800.8 | -1104.6 | -1.9 | 
+| Sulfuric Acid (98%) | ton | 1777.3 | -58.4 | -3.2 | 
+| Caustic Soda (Liquid Caustic Soda, 32%) | ton | 682.6 | 0.0 | 0.0 | 
+| Methyl Alcohol (Superior Quality) | ton | 3695.9 | 316.8 | 9.4 | 
+| Pure Benzene (Petroleum Benzene, Industrial Grade) | ton | 9653.5 | 588.3 | 6.5 | 
+| Ethyl Alcohol (95.0%) | ton | 5419.3 | 63.4 | 1.2 | 
+| Polyethylene (LLDPE, Melt Index 2 Film Material) | ton | 9589.8 | 350.2 | 3.8 | 
+| Polypropylene (Wire Drawing Material) | ton | 10040.0 | 405.6 | 4.2 | 
+| Glacial Acetic Acid (99.5% and above) | ton | 4150.0 | 613.7 | 17.4 | 
+| Butadiene Rubber (BR9000) | ton | 15102.4 | -10.1 | -0.1 | 
+| Polyester Filament (POY150D/48F) | ton | 9639.3 | 351.8 | 3.8 | 
+| Lithium Iron Phosphate (Standard Power Grade) | ton | 51881.1 | -3919.7 | -7.0 | 
 | IV. Petroleum and Gas |  |  |  |  | 
-| Liquefied Natural Gas (LNG) | ton | 6044.0 | 319.4 | 5.6 | 
-| Liquefied Petroleum Gas (LPG) | ton | 6851.2 | 887.4 | 14.9 | 
-| Gasoline (95#, National VI Emission Standard) | ton | 10450.0 | 551.7 | 5.6 | 
-| Diesel Oil (0#, National VI Emission Standard) | ton | 8711.3 | 382.8 | 4.6 | 
-| Paraffin (58#, Semi-refined) | ton | 7522.5 | 50.0 | 0.7 | 
+| Liquefied Natural Gas (LNG) | ton | 6222.6 | 178.6 | 3.0 | 
+| Liquefied Petroleum Gas (LPG) | ton | 7488.8 | 637.6 | 9.3 | 
+| Gasoline (95#, National VI Emission Standard) | ton | 11021.6 | 571.6 | 5.5 | 
+| Diesel Oil (0#, National VI Emission Standard) | ton | 8950.3 | 239.0 | 2.7 | 
+| Paraffin (58#, Semi-refined) | ton | 7618.3 | 95.8 | 1.3 | 
 | V. Coal |  |  |  |  | 
-| Anthracite (Washed, Medium Pieces) | ton | 1618.2 | 141.1 | 9.6 | 
-| Shanxi Superior Mixed Coal (5500 kilocalories) | ton | 946.3 | 76.2 | 8.8 | 
-| Coking Coal (Main Coking Coal) | ton | 2597.5 | 226.1 | 9.5 | 
-| Coke (Quasi Primary Metallurgical Coke) | ton | 1983.9 | 223.2 | 12.7 | 
+| Anthracite (Washed, Medium Pieces) | ton | 1592.8 | -25.4 | -1.6 | 
+| Shanxi Superior Mixed Coal (5500 kilocalories) | ton | 982.7 | 36.4 | 3.8 | 
+| Coking Coal (Main Coking Coal) | ton | 2549.3 | -48.2 | -1.9 | 
+| Coke (Quasi Primary Metallurgical Coke) | ton | 2096.4 | 112.5 | 5.7 | 
 | VI. Non-metallic Mineral Products |  |  |  |  | 
-| Ordinary Portland Cement (P.O 42.5 in Bulk) | ton | 250.7 | 2.0 | 0.8 | 
-| Float Flat Glass (5/6mm) | ton | 1074.9 | 0.8 | 0.1 | 
-| Polysilicon (Dense Grade) | kg | 40.9 | 0.4 | 1.0 | 
+| Ordinary Portland Cement (P.O 42.5 in Bulk) | ton | 258.8 | 8.1 | 3.2 | 
+| Float Flat Glass (5/6mm) | ton | 1101.4 | 26.5 | 2.5 | 
+| Polysilicon (Dense Grade) | kg | 41.0 | 0.1 | 0.2 | 
 | VII. Agricultural Products (Mainly Used for Processing) |  |  |  |  | 
-| Rice (Japonica Rice) | ton | 3981.0 | 0.9 | 0.0 | 
-| Wheat (National Standard Grade III) | ton | 2395.8 | 0.5 | 0.0 | 
-| Corn (Yellow Corn Grade II) | ton | 2236.8 | -3.3 | -0.1 | 
-| Cotton (Ginned Cotton, White Cotton Grade III) | ton | 17534.3 | -56.0 | -0.3 | 
-| Live Hog (Three-way Crossbred) | kg | 11.0 | 0.1 | 0.9 | 
-| Soybean (Soy) | ton | 4706.9 | 74.8 | 1.6 | 
-| Soybean Meal (Crude Protein Content≥43%) | ton | 3305.8 | 118.3 | 3.7 | 
-| Peanut (For Oil Processing) | ton | 7516.7 | 125.0 | 1.7 | 
-| White Sugar (National Standard Grade I) | ton | 5221.9 | 38.3 | 0.7 | 
+| Rice (Japonica Rice) | ton | 3981.0 | 0.0 | 0.0 | 
+| Wheat (National Standard Grade III) | ton | 2396.6 | 0.8 | 0.0 | 
+| Corn (Yellow Corn Grade II) | ton | 2209.5 | -27.3 | -1.2 | 
+| Cotton (Ginned Cotton, White Cotton Grade III) | ton | 17010.7 | -523.6 | -3.0 | 
+| Live Hog (Three-way Crossbred) | kg | 10.7 | -0.3 | -2.7 | 
+| Soybean (Soy) | ton | 4696.7 | -10.2 | -0.2 | 
+| Soybean Meal (Crude Protein Content≥43%) | ton | 3374.9 | 69.1 | 2.1 | 
+| Peanut (For Oil Processing) | ton | 7433.3 | -83.4 | -1.1 | 
+| White Sugar (National Standard Grade I) | ton | 5192.9 | -29.0 | -0.6 | 
 | VIII. Agricultural Means of Production |  |  |  |  | 
-| Urea (Small and Medium Granules) | ton | 1771.9 | 26.5 | 1.5 | 
-| Phosphate Fertilizer (55% Monoammonium Phosphate) | ton | 4252.5 | -107.9 | -2.5 | 
-| Potassium Fertilizer (62% White Muriate of Potash, Port Price) | ton | 3074.1 | -12.9 | -0.4 | 
-| Compound Fertilizer (Compound Fertilizer of Potassium Sulfate, 45% NPK) | ton | 3619.4 | -1.2 | 0.0 | 
-| Pesticide (Glyphosate, 95% Technical Material) | ton | 25475.0 | -203.6 | -0.8 | 
+| Urea (Small and Medium Granules) | ton | 1792.5 | 20.6 | 1.2 | 
+| Phosphate Fertilizer (55% Monoammonium Phosphate) | ton | 4088.4 | -164.1 | -3.9 | 
+| Potassium Fertilizer (62% White Muriate of Potash, Port Price) | ton | 3077.5 | 3.4 | 0.1 | 
+| Compound Fertilizer (Compound Fertilizer of Potassium Sulfate, 45% NPK) | ton | 3610.6 | -8.8 | -0.2 | 
+| Pesticide (Glyphosate, 95% Technical Material) | ton | 27092.9 | 1617.9 | 6.4 | 
 | IX. Forest Products |  |  |  |  | 
-| Natural Rubber (Standard Rubber SCRWF) | ton | 18500.0 | 736.9 | 4.1 | 
-| Pulp (Imported Coniferous Pulp) | ton | 4965.9 | 0.3 | 0.0 | 
-| Corrugated Paper (AA Grade, 120g) | ton | 3108.9 | -83.2 | -2.6 | 
-| Notes: The previous period was August 21-31, 2026. |  |  |  |  | 
+| Natural Rubber (Standard Rubber SCRWF) | ton | 18252.4 | -247.6 | -1.3 | 
+| Pulp (Imported Coniferous Pulp) | ton | 4951.5 | -14.4 | -0.3 | 
+| Corrugated Paper (AA Grade, 120g) | ton | 3080.5 | -28.4 | -0.9 | 
+| Notes: The previous period was September 1-10, 2026. |  |  |  |  | 
 Annotations:
 1. Notes on Indicators
 Market prices of important means of production in circulation refer to the wholesale prices and selling prices of enterprises trading important means of production. Different from producer prices, market prices of means of production include producer prices, as well as circulation expenses, profits, and taxes of the enterprises. Producer prices and market prices influence each other. Due to a time lag, their movements may show divergence in a certain period of time.
