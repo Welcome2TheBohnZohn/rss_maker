@@ -1,0 +1,36 @@
+TITLE:
+Training China's workforce for jobs that barely existed a few years ago
+
+PUBLISHED:
+2026-09-26
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260926/10980a94b62b4aeaa985e566edeb9dbc/c.html
+
+ARTICLE TEXT:
+SHANGHAI, Sept. 26 (Xinhua) -- A full-size metro carriage has been moved into the National Exhibition and Convention Center in Shanghai, the venue for the 48th WorldSkills Competition -- not for display, but for hands-on competition in rail vehicle technology, one of seven skills making a debut this year.
+Competitors in this subject are expected to have the mix of skills required by a modern rail network, including an understanding of high-voltage electrical equipment, braking systems, air conditioning, doors and wheelsets, while diagnosing faults and carrying out maintenance.
+Rail vehicle technology is joined by unmanned aerial systems, intelligent security technology, software testing, digital interactive media design, dental prosthetics technology and retail. The seven newcomers, unveiled as 64 competitions got underway in Shanghai this week, span advanced manufacturing, digital industries, healthcare and modern services.
+The additions reflect how occupations themselves are changing. The first competition, held in Spain in 1950, focused largely on traditional trades such as construction and manufacturing, while automation, the expansion of the service sector and the rise of the internet later brought new skills onto the competition floor.
+"Doing a trade in the 1960s and doing the same trade today are not exactly the same," President of WorldSkills International Francis Hourant told reporters on Tuesday, adding that the competition adjusts its portfolio to stay connected with "the reality of the industry."
+China is trying to make its training system move with those changes. In July, the Ministry of Education added 27 programs to the country's vocational education catalogue, targeting areas including the digital economy, low-altitude economy, advanced equipment and emerging services.
+The skills behind that shift are already on display at WorldSkills. On Wednesday, pairs of competitors assembled their robots piece by piece. From Thursday, the machines had to prove themselves on the competition floor -- finding their way through maze-like courses, locating objects and completing tasks under the clock.
+Zeng Zhiwei, a Chinese coach for autonomous mobile robotics, recalled that earlier versions of the event still involved remote-controlled movement. As LiDAR and autonomous navigation spread, the competition changed too. "The competition follows the industry," he said.
+In another hall, competitors in the new software testing event, a key skill in the digital economy, tapped away at their keyboards, searching for bugs and checking whether systems worked as intended. Software testers help ensure products work reliably before they reach users, a role that has grown as software becomes embedded in fields such as transport, finance and education.
+Statistics showed that China's digital economy has grown to more than 50 trillion yuan (7.41 trillion U.S. dollars), while the country's digital talent gap remained close to 30 million in 2025.
+That gap is already reshaping vocational education. In April, 64 technical colleges in Jiangsu Province added 157 programs, about 42 percent of them related to artificial intelligence. In May, 12 technical colleges in Chongqing announced 23 new programs, among them service robot application and maintenance and intelligent connected vehicle technology.
+However, officials still warned of a growing time lag between industrial change and talent development, as training skilled workers can take three to four years, while emerging industries may evolve much faster.
+"Technology is changing too fast. If we rush to establish a new program, it may change again very soon," said Zhang Rui, deputy director of the engineering training center at Tianjin University of Technology and Education. "So we start with microprograms."
+Rather than enrolling a full cohort, these programs start small, with selected students in experimental classes and pilot training. They allow schools to test new content before deciding whether it is ready to be expanded into a broader program.
+Zhang recalled that companies had once turned often to universities for technical expertise. "Now it is the other way around," she said. "We need to send teachers to companies regularly to learn and keep up with new technologies."
+At Zhang's university, an industry college works with companies to bring industrial practices into training. Students can work on a smart production-line platform that mirrors an industrial workflow: a customized order placed through an app enters a manufacturing execution system before moving through processes such as material handling, robotic assembly, laser engraving and warehousing.
+A similar approach combining industry and education can be found elsewhere. At Jiangxi Software Vocational and Technical University, the campus is integrated with an industrial park, with nearly 100 companies involved in tailored training. Enterprise engineers teach classes, while real commercial projects are brought onto campus.
+So far, more than 20 provincial-level regions in China have developed over 300 industry-education-assessment skills networks, with enterprises taking a leading role in training and skills evaluation.
+That industry-training link is especially visible in emerging fields such as unmanned aerial systems, where fast-changing commercial applications are creating demand for workers with both hardware and software skills. At the competition in Shanghai, spectators crowd around the arena as competitors piece together drones from roughly 200 components, program them and make final adjustments.
+Only after the assembly, programming and testing are complete does the aircraft leave the workbench and rise into the air on its own -- a glimpse of a new kind of skilled work that barely had a name only a few years ago. ■

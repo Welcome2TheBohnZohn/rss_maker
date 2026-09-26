@@ -1,0 +1,41 @@
+TITLE:
+Zooming in on WorldSkills -- How China is reshaping skills in an age of AI, automation
+
+PUBLISHED:
+2026-09-26
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260926/c87c07e673674aee834687d03e0026ba/c.html
+
+ARTICLE TEXT:
+SHANGHAI, Sept. 26 (Xinhua) -- In the foyer of the WorldSkills Conference in Shanghai in east China, several overseas participants gathered around a robot, curious to see how it would handle an unusual request, namely marriage advice.
+When a male participant asked what to do if his wife talked too much, the robot suggested a "three-second rule" before responding. The exchange drew laughter, with one participant joking that it could make a decent marriage counselor.
+This light-hearted exchange touched on a broader question being discussed at this year's WorldSkills Competition in Shanghai: which skills are difficult for AI to replace, and what new capabilities will people need in an age of AI?
+WHAT AI CAN'T REPLACE
+At the digital interactive media design venue, contestants move from product planning to image processing, video production and interaction design during more than 20 hours of competition.
+Notably, even as AI begins to take over some basic work in the industry, the training remains highly demanding. Zhou Jiaxiang, a member of China's national training squad, described a six-hour video-production module in which contestants may have to adjust dozens or even hundreds of parameters, fine-tune transitions frame by frame and repeatedly render the footage.
+AI can generate some visual effects within seconds, Zhou said, but the output is often not ready for delivery. Text, a character's gaze, fingers or facial movements may still contain visible flaws, requiring professionals to identify the problem, give precise instructions for revision, and further process the results with conventional software.
+A professional designer, as Kuang Ying, a professor at East China Normal University's Faculty of Education, put it, can "train AI like a doctoral student," using expertise and judgment to push it toward better results. She said the judgment and aesthetic sense of highly skilled designers remain difficult to replicate.
+The same question extends beyond creative work. At the retail competition, contestants first build up a store setting, arranging merchandise and visual displays before moving on to face-to-face sales and simulated after-sales complaints. This event also tests online livestreaming and staff training.
+Beyond the competition arena, AI is already gaining ground in retail. During the first four hours of this year's "618" shopping festival, the number of merchants using JD.com's AI-powered digital hosts for livestreaming surged sixfold year on year, generating more than 70 million yuan (10.37 million U.S. dollars) in sales, according to the company.
+Yet Lu Chunhua, the venue manager for the WorldSkills retail competition, said: "The core competitiveness of retail is providing emotional value and touching people. That is something AI cannot replace."
+ONE SPECIALTY, MULTIPLE CAPABILITIES
+AI's impact, experts said, is not limited to taking over parts of existing work. It is also raising demand for workers who can combine a core specialty with digital and cross-disciplinary skills.
+At the Industry 4.0 competition, contestants worked to integrate production equipment and other manufacturing resources into a unified system. The project simulates the operation of a smart factory, requiring skills ranging from mechanical assembly and electrical wiring to PLC programming, data collection and analysis, and production scheduling optimization.
+"Skilled workers in the new era need 'one specialty plus multiple capabilities,'" said Zhang Rui, deputy director of the engineering training center at Tianjin University of Technology and Education in north China. She added that workers who can use digital tools, work across disciplines, and think innovatively are likely to be increasingly sought after.
+This shift is also reshaping what counts as expertise in software. At the Web Technologies competition, contestants are expected to do more than write code -- they have to understand client needs, design solutions, build databases and programs, and test and debug the final product.
+Wu Yingxiang, a technical expert and coach for the Chinese team in WorldSkills Web Technologies, said AI is making code generation much faster, pushing programmers toward broader roles. "Every programmer may now become a project manager and a product manager," he said.
+Data shows that demand for AI-related skills has risen rapidly in China in recent years. Newly posted campus-recruitment positions in AI increased 47.3 percent year on year in the first five months of 2026, according to data from the talent research arm of Maimai, a Chinese networking and recruitment platform.
+Over the past five years, more than 20 newly recognized occupations have been closely related to AI, with over 40 percent directly linked to future industries.
+China is moving quickly to address the emerging talent gap. In April, five government departments, including the Ministry of Education, issued an "AI Plus Education" action plan, with measures including upgrading traditional vocational programs, developing new curricula and training systems, and strengthening school-company cooperation for emerging AI-related jobs.
+The ministry added 27 programs to the country's vocational education catalog in July, covering fields like the digital economy, AI, the low-altitude economy and advanced equipment, with new offerings related to humanoid robots.
+Schools are adjusting their programs accordingly. Ge Rui, principal of Shanghai Information Technology College, said the college is planning to reshape its professional clusters around areas including AI and industrial digitalization during the 15th Five-Year Plan period (2026-2030), in response to Shanghai's evolving industrial landscape.
+As training changes, the question is no longer whether workers will use AI, but how they will work with it. Francis Hourant, president of WorldSkills International, said that adapting to the changes in the future is not an either-or choice between humans and AI.
+"It is not AI in the end. It is the combination of humans and AI," he explained.
+Asked what young people need most to keep pace with this change, Hourant gave a short but telling answer: "Lifelong learning." ■
