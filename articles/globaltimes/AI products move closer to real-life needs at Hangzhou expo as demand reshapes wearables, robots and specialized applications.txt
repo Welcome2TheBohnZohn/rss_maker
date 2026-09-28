@@ -1,0 +1,35 @@
+TITLE:
+AI products move closer to real-life needs at Hangzhou expo as demand reshapes wearables, robots and specialized applications
+
+PUBLISHED:
+2026-09-27 22:09:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1371432.shtml
+
+ARTICLE TEXT:
+Visitors view exhibits at the fifth Global Digital Trade Expo in Hangzhou, East China's Zhejiang Province, on September 27, 2026. Photo: VCG
+At this year's Global Digital Trade Expo in Hangzhou, some of the most revealing artificial intelligence (AI) products were not necessarily the biggest or the flashiest. One helped scholars trace historical references more efficiently. Another folded clothes. AI glasses targeted everyday interactions, while robots moved further into household and service scenarios.
+As the five-day expo concluded on Sunday in Hangzhou, East China's Zhejiang Province, a notable trend emerged: AI products are moving closer to real consumer and industry needs, with increasingly specific problems becoming the starting point for technological development.
+Industry observers said that growing consumer demand is reshaping AI innovation across wearables, robotics and specialized applications, pushing developers to focus more closely on concrete uses and everyday needs.
+Major technology players naturally drew attention.
+Chinese leading augmented-reality and AI hardware company Rokid used the global debut of its second-generation AI glasses to show how AI hardware is moving closer to everyday consumer needs. The glasses retain functions such as photography, translation, prompting, navigation and payment, while adding stronger imaging, longer battery life and lighter wear, Rokid told the Global Times in a statement on Sunday.
+More tellingly, the new model expands translation from face-to-face use to two-way and phone-call translation, displaying translated subtitles directly on the lenses. Its AI assistant can also proactively sense scenarios and issue reminders, moving beyond a simple "you ask, it answers" model toward more anticipatory assistance — a shift that Rokid said is aimed at fitting AI more naturally into daily life, according to the statement.
+Unitree Robotics showcased what it described as the world's first manned mecha robot at the expo.
+Notably, beyond these headline products, smaller and more specialized applications offered another view of where China's AI sector is heading.
+The Xinhua News Agency reported on Saturday that a Hangzhou-based technology company showcased a collaborative intelligence foundation model, based on which robots can work together to perform tasks such as making beds and hanging clothes to dry.
+Westlake Robotics Technology (Hangzhou) Co, a commercialization project from Westlake University, brought AI into an everyday task: folding clothes, according to Chao News, a media outlet under the Zhejiang Daily. At the expo, a robotic arm powered by its proprietary WR1 embodied intelligence model autonomously identified, planned and folded garments within 36 seconds, demonstrating its potential for household tasks including storage and desktop organization.
+A team from Zhejiang University's digital humanities research center and Hangzhou Yunsiku Technology Co jointly developed and showcased a specialized large-language model for literature and history, the Hainan Daily reported. Built on a vast proprietary database of historical and literary materials, the system is designed to provide answers that can be traced back to documentary sources, the report said.
+The two products differ sharply in form and audience, but share a common logic: both began with a concrete problem rather than with a technology in search of a use, an industry observer said.
+That shift is also becoming more visible across China's AI policy agenda.
+A policy document issued by eight departments in June called for accelerating "AI plus consumption" by leveraging China's vast market, broad consumption scenarios and rich data resources. It called for faster rollout of new AI products, services and application scenarios, including AI glasses, smart home products and robots, while stressing that robot development should be driven by market demand.
+The policy also reflects China's broader push to advance AI development since the start of the 15th Five-Year Plan (2026-30) period, providing clearer guidance for its wider application, a Chinese expert said.
+The change is subtle but important. As AI moves out of laboratories and into wider commercial use, the question is becoming less about what a model can technically do, and more about whether it can solve a problem someone actually has, Ma Jihua, a veteran industry analyst, told the Global Times.
+The growing variety of such AI service products suggests that one of the next stages of China's AI development may be defined not only by larger models and stronger computing power, but by how closely technology can fit into the details of everyday life, Ma said.
+Held from September 23 to 27, the expo brought together 2,008 exhibitors, including 996 AI companies, 402 overseas companies and 55 Fortune Global 500 companies, the Zhejiang Daily reported. More than 47,000 professional buyers from 132 countries and regions registered for the event, including more than 12,000 international buyers, with preliminary international procurement demand totaling $1.085 billion, the report said.
