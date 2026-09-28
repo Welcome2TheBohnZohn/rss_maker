@@ -1,0 +1,50 @@
+TITLE:
+Out of the robot classroom: China's embodied AI takes on real-world jobs
+
+PUBLISHED:
+2026-09-28
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20260928/fb09138c57f24c18bf896c09e9b36070/c.html
+
+ARTICLE TEXT:
+BEIJING, Sept. 28 (Xinhua) -- Graduation day is no longer just for humans.
+Thirty robots made up the first class at a robot school in Hangzhou, east China's Zhejiang Province. After more than two months of training, four have graduated and landed formal jobs.
+One works as a museum guide in Hangzhou. Another gives tours at the robot school. A third conducts inspections at a Nestlé production workshop in Tianjin. The fourth has traveled to the Republic of Korea for piano performances.
+Their deployment highlights a key challenge in bringing embodied AI into the real world: training robots may require more than individual robot makers or users can provide. It demands shared infrastructure where machines can be trained, tested and improved at scale.
+In Xiong'an, a "city of the future" being built about 105 km southwest of Beijing, different types of robots are learning daily tasks such as taking out the trash, organizing shelves, and moving goods at a dedicated training facility.
+Human instructors train robots in full-scale replicas of real workplaces and public spaces. They use virtual-reality headsets and exoskeletons to operate robots as they perform tasks in simulated environments.
+Preparing a human for a job is no easy task, and neither is training a robot. "It took more than 1,000 repetitions just to teach the robot the basic movement of picking something up," said Liu Rui, an instructor with a digital-urban-technology subsidiary of China Xiong'an Group.
+Then came the full sequence: picking up a piece of trash, standing upright and putting it into a bin. Learning those three steps took another week.
+Every attempt also generates training data.
+Instructors label the data, break movements down into smaller steps and identify objects in each frame. This helps robots recognize what they see and decide how to act.
+By the end of June, China had completed or brought into operation more than 70 robot training facilities, with over 40 others under construction or on the drawing board, according to the China Academy of Information and Communications Technology.
+This expanding network is increasingly part of China's broader AI and robotics ecosystem. In 2025, more than 6,200 AI companies were operating in the country, with the core industry valued at over 1.2 trillion yuan (around 173.9 billion U.S. dollars), according to the Ministry of Industry and Information Technology.
+China also developed more than 400 complete humanoid robot products in 2025, accounting for more than half of the global total, according to official data. In the first half of 2026, Chinese manufacturers accounted for 97 percent of humanoid robot shipments worldwide, according to a report released at the 2026 World Robot Conference.
+Jiang Lei, chief scientist at the National and Local Co-Built Humanoid Robotics Innovation Center, said embodied AI robots had moved from "zero to one," but scaling from "one to 10" remained a challenge.
+The bottlenecks, he said, lie in standards, engineering management and pilot-scale testing. At the heart of it all is the ability to adapt robots to different real-world scenarios.
+China's vast manufacturing base gives robot makers not only a large market, but also a wide range of real-world and simulated environments in which to train, test and refine their machines.
+A DATA MEGAFACTORY
+The rise of robot schools and training bases is turning training data into an economic resource -- a critical input for bringing embodied AI into the real world.
+Large language models and multimodal AI systems have advanced rapidly by drawing on accumulated written material and vast amounts of internet data. Embodied AI, by contrast, must learn to act in the physical world, which requires data generated through real-world interactions.
+A factory, warehouse or restaurant may demand different levels of force, precision and movement. With so many scenarios to cover, getting enough high-quality training data remains costly and challenging.
+Much of that data has never been systematically collected, processed or stored, industry analysts say.
+When China Xiong'an Group worked to integrate its digital platform more closely with the physical city in 2025, leading AI model companies approached the group to purchase high-quality datasets totaling tens of millions of hours.
+At the robot school in Xiong'an, training datasets are used to train AI models and fed into an urban data space, where they can later be shared and traded, said Cao Yue, a manager at the group's digital-urban-technology subsidiary.
+In that sense, the robot school is also a "megafactory" producing the data fuel for embodied AI training.
+At a national pilot base for embodied AI applications in Hangzhou, companies can access computing power, data, model services and scenario testing through a public technical platform.
+"Companies once spent tens of millions of yuan on training data alone to develop a single real-world application. Now, by joining the base, startups can tap national-level innovation resources in one place, significantly reducing R&D costs at the pilot stage," said Zhang Haiwei, founder of a robotics technology company in Hangzhou.
+The idea is straightforward: instead of every company building its own training ground, data pipeline and testing environment, shared facilities can spread the cost and make it easier to turn laboratory prototypes into machines that can actually work.
+THE HUMAN QUESTION
+As more robots move into the workplace -- some after training at dedicated robot schools -- another question is coming to the fore: What happens to human workers?
+Yu Jiang, a researcher at the Chinese Academy of Sciences, said technological revolutions may eliminate some jobs, but also create new ones.
+"When cars replaced horse-drawn carriages, for example, some coachmen became drivers," he said.
+Xiong Rong, a professor at Zhejiang University, said robots would increasingly take over repetitive, strenuous and high-risk work, while people focus on management, technology and innovation.
+Earlier this month, China added 11 occupations to its list of officially recognized professions, including embodied AI robot application technicians and AI agent developers.
+Experts noted that lifelong learning and vocational reskilling are essential for workers to adapt to a new work ecosystem that combines human judgment, empathy and creativity with robotic precision and endurance. ■

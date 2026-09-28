@@ -1,0 +1,32 @@
+TITLE:
+World's first embodied AI robot with fully domestic electronic architecture unveiled marking shift from key components to underlying autonomy: expert
+
+PUBLISHED:
+2026-09-28 20:27:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1371496.shtml
+
+ARTICLE TEXT:
+The world's first embodied AI robot with fully domestically developed electronic architecture Photo: CCTV News
+The world's first embodied AI robot equipped with a fully domestically developed electronic architecture was unveiled in Yichang, Central China's Hubei Province, on Monday, CCTV News reported. Some industry experts noted that the unveiling marks a significant step in China's push to gain greater autonomy over the underlying systems that connect AI decision-making with physical action.
+The domestically developed electronic architecture enables the separation and integration of control and AI computing, establishing a fully domestic technological foundation spanning from AI decision-making to physical execution, according to the developers. It provides a technological option capable of fully replacing foreign solutions, according to the report.
+Electronic architecture serves as the "intelligent nervous system" that sets the upper limit for a robot's overall performance, encompassing its operating system, networking, software tools and AI computing chips. If a robot is linked to a person, the electronic architecture is its nervous system. No matter how carefully the brain makes decisions, without a nervous system, the robot cannot act, experts said.
+The significance of this robot with a fully domestically developed electronic architecture lies not simply in being the world's first of its kind, but in demonstrating how China's robotics industry is moving from self-reliance in key components toward greater autonomy in the entire underlying technological architecture, Li Qingdu, executive dean of the Institute of Machine Intelligence at the University of Shanghai for Science and Technology, told the Global Times on Monday.
+"What AI 'thinks' is one thing, and what a robot 'does' is another. In between, there must be a reliable, secure and controllable underlying system. The electronic architecture is that system," Li said.
+"Promoting the localization of this electronic architecture means putting the security of AI's application in the physical world in our own hands," he said.
+Li noted that at recent robot competitions, for example, people have raised concerns over whether robots could collide with people. The electronic architecture can ensure that the robot's underlying system is capable of withstanding faults, attacks and abnormal conditions, while ensuring that AI behavior ultimately remains within physical and system-level safety boundaries, he said.
+According to information available, testing personnel conducted technical verification of the robot. 
+Under conditions including joint damage, cyberattacks and virus implantation, robots using conventional electronic architectures experienced circuit failures, sudden shutdowns and loss of system control. By contrast, the robot equipped with the fully domestically developed electronic architecture passed stringent safety tests while maintaining safe operation, demonstrating the architecture's capabilities in real-time control, rapid response, fault isolation, attack protection and system security.
+The fully domestically developed electronic architecture provides intrinsic security and industrial sovereignty for robots, establishing hard safety boundaries for their autonomous behavior and ensuring that they do not disrupt production or endanger personnel. It is designed to make AI safer, more trustworthy and more controllable in the physical world, building a safety "harness" for physical AI and strengthening technological sovereignty in the intelligent robotics industry.
+In recent years, greater industrial coordination has emerged around the underlying technologies of China's homegrown robotics industry, with development progressing from breakthroughs in individual components to the integration of software and hardware systems and, ultimately, the joint development of an ecosystem across the entire industrial chain.
+China's Ministry of Industry and Information Technology explicitly called for a secure and reliable industrial and supply chain system by 2027 in its guideline released in 2023.
+According to a draft outline of the 15th Five-Year Plan (2026-2030) submitted in March, China will also accelerate the development of emerging strategic industries including robotics during the five-year period.
+"China's embodied intelligence is moving from localization of individual components toward autonomy in the underlying architecture, addressing the issues of control, safety and autonomy that arise when AI enters the physical world. That is its core significance," Li said.
+"Localization here is not simply about replacing suppliers across the industrial chain. It is also about gaining autonomous control over the underlying systems of robots," Li noted.
