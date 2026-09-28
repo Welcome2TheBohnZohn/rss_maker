@@ -1,0 +1,28 @@
+TITLE:
+Virtual currencies not a legal 'safe haven' for criminal activities: China's Ministry of State Security
+
+PUBLISHED:
+2026-09-28 11:04:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1371461.shtml
+
+ARTICLE TEXT:
+Photo: Screenshot from the WeChat account of China’s Ministry of State Security
+China’s Ministry of State Security (MSS) warned on Monday that cryptocurrencies circulating online are not beyond the reach of the law and their perceived “anonymity” is merely an illusion, adding that the risks they pose should not be overlooked. 
+According to a statement released by the MSS, the decentralized and peer-to-peer nature of virtual currencies created through blockchain technology has fueled a misconception among some people that by using cryptocurrencies instead of bank cards to receive overseas funds, they can sever the connection with their personal identities, achieve truly “anonymous transactions,” and evade legal punishment by taking advantage of the perceived “untraceability” of such currencies. 
+The concealed nature of cryptocurrency transactions and the difficulty of regulating them have made them a tool for criminal activities, creating a range of security risks, the MSS said. 
+First, virtual currencies can facilitate money laundering by enabling criminals to conceal and transfer proceeds from telecom fraud, online gambling, cross-border smuggling, and other crimes. By splitting up and transferring illicit funds through virtual currencies, criminals can “launder” illicit funds and move them across borders to evade financial oversight, which seriously disrupts national foreign exchange management and poses risks to national economic and financial security, the MSS said. 
+In addition, virtual currencies can serve as a shield for cybercriminals, who often demand ransom payments in virtual currencies after ransomware attacks or cyber intrusions to conceal their identities and evade investigations. 
+The MSS also warned that virtual currencies could be exploited by foreign intelligence agencies to fund espionage activities and conceal illicit payments. Foreign intelligence agencies tout the concealed and difficult-to-trace nature of virtual currencies to ease the concerns of individuals they seek to recruit or coerce into espionage activities, and use virtual currencies to transfer espionage funds, posing a serious threat to China’s state secrets and national security. 
+However, the so-called anonymity of virtual currency transactions is a misconception, the ministry said. Although criminals have heavily promoted “anonymous transactions” and the “untraceable” nature of virtual currencies as selling points, from a technical perspective, blockchain itself is characterized by transparency and immutable on-chain data. Therefore, the purported “anonymity” of virtual currencies is fundamentally a false premise. Meanwhile, blockchain technology allows transaction records to be preserved and traced throughout the entire process, it said.
+According to the MSS, any virtual currency transaction, regardless of the amount involved or when and where it takes place, is permanently and publicly recorded on the virtual currency’s “public ledger.” The distributed ledger feature of blockchain technology means that once transaction information is recorded on the blockchain, it cannot be deleted or altered. The address anonymity offered by virtual currencies only obscures the link between a wallet address and a user’s identity temporarily, rather than providing true identity concealment. 
+In addition, although wallet addresses appear as strings of random characters, exchanges between virtual currencies and fiat currencies, as well as transactions between different virtual currencies, must go through trading platforms and payment interfaces, leaving digital traces such as device information and IP addresses. Professional organizations can use technical methods including on-chain data analysis and big data comparison to trace the actual users behind wallet addresses and reconstruct the entire flow of funds, per the MSS. 
+Furthermore, within the blockchain system, privately held blockchain keys have no recovery mechanism, meaning lost, leaked, or stolen keys can result in permanent loss of control over virtual assets. If the private key is instead entrusted to a trading platform for custody, users may be able to recover account passwords through appeals, but they also face risks such as the platform going bankrupt or becoming unreachable, the MSS added. 
+Global Times
