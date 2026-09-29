@@ -1,0 +1,25 @@
+TITLE:
+China to complete new-generation Mars geologic map by end of 2028
+
+PUBLISHED:
+2026-09-29 08:23:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1371539.shtml
+
+ARTICLE TEXT:
+Photo released on June 11, 2021 by the China National Space Administration (CNSA) shows a selfie of China's first Mars rover Zhurong with the landing platform. (CNSA/Handout via Xinhua)
+China plans to complete a new-generation geologic map of Mars by the end of 2028, aiming to reconstruct the red planet's watery past and introduce a Chinese system for dividing Martian geologic time.
+Hou Zengqian, an academician of the Chinese Academy of Sciences and chief scientist of the Tianwen-3 Mars sample-return mission, revealed the plan at a symposium held Monday at the Institute of Geology under the Chinese Academy of Geological Sciences.
+Zhurong, the rover China landed on Mars in 2021 as part of its Tianwen-1 mission, has offered new clues to the planet's water history: a vast ancient ocean still existed some 3.5 billion years ago, and short-lived floods possibly occurred 1.6 billion years ago. These findings, which help fill gaps in the evidence chain of how Mars' ancient climate evolved, will be incorporated into the new map.
+On that basis, the new map will lay out a Chinese scheme for dividing Martian geologic time. The current timeline splits Mars into the Noachian, Hesperian and Amazonian periods, defined by densities of visible craters rather than absolute dates. China aims to make its new scheme an international consensus, Hou said.
+The project will primarily utilize the data from Tianwen-1, supplemented by U.S. and ESA (European Space Agency) Mars probe data, enabling the integration of orbital and ground-based data. By fusing imagery, spectra, radar, gravity and magnetic readings, a global database will be built that couples the planet's multiple physical fields.
+Artificial intelligence will sit at the heart of interpreting those data: geologists' expertise will be embedded in large models through rule engines to keep the results explainable, while multi-scale attention techniques will help form progressive feature extraction from local mineral identification all the way to global tectonic units division.
+The deliverables, due by the end of 2028, include a 1:5 million-scale Martian geologic map, a 1:50,000-scale map of the landing area and a series of thematic atlases. The project will also release the world's first intelligent geologic map of Mars and provide a template for future mapping of the moon, Venus and asteroids.
+Geologic mapping has been a core task of the institute for 70 years, said its director Yang Zhiming, with its maps extending from regional and national charts to the moon and now Mars. That work, he explained, has given China's planetary program the scientific grounding to decide where to go, what to explore and why.

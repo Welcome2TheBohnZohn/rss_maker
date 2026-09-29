@@ -1,0 +1,39 @@
+TITLE:
+China unveils 5-year battery plan targeting large-scale all-solid-state use by 2030
+
+PUBLISHED:
+2026-09-28 20:31:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1371497.shtml
+
+ARTICLE TEXT:
+A worker monitors lithium battery cells on a production line at the newly commissioned second phase of CORNEX NEW ENERGY's 80-gigawatt hour battery industrial park in Yichang, Central China's Hubei Province, on August 9, 2026. Photo: VCG
+China unveiled a new five-year plan for its battery industry on Monday, aiming for the initial large-scale application of all-solid-state batteries by 2030 as the country accelerates the transition of next-generation battery technology from research to commercialization. 
+The Ministry of Industry and Information Technology (MIIT), together with six other government agencies, jointly issued the new development plan for the battery industry, outlining the sector's development priorities over the 15th Five-Year plan (2026-30) period.
+The plan comes as China continues to expand its role in the global battery supply chain and seeks to strengthen its leadership in the global energy transition, according to Chinese experts. The country already has strong battery manufacturing capacity, but industry experts said that it still needs to improve basic research and core technologies to maintain long-term competitiveness.
+To promote the high-quality development of the industry, efforts will be made to accelerate technological innovation, industrial transformation and upgrading, improve the industrial system, enhance the capacity of industrial science and technology services, and raise the quality and level of trade and investment cooperation, according to the document.
+China will seek steady growth in its new battery industry over the next five years, while making major breakthroughs in advanced electrode materials, new electrolytes and high-end auxiliary materials. It also called for significant progress in new battery systems, with all-solid-state batteries moving toward initial large-scale deployment by 2030.
+New batteries refer to energy storage and conversion devices built on new mechanisms, materials, structures and manufacturing processes. They include lithium batteries, sodium batteries and flow batteries, which analysts said are becoming key parts of China's push to develop new industrial sectors, build a new energy system and strengthen its manufacturing, energy, transportation and digital capabilities.
+China's battery industry has strong manufacturing capabilities but still needs to strengthen fundamental research, Sun Xiaohong, former secretary-general of the automotive branch of the China Chamber of Commerce for Import and Export of Machinery and Electronic Products, told the Global Times on Monday.
+All-solid-state batteries are one of the plan's key technological priorities. Compared with conventional lithium-ion batteries, which typically use flammable liquid electrolytes, solid-state batteries use solid electrolytes and are considered safer and potentially capable of offering higher energy density, according to Sun.
+The plan calls for faster breakthroughs in commercialization technologies, with a focus on improving ionic conductivity, cycle stability and cost efficiency. It also stresses the need to advance key materials and processes, including interface contact technology, high ionic conductivity, long life cycles and engineering pressure system design.
+China's solid-state battery market is projected to grow from $42.5 million in 2025 to $384.8 million by 2030, a compound annual growth rate of 44.4 percent, significantly outpacing the global average of 37.5 percent, according to market research platform MarketsandMarkets.
+Meanwhile, substantial research and development investments by domestic manufacturers such as CATL and BYD are accelerating solid-state battery commercialization and deployment, according media reports.
+Sun said that solid-state battery technology worldwide is still in the research and testing stage and has not yet entered large-scale commercial use. He noted that the main challenges remain manufacturing consistency and cost reduction.
+"Small-scale commercialization is already possible, but large-scale adoption still depends on lowering costs further and improving production processes," Sun said, noting that liquid-electrolyte batteries will still have room to coexist in the market because of their maturity and cost advantages.
+The plan also highlights the importance of advancing the industrialization of solid-state batteries and laying the groundwork for future battery systems, including new alkali-metal-ion batteries, multivalent-ion batteries, metal-air and sulfur batteries, multifunctional composite structural batteries and nuclear batteries.
+Beyond the solid-state battery deployment target, the plan sets goals for long-life lithium batteries to reach 15,000 charge-discharge cycles and for leading manufacturers to achieve product defect rates at the parts-per-billion level.
+To meet the targets, China plans to build a supply system centered on lithium-ion batteries, complemented by sodium and flow batteries, while strengthening its ability to commercialize all-solid-state and ultrafast-charging batteries, according to the document.
+The document also sets priorities for different application scenarios. These include lighter and more flexible batteries for consumer electronics, safer all-weather power batteries for new-energy vehicles, long-life batteries for grid-scale energy storage, and highly durable batteries for low-altitude aircraft, intelligent robots and equipment used in aviation, deep-sea and polar environments.
+This plan reflects a clear strategic shift in the battery industry from scale expansion to high-quality development, Cui Dongshu, secretary-general of the China Passenger Car Association, told the Global Times on Monday.
+By emphasizing the balance between development and security, it sets a more sustainable direction for the sector, which prioritizes innovation, safety, efficiency, resilience, and green transformation, Cui noted.
+The focus on raising technological capability, product value-added, corporate competitiveness, and the modernization of the industrial chain shows that battery innovation is no longer just an industrial issue, but a key driver of new quality productive forces and broader industrial upgrading, he added. 
+In this sense, the plan provides an important framework for building a more advanced, secure, and globally competitive battery ecosystem.
+China has built the world's largest and most complete power battery industrial system after more than two decades of strenuous efforts, with leading technologies and output and sales ranking first globally for years, according to Wan Gang, honorary president of the China Association for Science and Technology, the People's Daily reported. The country now supplies about 70 percent of the world's battery materials and more than 60 percent of power batteries, according to official data.
