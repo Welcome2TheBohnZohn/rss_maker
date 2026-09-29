@@ -1,0 +1,34 @@
+TITLE:
+China's CXMT to invest 18b yuan in DRAM R&D and testing capacity
+
+PUBLISHED:
+2026-09-29 10:51:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1371549.shtml
+
+ARTICLE TEXT:
+CXMT's LPDDR6 DRAM chip Photo: Courtesy of CXMT
+China's dynamic random-access memory (DRAM) manufacturer ChangXin Memory Technologies (CXMT) announced that it will use a portion of its excess initial public offering (IPO) proceeds to fund two new projects worth 18 billion yuan ($2.68 billion). The move underscores the Chinese DRAM maker's push to deepen research and development (R&D) efforts and strengthen its in-house testing capacity as it races to expand its product lineup and industrial chain integration, Chinese experts said.
+According to the company's announcement released on Monday, CXMT plans to invest 13 billion yuan of surplus funds in a new technology R&D project, while another 5 billion yuan will be channeled, through capital injection and shareholder loans, to its wholly owned subsidiary ChangXin Storage Products (Hefei) Co. for a second-phase storage wafer backend testing base.
+The combined 18 billion yuan investment will not simply add wafer fabrication capacity, but will instead focus on R&D and backend testing, two areas the company sees as critical to sustaining long-term competitiveness in the fast-evolving memory market, according to thepaper.cn.
+The technology R&D project, with a total investment of 24.1 billion yuan and a construction period of 30 months, will be primarily used for product and process development. According to the announcement, the project is intended to accelerate iteration in DRAM technology and product design, helping it better meet downstream application demand and adapt to shifting technological paradigms.
+The company said in the announcement that continued investment in research is essential to drive generational advances in process technology, improve memory density, reduce power consumption and boost performance. Such efforts, it added, are necessary not only to address customer needs but also to build a stronger competitive moat and improve resilience against market volatility.
+The second project, a backend testing and module assembly facility in Hefei, carries a total investment of 10.8 billion yuan and a construction period of 37 months. It will build a testing factory to provide testing services and module assembly for DRAM chips.
+CXMT said backend testing is a vital but specialized step in DRAM production. As its output grows and product categories expand, the company could face bottlenecks from outsourced packaging and testing providers, as well as insufficient matching investment from external suppliers.
+By building its own testing capacity, CXMT said it aims to prevent testing from becoming a constraint on production, improve supply chain security, lower testing costs and enhance operational efficiency and testing technology. The move would also further support its integrated device manufacturer (IDM)-style model, the company said.
+The company also disclosed that as of June 30, 2026, it held 4,484 domestic patents and 3,400 overseas patents, with 7,491 R&D employees, accounting for more than 33 percent of its total workforce. Meanwhile, it has already achieved mass production of its fifth-generation process technology platform, with products covering DDR5, LPDDR5/5X and LPDDR6.  
+According to Chinese analysts, the investment marks another step in the company's effort to reinforce both the front-end and back-end segments of its DRAM business, as Chinese memory firms continue to invest heavily in self-reliance, capacity coordination and technology upgrades amid intensifying industry competition.
+According to a Reuters report on September 18, CXMT, which raised 57.92 billion yuan in July in Asia's biggest IPO this year, planned to establish a R&D production line for NAND flash memory at its new plant in Beijing, the sources said. 
+CXMT has discussed its NAND plans with customers, including a newly established startup that intends to buy its NAND chips for storage products used in AI systems and supercomputers, a third person said, though they declined to identify the company.
+Veteran telecom and tech policy observer Xiang Ligang told the Global Times on Tuesday that CXMT's latest move reflects a more mature and strategic approach as China's memory chip industry enters a new phase of development.  
+With the global memory market rebounding on surging demand from AI servers, CXMT's decision to direct more capital toward process research and development as well as back-end support, rather than simply rushing to expand capacity, appears increasingly "wise and prudent."
+By improving product performance through its existing production lines, the company is not only preparing to enter the higher-margin AI memory market, but also strengthening its testing and module assembly capabilities to reduce dependence on external bottlenecks, Xiang said.
+More importantly, the shift highlights a broader transformation among Chinese memory chipmakers: moving away from blind scale expansion and toward deeper technological capability and a more resilient, self-reliant supply chain, he added.
+Against the backdrop of the long-established IDM model adopted by major overseas memory giants, CXMT's effort to reinforce back-end testing and packaging is a necessary step toward closing a critical gap in full-chain integration, the expert said.

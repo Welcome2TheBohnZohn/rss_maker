@@ -1,0 +1,43 @@
+TITLE:
+China's robot store boom brings robots closer to consumers as industry accelerates commercialization: experts
+
+PUBLISHED:
+2026-09-29 23:14:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202609/1371586.shtml
+
+ARTICLE TEXT:
+Citizens visit and experience exhibits at Nanjing's first robot 6S store during its trial operation in Nanjing, East China's Jiangsu Province on September 29, 2026. Photo: VCG
+Robots are moving out of laboratories and exhibition halls and into shopping malls and commercial streets across China. As more Chinese robotics companies open brick and mortar stores, ordinary consumers can now not only see and interact with robots up close, but even buy them directly.
+The wave of store openings reflects a new shift in China's robotics sector, as the industry moves more quickly from technology demonstrations toward real world applications and commercialization, industry observers said on Tuesday.
+From stores to homes
+On a recent weekday afternoon, the Shenzhen artificial intelligence 6S store, in Shenzhen, South China's Guangdong Province, was bustling with visitors, including tourists from the Middle East and Southeast Asia. Staff was busy introducing diverse products, while foreign visitors could be heard expressing surprise as they interacted with the robots on display.
+Shenzhen's first global artificial intelligence 6S store marked its first anniversary on Monday. Over the past year, it has received 300,000 visitors, including 30,000 from overseas, and brought together more than 450 brands and over 600 AI products.
+According to store staff, more than 100 types of robots are available for sale, rental or customization, ranging from humanoid robots and robot dogs to machines designed for coffee making, massage and patrol. The store has also become a popular stop on Shenzhen's technology tourism routes. A display board at the entrance showed that guided group visits were priced from 200-800 yuan ($29.80-$119).
+The scene offers a glimpse of how robots are moving closer to ordinary consumers in China.
+Also on Monday, Chinese consumer robotics brand PrimeBOT opened its first global experience store in Shanghai. PrimeBOT focuses on the research, development and application innovation of personal robots, while automobile dealership group Yongda Auto provides support in distribution, delivery and after sales services, the Global Times learned from the Shanghai-based company.
+"We hope to turn robots from a science fiction concept into products that consumers can experience, own and integrate into their daily lives," Zhang Peng, president of global marketing and services at PrimeBOT, told the Global Times. The robot company has so far established offline experience stores in multiple major cities across the country including Shanghai, Guangzhou, Shenzhen, Xi'an and Hangzhou.
+More robotics companies are expanding their offline presence. In May, Unitree Robotics opened its first embodied intelligence experience center in Asia in Shanghai. In June, AgiBot launched its first JD.com offline store in the city. In November 2025, EngineAI opened a flagship robot retail store in Shenzhen.
+"The significance of offline stores goes beyond adding another sales channel. More importantly, they allow robots to interact directly with consumers, with real world experience and feedback helping drive further product improvements," Wang Peng, an associate research fellow at the Beijing Academy of Social Sciences, told the Global Times on Tuesday.
+The store opening wave comes as China's robotics industry continues its rapid expansion. According to data from China's Ministry of Industry and Information Technology (MIIT), revenue of major companies in the robotics industry exceeded 300 billion yuan in 2025, with an average annual growth rate of more than 20 percent over the past five years. In the first half of this year, the industry revenue reached 165.5 billion yuan, up 24.5 percent year-on-year.
+However, moving from shopping malls into ordinary households will require robots to overcome much higher barriers.
+The home is one of the most difficult environments for robots to master, Wang said, noting that unlike standardized industrial settings, household environments are highly unstructured, placing much greater demands on safety, reliability and interaction capabilities.
+"For Chinese robots to enter homes, it is not simply a matter of overcoming one remaining technological hurdle. What is needed is a systematic leap from being usable to being genuinely easy to use," Wang said.
+The Chinese expert estimated that robots may need another three to five years to achieve initial household adoption, and five to eight years to enter a relatively mature stage.
+Another key factor is whether robots can meet household needs at affordable prices, an area where China's robotics industry has an edge, industry experts said.
+"Consumers will not pay simply for novelty. Robots ultimately have to be affordable to ordinary consumers," Xiang Ligang, a veteran telecom industry expert and director general of the Information Consumption Alliance, told the Global Times. He added that China's manufacturing and supply chain strengths could drive down costs as production scales up, potentially putting robotics on a development path similar to that of smartphones and new-energy vehicles.
+From scale to strength
+As the global robotics industry accelerates toward large scale applications, China's advantages are extending beyond manufacturing into industrial chains and application ecosystems.
+According to the MIIT, China currently has more than 400 humanoid robot products, accounting for more than half of the global total, while domestically produced quadruped robots account for nearly 70 percent of global sales.
+At the same time, a wide range of real-world scenarios, from factories and logistics centers to shopping malls, hotels, healthcare and elderly care, are providing robots with continuous opportunities for testing and improvement.
+One of China's key advantages lies in its complete industrial chain, combined with a large number of diverse, complex and frequently used application scenarios. As a result, competition in the robotics industry is shifting from a simple contest of technical performance toward competition between broader ecosystems, Wang said.
+China is moving to turn those application advantages into deployment at scale. In June, the MIIT and the State-owned Assets Supervision and Administration Commission launched a nationwide initiative to promote the regular deployment of humanoid robots and embodied intelligence in real world environments. The initiative aims to develop more than 100 high value application scenarios and build capacity for deployment on a scale of 10,000 units by the end of 2026.
+"The more applications there are, the more real-world feedback companies can obtain, and the faster products can improve. Greater scale then helps bring costs down, allowing robots to enter even more scenarios," Xiang said, noting that this combination of industrial capacity, real world applications and growing scale is helping China connect robot research and development more closely with manufacturing and commercialization.
+Offline stores are only one window into this broader shift. As the global robotics industry moves from technological breakthroughs toward large scale deployment, China is seeking to translate its manufacturing, supply chain and application advantages into a broader edge in innovation and commercialization, Xiang said.
