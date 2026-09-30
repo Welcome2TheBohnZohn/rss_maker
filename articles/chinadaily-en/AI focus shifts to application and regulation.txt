@@ -1,0 +1,30 @@
+TITLE:
+AI focus shifts to application and regulation
+
+PUBLISHED:
+2026-09-30
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202609/30/WS6abbe486e4b06d4aa0560e03.html
+
+ARTICLE TEXT:
+AI focus shifts to application and regulation
+China's approach to generative artificial intelligence is evolving from a focus solely on technological development to emphasizing both practical application and comprehensive regulation, according to a new report.
+Over the past year, China has been refining its policies on generative AI, which refers to AI systems that can produce original content such as text, images, music and videos, advancing on two fronts: technological application and risk management. This is highlighted in a report released on Tuesday by the policy and international cooperation division of the China Internet Network Information Center.
+Wang Changqing, head of the division, underscored while introducing the report the importance of balancing AI development with governance, noting that Chinese authorities have formulated around 20 regulations related to AI since June 2025, as AI use in China rapidly grows.
+As of June, the number of generative AI users in China had surpassed 700 million, an increase of 98 million since December 2025. Approximately 76 percent of internet users primarily engage with AI for question-and-answer purposes, followed by tasks such as processing images, videos and text and creating meeting summaries, according to the report.
+The report also indicates that China is home to 10,740 companies involved in AI large models, AI agents, robotics and related fields, with the technology being widely applied across various sectors, including agriculture, industrial manufacturing, programming, office work, embodied intelligence and scientific research.
+To maximize the technological value and regulate the use of AI, Wang noted that several authorities, including the Ministry of Education, the Ministry of Commerce and the National Health Commission, have developed guidelines for integrating AI into their respective sectors. For example, the Ministry of Industry and Information Technology has issued guidelines on merging AI with communications to bolster the infrastructure for AI development.
+Additionally, the report stresses the need to uphold security standards, showing that a series of rules have been established and improved to address issues such as ethical risks of AI and enhancement of protection for minors.
+Shen Juncheng, an employee of general AI technology company MiniMax, praised these measures for their positive impact on real-world application and security governance. "The policy environment encourages technological advancement while equally emphasizing development and governance," he said.
+Zheng Ning, head of the law department at Communication University of China's School of Cultural Industries Management, said it is crucial to balance technological application with risk prevention and control. "Unlocking AI's industrial value is about technological application, while regulatory governance ensures security. They are two sides of the same coin, not mutually exclusive," she said.
+Initially, the primary challenge was addressing technological weaknesses, so policies focused on breakthroughs, Zheng added. "As AI enters widespread application, the risk of misuse becomes more prominent. Thus, policies have shifted to focus on 'how to use it and how to govern it'. Technological breakthroughs remain essential, but they are no longer the sole focus," she said.
+While commending the advancements in AI-related policies aimed at fostering healthy technological development, Zheng called for greater efforts in crafting regulations that enhance oversight and clarify the responsibilities of stakeholders in the AI industry — including developers, operators and users — to create a cohesive framework for AI governance.
+She also advocated effective policymaking to tackle challenges posed by AI deepfakes and to protect children from harmful AI-generated content.
+caoyin@chinadaily.com.cn
