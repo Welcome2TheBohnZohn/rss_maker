@@ -1,0 +1,40 @@
+TITLE:
+Why 2026 Nobel Prize in Physiology or Medicine awards optogenetics
+
+PUBLISHED:
+2026-10-06
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261006/89e8cc02f58e4a3794a63d192577dfba/c.html
+
+ARTICLE TEXT:
+The larger impact of optogenetics may lie in what it allows scientists to ask. By turning carefully selected nerve cells on or off, researchers can continue to unravel one of humanity's greatest mysteries: how the brain works.
+STOCKHOLM, Oct. 5 (Xinhua) -- Karl Deisseroth, Peter Hegemann and Georg Nagel won the 2026 Nobel Prize in Physiology or Medicine on Monday for their discoveries concerning light-gated ion channels and optogenetics.
+The Nobel Assembly at Sweden's Karolinska Institutet awarded the prize for optogenetics and described it as a method that makes it possible to show how nerve cells shape memories, feelings and behaviours in the living brain.
+WHO ARE THE LAUREATES?
+Karl Deisseroth is a U.S.-born professor at Stanford University and the Howard Hughes Medical Institute. Peter Hegemann and Georg Nagel, both born in Germany, are professors at Humboldt University of Berlin and the University of Wuerzburg, respectively.
+"Peter Hegemann and Georg Nagel discovered a remarkable protein, channelrhodopsin, in a single-celled alga. Karl Deisseroth transformed the protein into a light-controlled switch for nerve cells. The laureates have laid the foundation of a new era in neuroscience," the institute said in a press release.
+The laureates will share a prize of 12 million Swedish kronor (about 1.19 million U.S. dollars).
+WHAT IS OPTOGENETICS?
+Optogenetics refers to a method for controlling nerve signals with light. The story began with a simple question: how can a single-celled green alga swim toward light even though it has no brain?
+Peter Hegemann studied Chlamydomonas, an alga that can detect light and rapidly change its movement. He suspected that its light sensor might also act as an ion channel.
+Working with Georg Nagel, Hegemann identified proteins known as channelrhodopsins. When exposed to blue light, these proteins open a channel through the cell membrane. Charged ions then flow into the cell, producing an electrical response.
+Crucially, when researchers introduced the genes encoding these proteins into other cells, those cells also became sensitive to light.
+Karl Deisseroth introduced the gene for channelrhodopsin into nerve cells from rats. In 2005, his team showed that flashes of blue light could trigger nerve signals with millisecond precision. Two years later, the approach was successfully used in the brains of living mice.
+The method became known as optogenetics and gained global impact.
+WHY DID THIS CHANGE NEUROSCIENCE?
+The adult human brain contains around 90 billion nerve cells, or neurons, each forming thousands of connections with other cells. Neural pathways can stretch across distant parts of the brain, while neurons controlling very different functions may be packed closely together.
+For decades, scientists could observe which parts of the brain became active when an animal moved, formed a memory or experienced an emotion. Such observations could show that brain activity and behavior were linked without revealing whether one directly caused the other.
+Optogenetics changed that by allowing scientists to activate selected neurons and observe what happened next, making it possible to test cause and effect with far greater precision. Researchers have identified neural circuits involved in pain, social behavior, thirst, feeding, reward and attention. They have also pinpointed neurons that help regulate functions ranging from the body clock to fever responses triggered by the immune system.
+"Optogenetics provides opportunities for mapping the brain in a way that we could once only dream of," said Per Svenningsson, chair of the Nobel Committee for Physiology or Medicine.
+COULD IT HELP TREAT DISEASE?
+For now, optogenetics remains primarily a research tool, helping scientists investigate how brain circuits malfunction in conditions including depression, anxiety, Alzheimer's disease and Parkinson's disease.
+Anna Wedell, a member of the Nobel Committee for Physiology or Medicine, said that researchers can first identify cells involved in conditions such as dementia and addiction in animal models, and then use imaging and other methods to explore how those findings may apply to humans.
+Clinical research has also begun. Qiang Pan Hammarstrom, a member of the Nobel Committee and professor of Clinical Immunology at Karolinska Institutet, told Xinhua that optogenetics has already shown clinical potential in retinitis pigmentosa, a rare genetic eye disease, where light-sensitive proteins can be used to stimulate surviving retinal cells and partially restore vision.
+The larger impact of optogenetics may lie in what it allows scientists to ask. By turning carefully selected nerve cells on or off, researchers can continue to unravel one of humanity's greatest mysteries: how the brain works.■
