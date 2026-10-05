@@ -1,0 +1,50 @@
+TITLE:
+VPP network powers up as nation eyes smarter grid
+
+PUBLISHED:
+2026-10-05
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202610/05/WS6ac2e9f6e4b06d4aa05615e8.html
+
+ARTICLE TEXT:
+VPP network powers up as nation eyes smarter grid
+Cutting-edge tech like IoT, AI to enhance stability, demand management
+China is accelerating a historic transformation of its massive electricity network, shifting away from a traditional model where power generation passively adjusts to meet demand, and toward a highly intelligent, interactive ecosystem that synchronizes generation, power grids, user loads and energy storage.
+As the country's renewable energy installations break records at a breathtaking pace, industry experts and policymakers increasingly view the demand side as the next great frontier for ensuring grid stability and achieving the nation's ambitious decarbonization goals.
+The recently released 15th Five-Year Plan for New Power System Construction (2026-30) outlines this paradigm shift.
+The blueprint targets a maximum regulation capacity of over 50 gigawatts for virtual power plants (VPPs) by 2030, establishing them as a crucial vehicle for demand-side grid interaction. Furthermore, the plan mandates the high-level absorption of over 2.8 billion kilowatts of renewable energy by the end of the decade.
+Unlike conventional facilities defined by physical generators and smokestacks, a VPP is an advanced, cloud-based digital aggregator. Powered by the internet of things, big data and artificial intelligence, a VPP links and orchestrates thousands of decentralized energy assets — including rooftop solar arrays, battery storage units and electric vehicle charging networks.
+During periods of peak demand or fluctuating renewable output, the platform can remotely discharge stored power or throttle back consumption in real time, delivering the same grid-balancing capabilities as a traditional peaking power station, but at a fraction of the capital cost and with zero additional carbon emissions.
+This structural pivot is born of necessity. As of the end of June, China's cumulative installed capacity of wind and solar power reached 1.95 billion kW, accounting for roughly 48.3 percent of the country's total power generation capacity, according to the National Energy Administration.
+However, relying heavily on wind and solar means the power supply is increasingly at the mercy of the weather.
+"While our green power capacity continues to set new global benchmarks, its inherent weather-dependent traits are becoming glaringly obvious," said Peng Yuehui, deputy director of the scientific and technological research institute at North China Electric Power University.
+"Power generation fluctuates significantly, and extreme weather can trigger 'roller-coaster' style volatility in daily power supply and demand," said Peng.
+Peng cited a major new energy base in Northwest China as an example. During peak sunlight hours at noon, the facility frequently has to curtail its output by 30 percent due to a lack of immediate demand or transmission capacity. Conversely, during the evening load peak when the sun sets, the grid faces a 40 percent power deficit.
+"The traditional power system operating model is simply no longer sustainable. The intermittency, randomness and volatility of renewable energy pose immense challenges to grid stability, demanding far higher levels of systemic flexibility," Peng added.
+Zhang Jieqing, chief representative of the Natural Resources Defense Council Beijing office, echoed this sentiment, noting that the speed of building system regulation capacity has severely lagged behind the explosive growth of wind and solar installations.
+"The spatial and temporal mismatch between supply and demand has always existed," Zhang said.
+"When renewable penetration was low, the grid could balance itself internally. But as green power becomes the dominant source, relying solely on traditional supply-side adjustments cannot solve the root problem."
+A report released earlier by the NRDC revealed that China's green commitment and rapidly developing new energy industry are fast-tracking the development of VPPs.
+As renewable energy makes up an ever-larger share of the power grid, mounting pressure on system flexibility and grid reliability is spurring demand for clean, agile and economically viable new market participants, it said.
+Compounding this is the steady growth of new electricity demand. The rapid proliferation of EVs and energy-intensive AI data centers is adding immense pressure to the grid, often occurring during evening peak hours, which widens the peak-to-valley load difference.
+Faced with these bottlenecks, the industry consensus is clear: China must look beyond power plants and grid infrastructure to tap into the massive, idle regulatory resources on the user side.
+Lin Boqiang, head of the China Institute for Studies in Energy Policy at Xiamen University, noted that the era of relying purely on power generators and grid operators for flexibility is coming to an end.
+"For high-quality renewable energy development, we must adopt a holistic systems approach. By innovating market mechanisms and unlocking the potential of user-side resources and virtual power plants, we can build a new ecological loop for renewable energy absorption," Lin said.
+Initial estimates suggest that the combined regulation potential of commercial and industrial flexible loads, EVs and distributed storage exceeds 300 million kW — equivalent to the capacity of roughly 150 large-scale pumped-storage hydropower stations.
+However, because these resources are individually small, geographically scattered and possess vastly different response characteristics, traditional centralized grid dispatching cannot effectively manage them.
+Using advanced digitalization, IoT platforms and AI, VPPs aggregate distributed solar panels, energy storage systems and EV charging stations. They transform these fragmented assets into an "invisible power plant" that can be dispatched by the grid on demand.
+According to NEA data, China had built 470 VPP projects by the end of 2025, with a measured maximum regulation capacity of 16.85 million kW, forming one of the world's leading VPP clusters.
+Yet, there remains vast room for improvement. For comparison, Germany manages about 18 million kW of similar resources, but achieves a utilization rate of 65 percent in its mature projects, a benchmark China is actively striving to match through market reforms.
+Real-world applications are already demonstrating immense value. During the summer of 2025, Shanghai successfully executed the nation's first GW-scale VPP actual-measurement dispatch, successfully shaving 1.16 million kW off the city's peak load. Shanghai authorities have since clarified market entry mechanisms, allowing VPPs to participate directly in the electricity spot market, paving the way for sustainable commercial models, equitable profit distribution and cross-regional trading.
+Kang Chongqing, a professor at Tsinghua University, highlighted the transformative potential of data centers in this new paradigm.
+With computing loads projected to account for 8 to 10 percent of total societal power demand in the future, AI data centers will require over 1 billion kW of green power by 2060, he said.
+"By designing systems that allow computing tasks to essentially 'chase green electrons' — shifting processing workloads to regions and times when renewable energy is abundant — we can achieve a triple victory of reducing data center carbon footprints, helping the grid balance loads and synergistically lowering overall emissions," Kang said.
+While VPPs provide the digital software to manage distributed demand, utility-scale new energy storage provides the vital physical hardware to anchor the grid. In this arena, China continues to maintain the world's largest installed capacity, marking a historic transition for the technology from a supplementary role to a critical backbone.
+According to the China New Energy Storage Development Report (2026) issued by the NEA, the country's installed capacity of new energy storage reached a staggering 136 GW by the end of 2025. This represents an 84 percent year-on-year surge and a massive 40-fold expansion compared to the end of 2020.
