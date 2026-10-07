@@ -1,0 +1,34 @@
+TITLE:
+Chinese AI models see intl adoption surge
+
+PUBLISHED:
+2026-10-07
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202610/07/WS6ac589d1e4b06d4aa05617c2.html
+
+ARTICLE TEXT:
+Chinese AI models see intl adoption surge
+Shift from winning attention to selling through major global platforms lauded
+United States-based cloud computing giant Amazon Web Services said on Tuesday that it has made GLM-5.3, the latest flagship model from China's Z.ai, available on the Amazon Bedrock platform, while sources familiar with the matter confirmed that AWS would share revenue with Z.ai based on the usage of the model.
+Industry experts said the move underscores a broader shift in the global expansion of Chinese artificial intelligence models: from winning attention among overseas developers to gaining real-world adoption, while increasingly being sold through major international commercial platforms.
+Z.ai is not alone. AWS has added six open-weight Chinese models, including DeepSeek V3.2, MiniMax M2.1 and Alibaba's Qwen3 Coder Next, into the Amazon Bedrock platform. In September, Moonshot's Kimi K3 also became available on Amazon Bedrock.
+According to Wang Peng, a researcher with Beijing Academy of Social Sciences, such a shift means that each genuine overseas model call would now be converted into commercial revenue.
+Wang said that under the cloud revenue-sharing approach, open models help build a developer ecosystem, global cloud computing companies provide computing infrastructure and access to corporate customers, and model developers receive a share of the income generated when customers actually use their models.
+"A year ago, the overseas expansion of Chinese models was largely about getting foreign developers to use them. Now, an increasingly clear shift is taking place: overseas commercial platforms are starting to actively sell them," Wang said.
+Latest data from AI model aggregation platform OpenRouter showed that Chinese models processed about 57.46 trillion tokens in the week ending Sunday, compared with about 16.2 trillion tokens by US models.
+It was the 23rd consecutive week in which Chinese models had higher weekly token usage than US models on the platform. DeepSeek alone accounted for 21.8 percent of text requests in Open-Router's latest full week, while Z.ai and Qwen were also among its biggest model providers.
+Another indicator came from Hugging Face, the world's largest open-source AI community. Its report showed that Chinese-developed models accounted for about 41 percent of model downloads on the platform over the previous year, surpassing those from the US.
+By this summer, Alibaba's Qwen model family had recorded about 2.045 billion downloads on Hugging Face, while the number of derivative models built on Qwen had reached 151,448, about 2.6 times the total number of derivatives based on Meta's models from the US.
+Zhang Yaqin, founding dean of Tsinghua University's Institute for AI Industry Research and a foreign member of the Chinese Academy of Engineering, said: "Openness could become a structural advantage for China's AI industry. Lower costs and easier access have made models such as DeepSeek and Qwen particularly attractive to smaller companies and emerging markets."
+Wang from the Beijing Academy of Social Sciences noted that the global rollout of Chinese AI models helps diversify the global AI landscape and reduces reliance on a small number of technology players.
+"These models lower barriers to AI adoption, offer cost-effective solutions for overseas businesses and inject fresh momentum into the global digital economy. Open-source collaboration and open sharing can also promote more inclusive global AI development and help build a more diverse, balanced AI ecosystem."
+Shen Yang, a professor at Tsinghua University, said: "Chinese AI companies were already encountering different market conditions as they expanded overseas. Southeast Asia offered relatively strong commercial certainty, Gulf markets had higher value per customer, while Latin America had significant unmet demand."
+Foreign countries are also increasingly pursuing their own forms of "AI sovereignty", Shen said.
+Contact the writers at chengyu@chinadaily.com.cn

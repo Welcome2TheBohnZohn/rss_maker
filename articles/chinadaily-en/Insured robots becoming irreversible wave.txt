@@ -1,0 +1,37 @@
+TITLE:
+Insured robots becoming irreversible wave
+
+PUBLISHED:
+2026-10-07
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202610/07/WS6ac5970be4b06d4aa05617e7.html
+
+ARTICLE TEXT:
+Insured robots becoming irreversible wave
+Flexible policies cover design defects, errors in installation, operation; serve as hedge against any financial losses
+At the China International Fair for Trade in Services in Beijing, which wrapped up on Sept 13, a robotic hand came equipped with an unusual accessory — an insurance policy.
+The Y-Hand M2, which is designed to mimic the dexterity of a human hand, has added insurance to its working essentials. Its developer — Beijing-based Yue Quan Bionics Ltd — signed an insurance agreement with China Pacific Insurance (Group) Co's property and casualty arm during the event, providing coverage for the hand and any losses it may cause.
+The idea is straightforward. "If an accident or natural disaster damages the hand while it is being used or stored, the policy provides coverage. It also covers losses caused by defects in design, installation or materials, or by operator error," said Zhou Ai, a staff member at the insurer's Beijing branch.
+The protection reaches beyond the hand itself. It also includes injuries to third parties or damage to their property during use, Zhou said, adding that the product acts as an industry first for key components of embodied intelligent robots.
+Behind the paperwork lies a familiar worry for anyone buying expensive high-tech equipment — what happens if it breaks? Especially with humanoid robots and other emerging forms of physical AI that carry out real-world interactions with humans, the concern also extends beyond the machine itself to the people and property around it.
+In fact, insurers are beginning to offer answers, with coverage for individual components, rented machines and robots whose original warranties have expired.
+When warranties expire
+The problem begins with parts that wear out and warranties that run their course.
+"The core precision components of intelligent robots wear relatively quickly (compared with other physical AI end products), while manufacturers' warranties are limited," said Chen Jian, head of the technology insurance subcenter at PICC Property and Casualty Co's Beijing branch.
+"Once equipment is out of warranty, repairs and replacement parts are expensive, which to some extent constrains the industry's expansion and commercialization," Chen said.
+Established last month, Beijing's intelligent robot insurance consortium is designed to address that gap. Gathering PICC's Beijing branch and several other insurers, its first policy focuses on equipment breakdowns after the manufacturer's original warranty expires, providing services including repair and replacement protection.
+For a manufacturer, the arrangement can support an extended-warranty promise without leaving it to shoulder all the uncertainty over future repairs. For the customer, it helps address the cost of keeping the machine in service after the original guarantee has ended, Chen said.
+"It helps robot manufacturers ease the financial pressure and operating risks of extended warranties, improve after-sales services and make their products more competitive," he said. "It also helps buyers using the robots allay maintenance concerns, lower the cost of trial applications and accelerate the deployment of robot technology in practical settings."
+The account puts after-sales support at the center of the insurance proposition: manufacturers need to maintain what they sell, while customers need confidence that a malfunction will not leave them facing an unaffordable repair or replacement.
+Insurance by the day
+For businesses that need a robot for a particular assignment rather than a permanent addition to their operations, renting offers a way to put the technology to work without committing to a purchase. Insurance is thus beginning to accommodate that flexibility, with policies tailored to shorter engagements and machines that move between customers.
+For example, China Pacific Insurance (Group) Co's Jizhibao product, designed for commercial humanoid robot applications, allows customers to purchase coverage by the day, week or month, aligning the period of protection with the length of an assignment.
+In another way, PICC has worked with robot rental platform Sharebot since December 2025 to offer coverage for damage to machines along with third-party liability, with no fixed operating address within the Chinese mainland mandated in the policy — a provision that accommodates robots moving between customers and venues.
+The commercial opportunity is backed by substantial market performance. According to iiMedia Research, China's robot rental market stood at about 1 billion yuan ($149 million) in 2025 and is expected to top 10 billion yuan this year, representing an annual growth rate exceeding 900 percent. For rental operators serving this market, the economics of each booking depend partly on managing the repair bills and liability claims that an accident could bring.
