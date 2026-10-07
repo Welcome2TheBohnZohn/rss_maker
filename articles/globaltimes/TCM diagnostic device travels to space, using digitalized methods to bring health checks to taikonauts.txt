@@ -1,0 +1,31 @@
+TITLE:
+TCM diagnostic device travels to space, using digitalized methods to bring health checks to taikonauts
+
+PUBLISHED:
+2026-10-07 17:13:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1371764.shtml
+
+ARTICLE TEXT:
+Taikonauts aboard the Shenzhou-23 crew use a TCM diagnostic device to monitor their health. Photo: CCTV News
+A traditional Chinese medicine (TCM) diagnostic device made another appearance aboard China's space station recently, where it monitors the health of the taikonauts, CCTV News reported on Wednesday.
+The device digitizes the four fundamental diagnostic methods of TCM - inspection, auscultation and olfaction, inquiry, and palpation. Rooted in centuries-old TCM practice, the approach can now also be applied in space to help assess the health of the taikonauts, according to an updated Tiangong work vlog.
+Since the Shenzhou-12 mission in 2021, the TCM diagnostic device has been served aboard China's space station as a health-monitoring tool for taikonauts. During examinations, taikonauts collect data on their tongue, facial features and pulse, which is transmitted to ground-based medical personnel for analysis and comparison, allowing health assessments to be conducted from Earth, per the CCTV report.
+Through a viewing window, the device precisely captures images of the taikonaut's tongue, detecting subtle features for health assessment by the medical team on the ground. It can also capture facial images, recording features such as facial complexion and expression for further analysis.
+For pulse diagnosis, a dedicated pulse-sensing unit records the taikonaut's pulse information. The device's internal software system then compares the pulse data with theoretical models of TCM pulse patterns, simulating the traditional practice of "taking the pulse,"  CCTV reported. 
+The device also includes a medical questionnaire, which taikonauts complete while in orbit to report their own subjective health experiences. The questionnaire responses are combined with tongue, facial, and pulse data to create a comprehensive health profile for each taikonaut.
+During spaceflight, taikonauts face lots of challenges such as microgravity and space radiation, which can lead to changes in physiological rhythms and other health-related effects. Therefore, continuous health monitoring is essential, the media report noted. TCM-based diagnosis can help assess taikonauts' overall functional status and provide early warning of potential health changes.
+To bring the device into space, there are a series of challenges posed by the complex space station environment. In 2010, a team participated in the multinational Mars500 program. Over the 520-day experiment, they collected data from 37 rounds of TCM four-diagnosis assessments.
+The data showed that health assessments based on TCM diagnostic information were largely consistent with other health-monitoring data, indicating that the device can objectively reflect taikonauts' health status and laying the groundwork for its deployment aboard the space station.
+Because conditions in space differ greatly from those on the Earth, and the space environment is highly complex, diagnostic standards used on the ground cannot simply be applied in orbit. The Chinese team, therefore, conducted extensive simulation experiments and scientifically designed the measurement parameters for tongue, facial and pulse diagnosis, CCTV reported.
+Starting from scratch, they established objective standards and a corresponding database for TCM diagnosis in spaceflight, said the report.
+One advantage of this system is its simplicity for long-term health monitoring of taikonauts in space, Wang Yanan, chief editor of Aerospace Knowledge magazine, told the Global Times on Wednesday.
+It requires neither blood sampling nor additional sensors, and involves no complex procedures such as chemical testing. Instead, the monitoring process relies on methods including image acquisition, making it relatively simple and convenient to implement, Wang said.
+These data and findings could also contribute to enriching the theory and practice of TCM, Wang said, potentially helping further advance and strengthen the field.
