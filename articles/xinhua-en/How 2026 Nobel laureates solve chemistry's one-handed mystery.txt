@@ -1,0 +1,41 @@
+TITLE:
+How 2026 Nobel laureates solve chemistry's "one-handed" mystery
+
+PUBLISHED:
+2026-10-08
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261008/274d1b5b606b47f8bfa72595477acd47/c.html
+
+ARTICLE TEXT:
+STOCKHOLM, Oct. 7 (Xinhua) -- Hold up your two hands. They look almost identical and are mirror images of each other, yet no matter how you turn them, your left hand can never perfectly overlap your right.
+Many molecules behave in much the same way. This seemingly simple feature lies at the heart of the 2026 Nobel Prize in Chemistry, awarded Wednesday to French chemist Henri Kagan and Japanese chemist Kenso Soai "for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis."
+Their work helped answer a question that had puzzled chemists for more than a century: How can chemical reactions produce only one molecular "hand," as the chemistry of life does?
+WHY DO MOLECULES HAVE "LEFT" AND "RIGHT" HANDS?
+Some molecules can exist in two forms that have the same chemical composition but are mirror images of each other. Chemists call this property chirality, and the two forms enantiomers.
+"What makes chirality important is that life itself is selective about molecular handedness," Zou Xiaodong, a member of the Nobel Committee for Chemistry, told Xinhua.
+Amino acids, the building blocks of proteins, can exist in two mirror-image forms, but only one of these forms is found in the proteins in our cells. The sugars in DNA also favor one form.
+Chemists call this "homochirality," literally meaning "same-handedness."
+The mystery dates back to the 19th century, when French scientist Louis Pasteur discovered that some molecules could exist as mirror images. Yet when chemists later tried to make such molecules in ordinary reactions, they generally obtained roughly equal amounts of both forms.
+HOW DID KAGAN AND SOAI HELP SOLVE THE MYSTERY?
+The challenge was to find a chemical way to favor one mirror image over the other.
+Kagan took a decisive step in 1986. Chemists had generally assumed that if a catalyst contained a certain proportion of one molecular "hand," the product would show roughly the same proportion. He showed that this relationship could be non-linear. A small imbalance in the catalyst could create a much larger imbalance in the product.
+In simple terms, chemistry could amplify a slight preference.
+Soai then went further. In the 1990s, he developed a reaction in which the product could help make more copies of itself, a process known as autocatalysis.
+In one experiment reported in 1995, a starting imbalance of just 2 percent grew to 87 percent. By 2003, Soai had demonstrated a reaction that could begin without a built-in chiral preference and still end up overwhelmingly dominated by one mirror image.
+A tiny difference appearing by chance could therefore reinforce itself again and again until one molecular "hand" took over almost completely.
+Put simply, Kagan showed how a small chiral preference could be amplified, while Soai showed how that advantage could reinforce itself through autocatalysis.
+The Nobel Committee described the Soai reaction as one of the most spectacular chemical experiments ever conducted.
+WHY DOES IT MATTER?
+The discoveries help explain how homochirality can emerge, but their importance goes far beyond a century-old scientific puzzle.
+Chirality is crucial in drug development because the human body itself is chiral. Two mirror-image versions of the same molecule can interact very differently with proteins and other biological targets.
+"Drug molecules need to match the chirality of the human body, just as a right hand does not fit properly into a left-hand glove," Zou said, adding that being able to favor one molecular form therefore allows chemists to make medicines more precisely and reduce unwanted effects.
+The same principle is important in the production of flavors, fragrances, agricultural chemicals and some advanced materials.
+Kagan's discovery of non-linear effects also gave chemists a new way to understand and optimize asymmetric reactions, while Soai demonstrated how an extremely small initial difference can be amplified through a self-reinforcing process.
+That, according to the Nobel Committee, is why Kagan and Soai "made chemistry choose a mirror image." ■

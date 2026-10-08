@@ -1,0 +1,36 @@
+TITLE:
+Solid-state batteries seen charging sector
+
+PUBLISHED:
+2026-10-08
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202610/08/WS6ac6d59de4b06d4aa0561911.html
+
+ARTICLE TEXT:
+Solid-state batteries seen charging sector
+2026-30 period called strategic window to consolidate China's competitive edges
+China is racing to ensure that all-solid-state batteries become the next extension of its battery sector advantages, turning the nation into a leader in the industry, experts said.
+They made the comments as seven government authorities — including the Ministry of Industry and Information Technology — unveiled last week a plan that set 2030 as the target for the initial large-scale deployment of all-solid-state batteries. The strategy also targets batteries for a much wider application than cars, to now include ships, aircraft, intelligent robots, machinery, power grids, industrial parks and data centers.
+It calls the 2026-30 period a "strategic window" to consolidate China's global competitive advantages in advanced batteries, while acknowledging weaknesses ranging from insufficient original and disruptive innovation to overcapacity, disorderly competition and gaps in standards and intellectual property.
+Nan Cewen, an academician at the Chinese Academy of Sciences and a professor at Tsinghua University, described the plan as a change in the industry's "competitive paradigm".
+"It marked the first time China had systematically mapped out the development of the emerging battery industry at the level of a national five-year plan. It signaled a shift in competition from expanding production capacity toward broader rivalry over product value, corporate competitiveness and modernization of the industrial chain. The plan also takes a full-chain approach, covering new battery mechanisms, materials, structures and manufacturing processes," Nan said.
+Industry investment is already running far ahead of commercial deployment. China announced about 60 new solid-state battery projects in 2025, representing 189 gigawatt-hours of planned capacity and around 67.7 billion yuan ($10.1 billion) of investment, said the Gaogong Industrial Research Institute.
+In the first half alone, more than 40 solid-state battery and related materials projects were announced, with planned investment exceeding 50 billion yuan.
+All-solid-state batteries replace the flammable liquid electrolyte versions used in conventional lithium-ion cells with solid materials. In theory, it could improve both safety and energy density, allowing an electric vehicle to travel farther with the same battery weight.
+Chinese battery makers are increasingly clustering around the same commercialization timetable.
+CATL has said it is targeting small-scale production of all-solid-state batteries around 2027, while cautioning that the technology remains several stages away from full maturity.
+BYD has pointed to 2027 for initial vehicle demonstrations, followed by broader deployment around 2030.
+Gotion High-Tech has disclosed all-solid-state cells with energy density of around 400 watt-hours per kilogram and is developing a 2-gigawatt-hour production line, while EVE Energy this year rolled out new solid-state battery cells from its Chengdu base in Sichuan province as part of its engineering validation program.
+CALB, another major Chinese battery producer, has been developing higher-energy-density solid-state batteries aimed at cars, robots and aircraft, alongside dedicated pilot production capacity.
+Ouyang Minggao, an academician at the Chinese Academy of Sciences, said some test vehicles equipped with all-solid-state batteries could emerge between late 2026 and 2027, but that large-scale production would "most likely still take another three to five years".
+China is explicitly looking beyond cars. Its battery plan identifies robots, aviation, shipping, and deep-space and deep-sea applications as potential markets for advanced batteries, reflecting expectations that solid-state technology could first gain traction where high energy density is worth paying for.
+Liu Wenqiang, Party secretary of the China Center for Information Industry Development, said after the plan was released that China's scale advantage did not guarantee long-term leadership.
+As Chinese battery makers move closer to the technological frontier, there are fewer mature technologies left to improve upon, Liu said, meaning companies will increasingly need to define tech pathways themselves rather than rely on expansion and incremental upgrading.
+chengyu@chinadaily.com.cn

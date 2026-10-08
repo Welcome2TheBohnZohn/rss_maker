@@ -1,0 +1,30 @@
+TITLE:
+Chinese team develops world's first 3D spatiotemporal lifecycle cell atlas of rice: laboratory
+
+PUBLISHED:
+2026-10-07 12:10:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1371748.shtml
+
+ARTICLE TEXT:
+A researcher examines rice plants during a rice new variety exhibition in Sanya, South China's Hainan Province, on May 13, 2026. Photo: VCG
+A major breakthrough in rice research by Chinese scientists was published online in the international journal Cell on Tuesday. The study marks the first time a three-dimensional spatiotemporal cell atlas covering the entire rice lifecycle - from seed germination to flowering and grain filling - has been constructed, providing a new research resource for understanding rice growth and development and exploring grain quality improvement, researchers said on Wednesday.
+The study, titled  "A spatiotemporal lifecycle atlas decodes spatial coordination in rice," was conducted through collaboration among multiple research institutions and led by the Yazhou Bay National Laboratory in Sanya, South China's Hainan Province, according to the laboratory.
+"Through multimodal integration, we reconstruct an inferred developmental trajectory graph that links cell states from the proembryo to mature organs and identifies trajectory-associated regulators," readthe article.
+The team have integrated genome sequencing, single-cell sequencing, and spatial transcriptomics to create a comprehensive map of rice development, state broadcaster CCTV News reported on Wednesday, citing researchers.
+By pinpointing the precise locations where specific functional genes are expressed across different tissues and developmental stages, the atlas opens a new pathway for precision breeding aimed at achieving higher and more stable yields more rapidly, researchers said.
+Researchers have also established an open database and a rice single-cell foundation model accessible to scientists worldwide. These tools support gene queries, spatial expression visualization, and comparative analysis, allowing researchers to examine how genes of interest behave in various tissues and stages and to guide subsequent experimental validation.
+With this atlas and supporting data, scientists can better understand the relationship between desirable rice traits and gene expression regulation, ultimately revealing how a rice plant develops from a seed into a mature, grain-bearing plant, according to media reports.
+In the past, modifying a single trait of rice often risked unintended effects on other traits due to complex genetic linkages. Now, with the atlas and model, experts can pursue more targeted optimization, significantly reducing such unwanted side effects and enabling more precise regulatory strategies - effectively achieving "hit the target you aim for."
+"The seed industry is a national-level resource. Without an independent seed industry, it would be impossible to effectively increase grain production and ensure food security," Li Guoxiang, a research fellow at the Rural Development Institute of the Chinese Academy of Social Sciences, told the Global Times on Wednesday.
+Yazhou Bay National Laboratory serves as the flagship science and technology engine of Nanfan "Silicon Valley" in Sanya, a global platform for seed industry cooperation and an experimental zone for deepening reform and opening up of the seed sector, according to the Xinhua News Agency.
+Top research institutes and leading seed companies have established bases in Nanfan "Silicon Valley," spurring a wave of cutting-edge breeding technologies and accelerating the development of new varieties. "Nanfan" refers to the practice of using the warm southern climate to grow multiple generations of seed per year, thereby shortening the breeding cycle.
+According to Hainan's agricultural department, this year, Hainan's early rice recorded a sown area of 1.716 million mu (114,400 hectares), an average yield of 404.97 kilograms per mu, and a total output of 695,000 tons - achieving simultaneous growth in area, yield per unit, and overall production. In this provincial harvest success, Sanya has played a pivotal supporting role by leveraging its strengths in Nanfan seed industry output.
+Global Times
