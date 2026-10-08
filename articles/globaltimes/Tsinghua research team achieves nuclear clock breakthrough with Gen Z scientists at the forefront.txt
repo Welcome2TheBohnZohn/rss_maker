@@ -1,0 +1,43 @@
+TITLE:
+Tsinghua research team achieves nuclear clock breakthrough with Gen Z scientists at the forefront
+
+PUBLISHED:
+2026-10-08 16:01:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1371824.shtml
+
+ARTICLE TEXT:
+Tsinghua University associate professor Ding Shiqian (center) takes a group picture with his research team. Photo: Courtesy of Tsinghua University 
+A research team at China's Tsinghua University has successfully developed an operational nuclear clock, marking a major breakthrough in humanity's decades-long pursuit of more precise timekeeping and opening up new possibilities for applications ranging from satellite navigation to fundamental physics research, the Global Times learned from the university on Thursday.
+The research, led by Tsinghua University associate professor Ding Shiqian, was published in the prestigious scientific journal Nature on October 7. Remarkably, most of the team's core members were born in the 2000s, with three Tsinghua doctoral students serving as co-first authors of the paper, highlighting the growing role of China's younger generation in cutting-edge scientific research.
+From mechanical clocks to quartz watches and atomic clocks, humanity has continuously sought ever more accurate ways to measure time. Now, Chinese scientists are helping push that pursuit into an entirely new realm - the atomic nucleus.
+Unlike conventional atomic clocks, which use transitions between electron energy levels to measure time, nuclear clocks rely on transitions within the atomic nucleus itself.
+Because atomic nuclei are less vulnerable to disturbances from their surroundings, nuclear clocks could eventually provide even greater precision and stability than today's most advanced atomic clocks, a press release by the university explained.
+The idea of building a nuclear clock using thorium-229 was proposed more than two decades ago, but turning that vision into reality has remained a formidable challenge for scientists worldwide.
+According to Tsinghua University, Ding's team became the first in the world to successfully develop a 148-nanometer continuous-wave vacuum ultraviolet laser and, based on the technology, achieve the operation of a nuclear optical clock, paving an entirely independent technological pathway.
+By successfully locking the laser's frequency to the nuclear transition, the researchers turned the atomic nucleus into a functioning timekeeping reference.
+The team also overcame a major challenge involving the scarcity of thorium-229, using just 1.4 micrograms of the isotope to produce the crystal needed for the experiment - approximately one two-hundredth of the amount used by a contemporary research team.
+The resulting nuclear clock achieved short-term stability nearly an order of magnitude better than that of a contemporary team's system, according to Tsinghua University.
+The achievement comes as European researchers have independently reported progress in developing operational nuclear clocks, reflecting an important milestone in international efforts to advance precision timekeeping.
+According to Reuters on Wednesday, scientific teams working separately in Vienna and Beijing have developed the world's first two operating nuclear clocks in what they are calling an important advance in timekeeping that promises wide-ranging practical applications and offers a new tool to investigate fundamental physics.
+The potential significance of nuclear clocks extends far beyond more precise timekeeping. 
+Modern technologies, including satellite navigation, telecommunications and financial networks, depend on precise timing to operate reliably.
+In the future, more accurate and compact nuclear clocks could help improve navigation systems and provide new tools for deep-space exploration and spacecraft travel far beyond where they can be guided by Earthbound clocks, according to an article published by the National Institute of Standards and Technology (NIST) under the US Department of Commerce.
+Scientists worldwide also believe nuclear clocks could help investigate fundamental questions about the universe, including whether certain physical constants change over time and whether elusive dark matter leaves detectable traces, according to another article by NIST.
+Behind the sophisticated scientific achievement is a predominantly young research team most of whose core members were born in the 2000s.
+Among the paper's co-first authors are Tsinghua doctoral students Huang Beichen, Yan Gaowei and Xiao Qi, who began their doctoral studies in 2022, 2024 and 2025, respectively.
+For these young scientists, the breakthrough was built on countless experiments, repeated adjustments and years of persistent effort.
+"There was no mature technical solution for nuclear clocks. Many experimental systems had to be built from scratch, and many questions had no ready answers," Huang said, according to Tsinghua University's release. 
+Yan recalled the unforgettable moment when the team first detected a fluorescence signal, an important step toward the eventual breakthrough.
+"Major scientific goals are often built from many seemingly scattered pieces," Yan said, noting that the final success came as the team gradually accomplished these fundamental research objectives.
+Ding, who joined Tsinghua University in December 2021, has encouraged young researchers to tackle difficult scientific problems rather than assume they are impossible.
+"You should not set limits for yourself simply because everyone says something is difficult," Ding said, according to the university.
+Looking ahead, the team plans to further improve the clock's precision, optimize its design and pursue miniaturization, bringing the technology closer to practical applications.
+For Ding, the ultimate ambition goes far beyond building a better clock. He envisions a future in which scientists can manipulate atomic nuclei as readily as they now control electrons, potentially opening the door to entirely new discoveries in fundamental physics.
