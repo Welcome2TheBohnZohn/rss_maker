@@ -7,7 +7,167 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Oct 2026 02:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:24:48 +0000</lastBuildDate>
+    <item>
+      <title>Purchasing Managers’ Index for September 2026</title>
+      <link>https://www.stats.gov.cn/english/PressRelease/202610/t20261008_1965466.html</link>
+      <description>Published: 2026-10-01 09:30:00
+
+Purchasing Managers’ Index for September 2026
+Department of Service Statistics of NBS of China
+China Federation of Logistics &amp; Purchasing (CFLP)
+I. Manufacturing Purchasing Managers’ Index
+In September, the purchasing managers’ index (PMI) of China’s manufacturing industry was 50.1%, an increase of 0.3 percentage points from the previous month to the expansionary range.
+By enterprise size, the PMI for large enterprises was 50.6%, unchanged from the previous month, which was above the threshold; the PMI for medium and small-sized enterprises stood at 49.7% and 48.9%, respectively, an increase of 0.3 percentage points and 1.0 percentage point from the previous month, which were both below the threshold.
+By sub-index, among the five sub-indexes that constitute the manufacturing PMI, the production index, the new order index, and the supplier delivery time index were all above the threshold; the raw materials inventory index and the employment index were both below the threshold.
+The production index was 51.7%, an increase of 1.3 percentage points from the previous month, indicating an accelerated expansion in production activities in the manufacturing industry.
+The new order index was 50.5%, a decrease of 0.1 percentage points from the previous month. The figure was above the threshold, indicating a continued improvement in the market demand of the manufacturing industry.
+The raw materials inventory index was 48.2%, an increase of 0.1 percentage points from the previous month, indicating that the decline in the inventories of main raw materials in the manufacturing industry narrowed slightly.
+The employment index was 48.4%, a decrease of 0.3 percentage points from the previous month, indicating a decline in the employment climate of the manufacturing industry.
+The supplier delivery time index was 50.1%, unchanged from the previous month. The figure was above the threshold, indicating that the delivery time of raw material suppliers in the manufacturing industry continues to shorten.
+Table 1 China’s Manufacturing PMI and Sub-indexes (Seasonally Adjusted)
+| Unit: % |  |  |  |  |  |  | 
+|  | PMI |  |  |  |  |  | 
+|  |  | Production Index | New Order Index | Raw Materials Inventory Index | Employment Index | Supplier Delivery Time Index | 
+| 2025-September | 49.8 | 51.9 | 49.7 | 48.5 | 48.5 | 50.8 | 
+| October | 49.0 | 49.7 | 48.8 | 47.3 | 48.3 | 50.0 | 
+| November | 49.2 | 50.0 | 49.2 | 47.3 | 48.4 | 50.1 | 
+| December | 50.1 | 51.7 | 50.8 | 47.8 | 48.2 | 50.2 | 
+| 2026-January | 49.3 | 50.6 | 49.2 | 47.4 | 48.1 | 50.1 | 
+| February | 49.0 | 49.6 | 48.6 | 47.5 | 48.0 | 49.1 | 
+| March | 50.4 | 51.4 | 51.6 | 47.7 | 48.6 | 49.5 | 
+| April | 50.3 | 51.5 | 50.6 | 49.3 | 48.8 | 49.5 | 
+| May | 50.0 | 51.2 | 49.9 | 48.6 | 48.6 | 49.2 | 
+| June | 50.3 | 51.4 | 51.2 | 48.4 | 48.5 | 49.9 | 
+| July | 49.2 | 49.9 | 48.5 | 48.3 | 49.0 | 49.5 | 
+| August | 49.8 | 50.4 | 50.6 | 48.1 | 48.7 | 50.1 | 
+| September | 50.1 | 51.7 | 50.5 | 48.2 | 48.4 | 50.1 | 
+Table 2 Other Related Indexes of China’s Manufacturing PMI (Seasonally Adjusted)
+| Unit: % |  |  |  |  |  |  |  |  | 
+|  | New Export Order Index | Import Index | Purchase Quantity Index | Main Raw Materials Purchase Price Index | Producer Price Index | Finished Goods Inventory Index | Existing Order Index | Production and Operation Expectation Index | 
+| 2025-September | 47.8 | 48.1 | 51.6 | 53.2 | 48.2 | 48.2 | 45.2 | 54.1 | 
+| October | 45.9 | 46.8 | 49.0 | 52.5 | 47.5 | 48.1 | 44.5 | 52.8 | 
+| November | 47.6 | 47.0 | 49.5 | 53.6 | 48.2 | 47.3 | 45.5 | 53.1 | 
+| December | 49.0 | 47.0 | 51.1 | 53.1 | 48.9 | 48.2 | 46.0 | 55.5 | 
+| 2026-January | 47.8 | 47.3 | 48.7 | 56.1 | 50.6 | 48.6 | 45.1 | 52.6 | 
+| February | 45.0 | 45.6 | 48.2 | 54.8 | 50.6 | 45.8 | 44.0 | 53.2 | 
+| March | 49.1 | 49.8 | 50.9 | 63.9 | 55.4 | 46.7 | 47.1 | 53.4 | 
+| April | 50.3 | 50.1 | 51.1 | 63.7 | 55.1 | 47.5 | 46.2 | 54.5 | 
+| May | 48.6 | 48.8 | 49.8 | 60.5 | 51.9 | 49.3 | 46.8 | 53.9 | 
+| June | 50.1 | 49.6 | 51.4 | 54.2 | 48.2 | 47.7 | 47.1 | 54.3 | 
+| July | 49.6 | 47.5 | 49.4 | 53.2 | 47.8 | 48.6 | 45.8 | 54.1 | 
+| August | 50.1 | 48.6 | 50.5 | 56.6 | 50.4 | 48.4 | 46.7 | 53.8 | 
+| September | 50.0 | 49.2 | 51.0 | 60.8 | 54.0 | 47.6 | 46.0 | 53.8 | 
+II. Non-manufacturing Purchasing Managers’ Index
+In September, the non-manufacturing business activity index was 50.2%, an increase of 1.2 percentage points from the previous month, indicating a significant recovery in the climate of non-manufacturing industries.
+By industry, the business activity index for the construction industry was 50.3%, an increase of 3.4 percentage points from the previous month; that for the service industry was 50.2%, an increase of 0.9 percentage points from the previous month. In terms of the service industry, the business activity indexes for telecommunication, radio, television and satellite transmission services, monetary and financial services and insurance were all in the relatively high climate range of above 55.0%; those for capital market services and real estate were all below the threshold.
+The new order index was 46.5%, an increase of 2.4 percentage points from the previous month, indicating a recovery in the market demand climate of the non-manufacturing industry. By industry, the new order index for the construction industry was 45.7%, an increase of 3.3 percentage points from the previous month; that for the service industry was 46.7%, an increase of 2.2 percentage points from the previous month.
+The input price index was 52.5%, an increase of 1.4 percentage points from the previous month, indicating a continued increase in overall input prices for business operations among non-manufacturing enterprises. By industry, the input price index for the construction industry was 54.0%, an increase of 2.8 percentage points from the previous month; that for the service industry was 52.2%, an increase of 1.1 percentage points from the previous month.
+The sales price index was 50.3%, an increase of 1.0 percentage point from the previous month, indicating a recovery in overall sales prices of non-manufacturing enterprises. By industry, the sales price index for the construction industry was 48.5%, a decrease of 1.3 percentage points from the previous month; that for the service industry was 50.6%, an increase of 1.4 percentage points from the previous month.
+The employment index was 45.9%, an increase of 0.5 percentage points from the previous month, indicating an improvement in the employment climate among non-manufacturing enterprises. By industry, the employment index for the construction industry was 44.3%, an increase of 1.3 percentage points from the previous month; that for the service industry was 46.2%, an increase of 0.4 percentage points from the previous month.
+The business activity expectation index was 55.5%, an increase of 0.5 percentage points from the previous month, indicating that non-manufacturing enterprises became more confident about market development. By industry, the business activity expectation index for the construction industry was 55.4%, an increase of 3.6 percentage points from the previous month; that for the service industry was 55.5%, unchanged from the previous month.
+Table 3 Main Sub-indexes of China’s Non-manufacturing PMI (Seasonally Adjusted)
+| Unit: % |  |  |  |  |  |  | 
+|  | Business Activity Index | New Order Index | Input Price Index | Sales Price Index | Employment Index | Business Activity Expectation Index | 
+| 2025-September | 50.0 | 46.0 | 49.0 | 47.3 | 45.0 | 55.7 | 
+| October | 50.1 | 46.0 | 49.4 | 47.8 | 45.2 | 56.1 | 
+| November | 49.5 | 45.7 | 50.4 | 49.1 | 45.3 | 56.2 | 
+| December | 50.2 | 47.3 | 50.2 | 48.0 | 46.1 | 56.5 | 
+| 2026-January | 49.4 | 46.1 | 50.0 | 48.8 | 46.1 | 56.0 | 
+| February | 49.5 | 45.2 | 50.9 | 48.8 | 46.0 | 55.0 | 
+| March | 50.1 | 45.0 | 52.3 | 49.9 | 45.2 | 54.2 | 
+| April | 49.4 | 44.3 | 51.7 | 48.1 | 45.5 | 54.7 | 
+| May | 50.1 | 45.0 | 52.2 | 48.8 | 45.6 | 54.8 | 
+| June | 50.2 | 48.0 | 49.7 | 48.4 | 45.8 | 55.3 | 
+| July | 49.0 | 44.4 | 49.7 | 47.9 | 45.4 | 55.4 | 
+| August | 49.0 | 44.1 | 51.1 | 49.3 | 45.4 | 55.0 | 
+| September | 50.2 | 46.5 | 52.5 | 50.3 | 45.9 | 55.5 | 
+Table 4 Other Sub-indexes of China’s Non-manufacturing PMI (Seasonally Adjusted)
+| Unit: % |  |  |  |  | 
+|  | New Export Order Index | Existing Order Index | Inventory Index | Supplier Delivery Time Index | 
+| 2025-September | 49.8 | 44.4 | 44.9 | 51.1 | 
+| October | 46.2 | 43.6 | 46.0 | 50.9 | 
+| November | 47.9 | 43.6 | 44.8 | 51.2 | 
+| December | 47.5 | 43.5 | 45.2 | 51.3 | 
+| 2026-January | 46.9 | 42.5 | 44.8 | 51.1 | 
+| February | 44.7 | 42.3 | 45.4 | 50.5 | 
+| March | 48.8 | 43.2 | 43.5 | 51.5 | 
+| April | 47.3 | 42.4 | 45.3 | 50.9 | 
+| May | 48.1 | 43.8 | 45.1 | 51.2 | 
+| June | 47.9 | 44.2 | 45.3 | 51.3 | 
+| July | 47.0 | 43.3 | 45.1 | 50.9 | 
+| August | 47.0 | 42.8 | 45.6 | 51.2 | 
+| September | 48.5 | 43.8 | 46.3 | 51.3 | 
+III. Composite PMI Output Index
+In September, the composite PMI output index was 50.7%, an increase of 1.2 percentage points from the previous month. The figure was above the threshold, indicating that the overall production and operational activities of Chinese enterprises expanded compared to the previous month.
+Annotations:
+1. Notes on Main Indicators
+Purchasing Managers’ Index (PMI) is a composite index based on the results of the monthly survey of purchasing managers in enterprises. It encompasses various aspects, including procurement, production, and distribution, across both the manufacturing and non-manufacturing industries. It is one of the internationally recognized leading indicators for monitoring macroeconomic trends, with strong predictive and early warning functions. Composite PMI Output Index is a comprehensive indicator within the PMI indicator system that reflects the overall changes in output across all industries (manufacturing and non-manufacturing) during the current period. A PMI reading above 50% indicates an expansion in the overall economy compared to the previous month, while a reading below 50% reflects a contraction.
+2. Statistical Coverage
+The survey involves 3,200 samples from 31 manufacturing industries and 4,300 samples from 43 non-manufacturing industries, as classified in the Industrial Classification for National Economic Activities (GB/T 4754-2017).
+3. Survey Method
+The PPS (Probability Proportional to Size) sampling method is adopted in the purchasing managers’ survey, with the manufacturing and non-manufacturing industries serving as strata. The sample size for each industry is determined in proportion to its share of value added in the total value added of manufacturing or non-manufacturing industries. Within each stratum, samples are selected with probabilities proportional to the enterprises’ principal business revenue.
+The survey was organized and implemented by survey teams directly affiliated with the NBS of China. The Online Reporting System of the NBS of China was used to conduct monthly survey questionnaires among the purchasing managers of the selected enterprises.
+4. Calculation Methods
+(1) Calculation Method of Sub-indexes. The index system of the manufacturing purchasing managers’ survey includes 13 sub-indexes, namely production, new orders, new export orders, existing orders, finished goods inventory, purchase quantity, import, main raw materials purchase price, producer price, raw materials inventory, employment, supplier delivery time, and production and operation expectation indexes. The index system of the non-manufacturing purchasing managers’ survey includes 10 sub-indexes, namely business activities, new orders, new export orders, existing orders, inventory, input price, sales price, employment, supplier delivery time, and business activity expectation indexes. Sub-indexes adopt the diffusion index calculation method, i.e., the percentage of enterprises with positive answers plus half of the percentage of those with the same answers. Since there is no composite index for the non-manufacturing industry, the business activity index is generally adopted internationally to reflect the overall changes in non-manufacturing economic development.
+(2) Calculation Method of Manufacturing PMI. Manufacturing PMI is a weighted composite index calculated from five diffusion indexes (sub-indexes). Five sub-indexes and their weights are determined in accordance with their leading impact on the economy. Specifically, the new order index weights 30%; the production index weights 25%; the employment index weights 20%; the supplier delivery time index weights 15%; the raw materials inventory index weights 10%. Among them, the supplier delivery time index is an inverted index, which is inversely calculated when compiling the manufacturing PMI.
+(3) Calculation Method of Composite PMI Output Index. Composite PMI Output Index is calculated as a weighted sum of the manufacturing production index and the non-manufacturing business activity index. Their weights are respectively determined by the proportion of manufacturing and non-manufacturing industries in GDP.
+5. Seasonal Adjustments
+The purchasing managers’ survey is conducted on a monthly basis. Due to the influence of seasonal factors, the data may fluctuate significantly. All released indexes have been seasonally adjusted.</description>
+      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202610/t20261008_1965466.html</guid>
+    </item>
+    <item>
+      <title>Latest Releases</title>
+      <link>http://www.stats.gov.cn/english/PressRelease/</link>
+      <description>Published: 2026-10-01
+
+Chinese(GB)
+RSS
+Organizational Chart
+Data
+Communiqués
+Legal Framework
+Classifications &amp; Methods
+Latest Releases
+International Cooperation
+Understanding Statistics
+Agency
+Release Calendar
+Home
+&gt;
+Latest Releases
+1.Purchasing Managers’ Index for September 2026
+2026-10-01
+2.Profits of Industrial Enterprises above the Designated Size from January to August in 2026
+2026-09-29
+3.Market Prices of Important Means of Production in Circulation, September 11-20, 2026
+2026-09-24
+4.Industrial Production Operation in August 2026
+2026-09-16
+5.Investment in Fixed Assets from January to August 2026
+2026-09-16
+6.Investment in Real Estate Development from January to August 2026
+2026-09-16
+7.Total Retail Sales of Consumer Goods from January to August 2026
+2026-09-16
+8.Energy Production in August 2026
+2026-09-16
+9.National Economy Remained Steady with Innovation-Led and High-Quality Development in Au...
+2026-09-15
+10.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
+2026-09-15
+11.Market Prices of Important Means of Production in Circulation, September 1-10, 2026
+2026-09-14
+12.Consumer Price Index in August 2026
+2026-09-10
+13.Industrial Producer Price Indexes in August 2026
+2026-09-10
+14.Market Prices of Important Means of Production in Circulation, August 21-31, 2026
+2026-09-04
+15.Purchasing Managers’ Index for August 2026
+2026-09-01</description>
+      <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
+    </item>
     <item>
       <title>Profits of Industrial Enterprises above the Designated Size from January t...</title>
       <link>https://www.stats.gov.cn/english/PressRelease/202609/t20260929_1965447.html</link>
@@ -122,58 +282,6 @@ Financial reports of industrial enterprises above the designated size are subjec
 V. Industrial Classification Standard
 The Industrial Classification for National Economic Activities (GB/T 4754-2017) was implemented.</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202609/t20260929_1965447.html</guid>
-    </item>
-    <item>
-      <title>Latest Releases</title>
-      <link>http://www.stats.gov.cn/english/PressRelease/</link>
-      <description>Published: 2026-09-29
-
-Chinese(GB)
-RSS
-Organizational Chart
-Data
-Communiqués
-Legal Framework
-Classifications &amp; Methods
-Latest Releases
-International Cooperation
-Understanding Statistics
-Agency
-Release Calendar
-Home
-&gt;
-Latest Releases
-1.Profits of Industrial Enterprises above the Designated Size from January to August in 2026
-2026-09-29
-2.Market Prices of Important Means of Production in Circulation, September 11-20, 2026
-2026-09-24
-3.Industrial Production Operation in August 2026
-2026-09-16
-4.Investment in Fixed Assets from January to August 2026
-2026-09-16
-5.Investment in Real Estate Development from January to August 2026
-2026-09-16
-6.Total Retail Sales of Consumer Goods from January to August 2026
-2026-09-16
-7.Energy Production in August 2026
-2026-09-16
-8.National Economy Remained Steady with Innovation-Led and High-Quality Development in Au...
-2026-09-15
-9.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
-2026-09-15
-10.Market Prices of Important Means of Production in Circulation, September 1-10, 2026
-2026-09-14
-11.Consumer Price Index in August 2026
-2026-09-10
-12.Industrial Producer Price Indexes in August 2026
-2026-09-10
-13.Market Prices of Important Means of Production in Circulation, August 21-31, 2026
-2026-09-04
-14.Purchasing Managers’ Index for August 2026
-2026-09-01
-15.China’s New Economic Growth Drivers Index Increased by 12.5% in 2025
-2026-08-28</description>
-      <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
     </item>
     <item>
       <title>Market Prices of Important Means of Production in Circulation, September 1...</title>
@@ -320,101 +428,6 @@ Attached Table: Specifications of Market Price Monitoring Products of Important 
 | 49 | Pulp | Imported Coniferous Pulp | Tensile Index≥85.0N·m/g, Burst Index≥6.5KPa·m2/g, Tearing Index≥9.0mN·m2/g | 
 | 50 | Corrugated Paper | AA Grade, 120g | 120±5g/m2 |</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202609/t20260923_1965404.html</guid>
-    </item>
-    <item>
-      <title>Investment in Fixed Assets from January to August 2026</title>
-      <link>https://www.stats.gov.cn/english/PressRelease/202609/t20260916_1965343.html</link>
-      <description>Published: 2026-09-16 10:00:00
-
-Investment in Fixed Assets from January to August 2026
-From January to August 2026, the national investment in fixed assets (excluding rural households) was 29,309.2 billion yuan, a year-on-year decrease of 7.2% (calculated on a comparable basis; see Annotation 7 for details). Specifically, the investment in intellectual property products increased by 9.2% year on year.
-By industry, the investment in the primary industry was 583.2 billion yuan, a year-on-year decrease of 2.4%; the investment in the secondary industry was 11,309.4 billion yuan, down 2.9%; and the investment in the tertiary industry was 17,416.6 billion yuan, down 9.9%.
-The industrial investment decreased by 2.9% year on year. Specifically, the investment in mining increased by 3.4%, the investment in manufacturing decreased by 2.3%, and the investment in production and supply of electricity, heat power, gas and water decreased by 6.9%.
-The investment in infrastructure (see Annotation 1 for details of statistical scope) decreased by 4.0% year on year. Specifically, the investment in information transmission increased by 28.4%, the investment in civil aviation transportation increased by 16.7%, and the investment in waterway transportation increased by 14.7%.
-By region, the investment in the eastern region decreased by 9.4% year on year, the investment in the central region decreased by 8.7%, the investment in the western region decreased by 8.8%, and the investment in the northeastern region decreased by 25.5%.
-By statistical category of registration, the investment in fixed assets of domestic-invested enterprises decreased by 7.1% year on year, the investment in fixed assets of enterprises funded by investors from Hong Kong, Macao, and Taiwan decreased by 6.9%, and the investment in fixed assets of foreign-invested enterprises decreased by 4.3%.
-From January to August 2026, non-governmental investment in fixed assets decreased by 10.1% year on year. On a month-on-month basis, the investment in fixed assets (excluding rural households) decreased by 0.5% in August.
-Investment in Fixed Assets (Excluding Rural Households) from January to August 2026
-| Indicator | Growth Rate Y/Y (%) | 
-| Investment in Fixed Assets (Excluding Rural Households) | -7.2 | 
-| Of which: State-holding | -3.6 | 
-| Of which: Non-governmental investment | -10.1 | 
-| By component |  | 
-| Construction and installation | -9.8 | 
-| Purchase of equipment and instruments | 9.3 | 
-| Other expenses | -12.0 | 
-| By industry |  | 
-| Primary industry | -2.4 | 
-| Secondary industry | -2.9 | 
-| Tertiary industry | -9.9 | 
-| By sector |  | 
-| Agriculture, forestry, animal husbandry and fishery | -3.0 | 
-| Mining | 3.4 | 
-| Manufacturing | -2.3 | 
-| Of which: Processing of food from agricultural and sideline products | -2.0 | 
-| Manufacture of foods | -10.4 | 
-| Textile industry | 5.4 | 
-| Manufacture of raw chemical materials and chemical products | -8.1 | 
-| Manufacture of medicines | -8.3 | 
-| Smelting and pressing of non-ferrous metals | -4.1 | 
-| Manufacture of metal products | -8.9 | 
-| Manufacture of general-purpose machinery | 0.9 | 
-| Manufacture of special-purpose machinery | -9.0 | 
-| Manufacture of automobiles | -6.0 | 
-| Manufacture of railway, ship, aerospace and other transport equipment | 16.3 | 
-| Manufacture of electrical machinery and apparatus | 0.8 | 
-| Manufacture of computers, communication equipment and other electronic equipment | 8.1 | 
-| Production and supply of electricity, heat power, gas and water | -6.9 | 
-| Transport, storage and post | 2.1 | 
-| Of which: Road transportation | -8.0 | 
-| Water conservancy, environment and public facilities management | -11.0 | 
-| Of which: Management of water conservancy | -12.0 | 
-| Management of public facilities | -11.2 | 
-| Education | -15.6 | 
-| Health and social services | -14.0 | 
-| Culture, sports and entertainment | -14.9 | 
-| By statistical category of registration |  | 
-| Of which: Domestic-invested enterprises | -7.1 | 
-| Enterprises funded by investors from Hong Kong, Macao, and Taiwan | -6.9 | 
-| Foreign-invested enterprises | -4.3 | 
-| Note: The growth rates in this table are not adjusted for price factors. |  | 
-Annotations:
-1. Notes on Indicators
-Investment in fixed assets (excluding rural households): It is a general term representing the monetary value of the workload completed in a certain period concerning the construction and acquisition of fixed assets, as well as the related expenses.
-Investment in infrastructure: In accordance with current statistical rules, investment in infrastructure includes fixed-asset investment in the following sectors: production and supply of electricity and heat power; production and supply of gas; production and supply of water; railway transportation; road transportation; waterway transportation; civil aviation transportation; pipeline transportation; multimodal transportation and transport agency industry; loading, unloading and handling; post; telecommunication, radio, television and satellite transmission services; Internet and related services; management of water conservancy; ecological conservation and environmental governance; and management of public facilities. The growth rate of investment in infrastructure is calculated on a comparable basis.
-State-holding enterprises: Absolute state-holding where the proportion of the paid-in capital (equity) owned by contributors with a state-owned economic component in the total paid-in capital (equity) of the enterprise is greater than 50%.
-Relative state-holding where the proportion of the paid-in capital (equity) owned by contributors with a state-owned economic component in the total paid-in capital (equity) of the enterprise is no greater than 50%, but is more than the proportion of contributors with any other economic component; or state-holding by agreement where the proportion of contributors with a state-owned economic component is no greater than that of contributors with other economic components, but the actual control of the enterprise is exercised by contributors with a state-owned economic component according to the agreement.
-For enterprises in which both parties each hold 50% and no absolute controlling party is specified, if one of the parties is a state-owned economic component, the enterprise shall be classified as state-holding.
-The investment projects of administrative and public institutions are state-holding.
-Statistical category of registration: The classification is conducted in accordance with the Regulations on the Statistical Classification of Market Entities (Guotongzi [2023] No.14), jointly issued by the National Bureau of Statistics of China and the State Administration for Market Regulation.
-2. Statistical Coverage
-Investment in fixed asset projects with a total planned investment of 5 million yuan or more, as well as investment in all real estate development projects.
-3. Survey Method
-Statistics on investment in fixed assets are collected through a comprehensive monthly survey (with reporting exempted for January).
-4. Definition of Eastern, Central, Western and Northeastern Regions
-The eastern region includes 10 provinces (municipalities), namely, Beijing, Tianjin, Hebei, Shanghai, Jiangsu, Zhejiang, Fujian, Shandong, Guangdong, and Hainan; the central region includes 6 provinces, namely, Shanxi, Anhui, Jiangxi, Henan, Hubei, and Hunan; the western region includes 12 provinces (municipalities and autonomous regions), namely, Inner Mongolia, Guangxi, Chongqing, Sichuan, Guizhou, Yunnan, Xizang, Shaanxi, Gansu, Qinghai, Ningxia, and Xinjiang; the northeastern region includes 3 provinces, namely, Liaoning, Jilin and Heilongjiang.
-5. Industrial Classification Standard
-The Industrial Classification for National Economic Activities (GB/T 4754-2017) was implemented.
-6. Revision of Month-on-Month Data
-According to the results of automatic correction based on the seasonal adjustment model, the month-on-month growth rates of investment in fixed assets (excluding rural households) since August 2025 have been revised. The revised results and month-on-month data for August 2026 are as follows:
-| Year | Months | Growth Rate M/M (%) | 
-| 2025 | August | -1.52 | 
-|  | September | -0.11 | 
-|  | October | -1.39 | 
-|  | November | -0.66 | 
-|  | December | -1.61 | 
-| 2026 | January | 0.72 | 
-|  | February | 0.30 | 
-|  | March | -0.99 | 
-|  | April | -2.52 | 
-|  | May | -0.99 | 
-|  | June | -0.10 | 
-|  | July | -1.37 | 
-|  | August | -0.50 | 
-7. Explanation of Year-on-Year Growth Rate
-In accordance with the reform of investment statistical methods, statistical law enforcement inspections, and other regulations, the data on investment in fixed assets for the same period of the previous year have been revised, and the growth rates of investment in fixed assets are calculated on a comparable basis.
-Due to cross‑regional investment, there are limitations to the comparability between regional investment growth rates and the national investment growth rate.</description>
-      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202609/t20260916_1965343.html</guid>
     </item>
     <item>
       <title>Industrial Production Operation in August 2026</title>

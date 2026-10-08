@@ -1,0 +1,34 @@
+TITLE:
+US FCC plan to bar Chinese testing labs could disrupt global electronics supply chains, raise industry costs: analysts
+
+PUBLISHED:
+2026-10-08 14:19:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1371820.shtml
+
+ARTICLE TEXT:
+The seal of the Federal Communications Commission (FCC) prior to an open commission meeting at the agency's headquarters in Washington, DC, US, on Wednesday, Feb. 18, 2026. Photo: VCG
+A US plan to bar Chinese laboratories from testing electronic devices for the American market could disrupt a key link in the global electronics supply chain, potentially forcing manufacturers to move testing operations overseas and raising costs for an industry heavily reliant on China's manufacturing and testing capabilities, Chinese analysts said on Thursday.
+The US Federal Communications Commission (FCC) said on Wednesday that it will vote on October 29 on a proposal to bar laboratories and certification bodies in countries including China that do not offer reciprocal treatment to US-based labs from conducting FCC-required testing, Reuters reported.
+The proposed restrictions, covering devices such as smartphones, computers and cameras destined for the US market, are scheduled to take effect in December 2028 if approved.
+The proposal would widen restrictions introduced in 2025, when the FCC barred laboratories owned or controlled by the Chinese government from testing electronics for the US market, affecting several dozen facilities. The agency said this year, however, that a substantial majority of China-based labs continued to conduct such testing, according to Reuters.
+He Weiwen, a senior fellow at the Center for China and Globalization, told the Global Times on Thursday that the proposed ban marks a further expansion of the FCC's technology restrictions on China, extending beyond telecom operators and equipment to testing and certification services.
+"The move reflects an attempt to suppress China's role in the telecommunications sector, driven by concerns over the competitive disadvantage of the US relative to China in these areas," the expert said, describing the measure as a non-market, protectionist approach to technological competition.
+According to the Reuters report, FCC Chairman Brendan Carr said that 82 percent of electronic devices covered by the agency's testing figures were tested in China in 2025, while fewer than 4 percent were tested in US-based laboratories.
+Under the proposal, manufacturers relying on China-based labs for FCC testing would need to shift to facilities in the US or other eligible economies. In a proposed rule published in the US Federal Register in May, the FCC sought public comment on ways to mitigate transition costs, as well as possible additional fees and oversight requirements.
+The concentration of testing in China reflects the close integration of electronics manufacturing and compliance testing, an arrangement that global manufacturers have benefited from for years, with nearby laboratories helping reduce logistics costs and shorten development cycles, according to international testing firm Element.
+Element also warned that shifting testing to other approved laboratories could lead to longer lead times and higher costs as demand puts pressure on available capacity. Manufacturers could also face greater scheduling difficulties and reduced access to specialized testing expertise, particularly for less common types of testing.
+He Weiwen cautioned that placing national security considerations above objective technological principles could hinder technological progress and harm economic efficiency.
+The proposal is the latest in a series of FCC restrictions affecting Chinese technology. The agency blocked approval of new models of Chinese-made drones in December 2025 and foreign-made consumer routers in March 2026. It also expanded equipment restrictions involving Huawei and ZTE in June and moved in July to bar devices containing key components from Chinese firms under the pretext of so-called national security risks.
+Alongside the proposed ban, the FCC also introduced a streamlined review process for certain devices tested in US laboratories or those in economies with reciprocal arrangements, according to an FCC statement issued in April.
+He Weiwen said that the measures reflect a broader US push to build what it calls "secure supply chains" in next-generation information and communications technology and artificial intelligence, with the aim of excluding China. But such an approach risks fragmenting global technology supply chains, and undermining the efficiency of international industrial cooperation.
+Responding to the agency's earlier measures on May 1, a spokesperson for China's Ministry of Commerce said that the FCC had abandoned the principle of technology neutrality and overstretched the concept of national security. China will take necessary measures to firmly safeguard the legitimate rights and interests of Chinese enterprises.
+China-US economic and trade ties have shown signs of stabilization, with the two sides reaching agreements during their September talks on reciprocal tariff reductions covering about $30 billion worth of goods each and the establishment of new trade and investment dialogue mechanisms.
+The progress had helped stabilize China-US relations and foster constructive engagement, but unresolved disputes required further efforts by both sides, particularly the US, to manage differences and sustain the positive momentum, with the ultimate goal of maintaining stable bilateral economic and trade ties, He Weiwen stressed.

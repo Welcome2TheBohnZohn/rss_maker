@@ -1,0 +1,25 @@
+TITLE:
+Chinese scientists develop rice's full-lifecycle cell atlas
+
+PUBLISHED:
+2026-10-08
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1008/c90000-20505986.html
+
+ARTICLE TEXT:
+Chinese scientists develop rice's full-lifecycle cell atlas
+HAIKOU, Oct. 7 (Xinhua) -- Chinese researchers have developed the world's first three-dimensional spatiotemporal cell atlas that tracks the entire growth lifecycle of rice.
+The landmark findings, published online Tuesday in the international journal Cell, resolve long-standing bottlenecks in observing and understanding how rice cells grow, divide and coordinate to shape the crop.
+Led by Yazhouwan National Laboratory based in south China's Hainan Province, a consortium of 12 research institutions, including Chinese biotech firm BGI-Research and Huazhong Agricultural University, built a 3D spatiotemporal cell atlas covering rice's entire journey, from seed germination to flowering and grain filling. The resource supports future efforts to improve grain quality, according to the team.
+Using the widely cultivated japonica rice variety Zhonghua 11 as the research subject, the scientists integrated self-developed spatial omics, single-cell omics and high-throughput sequencing technologies to build a comprehensive rice cell atlas.
+Covering 10 types of rice organs and tissues and 61 continuous developmental stages, the atlas is built on more than 850,000 high-quality single-nucleus datasets and over 340,000 spatial data units. The team precisely identified and annotated 119 cell types and 133 cell subtypes, successfully matching each cell's molecular features with its spatial location and dynamic changes across growth stages.
+The high-resolution atlas enables researchers to visually and systematically observe how different rice cells collaborate and self-organize to form a complete plant, offering an unprecedented tool for decoding rice developmental mechanisms.
+To further support global rice research, the team also developed a single-cell foundation model for rice, which enables efficient identification, comparison and reuse of massive omics data, providing vital technical support for identifying key functional genes and advancing innovative, precision rice breeding research.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
