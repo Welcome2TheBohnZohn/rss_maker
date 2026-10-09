@@ -1,0 +1,32 @@
+TITLE:
+Chinese, European teams confirm FAST discovery of first known evolving primordial pulsar triple
+
+PUBLISHED:
+2026-10-09 15:02:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1371897.shtml
+
+ARTICLE TEXT:
+An artist's impression of the first known primordial pulsar triple system with a still-evolving companion star. Courtesy: Produced by Bureau of International Cooperation, Chinese Academy of Sciences 
+China's FAST telescope has helped uncover the first known primordial pulsar triple with a still-evolving companion star, according to a statement sent to the Global Times by the National Astronomical Observatories (NAOC) of the Chinese Academy of Sciences. Chinese and European scientists independently confirmed the finding through shared data from observatories around the world.
+The system, known as PSR J0435+3233, consists of a pulsar, a white dwarf and a Sun-like star. Researchers believe the three were born together, making it a primordial system, but have since followed different paths as they aged.
+The Chinese study, led by Han Jinlin, a researcher at the NAOC, was published in The Astrophysical Journal Letters on Friday.
+A European team comprising scientists from Germany, the Netherlands, France and the UK independently analyzed similar archival data and reached the same conclusion about the system's triple nature. The parallel studies combined China's radio observations with data from international space missions and sky surveys.
+FAST, short for the Five-hundred-meter Aperture Spherical radio Telescope and known as China's "Sky Eye," has discovered more than 1,000 pulsars since its completion, including a range of rare systems.
+PSR J0435+3233 was first detected on June 8, 2020, by an NAOC team conducting a drift-scan survey with FAST. The pulsar, a rapidly rotating neutron star, completes one rotation every 3.2 milliseconds.
+Researchers at the Xinjiang Astronomical Observatory then used FAST to monitor it for nearly five years, obtaining 192 timing measurements. They found that the pulsar and a white dwarf orbit their shared center of mass every eight days in an almost circular orbit.
+But the observations presented a puzzle: the pulsar appeared to be slowing down about 100 times faster than comparable millisecond pulsars. Those findings were published in Nature Astronomy in April.
+To investigate, Han's team combined FAST radio measurements with publicly available optical and infrared data from Gaia, 2MASS and Pan-STARRS, as well as long-term gamma-ray observations from the Fermi satellite. Together, these observations revealed a third companion: a star with roughly the mass of the Sun.
+The Chinese team calculated that this outer star takes about 73.5 years to circle the inner pair on an elongated orbit with an eccentricity of about 0.6. Its gravitational pull changes the inner pair's motion relative to Earth, altering the observed intervals between pulses and accounting for the unusually large apparent slowdown.
+Excluding systems with planetary companions, PSR J0435+3233 is only the second confirmed stellar triple containing a pulsar. The previously known system, PSR J0337+1715, was discovered using the US Green Bank Telescope and already consists of one pulsar and two white dwarfs. The presence of a star that has yet to become a stellar remnant gives astronomers a rare opportunity to study how such systems evolve.
+NAOC described the stellar triple as "extremely unique" because it contains a still-evolving star. In the researchers' proposed formation scenario, the most massive of the three stars began with about 20 times the Sun's mass and eventually exploded as a supernova, leaving behind the neutron star. Its closer companion, initially several times as massive as the Sun, later became a white dwarf. The least massive star, farther from the inner pair, is still undergoing stellar evolution.
+Over time, the outer star is also expected to become a white dwarf, leaving a pulsar with two white-dwarf companions, according to NAOC.
+NAOC described the discovery as a milestone made possible by research teams in China and abroad building on one another's work and combining observations across multiple wavelengths. It demonstrated the value of open data sharing and collaborative efforts to tackle scientific challenges, the observatory said.
+The clear and pronounced gravitational interactions among the three members make this evolving primordial system a valuable natural laboratory for testing fundamental theories of gravity, including the strong equivalence principle, the NAOC said. The system also offers a rare opportunity to study the complex evolution of triple-star systems and explore astrophysical processes in extreme environments.
