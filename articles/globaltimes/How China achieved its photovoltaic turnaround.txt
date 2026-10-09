@@ -1,0 +1,28 @@
+TITLE:
+How China achieved its photovoltaic turnaround
+
+PUBLISHED:
+2026-10-09 21:21:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1371910.shtml
+
+ARTICLE TEXT:
+Solar rooftop photovoltaic power generation facilities are seen on a building in Qingdao, East China's Shandong Province, on June 23, 2026. Photo: VCG
+By the end of July, China's installed capacity of solar panels reached 1.286 billion kilowatts in China, surpassing that of coal power for the first time to become the nation's largest power source by installed capacity. In China, photovoltaic (PV) power has shifted from a "satellite-exclusive luxury" to a power source cheaper than coal. This remarkable turnaround offers deep insights into industrial growth and the fundamental laws of energy transition.
+The essence of this turnaround lies in locking the market and the factories into a single closed-loop system, driving that ecosystem toward systematic synergy and high-efficiency operation.
+To get this virtuous cycle spinning, the first step was a vigorous push to expand the domestic market. China has been leveraging policy coordination to anchor and open up the domestic market. Measures included shifting subsidies entirely to actual power generation output with 20-year guaranteed terms. This not only plugged loopholes prone to subsidy fraud but also provided stable, long-term revenue streams, turning solar farms into bankable assets that financial institutions were willing to lend to. 
+The foresight of this policy lay not merely in daring to invest when solar costs remained high, but in building a mechanism that forced costs downward rather than simply throwing subsidies at enterprises to keep them afloat. Truly effective industrial policy does not replace the market; rather, it allows market forces to play out fully over long cycles.
+Once the market opened, cost reduction shifted to continuous technological innovation, driven by compounding, chain-reaction improvements rather than single breakthroughs. Innovations like diamond wire saws slashed silicon wafer costs and established mono-crystalline wafers as the mainstream choice, a trajectory mirrored by PERC solar cell technology.
+These technologies were not originally invented in China, but why were their industrialization fates ultimately rewritten in Chinese workshops? The reason lies in China's comprehensive, all-inclusive industrial supply chains and intense market competition. The moment a new manufacturing process is successfully verified and run at a single company, domestic equipment suppliers immediately step up with iterative upgrades, and industry peers race to expand production capacity, achieving widespread adoption across the entire sector within a few years. Today, China's PV industry R&D strength has entered the global vanguard.
+Besides, technology dictates the content of learning, while scale determines its speed. China accounts for over 80 percent of manufacturing output across all segments of the solar supply chain, meaning the vast majority of global PV industrial experience has been accumulated in China. The true weight of China's scaled industrial capacity lies in the fact that its expanding output can, by and large, find genuine, real-world demand to absorb it, be it at home or abroad. When supply can be manufactured and demand can absorb it, costs can slide steadily down the "learning curve."
+Of course, the industry faces pressing real-world challenges in integration and absorption. On the power grid side, midday surges in solar generation coupled with insufficient support during evening peak hours mean that energy storage deployment and market mechanisms urgently need strengthening. On the industrial side, harmonizing industrial policy with effective measures to curb cutthroat price competition and realigning the supply side with genuine market demand are vital tasks for the period ahead.
+From a "luxury item on satellites" to a ubiquitous fixture on deserts, rooftops, and fish ponds, solar power has journeyed for over seven decades since the invention of the silicon solar cell. The answer behind China's solar turnaround is hardly a secret: policy guided the market back home, an integrated supply chain system translated innovation into scaled manufacturing capacity, and an ultra-large market and application ecosystem further refined that capacity into seasoned industrial expertise. Chinese enterprises had paid the "tuition fee," and today, the dividends and hard-earned lessons of cost reduction are shared with the world.
+For the world, the profound significance of China's PV turnaround lies in shattering conventional mindsets: energy security does not have to be entirely tethered to underground reserves and maritime trade routes; at least a portion of it can be forged right inside a workshop.
+The author is a research fellow at the Guangdong Provincial Key Laboratory of Risk Perception and Sustainable Governance in Energy Transition. Fu Hongdi also contributed to this article. opinion@globaltimes.com.cn
