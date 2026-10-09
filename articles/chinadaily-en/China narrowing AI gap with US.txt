@@ -1,0 +1,32 @@
+TITLE:
+China narrowing AI gap with US
+
+PUBLISHED:
+2026-10-09
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202610/09/WS6ac83bd2e4b06d4aa0561c74.html
+
+ARTICLE TEXT:
+China narrowing AI gap with US
+China's top artificial intelligence models have narrowed the performance gap with their United States' rivals to around 3 percent, the lowest on record, as advances by DeepSeek are increasingly matched by a wider group of Chinese developers.
+According to a report from Bloomberg Intelligence, the gap has fallen from about 9 percent in May and 15 percent earlier this year following the September release of DeepSeek's V4.1 Flash model.
+Bloomberg Intelligence senior analyst Robert Lea said that the speed of the catching-up process raises fresh questions over how long the US can maintain its technological lead, and could help Chinese AI firms capture a larger share of the global market.
+Notably, DeepSeek is no longer China's only serious challenger. Models developed by Alibaba, Moonshot AI and Z.ai — formerly known as Zhipu AI — are increasingly appearing near the top of global rankings.
+Artificial Analysis, a model-testing platform, has placed Alibaba's Qwen, Z.ai's GLM and Moonshot's Kimi models close to the frontier, with some scoring above DeepSeek on its own composite tests.
+Developers are increasingly using Chinese models. Over the 30 days through Wednesday, DeepSeek V4.1 Flash handled about 85 trillion tokens on model aggregation platform OpenRouter, making it the most-used model on the platform.
+Z.ai's GLM 5.3 Flash ranked third with about 55.2 trillion tokens, followed by Tencent's Hy4 Preview, while two models from Chinese smartphone maker Xiaomi were also among the top 10.
+Zhang Yaqin, founding dean of Tsinghua University's Institute for AI Industry Research, said: "Before DeepSeek emerged, China was two to three years behind the US in large AI models. Since DeepSeek's breakthrough, the gap had narrowed to about two to three months, roughly the equivalent of a single model generation."
+Zhang said Chinese models — from DeepSeek and Alibaba's Qwen to ByteDance's Doubao — have entered the global top tier, while China is increasingly carving out its own path in areas such as model efficiency, open-source development and industrial applications.
+Yu Xiaohui, former president of the China Academy of Information and Communications Technology, said earlier in an interview, "Chinese models are now broadly comparable with leading overseas rivals in basic capabilities and can have an advantage in Chinese-language tasks."
+Stanford's 2026 AI Index said the performance gap between the top US and Chinese models had "effectively closed". As of March, the best US model was still ahead, but by only 2.7 percent, and models from the two countries had traded places at the top of rankings several times since early 2025.
+However, Yu also pointed to weaknesses in more demanding reasoning and tool use, and said China still lags behind the global frontier in original innovation.
+"China has built large amounts of computing capacity without yet turning all of it into the same kind of seamless ecosystem available to US developers. Domestic AI chips often use different software systems, forcing developers to spend more time adapting models to different hardware," he said.
+Tang Jie, a Tsinghua University computer science professor, said China still needs to catch up in high-end computing chips, fundamental AI architecture and the broader technology ecosystem, while producing more breakthroughs that originate in China rather than improving on existing approaches.
+chengyu@chinadaily.com.cn

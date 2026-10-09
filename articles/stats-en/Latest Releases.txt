@@ -2,7 +2,7 @@ TITLE:
 Latest Releases
 
 PUBLISHED:
-2026-10-01
+2026-10-09
 
 SOURCE:
 National Bureau Statistics English
@@ -29,33 +29,33 @@ Release Calendar
 Home
 >
 Latest Releases
-1.Purchasing Managers’ Index for September 2026
+1.Market Prices of Important Means of Production in Circulation, September 21-30, 2026
+2026-10-09
+2.Purchasing Managers’ Index for September 2026
 2026-10-01
-2.Profits of Industrial Enterprises above the Designated Size from January to August in 2026
+3.Profits of Industrial Enterprises above the Designated Size from January to August in 2026
 2026-09-29
-3.Market Prices of Important Means of Production in Circulation, September 11-20, 2026
+4.Market Prices of Important Means of Production in Circulation, September 11-20, 2026
 2026-09-24
-4.Industrial Production Operation in August 2026
+5.Industrial Production Operation in August 2026
 2026-09-16
-5.Investment in Fixed Assets from January to August 2026
+6.Investment in Fixed Assets from January to August 2026
 2026-09-16
-6.Investment in Real Estate Development from January to August 2026
+7.Investment in Real Estate Development from January to August 2026
 2026-09-16
-7.Total Retail Sales of Consumer Goods from January to August 2026
+8.Total Retail Sales of Consumer Goods from January to August 2026
 2026-09-16
-8.Energy Production in August 2026
+9.Energy Production in August 2026
 2026-09-16
-9.National Economy Remained Steady with Innovation-Led and High-Quality Development in Au...
+10.National Economy Remained Steady with Innovation-Led and High-Quality Development in Au...
 2026-09-15
-10.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
+11.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
 2026-09-15
-11.Market Prices of Important Means of Production in Circulation, September 1-10, 2026
+12.Market Prices of Important Means of Production in Circulation, September 1-10, 2026
 2026-09-14
-12.Consumer Price Index in August 2026
+13.Consumer Price Index in August 2026
 2026-09-10
-13.Industrial Producer Price Indexes in August 2026
+14.Industrial Producer Price Indexes in August 2026
 2026-09-10
-14.Market Prices of Important Means of Production in Circulation, August 21-31, 2026
+15.Market Prices of Important Means of Production in Circulation, August 21-31, 2026
 2026-09-04
-15.Purchasing Managers’ Index for August 2026
-2026-09-01
