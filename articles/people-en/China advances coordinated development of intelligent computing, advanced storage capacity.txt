@@ -1,0 +1,40 @@
+TITLE:
+China advances coordinated development of intelligent computing, advanced storage capacity
+
+PUBLISHED:
+2026-10-10
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1010/c90000-20506886.html
+
+ARTICLE TEXT:
+China advances coordinated development of intelligent computing, advanced storage capacity
+A technician inspects a server room at the computing center of Dongying, east China's Shandong province. (Photo/Liu Zhifeng)
+Driven by rapid advancements in artificial intelligence (AI), computing power has evolved into indispensable new digital infrastructure. It enables a wide range of real-world applications: AI systems can now estimate caloric content from a simple photograph; massive traffic datasets are processed in real time to optimize urban mobility; production workflows are dynamically scheduled to enhance factory efficiency; and highly realistic visuals are generated for creative media production.
+According to China's Ministry of Industry and Information Technology, national intelligent computing capacity reached 2,185 exaflops (EFLOPS) by the end of June 2026. To support this expansion, over 70 major computing corridors have been established, linking key national data hubs across the country.
+In August 2026, China unveiled its development blueprint for the information and communications sector covering the 15th Five-Year Plan period (2026-2030). The plan sets ambitious targets: by 2030, intelligent computing capacity is expected to reach 9,800 EFLOPS, and advanced storage capacity to hit 1,700 exabytes (EB) -- representing increases of more than fivefold and twofold, respectively, compared to 2025 baselines.
+But what exactly is the relationship between computing power and storage? And what do these rapid expansion goals signify? To answer these questions, People's Daily consulted leading experts in the field.
+"Computing power primarily handles data processing, model training, and inference, while storage capacity manages data collection, governance, hosting, and distribution," said Guo Liang, chief engineer at the Cloud Computing and Big Data Research Institute under the China Academy of Information and Communications Technology.
+In practice, AI training checkpoints, intermediate states during AI-agent inference, and contextual memory buffers are distributed across tiered high-performance storage systems. By synchronizing compute and storage resources, developers can significantly accelerate AI model training, improve inference speed, and enhance output quality.
+As of June 2026, the nationwide utilization rate of computing facilities stood at 71.4 percent, while total storage capacity reached about 2,021 EB, with advanced storage accounting for around 32 percent.
+A heterogeneous computing server developed by tech firm Tecorigin is exhibited at the AI Hangzhou 2026 in Hangzhou, east China's Zhejiang province, Aug. 18, 2026. (Photo/Jia Fangwen)
+Large language models are rapidly scaling from hundreds of billions to trillions of parameters, making the compute capacity of individual clusters a decisive factor in training efficiency.
+To address this, the new plan mandates a multi-tiered infrastructure spanning national hubs, regional centers, and edge nodes. It calls for the phased deployment of intelligent computing clusters ranging from 10,000 to over 100,000 GPUs, better accommodating the growing demand for ultra-scale parallel training as model complexity continues to rise.
+According to the plan, China will deploy high-speed transmission technologies of 400G and above, aiming at improving the major computing-power corridors connecting national computing hubs and providing high-quality network support for cross-regional coordination of computing resources.
+Concurrently, the plan promotes the integrated development of computing and energy systems, aiming to build green, low-carbon infrastructure that reduces operational costs while supporting national decarbonization goals.
+"Efficient coordination" is a key focus of China's development of computing infrastructure during the 15th Five-Year Plan period.
+According to a 2026 analysis on China's comprehensive computing power landscape, Hebei, Jiangsu and Guangdong provinces, along with Shanghai and Beijing, rank among the top regions nationwide in overall computing capacity.
+Overall, regional development remains markedly uneven, while deeper integration of computing power with industry-specific applications is still needed. Cross-regional allocation of computing resources also faces multiple constraints in practice.
+Over the next five years, China will build a multi-level computing infrastructure system covering hubs, regions and the edge, improve the interconnected network architecture linking computing facilities, enhance the efficiency of long-distance, cross-regional lossless network transmission between hubs, and fully connect computing platforms across the country. Several experts interviewed said these efforts will significantly improve the efficiency with which data resources are utilized.
+The plan sets targets for intelligent computing capacity and advanced storage capacity to grow by more than fivefold and more than twofold, respectively. Guo said the key purpose of setting such ambitious growth targets is to meet the medium- and long-term development needs of China's AI models and digital industries, while taking into account multiple considerations including industrial development, technological competition and security.
+Workers at an industrial AI visual inspection enterprise in north China's Shanxi province use AI visual inspection equipment to conduct quality checks on industrial products. (Photo/Li Xianjun)
+As of June this year, China had completed the filing process for 988 generative AI services, 686 more than at the end of 2024 and 240 more than at the end of 2025. With the number of large AI models rising year by year, demand for computing power is steadily being released, creating a need for a sufficiently robust computing foundation to support the development and industrial application of various models.
+Meanwhile, data volumes across industries continue to grow, driving rising demand for data storage, governance and circulation. Intelligent applications are placing higher demands on the supply, processing, governance and security of data, making it necessary to take a coordinated approach to the scale, structure and performance of advanced storage capacity.
+"The global expansion of intelligent computing is proceeding rapidly, and high-end intelligent computing has become a critical foundation for competition in the digital sector. Setting a relatively high target will help stimulate innovation throughout the industrial chain, promote coordinated breakthroughs in areas such as intelligent computing clusters, chips and interconnectivity, address shortcomings in computing infrastructure, and gradually narrow the gap with the international advanced level," Guo said.
+Copyright © 2026 People's Daily Online. All Rights Reserved.

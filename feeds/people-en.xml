@@ -7,7 +7,85 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 01:48:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:40:12 +0000</lastBuildDate>
+    <item>
+      <title>China advances coordinated development of intelligent computing, advanced storage capacity</title>
+      <link>https://en.people.cn/n3/2026/1010/c90000-20506886.html</link>
+      <description>Published: 2026-10-10
+
+China advances coordinated development of intelligent computing, advanced storage capacity
+A technician inspects a server room at the computing center of Dongying, east China's Shandong province. (Photo/Liu Zhifeng)
+Driven by rapid advancements in artificial intelligence (AI), computing power has evolved into indispensable new digital infrastructure. It enables a wide range of real-world applications: AI systems can now estimate caloric content from a simple photograph; massive traffic datasets are processed in real time to optimize urban mobility; production workflows are dynamically scheduled to enhance factory efficiency; and highly realistic visuals are generated for creative media production.
+According to China's Ministry of Industry and Information Technology, national intelligent computing capacity reached 2,185 exaflops (EFLOPS) by the end of June 2026. To support this expansion, over 70 major computing corridors have been established, linking key national data hubs across the country.
+In August 2026, China unveiled its development blueprint for the information and communications sector covering the 15th Five-Year Plan period (2026-2030). The plan sets ambitious targets: by 2030, intelligent computing capacity is expected to reach 9,800 EFLOPS, and advanced storage capacity to hit 1,700 exabytes (EB) -- representing increases of more than fivefold and twofold, respectively, compared to 2025 baselines.
+But what exactly is the relationship between computing power and storage? And what do these rapid expansion goals signify? To answer these questions, People's Daily consulted leading experts in the field.
+"Computing power primarily handles data processing, model training, and inference, while storage capacity manages data collection, governance, hosting, and distribution," said Guo Liang, chief engineer at the Cloud Computing and Big Data Research Institute under the China Academy of Information and Communications Technology.
+In practice, AI training checkpoints, intermediate states during AI-agent inference, and contextual memory buffers are distributed across tiered high-performance storage systems. By synchronizing compute and storage resources, developers can significantly accelerate AI model training, improve inference speed, and enhance output quality.
+As of June 2026, the nationwide utilization rate of computing facilities stood at 71.4 percent, while total storage capacity reached about 2,021 EB, with advanced storage accounting for around 32 percent.
+A heterogeneous computing server developed by tech firm Tecorigin is exhibited at the AI Hangzhou 2026 in Hangzhou, east China's Zhejiang province, Aug. 18, 2026. (Photo/Jia Fangwen)
+Large language models are rapidly scaling from hundreds of billions to trillions of parameters, making the compute capacity of individual clusters a decisive factor in training efficiency.
+To address this, the new plan mandates a multi-tiered infrastructure spanning national hubs, regional centers, and edge nodes. It calls for the phased deployment of intelligent computing clusters ranging from 10,000 to over 100,000 GPUs, better accommodating the growing demand for ultra-scale parallel training as model complexity continues to rise.
+According to the plan, China will deploy high-speed transmission technologies of 400G and above, aiming at improving the major computing-power corridors connecting national computing hubs and providing high-quality network support for cross-regional coordination of computing resources.
+Concurrently, the plan promotes the integrated development of computing and energy systems, aiming to build green, low-carbon infrastructure that reduces operational costs while supporting national decarbonization goals.
+"Efficient coordination" is a key focus of China's development of computing infrastructure during the 15th Five-Year Plan period.
+According to a 2026 analysis on China's comprehensive computing power landscape, Hebei, Jiangsu and Guangdong provinces, along with Shanghai and Beijing, rank among the top regions nationwide in overall computing capacity.
+Overall, regional development remains markedly uneven, while deeper integration of computing power with industry-specific applications is still needed. Cross-regional allocation of computing resources also faces multiple constraints in practice.
+Over the next five years, China will build a multi-level computing infrastructure system covering hubs, regions and the edge, improve the interconnected network architecture linking computing facilities, enhance the efficiency of long-distance, cross-regional lossless network transmission between hubs, and fully connect computing platforms across the country. Several experts interviewed said these efforts will significantly improve the efficiency with which data resources are utilized.
+The plan sets targets for intelligent computing capacity and advanced storage capacity to grow by more than fivefold and more than twofold, respectively. Guo said the key purpose of setting such ambitious growth targets is to meet the medium- and long-term development needs of China's AI models and digital industries, while taking into account multiple considerations including industrial development, technological competition and security.
+Workers at an industrial AI visual inspection enterprise in north China's Shanxi province use AI visual inspection equipment to conduct quality checks on industrial products. (Photo/Li Xianjun)
+As of June this year, China had completed the filing process for 988 generative AI services, 686 more than at the end of 2024 and 240 more than at the end of 2025. With the number of large AI models rising year by year, demand for computing power is steadily being released, creating a need for a sufficiently robust computing foundation to support the development and industrial application of various models.
+Meanwhile, data volumes across industries continue to grow, driving rising demand for data storage, governance and circulation. Intelligent applications are placing higher demands on the supply, processing, governance and security of data, making it necessary to take a coordinated approach to the scale, structure and performance of advanced storage capacity.
+"The global expansion of intelligent computing is proceeding rapidly, and high-end intelligent computing has become a critical foundation for competition in the digital sector. Setting a relatively high target will help stimulate innovation throughout the industrial chain, promote coordinated breakthroughs in areas such as intelligent computing clusters, chips and interconnectivity, address shortcomings in computing infrastructure, and gradually narrow the gap with the international advanced level," Guo said.
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1010/c90000-20506886.html</guid>
+    </item>
+    <item>
+      <title>China's satellite internet sector enters a phase of rapid expansion</title>
+      <link>https://en.people.cn/n3/2026/1010/c90000-20506866.html</link>
+      <description>Published: 2026-10-10
+
+China's satellite internet sector enters a phase of rapid expansion
+A remote sensing satellite is exhibited at the fourth International Conference on Commercial Aerospace Sensing Satellite Applications, July 5. (Photo/Chen Xiaogen)
+Satellite internet is increasingly becoming part of everyday life. Ships sailing far out at sea can stay connected, while elderly people at remote care facilities overseas can use stable satellite links to have real-time video consultations with doctors in China.
+From September 14 to 20, China successfully completed six rocket launches, sending more than 30 satellites into their designated orbits. The industry is moving from launches once every few years to launches every week, and in some cases multiple launches in a single day, highlighting the rapid development of China's satellite internet industry, and providing strong dynamism for the country's economic and social development.
+Given China's vast territory and diverse terrain, deploying traditional ground-based networks in mountainous regions, open waters, and arid deserts remains prohibitively expensive and geographically constrained.
+"Satellite internet effectively circumvents these physical barriers and complements terrestrial infrastructure, delivering broader, more resilient connectivity that helps close the digital divide," said Shi Shengqing, co-founder of a Beijing-based tech firm.
+Beyond expanding coverage, satellite internet serves as critical digital infrastructure for emerging sectors such as smart transportation, offshore resource development, and energy exploration. It also enhances disaster resilience: when terrestrial networks fail due to earthquakes, floods, or other crises, satellite systems can rapidly restore communications, supporting emergency response and rescue operations.
+As a strategic industry with the potential to become a pillar sector, China's satellite internet ecosystem spans satellite design, launch services, ground equipment, end- terminals, and operational services.
+A key priority is to enable satellites to be produced in large quantities at lower cost and with greater efficiency. To this end, China's commercial satellite industry is rapidly moving toward standardized, scaled, and industrialized production.
+A Long March-12 carrier rocket blasts off from the Hainan commercial spacecraft launch site in south China's Hainan province, sending the 25th group of low-orbit internet satellites into designated orbit, Sept. 17. (Photo/Shi Jiamin)
+GalaxySpace, a leading provider of satellite internet solutions, has integrated robotic assembly lines, intelligent testing systems, and digital engineering workflows, drastically shortening development cycles. Similarly, Hong Qing, China's only integrated satellite constellation solution provider with full ecosystem capabilities, has brought the assembly-line concept used in the automotive industry into satellite manufacturing. Its intelligent satellite mass-production line in Xiong'an New Area, north China's Hebei province, has cut the time needed to produce a satellite to around 30 hours.
+MinoSpace, a major R&amp;D and manufacturing hub in Wuxi, Jiangsu province, operates a dedicated line for 200-500 kg commercial satellites, with an annual capacity exceeding 150 units.
+Advancements in launch vehicles are equally vital. Rockets act as the indispensable "ladder" to orbit. China has significantly strengthened its launch vehicle supply chain. Reusable rocket systems are steadily maturing, driving down costs and improving mission efficiency across the industry.
+One of the key applications of satellite internet, direct-to-phone satellite connectivity, has become a major focus of global competition. International institutions forecast that the number of monthly active users of direct-to-phone satellite services worldwide will reach 411 million by 2030. China is actively exploring applications that connect smartphones directly to satellites and has made notable progress.
+China's Tiantong satellite communications service has introduced direct-to-phone satellite packages, with monthly subscription fees of around 10 yuan ($1.49), while call rates have gradually fallen. Smartphone makers, including Huawei, HONOR, Xiaomi, and OPPO, have also introduced support for satellite calls. Users do not need to change their SIM cards or phone numbers and can make satellite calls or send text messages directly from their smartphones when terrestrial signals are unavailable.
+Yet communications represent only one facet of next-generation satellite internet. Experts generally anticipate that future constellations will converge communication, navigation, and Earth observation capabilities, enabling multi-mission satellites and interoperable systems.
+Li Fenghui, founder of Tianjin Yunyao Astronautics Technology Co., Ltd., said traditional satellites essentially serve as nodes for data collection and transmission, with much of the computing performed on the ground. This can result in slower response times and place greater pressure on transmission links. With computing power in space and the support of AI, satellites are evolving into intelligent agents capable of sensing, computing, and making decisions in orbit.
+Ren Jiadong, deputy head of the satellite system technology department at GalaxySpace, cited the recently launched PEGA-SUS1, a multi-purpose satellite the company jointly developed with Pengcheng Laboratory, as an example.
+"The satellite is China's first technology-demonstration satellite to integrate a 5G non-terrestrial network base station, core network functions, onboard AI computing, and both space-to-ground laser and microwave communications," Ren said.
+The satellite can move the core network -- the "brain" of a 5G network that would normally be deployed in a ground-based data center -- directly into space. Ground users only need to connect to the satellite network to access information analyzed by the satellite in real time, much as they would browse the web under normal circumstances.
+Shi said space-based intelligence can use large models to process data collected in space, enabling the development of space-native large models and intelligent agents. "Ubiquitous intelligence" can use satellite internet and cloud-edge-device collaboration to make computing resources available across the globe. A space-ground collaborative computing network, meanwhile, would enable distributed coordination between computing and energy resources across space and Earth, allowing them to complement each other more efficiently.
+"Moving computing power into space offers unique development advantages," Shi said. "The efficiency of obtaining solar energy is six to eight times higher than on Earth, while the vast expanse of space could provide virtually unlimited room for large-scale computing infrastructure."
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1010/c90000-20506866.html</guid>
+    </item>
+    <item>
+      <title>China warns against trade protectionism under "overcapacity" pretext: spokesperson</title>
+      <link>https://en.people.cn/n3/2026/1010/c90000-20506698.html</link>
+      <description>Published: 2026-10-10
+
+China warns against trade protectionism under "overcapacity" pretext: spokesperson
+BEIJING, Oct. 9 (Xinhua) -- China opposes trade protectionism under the pretext of so-called "overcapacity" and will respond as necessary if relevant economies adopt measures that harm Chinese interests, a spokesperson for the Ministry of Commerce said on Friday.
+The spokesperson made the remarks in response to a media question about an announcement by the Office of the United States Trade Representative on Wednesday that the United States had convened senior officials from 14 other economies to sign a joint ministerial statement on so-called "structural excess capacity and production."
+China has repeatedly clarified its position on the so-called "overcapacity" matter on various occasions and released a dedicated position paper in July, the spokesperson said.
+The country has consistently maintained that production capacity issues should be viewed in a comprehensive, objective and fair manner, rather than politicizing economic and trade matters out of concerns over one's own industrial competitiveness and market position, according to the spokesperson.
+The spokesperson stressed that China opposes attempts by certain countries to pursue trade protectionism in the name of addressing so-called "overcapacity," warning that such practices would only disrupt the global economic and trade order, undermine the stability of global industrial and supply chains, and pose long-term risks to global economic growth.
+If relevant economies use the issue as a pretext to take steps that harm China's interests, China will take necessary measures in response, the spokesperson added.
+China remains committed to building a modern industrial system through openness and cooperation and supports the establishment of a fair and equitable international economic order, the spokesperson noted.
+The spokesperson called on all parties to uphold multilateralism, promote mutually beneficial cooperation, respect the laws of the market economy, and jointly safeguard an open and inclusive framework for cooperation across global industrial and supply chains.
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1010/c90000-20506698.html</guid>
+    </item>
     <item>
       <title>China, EU agree to keep bilateral trade ties stable, hold next meeting in March 2027</title>
       <link>https://en.people.cn/n3/2026/1010/c90000-20506697.html</link>
@@ -48,6 +126,45 @@ Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
       <guid isPermaLink="false">https://en.people.cn/n3/2026/1010/c90000-20506696.html</guid>
     </item>
     <item>
+      <title>Autumn harvest in Heilongjiang, NE China</title>
+      <link>https://en.people.cn/n3/2026/1010/c90000-20507004.html</link>
+      <description>Published: 2026-10-10
+
+Autumn harvest in Heilongjiang, NE China
+An aerial drone photo taken on Oct. 9, 2026 shows harvesters working at a sorghum field of a farm under Beidahuang Group in northeast China's Heilongjiang Province. (Photo by Lin Jinchun/Xinhua)
+An aerial drone photo taken on Oct. 6, 2026 shows harvesters working at a soybean field of a farm under Beidahuang Group in northeast China's Heilongjiang Province. (Photo by Li Xing/Xinhua)
+A drone photo taken on Oct. 9, 2026 shows agricultural machinery working at a field of a farm under Beidahuang Group in northeast China's Heilongjiang Province. (Photo by Hou Yue/Xinhua)
+A drone photo taken on Oct. 9, 2026 shows harvesters working at a corn field in Tangyuan County of Jiamusi City, northeast China's Heilongjiang Province. (Photo by Chen Zhiguo/Xinhua)
+An aerial drone photo taken on Oct. 6, 2026 shows harvesters working at a corn field of a farm under Beidahuang Group in northeast China's Heilongjiang Province. (Photo by Lin Jinchun/Xinhua)
+A drone photo taken on Oct. 8, 2026 shows harvesters working at a corn field in Tangyuan County of Jiamusi City, northeast China's Heilongjiang Province. (Photo by Chen Zhiguo/Xinhua)
+Harvesters work at a sorghum field of a farm under Beidahuang Group in northeast China's Heilongjiang Province, Oct. 7, 2026. (Photo by Lu Wenxiang/Xinhua)
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1010/c90000-20507004.html</guid>
+    </item>
+    <item>
+      <title>Xi'an-Ankang high-speed railway boosts tourism in Ankang, China's Shaanxi</title>
+      <link>https://en.people.cn/n3/2026/1010/c90000-20506723.html</link>
+      <description>Published: 2026-10-10
+
+Xi'an-Ankang high-speed railway boosts tourism in Ankang, China's Shaanxi
+Passengers are pictured at the Ankang West Railway Station in Ankang, northwest China's Shaanxi Province, Oct. 8, 2026.
+The city of Ankang receives a surging number of tourists, thanks to the Xi'an-Ankang high-speed railway officially put into operation on Sept. 28 this year. The travel time between Xi'an, capital of Shaanxi, and Ankang has been slashed to less than one hour. (Xinhua/Shao Rui)
+Tourists watch a performance inside a historical guild house in Ziyang County of Ankang, northwest China's Shaanxi Province, Oct. 3, 2026.
+The city of Ankang receives a surging number of tourists, thanks to the Xi'an-Ankang high-speed railway officially put into operation on Sept. 28 this year. The travel time between Xi'an, capital of Shaanxi, and Ankang has been slashed to less than one hour. (Photo by Huang Jie/Xinhua)
+Tourists watch a welfare performance on the bank of the Hanjiang River in Ankang, northwest China's Shaanxi Province, Oct. 7, 2026.
+The city of Ankang receives a surging number of tourists, thanks to the Xi'an-Ankang high-speed railway officially put into operation on Sept. 28 this year. The travel time between Xi'an, capital of Shaanxi, and Ankang has been slashed to less than one hour. (Photo by Liu Yang/Xinhua)
+An aerial drone photo taken on Oct. 8, 2026 shows the scenery along the Hanjiang River in Ankang, northwest China's Shaanxi Province.
+The city of Ankang receives a surging number of tourists, thanks to the Xi'an-Ankang high-speed railway officially put into operation on Sept. 28 this year. The travel time between Xi'an, capital of Shaanxi, and Ankang has been slashed to less than one hour. (Xinhua/Shao Rui)
+An aerial drone photo taken on Oct. 8, 2026 shows a view of the Ankang West Railway Station in Ankang, northwest China's Shaanxi Province.
+The city of Ankang receives a surging number of tourists, thanks to the Xi'an-Ankang high-speed railway officially put into operation on Sept. 28 this year. The travel time between Xi'an, capital of Shaanxi, and Ankang has been slashed to less than one hour. (Xinhua/Shao Rui)
+Passengers are pictured at the Ankang West Railway Station in Ankang, northwest China's Shaanxi Province, Oct. 9, 2026.
+The city of Ankang receives a surging number of tourists, thanks to the Xi'an-Ankang high-speed railway officially put into operation on Sept. 28 this year. The travel time between Xi'an, capital of Shaanxi, and Ankang has been slashed to less than one hour. (Xinhua/Shao Rui)
+A worker places flowers outside the Ankang West Railway Station in Ankang, northwest China's Shaanxi Province, Oct. 8, 2026.
+The city of Ankang receives a surging number of tourists, thanks to the Xi'an-Ankang high-speed railway officially put into operation on Sept. 28 this year. The travel time between Xi'an, capital of Shaanxi, and Ankang has been slashed to less than one hour. (Xinhua/Shao Rui)
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1010/c90000-20506723.html</guid>
+    </item>
+    <item>
       <title>China records 826 mln domestic tourist trips during 2026 National Day holiday amid diverse offerings</title>
       <link>https://en.people.cn/n3/2026/1010/c90000-20506711.html</link>
       <description>Published: 2026-10-10
@@ -79,6 +196,41 @@ Tourists visit the Yiwu Botanic Garden in Yiwu City, east China's Zhejiang Provi
 Tourists visit the Anshun ancient town in Anshun City, southwest China's Guizhou Province, Oct. 6, 2026. China recorded 826 million domestic tourist trips during the seven-day National Day holiday, with tourism spending totaling 738.38 billion yuan (about 109.67 billion U.S. dollars), the Ministry of Culture and Tourism said Friday. On a daily average basis, the number of domestic trips rose 6.3 percent from the eight-day National Day and Mid-Autumn Festival holiday in 2025, while tourism spending increased 4.3 percent, according to the ministry. (Photo by Lu Wei/Xinhua)
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
       <guid isPermaLink="false">https://en.people.cn/n3/2026/1010/c90000-20506711.html</guid>
+    </item>
+    <item>
+      <title>China's solar capacity surpasses coal, reshaping the nation's energy mix</title>
+      <link>https://en.people.cn/n3/2026/1010/c90000-20506908.html</link>
+      <description>Published: 2026-10-10
+
+China's solar capacity surpasses coal, reshaping the nation's energy mix
+Photo shows a solar power plant in Yinchuan, northwest China's Ningxia Hui autonomous region. (Photo/Yuan Hongyan)
+As of late July this year, China's installed solar power capacity officially surpassed that of coal-fired generation for the first time, establishing solar as the country's largest source of electricity-generating infrastructure.
+This milestone stands in stark contrast to the industry's struggles just over a decade ago. At that time, many small and medium-sized manufacturers were fighting for survival, while even leading firms reported substantial losses -- forcing some to shutter operations entirely.
+Today, however, China not only holds the world's largest installed solar capacity year after year but has also cultivated the most comprehensive and globally competitive solar value chain.
+How was such a dramatic transformation achieved in little more than ten years?
+The journey began in the first decade of this century, when China's fledgling solar sector experienced explosive growth. By the end of 2010, China's output of solar cells had climbed to 8,000 megawatts, accounting for about half of the global total.
+Yet rapid expansion masked deeper structural vulnerabilities.
+First, the industry relied on overseas suppliers for raw materials and equipment, while its main markets were abroad: more than 90 percent of polysilicon was imported, more than 70 percent of products were exported to Europe and the United States, and foreign brands dominated production lines.
+Second, the industry remained stuck at a relatively low level of development, relying largely on imitation, replication, and processing materials supplied by others, with excessive duplication of investment and limited technological capabilities.
+These weaknesses were exposed starting in 2011, when several Western countries launched anti-dumping and countervailing investigations against Chinese solar products, dealing a major blow to the industry. Markets contracted sharply, and the industry entered a downturn.
+Robotic arms manufacture solar modules in a workshop of an energy company in Fuyang, east China's Anhui province. (Photo/Wang Biao)
+Ultimately, overreliance on external inputs and downstream markets eroded industrial autonomy, while confinement to low-margin activities stifled competitiveness -- the twin roots of the crisis.
+Recognizing these challenges, Chinese policymakers responded with coordinated, forward-looking interventions. Beginning in 2012, central and local authorities rolled out a comprehensive policy framework spanning manufacturing standards, market deployment, fiscal incentives, and tax reforms.
+Designed to accelerate the transition toward a modern energy system, these measures revitalized the sector and ushered in what industry observers have called a "second spring. " On the demand side, the government deliberately expanded domestic consumption to absorb excess capacity.
+In 2013, the State Council issued guidelines on promoting the sound development of the solar industry, calling for the wider application of distributed solar power and the development of solar power plants.
+Starting in 2015, China launched a "top runner" program for solar power generation, accelerating the commercialization and wider application of technological advances. From 2021, large-scale renewable energy bases were developed in deserts and other arid areas, creating vast expanses of solar panels across the country's deserts and wastelands.
+These efforts supported the green transition while tapping domestic demand, leading solar power plants to spring up across the country and driving demand for solar equipment.
+International markets broadened in parallel. Moving beyond traditional exports to Europe and North America, Chinese solar firms are increasingly engaged in the Middle East and Southeast Asia, shifting from simple product sales to integrated solutions encompassing project financing, engineering management, brand development, and long-term operations. This evolution has steadily expanded China's network of global partners in the clean energy sector.
+Simultaneously, the supply side underwent a rigorous push for technological self-reliance. Breakthroughs emerged across multiple areas of solar module manufacturing technology. The conversion efficiency of crystalline silicon solar cells has set new world records time and again. Research and development of next-generation technologies such as perovskite solar cells has accelerated. Technologies including new-type energy storage and ultra-high-voltage power transmission gradually matured, helping address the intermittency and volatility of solar power generation.
+Solar panels are installed on top of factory buildings in Sihong county, Suqian, east China's Jiangsu province. (Photo/Chen Yu)
+Joint efforts by enterprises, universities, research institutes and the user end have driven continuous upgrades in China's solar products and power generation technologies.
+Backed by a complete industrial system and massive application scenarios, it fostered a virtuous cycle between supply and demand. The sector effectively reduced its heavy reliance on imported raw materials and equipment as well as overseas end markets, and its competitiveness grew steadily.
+Today, China accounts for more than 90 percent of global polysilicon, wafer and solar cell production capacity and more than 80 percent of global module production capacity, while domestically made equipment has become the backbone of solar production lines. The average cost of solar power generation has fallen sharply.
+Clean, cost-effective and reliable, solar power has built its competitiveness on solid technological and industrial capabilities. Its share of China's total installed power capacity has risen from less than 0.2 percent in 2011 to 31.5 percent today.
+Looking back at the development of China's solar industry, one can see a clear path and valuable lessons for nurturing and growing emerging industries. It was the unwavering pursuit of high-quality development, the full and accurate implementation of the new development philosophy, and accelerated efforts to foster a new development paradigm that enabled China's solar industry to turn challenges into opportunities and build up strength for sustained growth.
+China is now at a critical stage of shifting from old growth drivers to new ones and upgrading its industrial structure, with businesses in some sectors facing new circumstances and challenges. The development of China's solar industry shows that the challenges confronting an industry can also provide a valuable opportunity for adjustment and upgrading. As long as development continues to move toward higher quality and greater value, industries can weather cycles and keep moving forward under pressure.
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1010/c90000-20506908.html</guid>
     </item>
     <item>
       <title>China issues guidelines on developing new quality productive forces</title>
@@ -117,141 +269,6 @@ At an international seminar held in Beijing in September, Chinese experts said C
 China's development of high-tech, green and intelligent industries is also creating more opportunities for cross-border investment and industrial cooperation. At the China International Fair for Investment and Trade in September, representatives from European countries explored cooperation with China in areas such as clean energy, AI, smart manufacturing, biomedicine and the digital economy.
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
       <guid isPermaLink="false">https://en.people.cn/n3/2026/1010/c90000-20506695.html</guid>
-    </item>
-    <item>
-      <title>Japan urged to severely punish perpetrator of Chinese embassy break-in: spokesperson</title>
-      <link>https://en.people.cn/n3/2026/1009/c90000-20506421.html</link>
-      <description>Published: 2026-10-09
-
-Japan urged to severely punish perpetrator of Chinese embassy break-in: spokesperson
-BEIJING, Oct. 8 (Xinhua) -- China once again urges the Japanese side to impose severe punishment on the perpetrator who broke into the Chinese Embassy in Japan with a knife to serve as a warning to others, foreign ministry spokesperson Mao Ning said on Thursday.
-Mao made the remarks at a regular media briefing while answering a question regarding the first court hearing in the trial of Kodai Murata, a former Japan Self-Defense Forces (SDF) officer accused of forcibly entering the Chinese Embassy in Japan.
-It is an egregious incident unprecedented in the international community that an active-duty officer of Japan's SDF broke into the Chinese Embassy in Japan with a knife and made violent threats against Chinese diplomatic personnel, Mao said.
-She said it constitutes a serious violation of the Vienna Convention on Diplomatic Relations, poses grave threats to the personal safety of Chinese diplomatic staff and the security of the diplomatic premises, and lays bare a host of deep-seated problems in Japan, including rampant right-wing forces and inadequate management and discipline of SDF personnel.
-"Whether Japan can handle the case seriously in accordance with law will test whether the Japanese government earnestly fulfills its obligations under international law, and bears on the country's national credibility and international image," Mao said.
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1009/c90000-20506421.html</guid>
-    </item>
-    <item>
-      <title>China warns Philippines to cease provocations, false claims</title>
-      <link>https://en.people.cn/n3/2026/1009/c90000-20506326.html</link>
-      <description>Published: 2026-10-09
-
-China warns Philippines to cease provocations, false claims
-BEIJING, Oct. 8 (Xinhua) -- The China Coast Guard (CCG) on Thursday warned the Philippine side to immediately stop its infringements, provocations and false claims after a Philippine Coast Guard vessel transported an injured person from a grounded vessel near Ren'ai Jiao.
-Jiang Lue, a spokesperson for the CCG, said that on Thursday, Philippine Coast Guard vessel 4409 went to waters near Ren'ai Jiao to transport one injured person from the vessel illegally grounded there.
-Out of humanitarian considerations, the Chinese side immediately allowed the Philippine side to transfer the injured person by small boat, and the CCG handled the matter in accordance with the law and regulations, and provided necessary assistance, Jiang said.
-The Philippine side's relevant remarks disregard the facts and distort the truth in an attempt to mislead the public, Jiang added.
-China has indisputable sovereignty over the Nansha Qundao, including Ren'ai Jiao, and the adjacent waters, he noted.
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1009/c90000-20506326.html</guid>
-    </item>
-    <item>
-      <title>Strong demand in China boosts US exporters</title>
-      <link>https://en.people.cn/n3/2026/1009/c90000-20506417.html</link>
-      <description>Published: 2026-10-09
-
-Strong demand in China boosts US exporters
-China's growing appetite for high-quality consumer goods and industrial inputs is drawing more products from the United States into its market, as holiday spending, industrial upgrading and the recent reciprocal tariff-cut arrangement offer US exporters more room to expand sales in the country, according to trade experts and business leaders.
-From fresh fruit and seafood to integrated circuits and energy products, US shipments to China have remained substantial, reflecting the complementary nature of the two economies and the potential for expanding imports to support more balanced and mutually beneficial bilateral trade, they said.
-The trend was particularly visible during the National Day holiday from Oct 1 to Wednesday, as stronger demand for food and other consumer products prompted Chinese importers to step up purchases from overseas suppliers.
-Oheng Supply Chain Management (Ningbo) Co, a cross-border food products importer based in Ningbo, Zhejiang province, imported 44.62 million yuan ($6.66 million) worth of products, including fresh cherries and fish oil from the US, in the first eight months of 2026.
-Ahead of the holiday, shipments of US fish oil, red yeast rice, fresh cherries and grapes purchased by the company arrived in China to replenish supplies for the holiday market.
-"The US is one of our main sources for products such as fish oil and cherries, with stable supply capacity," said Zhou Shouming, the company's director of customs affairs. "Judging from our sales, domestic consumers' demand for high-quality imported food continues to grow."
-In late September, China and the US released reciprocal tariff-cut lists covering about $30 billion worth of imports from each side. Zhou said the arrangement will lower costs for products including fresh cherries and grapes and give the company greater flexibility in pricing, allowing it to bring more high-quality US food products to Chinese buyers.
-Pistachios are also included on China's tariff-cut list. Nut growers in California are expected to export 111,000 metric tons of pistachios to China in the 2026 crop year (Sept 1, 2026 to Aug 31, 2027), according to Wonderful Pistachios &amp; Almonds, the largest pistachio producer by production volume and sales revenue in the US.
-Anita Lam, managing director for China at Wonderful Pistachios, said the industry remains confident about the long-term growth potential for California pistachios in the Chinese market, adding that her company will continue to leverage its vertically integrated supply chain and long-standing operations to deepen its presence in the country.
-Demand for fresh seafood has also been strong in China. Imports of US lobsters through Ningbo Lishe International Airport were valued at 200 million yuan between January and August, surging 468.5 percent year-on-year, according to Ningbo Customs.
-Li Yongguo, president of Hengsheng Supply Chain (Dongguan) Co, a Dongguan, Guangdong province-based trading company, said that beyond food products, China's demand for imported integrated circuits has continued to grow, fueled by the expansion of artificial intelligence infrastructure and rising demand from the country's electronics manufacturing sector.
-The Chinese company imported 10.31 billion yuan worth of integrated circuits from the US in the first three quarters, up 74.2 percent year-on-year, statistics from Huangpu Customs in Guangdong showed.
-Miao Yingchun, a researcher at Wuhan University's Institute for International Studies in Wuhan, Hubei province, said China's demand for US products is being driven by both consumption and production — consumers seeking a wider range of quality goods and manufacturers requiring raw materials, components and equipment.
-Wang Huiyao, president of the Beijing-based think tank Center for China and Globalization, noted that the Chinese and US economies are deeply interconnected.
-"If the two countries can expand tariff reductions in specific areas and establish effective trade and investment mechanisms, even relatively limited steps at the outset could help strengthen confidence and pave the way for broader cooperation," he said.
-China-US trade rose 5.5 percent year-on-year to $400.84 billion during the January-to-August period, while China's imports from the US grew 3.4 percent year-on-year, data from the General Administration of Customs showed.
-The resilience of bilateral trade is also reflected in recent research. China's expanding import market continues to offer opportunities for US companies despite shifts in global trade and persistent bilateral economic tensions, according to a new report released in Los Angeles that examines changes in US exports to China and the broader impact of the China International Import Expo.
-The report, "The Evolution of the Structure of US Exports to China and the Extended Effects Index from a CIIE Perspective (2026)", was released earlier this week at the Bridge to Shanghai: Business Opportunities with China event, part of an overseas outreach series ahead of the ninth CIIE, which will be held in Shanghai from Nov 5 to 10.
-The report said the composition of trade also points to continuing economic complementarity between the world's two largest economies. It identifies China as the largest overseas market for US soybeans and cotton in 2026, and an important market for US integrated circuits and medical devices.
-It also said the US remains a major source of China's services imports and has maintained a surplus in bilateral services trade.
-Those patterns, according to the researchers, underscore the enduring commercial ties between the two economies even as tariffs, technology restrictions and changes in global sourcing have altered the bilateral trade landscape.
-Li Qingjuan, director of the Think Tank Center at Fudan University's Fudan International School of Finance, said the CIIE is no longer simply about bringing products into the Chinese market. Instead, it has evolved into a global platform for companies to showcase their products, connect with potential partners and explore business opportunities.
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1009/c90000-20506417.html</guid>
-    </item>
-    <item>
-      <title>Flame for Changchun 2027 Winter Universiade lit in Turin</title>
-      <link>https://en.people.cn/n3/2026/1009/c90000-20506452.html</link>
-      <description>Published: 2026-10-09
-
-Flame for Changchun 2027 Winter Universiade lit in Turin
-Mayor of Changchun Gu Gang (2nd L) and president of FISU Leonz Eder (1st L) jointly light the cauldron with the torch from the first World University Games in Turin in 1959 during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-TURIN, Italy, Oct. 9 (Xinhua) -- The flame for the Changchun 2027 Winter Universiade was lit Thursday in Turin, Italy, where the first World University Games were held in 1959, beginning its journey to China ahead of the January event.
-Changchun Mayor Gu Gang and International University Sports Federation President Leonz Eder jointly lit a cauldron using a torch from the inaugural Games before transferring the flame to a lantern for the Changchun Games.
-The lantern was carried through central Turin from the University of Turin to the Polytechnic University of Turin, passing the Egyptian Museum along the way.
-Gu expressed hope that the flame would symbolize friendship and that winter sports would promote cultural exchanges between East and West, fostering mutual understanding among young people worldwide.
-A welcoming ceremony for the flame is scheduled for October 14 in Changchun, according to the Games' organizing committee.
-The Winter Universiade will run from January 15 to 25, 2027. Eder recently told Xinhua that preparations were progressing smoothly and expressed confidence that the Games would attract a record number of participating delegations.
-Mayor of Changchun Gu Gang (R) and president of FISU Leonz Eder hold the flame lantern during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-Mayor of Changchun Gu Gang (R) and president of FISU Leonz Eder hold the torch from the first World University Games held in Turin in 1959 during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-The flame lantern is seen after the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-Leonz Eder, president of FISU, holds the torch from the first World University Games held in Turin in 1959 during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-The flame is collected to the flame lantern during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-Leonz Eder, president of FISU, delivers a speech during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-Gu Gang, mayor of Changchun, delivers a speech during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-The cauldron is lit during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-Cristina Prandi, rector of the University of Turin, delivers a speech during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-The national flag of China is displayed during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-The national flag of Italy is displayed during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-The FISU flag is displayed during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-The flame is carried in the Egyptian Museum of Turin after the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-The mascots "Ji Bing" (R) and "Ji Xue" are seen with the torch during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-Dancers perform during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-The flame is carried in Turin after the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-The flame is carried in Turin after the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-People dance in the Polytechnic University of Turin after the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-The cauldron is lit during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-Dancers perform during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-Artists perform with the mascots in the Polytechnic University of Turin after the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-Dancers perform during the flame collection ceremony for the Changchun 2027 Winter Universiade in Turin, Italy, Oct. 8, 2026. (Xinhua/Wang Kaiyan)
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1009/c90000-20506452.html</guid>
-    </item>
-    <item>
-      <title>Autumn grain harvest in full swing across China</title>
-      <link>https://en.people.cn/n3/2026/1009/c90000-20506337.html</link>
-      <description>Published: 2026-10-09
-
-Autumn grain harvest in full swing across China
-A farmer harvests corns in a field in Xiayi County of Shangqiu City, central China's Henan Province, Oct. 8, 2026. Autumn crops, the mainstay of China's annual grain production, are now being harvested. According to the Ministry of Agriculture and Rural Affairs, China is on track for a bumper grain harvest in 2026, thanks to steady progress in agricultural and rural modernization. (Photo by Wang Gaochao/Xinhua)
-A farmer drives a harvester to harvest paddy rice at an agricultural industrial park in Wuyi County of Jinhua City, east China's Zhejiang Province, Oct. 8, 2026. Autumn crops, the mainstay of China's annual grain production, are now being harvested. According to the Ministry of Agriculture and Rural Affairs, China is on track for a bumper grain harvest in 2026, thanks to steady progress in agricultural and rural modernization. (Photo by Zhang Jiancheng/Xinhua)
-An aerial drone photo taken on Oct. 8, 2026 shows a villager airing autumn grain in his courtyard in Xianfeng County of Enshi Tujia and Miao Autonomous Prefecture, central China's Hubei Province. Autumn crops, the mainstay of China's annual grain production, are now being harvested. According to the Ministry of Agriculture and Rural Affairs, China is on track for a bumper grain harvest in 2026, thanks to steady progress in agricultural and rural modernization. (Photo by Li Weijun/Xinhua)
-An agricultural machinery operator loads harvested soybeans into a transport vehicle at Baimasi Town of Luoyang City, central China's Henan Province, Oct. 8, 2026. Autumn crops, the mainstay of China's annual grain production, are now being harvested. According to the Ministry of Agriculture and Rural Affairs, China is on track for a bumper grain harvest in 2026, thanks to steady progress in agricultural and rural modernization. (Photo by Li Weichao/Xinhua)
-Workers drive harvesters to harvest soybeans in Xiwan Town of Qinyang City, central China's Henan Province, Oct. 8, 2026. Autumn crops, the mainstay of China's annual grain production, are now being harvested. According to the Ministry of Agriculture and Rural Affairs, China is on track for a bumper grain harvest in 2026, thanks to steady progress in agricultural and rural modernization. (Photo by Zhang Xinyu/Xinhua)
-An aerial drone photo taken on Oct. 8, 2026 shows an agricultural machine harvesting corns in Pingyi County of Linyi City, east China's Shandong Province. Autumn crops, the mainstay of China's annual grain production, are now being harvested. According to the Ministry of Agriculture and Rural Affairs, China is on track for a bumper grain harvest in 2026, thanks to steady progress in agricultural and rural modernization. (Photo by Wu Jiquan/Xinhua)
-An aerial drone photo taken on Oct. 8, 2026 shows staff members airing corns at a production area of a farm in Haizhou District of Lianyungang City, east China's Jiangsu Province. Autumn crops, the mainstay of China's annual grain production, are now being harvested. According to the Ministry of Agriculture and Rural Affairs, China is on track for a bumper grain harvest in 2026, thanks to steady progress in agricultural and rural modernization. (Photo by Geng Yuhe/Xinhua)
-Farmers harvest paddy rice in a field in Luliang County of Qujing City, southwest China's Yunnan Province, Oct. 8, 2026. Autumn crops, the mainstay of China's annual grain production, are now being harvested. According to the Ministry of Agriculture and Rural Affairs, China is on track for a bumper grain harvest in 2026, thanks to steady progress in agricultural and rural modernization. (Photo by Wang Yong/Xinhua)
-Harvesters harvest sorghum at a farmland demonstration area in Xiping County of Zhumadian City, central China's Henan Province, Oct. 8, 2026. Autumn crops, the mainstay of China's annual grain production, are now being harvested. According to the Ministry of Agriculture and Rural Affairs, China is on track for a bumper grain harvest in 2026, thanks to steady progress in agricultural and rural modernization. (Photo by Zhao Yongtao/Xinhua)
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1009/c90000-20506337.html</guid>
-    </item>
-    <item>
-      <title>Qingdao Port keeps expanding its global shipping services</title>
-      <link>https://en.people.cn/n3/2026/1009/c90000-20506346.html</link>
-      <description>Published: 2026-10-09
-
-Qingdao Port keeps expanding its global shipping services
-A drone photo taken on Oct. 8, 2026 shows cargo ships docking at Qingdao Port in Qingdao, east China's Shandong Province. As an international shipping hub in Northeast Asia, Qingdao Port has been expanding its shipping network, adding 16 foreign trade routes so far this year. The port now operates nearly 240 foreign trade routes, connecting over 700 ports in over 180 countries and regions. (Xinhua/Li Ziheng)
-An aerial drone photo taken on Oct. 8, 2026 shows a view of Qingdao Port in Qingdao, east China's Shandong Province. As an international shipping hub in Northeast Asia, Qingdao Port has been expanding its shipping network, adding 16 foreign trade routes so far this year. The port now operates nearly 240 foreign trade routes, connecting over 700 ports in over 180 countries and regions. (Xinhua/Li Ziheng)
-A drone photo taken on Oct. 8, 2026 shows freight trucks at a container terminal of Qingdao Port in Qingdao, east China's Shandong Province. As an international shipping hub in Northeast Asia, Qingdao Port has been expanding its shipping network, adding 16 foreign trade routes so far this year. The port now operates nearly 240 foreign trade routes, connecting over 700 ports in over 180 countries and regions. (Xinhua/Li Ziheng)
-Workers untie the mooring lines of a cargo ship at Qingdao Port in Qingdao, east China's Shandong Province, Oct. 8, 2026. As an international shipping hub in Northeast Asia, Qingdao Port has been expanding its shipping network, adding 16 foreign trade routes so far this year. The port now operates nearly 240 foreign trade routes, connecting over 700 ports in over 180 countries and regions. (Xinhua/Li Ziheng)
-A drone photo taken on Oct. 8, 2026 shows cargo ships docking at Qingdao Port in Qingdao, east China's Shandong Province. As an international shipping hub in Northeast Asia, Qingdao Port has been expanding its shipping network, adding 16 foreign trade routes so far this year. The port now operates nearly 240 foreign trade routes, connecting over 700 ports in over 180 countries and regions. (Xinhua/Li Ziheng)
-A drone photo taken on Oct. 8, 2026 shows a cargo ship departing from Qingdao Port in Qingdao, east China's Shandong Province. As an international shipping hub in Northeast Asia, Qingdao Port has been expanding its shipping network, adding 16 foreign trade routes so far this year. The port now operates nearly 240 foreign trade routes, connecting over 700 ports in over 180 countries and regions. (Xinhua/Li Ziheng)
-A drone photo taken on Oct. 8, 2026 shows a cargo ship docking at Qingdao Port in Qingdao, east China's Shandong Province. As an international shipping hub in Northeast Asia, Qingdao Port has been expanding its shipping network, adding 16 foreign trade routes so far this year. The port now operates nearly 240 foreign trade routes, connecting over 700 ports in over 180 countries and regions. (Xinhua/Li Ziheng)
-An aerial drone photo taken on Oct. 8, 2026 shows a view of Qingdao Port in Qingdao, east China's Shandong Province. As an international shipping hub in Northeast Asia, Qingdao Port has been expanding its shipping network, adding 16 foreign trade routes so far this year. The port now operates nearly 240 foreign trade routes, connecting over 700 ports in over 180 countries and regions. (Xinhua/Li Ziheng)
-A drone photo taken on Oct. 8, 2026 shows a cargo ship departing from Qingdao Port in Qingdao, east China's Shandong Province. As an international shipping hub in Northeast Asia, Qingdao Port has been expanding its shipping network, adding 16 foreign trade routes so far this year. The port now operates nearly 240 foreign trade routes, connecting over 700 ports in over 180 countries and regions. (Xinhua/Li Ziheng)
-This photo taken on Oct. 8, 2026 shows freight trucks at a container terminal of Qingdao Port in Qingdao, east China's Shandong Province. As an international shipping hub in Northeast Asia, Qingdao Port has been expanding its shipping network, adding 16 foreign trade routes so far this year. The port now operates nearly 240 foreign trade routes, connecting over 700 ports in over 180 countries and regions. (Xinhua/Li Ziheng)
-A cargo ship departs from Qingdao Port in Qingdao, east China's Shandong Province, Oct. 8, 2026. As an international shipping hub in Northeast Asia, Qingdao Port has been expanding its shipping network, adding 16 foreign trade routes so far this year. The port now operates nearly 240 foreign trade routes, connecting over 700 ports in over 180 countries and regions. (Xinhua/Li Ziheng)
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1009/c90000-20506346.html</guid>
     </item>
   </channel>
 </rss>

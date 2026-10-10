@@ -1,0 +1,39 @@
+TITLE:
+China's satellite internet sector enters a phase of rapid expansion
+
+PUBLISHED:
+2026-10-10
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1010/c90000-20506866.html
+
+ARTICLE TEXT:
+China's satellite internet sector enters a phase of rapid expansion
+A remote sensing satellite is exhibited at the fourth International Conference on Commercial Aerospace Sensing Satellite Applications, July 5. (Photo/Chen Xiaogen)
+Satellite internet is increasingly becoming part of everyday life. Ships sailing far out at sea can stay connected, while elderly people at remote care facilities overseas can use stable satellite links to have real-time video consultations with doctors in China.
+From September 14 to 20, China successfully completed six rocket launches, sending more than 30 satellites into their designated orbits. The industry is moving from launches once every few years to launches every week, and in some cases multiple launches in a single day, highlighting the rapid development of China's satellite internet industry, and providing strong dynamism for the country's economic and social development.
+Given China's vast territory and diverse terrain, deploying traditional ground-based networks in mountainous regions, open waters, and arid deserts remains prohibitively expensive and geographically constrained.
+"Satellite internet effectively circumvents these physical barriers and complements terrestrial infrastructure, delivering broader, more resilient connectivity that helps close the digital divide," said Shi Shengqing, co-founder of a Beijing-based tech firm.
+Beyond expanding coverage, satellite internet serves as critical digital infrastructure for emerging sectors such as smart transportation, offshore resource development, and energy exploration. It also enhances disaster resilience: when terrestrial networks fail due to earthquakes, floods, or other crises, satellite systems can rapidly restore communications, supporting emergency response and rescue operations.
+As a strategic industry with the potential to become a pillar sector, China's satellite internet ecosystem spans satellite design, launch services, ground equipment, end- terminals, and operational services.
+A key priority is to enable satellites to be produced in large quantities at lower cost and with greater efficiency. To this end, China's commercial satellite industry is rapidly moving toward standardized, scaled, and industrialized production.
+A Long March-12 carrier rocket blasts off from the Hainan commercial spacecraft launch site in south China's Hainan province, sending the 25th group of low-orbit internet satellites into designated orbit, Sept. 17. (Photo/Shi Jiamin)
+GalaxySpace, a leading provider of satellite internet solutions, has integrated robotic assembly lines, intelligent testing systems, and digital engineering workflows, drastically shortening development cycles. Similarly, Hong Qing, China's only integrated satellite constellation solution provider with full ecosystem capabilities, has brought the assembly-line concept used in the automotive industry into satellite manufacturing. Its intelligent satellite mass-production line in Xiong'an New Area, north China's Hebei province, has cut the time needed to produce a satellite to around 30 hours.
+MinoSpace, a major R&D and manufacturing hub in Wuxi, Jiangsu province, operates a dedicated line for 200-500 kg commercial satellites, with an annual capacity exceeding 150 units.
+Advancements in launch vehicles are equally vital. Rockets act as the indispensable "ladder" to orbit. China has significantly strengthened its launch vehicle supply chain. Reusable rocket systems are steadily maturing, driving down costs and improving mission efficiency across the industry.
+One of the key applications of satellite internet, direct-to-phone satellite connectivity, has become a major focus of global competition. International institutions forecast that the number of monthly active users of direct-to-phone satellite services worldwide will reach 411 million by 2030. China is actively exploring applications that connect smartphones directly to satellites and has made notable progress.
+China's Tiantong satellite communications service has introduced direct-to-phone satellite packages, with monthly subscription fees of around 10 yuan ($1.49), while call rates have gradually fallen. Smartphone makers, including Huawei, HONOR, Xiaomi, and OPPO, have also introduced support for satellite calls. Users do not need to change their SIM cards or phone numbers and can make satellite calls or send text messages directly from their smartphones when terrestrial signals are unavailable.
+Yet communications represent only one facet of next-generation satellite internet. Experts generally anticipate that future constellations will converge communication, navigation, and Earth observation capabilities, enabling multi-mission satellites and interoperable systems.
+Li Fenghui, founder of Tianjin Yunyao Astronautics Technology Co., Ltd., said traditional satellites essentially serve as nodes for data collection and transmission, with much of the computing performed on the ground. This can result in slower response times and place greater pressure on transmission links. With computing power in space and the support of AI, satellites are evolving into intelligent agents capable of sensing, computing, and making decisions in orbit.
+Ren Jiadong, deputy head of the satellite system technology department at GalaxySpace, cited the recently launched PEGA-SUS1, a multi-purpose satellite the company jointly developed with Pengcheng Laboratory, as an example.
+"The satellite is China's first technology-demonstration satellite to integrate a 5G non-terrestrial network base station, core network functions, onboard AI computing, and both space-to-ground laser and microwave communications," Ren said.
+The satellite can move the core network -- the "brain" of a 5G network that would normally be deployed in a ground-based data center -- directly into space. Ground users only need to connect to the satellite network to access information analyzed by the satellite in real time, much as they would browse the web under normal circumstances.
+Shi said space-based intelligence can use large models to process data collected in space, enabling the development of space-native large models and intelligent agents. "Ubiquitous intelligence" can use satellite internet and cloud-edge-device collaboration to make computing resources available across the globe. A space-ground collaborative computing network, meanwhile, would enable distributed coordination between computing and energy resources across space and Earth, allowing them to complement each other more efficiently.
+"Moving computing power into space offers unique development advantages," Shi said. "The efficiency of obtaining solar energy is six to eight times higher than on Earth, while the vast expanse of space could provide virtually unlimited room for large-scale computing infrastructure."
+Copyright © 2026 People's Daily Online. All Rights Reserved.
