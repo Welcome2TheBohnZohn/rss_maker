@@ -1,0 +1,32 @@
+TITLE:
+Cutting-edge tech powers smart National Day travel in China
+
+PUBLISHED:
+2026-10-10
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261010/9636a1387dcd4fee89cfcfb100399993/c.html
+
+ARTICLE TEXT:
+BEIJING, Oct. 10 (Xinhua) -- A 2,000-km road trip from Beijing to China's northern border in Inner Mongolia became less tiring for traveler Lu Jian during the National Day holiday, as advanced driver-assistance features and smart navigation eased the journey.
+"Smart travel allowed us to cover more ground," said the 45-year-old Beijing-based engineer on a family trip during the week-long holiday starting on Oct. 1, one of China's peak periods for travel.
+From smart driver-assistance systems and wearable robots to AI travel guides, cutting-edge technologies powered smart travel and tourism nationwide during the holiday.
+At mountainous scenic sites such as the Huangyaguan Great Wall in northern China's Tianjin Municipality and Wuyi Mountain in eastern Fujian Province, wearable robotic exoskeletons have emerged as a new travel aid. Visitors can scan QR codes at self-service stations to rent the devices.
+"During the peak holiday season, rental rates neared full capacity," said Zhang Hua, chief marketing officer of Shanghai-based ULS Robotics. The firm noted that frequent use by clients of varying ages and body sizes yielded valuable real-world data to refine AI gait algorithms, wearable hardware, and safety mechanisms.
+In eastern China's Shandong Province, the Mount Tai scenic area recorded more than 4,000 exoskeleton-assisted climbs during the holiday, with visitors aged 50 and above accounting for about 60 percent of users, according to the Taishan Cultural Tourism Group (TCTG).
+Developed jointly by TCTG and the Shenzhen-based Kenqing Technology, the 1.8-kg exoskeleton wraps around the wearer's waist and thighs. Powered by AI, it senses the wearer's pace and movement, then provides synchronized assistance to reduce fatigue and joint strain.
+"The robot made the climb much easier and helped me fulfill my dream of visiting Mount Tai," said Sui Yonghui, a 69-year-old tourist.
+TCTG and tech giant iFlytek also developed a miniprogram named "Mount Tai Tour Companion" on social media platform WeChat. The AI-powered service offers itinerary planning, real-time Q&A and explanations of local history and culture.
+"Tourists can simply take a photo of a scenic spot, and our AI companion could identify it and tell its story," said Wang Houzhe, chairman and general manager of Tai'an Taishan Smart Cultural Tourism Technology Group, which is affiliated with TCTG.
+Technology also supported urban governance amid massive crowds during the holiday.
+On Oct. 1, Shanghai's iconic Bund hosted more than 500,000 visitors. An intelligent large-crowd prediction agent, integrated with drones and big-data analytics, helped monitor on-site conditions and steer visitor flows, said Zhang Xiyao, an officer with the drone operations and security management team of the Huangpu branch of the Shanghai Municipal Public Security Bureau.
+At two major events on Fuxing Island in Shanghai's Yangpu District -- a music festival and a pop culture gathering -- police drones equipped with loudspeakers and lighting were deployed to help guide visitors in and out of the venues smoothly.
+Such deployments align with China's push to apply emerging technologies in tourism. In July 2026, the Ministry of Culture and Tourism released a five-year plan, highlighting smart tourism and calling for wider application of new technologies and strengthened research and development in the sector.
+Industry observers said the widespread use of cutting-edge technologies during the National Day holiday shows that innovation is increasingly meeting people's daily needs, making travel more convenient, safer and less stressful.
+"With driving so much easier now, we're thinking of heading all the way to southern China next time," said the tourist Lu. ■
