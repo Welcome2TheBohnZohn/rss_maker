@@ -7,33 +7,83 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 01:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 10:52:30 +0000</lastBuildDate>
     <item>
-      <title>China's trade strength rooted in competitiveness, not currency depreciation</title>
-      <link>https://www.globaltimes.cn/page/202610/1371964.shtml</link>
-      <description>Published: 2026-10-11 07:36:00
+      <title>CXMT's innovative 4F² DRAM marks breakthrough in China's push into server memory chips: experts</title>
+      <link>https://www.globaltimes.cn/page/202610/1371987.shtml</link>
+      <description>Published: 2026-10-11 14:25:00
 
-This photo taken on Oct. 19, 2023 shows the People's Bank of China in Beijing, capital of China. (Xinhua/Peng Ziyang)
-China has reaffirmed its stance on its foreign exchange policy amid increased discussions over the yuan's valuation, as solid facts and figures support the view that the country's export strength is rooted in its industrial competitiveness rather than currency valuation.
-China has neither the need nor the intention to gain trade advantages through currency devaluation, the People's Bank of China (PBOC) said in a policy statement released on Thursday, stressing that the country has never resorted to competitive devaluation.
-The statement came as some countries pointed to currency valuation as a cause of trade imbalances, thereby oversimplifying the dynamics between exchange rates and trade.
-The conventional view that currency appreciation weakens export competitiveness largely reflects a short-term and static perspective. Over a longer horizon, competitiveness is shaped by much more than exchange rates, analysts have said.
-This is particularly evident in China's case. The international competitiveness of Chinese products has at times continued to strengthen even as the RMB appreciated. From 2020 to 2021, the RMB appreciated by about 9 percent against the U.S. dollar, while China's share of global exports increased by 1.7 percentage points in this period, according to the PBOC.
-In 2022, by contrast, the RMB depreciated by more than 8 percent against the dollar, while China's share of global exports fell by 0.7 percentage points, PBOC said.
-These figures showed that China's imports and exports are relatively insensitive to exchange-rate movements, while neither its goods trade surplus nor its current-account surplus has a simple linear relationship with the RMB exchange rate, said Guan Tao, chief economist at Huafu Securities Co., Ltd.   
-Attributing China's export strength primarily to currency depreciation or other purported factors including "overcapacity" reflects a fundamental misunderstanding of the sophistication and competitiveness of the country's industrial sector.
-At its core, China's trade growth is underpinned by its vast domestic market, comprehensive industrial and supply chains, well-developed infrastructure, abundant and highly skilled workforce, and steadily improving research and innovation capabilities, the central bank noted.
-Dong Ximiao, chief economist at China Merchants Union Consumer Finance, said that historically, the world's major trade surplus countries have generally been those with strong industrial competitiveness.
-For deficit economies, their deeper challenges lie in structural factors such as low savings rates, high consumption and insufficient industrial competitiveness, issues that cannot be resolved simply by focusing on the exchange rates of their trading partners.
-"Declining trade competitiveness in some countries reflects their own structural difficulties," said Hao Yubiao, director of the National Center for Economic Security Studies at Capital University of Economics and Business. "Pointing the finger at other countries' currency exchange rates amounts to avoiding the need for domestic adjustment and does little to solve the underlying problems."
-At a time when currencies in neighboring countries have been depreciating, China has refrained from pursuing beggar-thy-neighbor policies or competitive devaluation. This year, both the onshore and offshore RMB have strengthened past the 6.7 mark against the U.S. dollar.
-China had never resorted to competitive currency devaluation to boost exports to offset intensive external shocks in the past, the central bank said.
-Over the past two decades, the RMB has experienced multiple cycles of appreciation and depreciation, reflecting increasingly pronounced two-way movements and greater exchange-rate flexibility.
-The PBOC said that looking ahead, both appreciation and depreciation factors remain in play and that the future direction of the RMB exchange rates remains uncertain. Such two-way fluctuations are consistent with China's efforts to make the exchange rate more flexible and market-oriented.
-As a responsible major economy, China has also been committed to addressing such trade imbalances via international cooperation.
-At a meeting of G20 finance ministers and central bank governors last month, PBOC Governor Pan Gongsheng said structural reforms are needed across economies to address global trade imbalances. He called on deficit economies to reduce fiscal deficits and raise domestic savings rates, while surplus economies should appropriately promote growth in consumption and investment.
-Countries should formulate medium- and long-term policy plans, make clear commitments and follow through on those commitments, Pan said.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1371964.shtml</guid>
+CXMT Photo: VCG
+China's leading memory chipmaker ChangXin Memory Technologies (CXMT) plans to launch a new-generation DDR5 RDIMM server-geared memory chip that leverages 4F² dynamic random access memory (DRAM) architecture by the end of 2026, company President Cao Kanyu said at an industry conference on Saturday. 
+The move signals that Chinese suppliers are beginning to challenge more demanding system-level applications, quickening the pace from product iteration to architecture-level innovation, according to Chinese industry experts.
+The move marks China's latest push into architecture-level DRAM innovation and server-class memory validation, two areas long dominated by Samsung Electronics and SK Hynix and Micron Technology, Tian Feng, president of the Fast Think Institute and former dean of the Intelligence Industry Research Institute at SenseTime, told the Global Times on Sunday.
+Cao said that his company intends to use the 4F² architecture to overcome the engineering barriers in the server memory market.
+According to the company, at the core of CXMT's new platform is the Vertical Surrounded Gate transistor, which addresses current leakage and short-channel effects while increasing storage density.
+The design allows for higher storage density by moving from the industry's mainstream 6F² layout toward more compact 4F² architecture. By changing the structure to 4F², DRAM manufacturers can increase the cell density of each chip by 30 - 50 percent.
+CXMT has published more than 300 patents related to the 4F² architecture, which underscores the company's deepening intellectual property efforts to develop next-generation memory technologies, according to Cao.
+The planned launch of the new chip is an attempt by CXMT to expand into the server memory market. 
+In the server memory segment, a few foreign chipmakers have held the upper hand, while CXMT's business had focused on consumer electronics, according to Shanghai-based Yicai.com. 
+Experts said that the commercialization of the 4F² architecture is significant for the broader DRAM sector. "While the world's top three memory makers are advancing their own 4F² or similar 3D DRAM roadmaps, none has achieved large-scale commercialization yet," Tian said.
+If CXMT becomes one of the first vendors to bring 4F²-based products to market, it would not only gain an early position in the next-generation memory race, but also strengthen China's foothold in the high-end semiconductor supply chain, he noted.
+If the new architecture can be implemented stably this time, its manufacturing capabilities and reliability would demonstrate that it has met server-grade standards -- eligible for entry into the high-end chip market, Ma Jihua, a veteran industry analyst told the Global Times on Sunday.
+It aligns with the development path Chinese DRAM companies have consistently followed over the years — achieving scale first, and moving into higher-end markets later, Ma said.
+CXMT's technology iteration has accelerated in recent months. The company's LPDDR6 products and fifth-generation DRAM platform, G5, are both in mass production, suggesting a faster commercialization cycle. 
+"It implies progress in new chip manufacturing, packaging, testing and reliability engineering," Tian said.
+Ma said that CXMT's latest move is likely to add real pressure to other DRAM memory makers, as Chinese suppliers increasingly target higher-end applications. For China's semiconductor sector, it offers a new anchor point to stride into high-performance memory and reduce dependence on overseas technology.
+Competition is intensifying amid a booming DRAM market. In the second quarter of 2026, Samsung Electronics led the global DRAM market with a 39 percent share, followed by SK Hynix's 26 percent and Micron Technology's 25 percent, an industry report showed on August 4, 2026. 
+CXMT's global market share has reached 10 percent now, according to Counterpoint Research.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1371987.shtml</guid>
+    </item>
+    <item>
+      <title>China's Ministry of National Defense slams Lai's 'Double Ten' speech for hyping up 'mainland military threat,' pursuing 'Taiwan independence'</title>
+      <link>https://www.globaltimes.cn/page/202610/1371982.shtml</link>
+      <description>Published: 2026-10-11 12:14:00
+
+China's Ministry of National Defense
+China's Ministry of National Defense spokesperson on Sunday slammed Taiwan regional leader Lai Ching-te's so-called "Double Ten" speech for hyping up "mainland military threat" and pushing increased defense spending, saying Lai's remarks expose his attempt to seek "Taiwan independence" through military buildup and by soliciting external support.
+According to reports, Lai Ching-te recently delivered his so-called "Double Ten" speech, in which he hyped up claims that the Chinese mainland has continued to use military actions to pressure the Taiwan region and change the status quo across the Taiwan Straits, while calling for increased defense spending and stronger "whole-of-society defense resilience."
+In response, spokesperson Chen Xi said that there is only one China in the world, and Taiwan is part of China. This is the true status quo across the Taiwan Straits. Lai stubbornly clings to a "Taiwan independence" position, distorts right and wrong, hypes up the so-called "mainland military threat," and incites confrontation across the Straits. His attempts to seek "Taiwan independence" through military buildup and by soliciting external support.once again expose his nature as a source of trouble for Taiwan and a threat to peace, Chen said.
+In recent years, for their own partisan interests, the DPP authorities have pursued "independence" and resisted reunification, courted external forces, pushed so-called "whole-of-society mobilization" and attempted to turn the entire island into a battlefield. In doing so, they are tying the residents of Taiwan to the chariot of "Taiwan independence," undermining stability across the Taiwan Straits and sacrificing the Taiwan region's future, Chen said.
+The spokesperson noted that the PLA's regular exercises and training around the Taiwan island are aimed at deterring separatist moves for "Taiwan independence" and interference by external forces, and at safeguarding the security and well-being of residents in Taiwan. They are fully justified and beyond reproach.
+Chen said that "Taiwan independence" is fundamentally incompatible with peace across the Taiwan Straits. National reunification is an irresistible historical trend, a just cause and the aspiration of the people. 
+We hope that Taiwan compatriots will fully recognize the extreme danger and harm posed by the Lai authorities' obstinate pursuit of "Taiwan independence," and join us in resolutely opposing "Taiwan independence" separatist forces and external interference, jointly safeguarding a peaceful and tranquil homeland and sharing the benefits and glory of national rejuvenation, Chen said. 
+Global Times</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1371982.shtml</guid>
+    </item>
+    <item>
+      <title>Total ethane production at Northwest China's Tarim Oilfield exceeds 4 million tons: media report</title>
+      <link>https://www.globaltimes.cn/page/202610/1371981.shtml</link>
+      <description>Published: 2026-10-11 12:09:00
+
+The Kela 2-5 well in Tarim Oilfield's Kela 2 gas field in Northwest China's Xinjiang Uygur Autonomous Region Photo: screenshot of CMG's report 
+Cumulative ethane production at the Tarim Oilfield in Northwest China's Xinjiang Uygur Autonomous Region has exceeded 4 million tons, reaching 4.08 million tons as of Saturday. This marks a new milestone in the deep processing of natural gas in the Tarim Basin, China Central Television (CCTV) reported, citing China National Petroleum Corporation (CNPC), the oilfield's operator.
+Ethane is an important component of natural gas and a core feedstock for ethylene production. Further processing of ethylene yields plastics, chemical fibers, and various types of other industrial materials, making ethane a fundamental raw material for modern petrochemical industry. 
+The Tarim Energy Company, located in Xinjiang's Luntai County, has an annual natural gas processing capacity of 25 billion cubic meters. The company's Lunnan natural gas deep-processing project is one of the largest single-unit natural gas deep-processing facilities at an oil and gas field in China, according to the CCTV report. The Tarim Energy Company operates under CNPC's Tarim Oilfield.
+Since its commissioning, it has processed a total of 56 billion cubic meters of natural gas, and produced 4.08 million tons of ethane and 2.8 million tons of light hydrocarbons and liquefied petroleum gas. 
+The project has also achieved independent and controllable production, with core equipment such as propane refrigeration machines, compressors, and high-speed regeneration gas compressors having all replaced by domestically produced alternatives, an engineer at the Tarim Energy Company, was quoted as saying in the CCTV report. 
+In recent years, Tarim Oilfield has advanced the "West-to-West" gas utilization strategy, promoting large-scale processing of natural gas resources and extending the downstream chemical industry chain. To date, the oilfield has built a pipeline network of more than 5,400 kilometers around the Tarim Basin, supplying over 7 billion cubic meters of gas annually to southern Xinjiang.
+Natural gas in the Tarim Basin is rich in ethane. The deep extraction of the heavier components from pipeline gas not only significantly increases the value of the natural gas resources but also provides China's ethylene industry with an independent, controllable and low-cost source of feedstock, the report said.
+Global Times</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1371981.shtml</guid>
+    </item>
+    <item>
+      <title>No Chinese casualties reported in Riyadh airport attack that kills 12, injures over 300: embassy</title>
+      <link>https://www.globaltimes.cn/page/202610/1371977.shtml</link>
+      <description>Published: 2026-10-11 09:19:00
+
+This photo taken with a mobile phone on Sept. 19, 2026 shows thick smoke rising near King Khalid International Airport in northeastern Riyadh, Saudi Arabia. Photo: Xinhua
+The Chinese Embassy in Saudi Arabia said on Sunday morning that no Chinese nationals had been reported killed or injured so far, following an attack on King Khalid International Airport in the Saudi capital Riyadh on Saturday afternoon. 
+Twelve people have been killed and 309 others injured in the attack, the Saudi General Authority of Civil Aviation said.
+According to its statement posted early Sunday on social media platform X, the authority said the fatalities included four Saudi citizens and eight foreign residents -two Bangladeshis and one each from the US, Egypt, Jordan, Syria, Palestine and Sudan.
+The injured are receiving necessary medial care at several hospitals, with some in serious condition, the authority said, adding that material damage was still being assessed.
+The Chinese Embassy and Consulates on Sunday urged Chinese-funded institutions and Chinese nationals in Saudi Arabia to remain firmly aware of potential risks, minimize non-essential outdoor activities, remain calm, and ensure their personal safety.
+Passengers planning to travel by air are advised to stay in close contact with their respective airlines to avoid disruptions to their travel plans, the embassy said in its statement on WeChat account. Chinese nationals planning to transit through Saudi Arabia are also advised to carefully reconsider their travel plans in view of the current aviation situation in the country.
+Foreign embassies in Riyadh, including those of the US, the United Kingdom, Ireland and Canada, issued advisories on social media to their citizens in Saudi Arabia, according to an Al Jazeera report.
+Earlier on Saturday, King Khalid airport urged passengers to contact their airlines directly and check their flight status before heading to the airport amid reports of disruptions to air traffic. The airport did not specify the cause of the disruptions in its initial advisory, the report noted.
+Following reports of the latest attack, US President Donald Trump was asked by reporters outside the White House whether Washington planned to join the Saudi strikes on the Houthis. "We may. We're going to look at it. We just found out about the recent attack, so we'll make a decision. We move very quickly," he said, per the media report.
+Yemen's Houthi group has repeatedly targeted the airport in recent days. The latest attacks came amid an escalation in Yemen, where the Saudi-backed government forces are fighting the Houthis, the Xinhua News Agency reported.
+Global Times</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1371977.shtml</guid>
     </item>
     <item>
       <title>Xinjiang scientific expedition finds "most resilient desert plant"</title>
@@ -55,29 +105,6 @@ It can provide genetic material for improving crops and restoring desertified la
 The Third Xinjiang Scientific Expedition was launched in 2021 by the Ministry of Science and Technology. The previous two were conducted in the 1950s and 1980s, respectively.
 Over the past five years, the expedition team carried out studies on Xinjiang's ecology, land and agriculture, biodiversity and biological resources, mineral, energy and water resources.</description>
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1371963.shtml</guid>
-    </item>
-    <item>
-      <title>12 killed, 309 injured in attack on Riyadh airport as Houthis, Saudi Arabia trade strikes</title>
-      <link>https://www.globaltimes.cn/page/202610/1371959.shtml</link>
-      <description>Published: 2026-10-11 07:02:00
-
-WORLD / MID-EAST
-12 killed, 309 injured in attack on Riyadh airport as Houthis, Saudi Arabia trade strikes
-                            By Xinhua Published: Oct 11, 2026 07:02 AM 
-                    
-                    
-                         An attack targeting King Khalid International Airport in the Saudi capital Riyadh on Saturday afternoon has killed 12 people and injured 309 others, the Saudi General Authority of Civil Aviation said, as Yemen's Houthi group and Saudi Arabia continued exchanging strikes on major airports.
-The Saudi aviation authority said in a statement early Sunday that the fatalities included four Saudi citizens and eight foreign residents -- two Bangladeshis and one each from the United States, Egypt, Jordan, Syria, Palestine and Sudan.
-The injured are receiving treatment at several hospitals, with some in serious condition, the authority said.
-The authority said in an earlier statement that operations at the airport had been temporarily suspended pending damage assessments and safety checks.
-Following the Saturday attack, the Houthi group said in a statement that it was ready for reciprocal measures with Saudi Arabia to keep airports, seaports and other facilities with humanitarian functions outside the escalating military confrontation.
-Houthi-run al-Masirah TV reported Saturday that Saudi Arabia launched a new wave of air and missile strikes across Houthi-held areas in Yemen, targeting Sanaa International Airport in the Houthi-held capital, areas near the strategic Bab al-Mandab Strait and several northern provinces.
-Also on Saturday, Yemen's government forces said that more than 1,150 Houthi fighters had been "neutralized" and over 180 military and logistical vehicles destroyed or damaged in over 1,900 strikes across multiple fronts in Yemen in the past 24 hours.
-The figures could not be independently verified.
-Around Yemen's southwestern city of Taiz, Houthi advances have put increasing pressure on government forces defending the city and disrupted key roads connecting it with government-held areas in southern Yemen, government military sources told Xinhua, adding that fierce clashes were underway south of the city.
-Supported by Saudi airstrikes, the Yemeni government launched a large-scale offensive on Monday, seeking to retake Houthi-held territory, with some of the fiercest fighting concentrated around the strategic Bab al-Mandab Strait.
-Yemen has been mired in conflict since late 2014, when the Houthis seized the capital Sanaa and much of the country's north. A Saudi-led coalition intervened in 2015 in support of the internationally recognized Yemeni government, now based in the southern port city of Aden. The renewed fighting marked a major escalation after a UN-brokered truce in 2022 largely halted major hostilities.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1371959.shtml</guid>
     </item>
     <item>
       <title>Lai's speech rife with deception, covertness, misleadingness and danger: Hai Feng</title>
@@ -111,42 +138,6 @@ Han put forward three wishes - Taiwan's security, people with money, and long li
 Lai may use rhetoric to conjure up a "city upon a hill," but cross-Straits peace cannot be achieved through lies and deception. Winning votes with promises that cannot be honored, courting sympathy with narratives that pander to the West, shirking responsibility and shifting contradictions with distorted rhetoric, and finally leveraging external backing to feed his "independence" ambitions - this is precisely what makes Lai 's speech most worthy of vigilance.
 The people of Taiwan need to see clearly: the prettier the words, the more one must ask who will actually deliver on them; the deeper the "Taiwan independence" slogans are buried, the more one must ask who will be footing the bill for the enormous risks.</description>
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1371957.shtml</guid>
-    </item>
-    <item>
-      <title>Exclusive video shows Philippine medical evacuation near Ren'ai Jiao conducted under China Coast Guard supervision</title>
-      <link>https://www.globaltimes.cn/page/202610/1371946.shtml</link>
-      <description>Published: 2026-10-10 17:49:00
-
-Exclusive video shows Philippine medical evacuation near Ren’ai Jiao conducted under China Coast Guard supervision
-By Feng Fan Published: Oct 10, 2026 05:49 PM
-A Philippine rigid inflatable boat from BRP Sierra Madre transfers an injured personnel to another rigid inflatable boat under China Coast Guard vessels’ supervision on October 8, 2026.
-Exclusive footage obtained by the Global Times shows that a Philippine medical evacuation near China’s Ren’ai Jiao on Thursday was carried out with China’s permission and remained under China Coast Guard (CCG) supervision throughout the operation.
-The footage shows CCG vessel 5306 promptly warned the Philippine Coast Guard (PCG) vessel 4409 to leave after the Philippine vessel entered waters near Ren’ai Jiao without China’s permission.
-On humanitarian grounds, a rigid inflatable boat launched from PCG vessel 4409 was subsequently allowed to proceed to an area designated by the Chinese side, guided and monitored by a Chinese rigid inflatable boat.
-At the designated area, the Philippine rigid inflatable boat transferred an injured person from the BRP Sierra Madre, the Philippine ship illegally grounded at Ren’ai Jiao, with Chinese rigid inflatable boats and coast guard vessel supervising the operation, the footage shows.
-A PCG spokesperson claimed that CCG vessels had “obstructed” the evacuation mission, made dangerous maneuvers near a PCG vessel and used water cannons.
-China allows humanitarian medical evacuations, personnel rotations and resupply missions involving the Philippine ship illegally grounded at Ren’ai Jiao in China’s Nansha Qundao, Chen Xiangmiao, a researcher at the National Institute for South China Sea Studies, told the Global Times.
-However, the Philippines has repeatedly used resupply missions to deliver construction materials to reinforce the ship’s hull, seeking to use the vessel to illegally occupy the reef, Chen said. China therefore imposes controls on deliveries, and such resupply activities require its permission, he said.
-These resupply and personnel transfer operations have long been conducted under Chinese supervision and control, Chen said. Yet the Philippines sent a coast guard vessel for the medical evacuation without prior communication with China on Thursday, then portrayed itself as the victim to seek sympathy and challenge China’s territorial integrity, he said.
-Chinese Foreign Ministry spokesperson Mao Ning on Friday rejected Philippine claims that China had disrupted the medical evacuation, stressing that China would not waver in responding to any provocation and safeguarding territorial sovereignty and maritime rights and interests.
-At a regular press briefing, Mao said that a PCG vessel had intruded into waters adjacent to Ren’ai Jiao in Nansha Qundao of China without China’s permission on Thursday morning.
-Mao said that following communication between the two sides, on humanitarian grounds, China gave timely permission to the Philippine side to evacuate the injured person by small boat and provided necessary assistance.
-Instead of acknowledging China’s facilitation, individual Philippine officials have distorted facts and wrongfully accused China without showing the whole picture to the public, Mao said. This once again reveals their intention of provoking China and staging publicity stunts, which is rather despicable, she said.
-Mao’s remarks followed a statement issued by the CCG on Thursday evening. CCG spokesperson Jiang Lue said that PCG vessel 4409 had traveled to waters near Ren’ai Jiao that day to evacuate an injured person from the Philippine warship illegally grounded there.
-Jiang added that, on humanitarian grounds, China had immediately allowed the injured person to be transferred by small boat. The CCG handled the matter in accordance with laws and regulations and provided necessary assistance, he said.
-Jiang said the Philippine side’s remarks disregarded the facts, distorted the truth and sought to mislead the public. China has indisputable sovereignty over Nansha Qundao, including Ren’ai Jiao, and their adjacent waters, he said, warning the Philippine side to immediately stop its infringements, provocations and dissemination of false claims.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1371946.shtml</guid>
-    </item>
-    <item>
-      <title>Taiwan Affairs Office spokesperson slams Lai Ching-te's so-called 'Double Ten' speech for disregarding facts, distorting right and wrong</title>
-      <link>https://www.globaltimes.cn/page/202610/1371945.shtml</link>
-      <description>Published: 2026-10-10 17:41:00
-
-Taiwan Affairs Office spokesperson Zhang Han
-Lai Ching-te's speech disregarded facts, distorted right and wrong, misled the public and revealed ulterior motives, Taiwan Affairs Office of the State Council spokesperson Zhang Han said on Saturday when asked to comment on Lai's remarks on cross-Straits relations in his so-called "Double Ten" speech on Saturday.
-"We will adhere to the one-China principle and the 1992 Consensus, broadly unite compatriots from all walks of life in the Taiwan region, resolutely combat separatist forces seeking 'Taiwan independence,' oppose interference by external forces, and safeguard peace and stability across the Taiwan Straits," Zhang said.
-Global Times</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1371945.shtml</guid>
     </item>
     <item>
       <title>China aims to return Mars samples around 2031, scientist says</title>

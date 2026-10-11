@@ -1,0 +1,35 @@
+TITLE:
+CXMT's innovative 4F² DRAM marks breakthrough in China's push into server memory chips: experts
+
+PUBLISHED:
+2026-10-11 14:25:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1371987.shtml
+
+ARTICLE TEXT:
+CXMT Photo: VCG
+China's leading memory chipmaker ChangXin Memory Technologies (CXMT) plans to launch a new-generation DDR5 RDIMM server-geared memory chip that leverages 4F² dynamic random access memory (DRAM) architecture by the end of 2026, company President Cao Kanyu said at an industry conference on Saturday. 
+The move signals that Chinese suppliers are beginning to challenge more demanding system-level applications, quickening the pace from product iteration to architecture-level innovation, according to Chinese industry experts.
+The move marks China's latest push into architecture-level DRAM innovation and server-class memory validation, two areas long dominated by Samsung Electronics and SK Hynix and Micron Technology, Tian Feng, president of the Fast Think Institute and former dean of the Intelligence Industry Research Institute at SenseTime, told the Global Times on Sunday.
+Cao said that his company intends to use the 4F² architecture to overcome the engineering barriers in the server memory market.
+According to the company, at the core of CXMT's new platform is the Vertical Surrounded Gate transistor, which addresses current leakage and short-channel effects while increasing storage density.
+The design allows for higher storage density by moving from the industry's mainstream 6F² layout toward more compact 4F² architecture. By changing the structure to 4F², DRAM manufacturers can increase the cell density of each chip by 30 - 50 percent.
+CXMT has published more than 300 patents related to the 4F² architecture, which underscores the company's deepening intellectual property efforts to develop next-generation memory technologies, according to Cao.
+The planned launch of the new chip is an attempt by CXMT to expand into the server memory market. 
+In the server memory segment, a few foreign chipmakers have held the upper hand, while CXMT's business had focused on consumer electronics, according to Shanghai-based Yicai.com. 
+Experts said that the commercialization of the 4F² architecture is significant for the broader DRAM sector. "While the world's top three memory makers are advancing their own 4F² or similar 3D DRAM roadmaps, none has achieved large-scale commercialization yet," Tian said.
+If CXMT becomes one of the first vendors to bring 4F²-based products to market, it would not only gain an early position in the next-generation memory race, but also strengthen China's foothold in the high-end semiconductor supply chain, he noted.
+If the new architecture can be implemented stably this time, its manufacturing capabilities and reliability would demonstrate that it has met server-grade standards -- eligible for entry into the high-end chip market, Ma Jihua, a veteran industry analyst told the Global Times on Sunday.
+It aligns with the development path Chinese DRAM companies have consistently followed over the years — achieving scale first, and moving into higher-end markets later, Ma said.
+CXMT's technology iteration has accelerated in recent months. The company's LPDDR6 products and fifth-generation DRAM platform, G5, are both in mass production, suggesting a faster commercialization cycle. 
+"It implies progress in new chip manufacturing, packaging, testing and reliability engineering," Tian said.
+Ma said that CXMT's latest move is likely to add real pressure to other DRAM memory makers, as Chinese suppliers increasingly target higher-end applications. For China's semiconductor sector, it offers a new anchor point to stride into high-performance memory and reduce dependence on overseas technology.
+Competition is intensifying amid a booming DRAM market. In the second quarter of 2026, Samsung Electronics led the global DRAM market with a 39 percent share, followed by SK Hynix's 26 percent and Micron Technology's 25 percent, an industry report showed on August 4, 2026. 
+CXMT's global market share has reached 10 percent now, according to Counterpoint Research.
