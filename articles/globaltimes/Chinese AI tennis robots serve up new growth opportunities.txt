@@ -1,0 +1,49 @@
+TITLE:
+Chinese AI tennis robots serve up new growth opportunities
+
+PUBLISHED:
+2026-10-11 23:17:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372036.shtml
+
+ARTICLE TEXT:
+Photo: Courtesy of the China Open
+Chinese-made AI-powered tennis robots are serving up new business opportunities as China's growing enthusiasm for tennis fuels demand for intelligent training partners, while the sport is also emerging as a testing ground for advances in embodied artificial intelligence.
+At the 2026 China Open in Beijing, robots capable of tracking incoming balls, moving autonomously and returning shots across the net drew curious spectators, offering a glimpse into how AI-powered machines could make tennis training more accessible and interactive.
+From specialized training robots already reaching overseas markets to humanoid machines learning to swing rackets, Chinese robotics companies are exploring how advances in visual perception, motion control and AI can be turned into commercially viable products, while developing technologies with potential applications far beyond the tennis court.
+According to the China Open's official website, attendance during the tournament's first three days was approximately double that of the same period last year, while ticket revenue as of September 26 had also doubled year-on-year. 
+From tennis boom to training demand
+Chinese public's growing enthusiasm for tennis is creating new demand for accessible and flexible training solutions, particularly among recreational players who struggle to find suitable practice partners. While private coaching can cost several hundred yuan an hour in major cities, finding a fellow player requires matching schedules, locations and skill levels.
+That gap is creating opportunities for AI-powered training equipment. 
+At this year's China Open, Acemate, a brand developed by Chinese robotics company OneRobotics, brought its latest S10 Pro tennis robot to the tournament as its exclusive designated tennis training robot supplier. The robot uses visual sensing to track incoming shots, moves autonomously and returns the ball to sustain rallies.
+Huang Zihui, an Acemate representative, told the Global Times the company launched its S10 model last year to address one of tennis enthusiasts' most persistent problems: finding someone to play with.
+Unlike conventional ball machines that deliver shots according to preset programs, the robot can respond to a player's actual shots, allowing users to practice continuous rallies without a human partner, Huang said.
+Overseas demand has also become an important driver - the S10 has been sold to more than 60 countries and regions, with cumulative shipments exceeding 6,000 units - with North America, Europe and Australia emerging as major markets. In China, Acemate has expanded to more than 1,000 tennis courts through shared-use facilities and other arrangements, according to Huang.
+Huang said the company's competitive strengths increasingly extend beyond manufacturing and supply chains to integrated capabilities in AI algorithms, machine vision, motion control and product development.
+Rather than replacing coaches, Huang sees robots as complementary training tools. Robots are well suited to repetitive, high-frequency exercises and data-driven feedback, while human coaches retain advantages in tactical guidance, technical adjustments and personalized instruction, he said.
+The expanding market is also attracting investment. Chinese sports robotics company Pongbot announced in April that it had raised nearly 200 million yuan ($29.88 million) across three Series A funding rounds in less than six months, with the funds earmarked for product development and global expansion.
+The growing commercial interest comes against the backdrop of a broader tennis boom in China. The country's tennis-playing population reached 25.19 million as of 2024, up 28.03 percent from 2021, according to the General Administration of Sport of China.
+The sport's growing appeal has also translated into consumer spending. China's nine major professional tennis tournaments attracted nearly 1 million spectators in 2025, generating 250 million yuan ($35 million) in ticket sales and driving more than 16 billion yuan in related consumption, according to official figures released by the sports authority.
+A test of embodied AI
+While purpose-built tennis robots are finding commercial applications, another type of machine at the China Open is demonstrating how the sport could help push the technological boundaries of humanoid robotics. 
+At an interactive area near the National Tennis Center's Yingyue Court, Chinese robotics company Galbot showcased a fully autonomous humanoid tennis robot, inviting visitors to rally with a machine capable of swinging a racket rather than catching and mechanically relaunching incoming balls.
+The robot had previously appeared at the 2026 World Humanoid Robot Games, where it played tennis with former Grand Slam doubles champion Zheng Jie. 
+Galbot founder Wang He told Xinhua News Agency in August that the company's robot could already perform basic tennis skills, including serving, returning, retrieving difficult shots and executing lobs, as well as participating in singles and doubles play.
+The advances highlight the growing importance of high-speed sports as testing grounds for embodied AI technologies.
+Wang said the company wants to collect more motion-capture data from tennis players and expand simulated training to improve the robot's ability to handle complex shots, with the longer-term goal of reaching the playing level of skilled amateurs. 
+The technical significance extends beyond tennis.
+"Unlike specialized training devices, humanoid tennis robots must coordinate visual perception, trajectory prediction, body movement and racket control in real time, making tennis a demanding test of their ability to interact with a fast-changing physical environment," Chen Jing, vice president and research fellow at the Society for the Study of Technological and Strategic Trends, told the Global Times on Sunday.
+Chen said these capabilities could be applied to industrial sorting, flexible assembly, warehouse picking, home care and security inspections. Their key value lies in enabling robots to perform tasks while moving, approaching dynamic targets, avoiding obstacles and adjusting their movements while maintaining safety and reliability, he noted.
+Research published in the scientific journal Nature in April 2026 showed that an autonomous table tennis robot equipped with high-speed visual perception and reinforcement learning technology won three of five matches against elite human players.
+The researchers said the findings demonstrated "the potential of physical AI agents to perform complex, real-time interactive tasks," suggesting broader applications in domains requiring fast and precise human-robot interaction.
+For Chinese robotics manufacturers, sports allows these capabilities to be developed and demonstrated while also opening up commercial opportunities, Chen said.
+Huang also noted that net sports such as tennis, table tennis, badminton and pickleball are particularly suitable for early applications because of their relatively standardized playing environments and clearly defined tasks.
+However, the transition from demonstrations to widespread use still faces obstacles, including limitations in power density, battery life, thermal management and joint durability, as well as a shortage of real-world training data, safety and liability concerns, and high hardware and maintenance costs, Chen said.
+As Chinese companies push ahead with more sophisticated products and overseas expansion, the emerging sports robotics market is becoming a testing ground for how AI capabilities can be transformed into practical, commercially viable applications, he added.

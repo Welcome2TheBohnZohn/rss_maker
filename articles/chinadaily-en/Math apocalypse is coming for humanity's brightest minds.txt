@@ -1,0 +1,31 @@
+TITLE:
+Math apocalypse is coming for humanity's brightest minds
+
+PUBLISHED:
+2026-10-11
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202610/11/WS6acb788be4b06d4aa05622c3.html
+
+ARTICLE TEXT:
+The mathematical apocalypse is coming for humanity's brightest minds
+For centuries, mathematicians have occupied the penthouse of human intelligence. Their discipline was the ultimate sanctuary of reason, where brilliance was measured not by eloquence but by irrefutable logic. On Oct 6 OpenAI delivered an unsettling message to its occupants: the machines are moving in, showing the potential and ambition to own the building.
+The company unveiled full or partial solutions to 372 outstanding problems in mathematics and theoretical computer science, generating more than 700 documents. Its claims included progress on the Kakeya conjecture, important algorithms and even the formidable Riemann hypothesis. Artificial intelligence seems to be quietly trespassing on intellectual territory reserved for Fields medalists.
+The reaction was a mix of astonishment, bewilderment and indignation. Timothy Gowers, a Fields medalist from the United Kingdom, likened the approaching transformation to a tsunami visible from the beach. Terence Tao, another mathematical luminary of the United States, warned of "proof indigestion", where machines produce mathematical arguments faster than humans can verify, understand or absorb them.
+The Association for Human Mathematics was less restrained. In a statement criticizing OpenAI's mass release, it declared: "Releasing over 700 files at once is not a demonstration of scholarship, but a demonstration of power." It urged mathematicians to stop collaborating with the company and defend research centered on human understanding.
+Mathematics is not merely an industrial process for manufacturing correct answers. Its purpose is to illuminate why something is true, discover connections and develop ideas that others can understand. An opaque, hundred-page machine-generated proof may establish a result without advancing human comprehension. Worse, asking academics to scrutinize hundreds of such manuscripts transfers the costs of corporate competition to the scientific community.
+OpenAI's reluctance to disclose its model, prompts and complete computational procedures compounds the problem. Some results remain unverified; others have reportedly required correction. Mathematical certainty cannot be established by a corporate press release.
+Yet mathematicians should avoid mistaking today's limitations for permanent barriers. AI systems are improving at a pace that makes predicting their intellectual limits increasingly hazardous. What began as sophisticated pattern recognition has developed into sustained mathematical reasoning, parallel experimentation and increasingly autonomous problem-solving. Errors can be corrected, verification can be automated and even the ability to identify fruitful questions, still largely a human preserve, may not remain so.
+This makes OpenAI's announcement more consequential than a mere technological publicity stunt. After writers, artists, translators and social scientists, mathematicians must confront a question once considered beneath their professional dignity: What happens when a machine becomes better at the very activity that defines your intellectual worth?
+The implications extend far beyond academic careers. Mathematics underpins cryptography, financial markets, weapons systems, AI itself and much of modern science. An AI capable of discovering mathematical truths beyond human understanding could dramatically accelerate technological progress. It could also generate capabilities whose consequences are understood only after their deployment.
+That possibility becomes especially troubling given recent controversies surrounding the safety and behavior of advanced AI systems developed by US technology companies. Companies racing to demonstrate ever-greater intelligence have powerful commercial incentives to advance capabilities faster than safeguards. Mathematical brilliance is no guarantee of prudence.
+Nor does superior mathematical reasoning establish machine consciousness. Self-awareness remains a speculative possibility, not a demonstrated achievement. But an autonomous system need not become conscious to behave unpredictably, pursue defined objectives or gain influence beyond effective human control.
+Humanity has created an extraordinary instrument for extending its intelligence. It may also have created a rival to that intelligence. The distinction matters less if people gradually lose the ability to understand, evaluate or restrain what their machines produce.
+The mathematicians' dilemma is thus a microcosm of humanity's predicament. They are discovering that the highest achievements of human reasoning may no longer belong exclusively to humans. Whether this heralds an intellectual renaissance or an unprecedented surrender of control depends on decisions being made now.
+The tsunami is still offshore. The danger is that its architects are too busy measuring the wave's height to notice how little time remains to prepare.
