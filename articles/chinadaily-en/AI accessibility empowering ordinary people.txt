@@ -1,0 +1,31 @@
+TITLE:
+AI accessibility empowering ordinary people
+
+PUBLISHED:
+2026-10-12
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202610/12/WS6acc1e17e4b06d4aa056232e.html
+
+ARTICLE TEXT:
+AI accessibility empowering ordinary people
+Record-breaking Shanghai competition highlights growth of user-friendly coding to prioritize focus on ideas
+For most children, when summer camp ends, all that remains are photos, journal entries and memories that gradually fade.
+However, 9-year-old Luo Ange turned a seven-day pottery journey into an online "Clay Lab" that can be accessed and shared at any time.
+She used an artificial intelligence tool to input natural sentences to help write code and create the online lab, a process known as "vibe coding". Highly praised for its innovative concept, well-thought-out product logic and human touch, the work stood out among over 10,000 competitors to win one of the first prizes at Shanghai's Bund Hackathon AI Coding Competition that ended on Sept 9.
+Luo's inspiration came from attending a pottery summer camp in the mountains of Ganzhou, Jiangxi province, during the summer holidays.
+She experienced the entire process of traditional pottery-making, from digging the clay, sifting out impurities, mixing the clay, gathering firewood, loading the kiln, and firing and keeping watch over it.
+The details sparked an idea. Luo wanted to turn everything she had made, seen and learned into a digital work that can be preserved and shared.
+After learning about the Bund Hackathon competition, she was encouraged by her father to bring her idea to life. With no coding experience and no existing reference work to consult, she turned to AI tools including ChatGPT and Kimi, using conversational communication and precise requests to build the lab's framework and details.
+After two days, Luo transformed her concept into an online link. Without the need to download anything or log in, users can simply open their browser to explore the pottery-making experience.
+The lab faithfully follows the major steps of the pottery-making process, and features social functions such as visiting friends, sending flowers and saving pottery shards.
+Luo wants her lab to be seen by a large number of viewers and also act as a tribute to the work of the summer camp organizers.
+She also hopes it will help connect more of her peers. The Clay Lab has no scores, rankings, rewards or punishments, as Luo sees no right or wrong answers in creativity. In her online pottery museum, even pieces that failed to fire properly or are imperfect are on display.
+It's not the first time Luo tried to use AI for creative work. Through trial and error she learned about communicating, collaborating and iterating with AI, honing her logical thinking and problem-solving skills.
+"AI is more like a friend I can communicate with and work with. When the AI produces errors or the content is off, I patiently point out the issues, communicate with it and make adjustment to refine it bit by bit," said Luo.
