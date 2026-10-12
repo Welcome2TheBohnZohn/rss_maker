@@ -7,45 +7,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 12:03:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 23:03:23 +0000</lastBuildDate>
     <item>
-      <title>Ancient southern China canal finds new life as living heritage</title>
-      <link>https://english.news.cn/20261012/d53cb9b11aac466293335ba73d2c241c/c.html</link>
+      <title>China rolls out "token factories" to drive AI economy</title>
+      <link>https://english.news.cn/20261012/1bd12fd59c5c4902befbd7e75eee38b1/c.html</link>
       <description>Published: 2026-10-12
 
-NANNING, Oct. 12 (Xinhua) -- On free mornings, Ai Chenggang gets on his bicycle and rides along the Lingqu Canal, checking for rubbish tangled on the banks and watching out for children playing too close to the water.
-Ai, in his 70s, has spent his life in Xing'an County in south China's Guangxi Zhuang Autonomous Region, where the canal has flowed past homes and fields for more than two millennia.
-"This canal is what home means to us," he said.
-The waterway Ai tends, quiet and enduring, is drawing crowds of visitors from far and wide this week.
-Canal experts and enthusiasts from around the world are gathering in the city of Guilin in Guangxi for the World Canals Conference, which opened on Monday. The Lingqu Canal, about 60 kilometers from downtown Guilin, is a centerpiece of the event.
-The conference has brought together representatives from canal cities, research institutions and waterway organizations in more than 20 countries. It is the third time the event has been held in China and the first in Guangxi. Discussions focus on how to preserve historic waterways while maintaining their value for local communities along the banks.
-AN ANCIENT LINK
-Ai's work as a canal guardian follows a family tradition. He is a descendant of the doujun, canal keepers who once patrolled the banks, repaired embankments and operated water gates to keep boats moving safely.
-This role faded when roads and railways replaced the canal as a transport route, and Ai now serves with a volunteer group protecting the waterway.
-The 37-kilometer Lingqu Canal was built on the orders of Emperor Qinshihuang of the Qin Dynasty (221 B.C.-207 B.C.), connecting the Xiangjiang and Lijiang rivers and, through them, the Yangtze and Pearl river systems.
-Originally built to transport supplies for Qin armies campaigning in Lingnan, it later became a vital trade route linking China's interior with the southern region.
-Along with Dujiangyan and the Zhengguo Canal, Lingqu is regarded as one of ancient China's three major hydraulic projects.
-No cargo ships travel its waters today, but the canal still irrigates farmland, aids flood control and feeds the Lijiang River flowing through Guilin's famous karst landscape. Locals walk and rest under old trees on its banks, while farmers continue to work nearby fields.
-Chen Xinghua, a former deputy director of the Xing'an county museum, has studied Lingqu for decades.
-Figurines depicting foreigners, dating to the Han Dynasty (202 B.C.-220 A.D.), have been unearthed near the canal, offering evidence of early cultural exchanges between China's interior and the outside world, he said.
-"Lingqu was an important part of the ancient Maritime Silk Road," Chen noted. "Protecting it helps us better understand the past and draw lessons for the present."
-In 2018, Lingqu was listed as a World Heritage Irrigation Structure, the first in Guangxi to receive this designation.
-KEEPING IT ALIVE
-Protecting a canal involves more than restoring old stonework.
-Authorities have banned quarrying along the waterway, improved sewage treatment and cleared waste, while regional and local regulations provide legal protection for the site.
-Further efforts will focus on preserving the canal's original structures, expanding archaeological research, and using digital technology to make its history more accessible to the public, according to Wu Xiaogang, spokesperson of the Guilin municipal government.
-Tourism has grown alongside these efforts.
-The 12,000-square-meter Lingqu Museum houses more than 10,000 cultural relics. An immersive theater, meanwhile, takes visitors on a simulated boat ride through different periods of the canal's history, with warships from the Qin Dynasty, passenger boats from the Tang Dynasty (618-907), and merchant vessels from the Ming and Qing dynasties (1368-1911) appearing on a 360-degree screen.
-The Lingqu scenic area received more than 1 million tourist visits in 2025, including over 10,000 visits by participants in educational tours, boosting business for local restaurants, hotels and transport operators.
-For local residents, protecting the Lingqu Canal and preserving its cultural heritage have become part of everyday life.
-Zeng Jinglan, 69, grew up beside the canal. A finger painter whose works have been exhibited around the world, she returned to Xing'an three years ago and opened a studio nearby.
-"I grew up drinking water from the canal," she said. "In summer, my friends and I ran along its banks, listened to stories about it and watched my father paint by the water."
-Today, the canal's scenery, plants and wildlife inspire her paintings. She hopes her art will help keep its cultural heritage alive for future generations.
-More than 2,000 years after Lingqu was built, another canal has opened in Guangxi. The 134.2-kilometer Pinglu Canal, which began operating in September this year, gives southwestern China a shorter waterway route to the sea.
-Experts said the two canals underscore the enduring role of waterways in connecting regions, facilitating trade and driving China's development.
-Ai still gets on his bicycle and follows the canal his ancestors once guarded. The cargo boats have disappeared. Generations of canal keepers have come and gone. But the water is still flowing.
-"As long as the canal is here, our home has a root," Ai said. ■</description>
-      <guid isPermaLink="false">https://english.news.cn/20261012/d53cb9b11aac466293335ba73d2c241c/c.html</guid>
+This photo provided by iSoftStone Information Technology (Group) Co., Ltd. shows a scene inside a token factory at the Beijing Economic-Technological Development Area in Beijing, capital of China, Sept. 21, 2026. (Xinhua)
+BEIJING, Oct. 12 (Xinhua) -- As AI applications gain momentum, China is accelerating the rollout of "token factories" in a bid to build an economic order suited to the AI era.
+Every time a user prompts an AI model to generate code, images or video, tokens are consumed behind the scenes. In March, China adopted "ciyuan" as the official Chinese term for "token," giving its AI services a standard unit for measuring, settling and tracking usage -- similar to how electricity is measured in kilowatt-hours.
+In late September, Beijing unveiled an action plan to accelerate the development of the token economy for 2026-2028. "This is the first provincial-level policy in China specifically dedicated to the token economy," said Zhang Jinrui, an official with the Beijing Municipal Bureau of Economy and Information Technology.
+"With the rollout of Beijing's new policy, tokens are no longer just a technical term associated with large models. The token economy has officially entered a stage of industrial application and institutional development," said Liu Yong, president of the Beijing-based Zhongguancun Internet Finance Institute.
+The Beijing action plan calls for building world-class token factories and establishing tiered evaluation standards, with throughput capacity, time to first token, PUE (power usage effectiveness) and cache hit rate as core metrics, to ensure the large-scale supply of high-quality tokens.
+A token factory can be thought of as the AI era's equivalent of a power plant. It integrates electricity, chips, data and models to directly produce tokens. Unlike traditional data centers that only rent out computing cards, customers no longer need to deploy models or optimize inference themselves -- they simply pay for the tokens they use.
+In the Beijing Economic-Technological Development Area, the Chinese capital's first token factory is now in operation, with a daily capacity of up to 1.4 trillion tokens in its first phase.
+The plan also designates token distribution platforms as part of the city's new infrastructure layout, exploring market-based pricing and circulation mechanisms for tokens, so that tokens can truly be measured and traded as an economic factor.
+On the application side, the new policy encourages the development of general-purpose and industry-specific AI agents, bringing token capabilities into sectors such as industry, research and government affairs.
+Chen Guangming, an official with the Beijing Municipal Bureau of Economy and Information Technology, said token consumption is currently growing fastest in AI-generated content and programming, and more vertical industries will become potential growth drivers for token consumption in the future.
+"In the internet era, competition was all about traffic and user attention. In the AI era, the logic has shifted -- what matters now is the quality and efficiency of outputting effective tokens," Liu said, adding that the shift from a traffic economy -- one built on user visits and attention -- to a token economy represents a new trend in China's economic development.
+Data from China's National Data Administration shows that by June, the country's average daily token calls had surpassed 500 trillion. "More than half of those calls were made in Beijing," Zhang said, noting that the city has so far registered 242 large models for public use.
+Beijing's early push is aimed not merely at building a series of token factories, but at exploring institutional rules suited to the token economy, making the city a testing ground for the industry's development, according to local authorities.
+Elsewhere, localities across China are developing token economies tailored to their own strengths, as part of efforts to implement the State Council's guidelines on the "AI Plus" initiative. The guidelines aim to build a systematic support framework for AI covering models, data, computing power, applications, open-source development, talent, policies and regulations, and security.
+In May, north China's Inner Mongolia Autonomous Region, drawing on its green computing resources, launched a token trading platform integrating model calls, token matching and transaction settlement. Nanning, capital of south China's Guangxi Zhuang Autonomous Region, is exploring new models such as cross-border data compliance and remote model inference delivery, helping domestic computing power and large-model capabilities reach ASEAN markets as standardized token services. East China's Anhui Province, meanwhile, encourages banks to offer "token loans" as a financial tool for the token economy.
+Industry observers generally agree that the global token economy remains in its early stage but holds vast potential. A research report by CICC, a Chinese investment bank, sees "token factories" as one of the fastest-growing and most commercially promising business models for large-model developers in the near term. JPMorgan predicts that China's AI inference token consumption will grow about 370-fold between 2025 and 2030.
+China's three major telecom operators rolled out token packages in May for individual users as well as government and enterprise clients, bringing token commercialization further into reach for individual consumers.
+Li Lingran, an engineer at an internet company in Beijing, says using large AI models at work has become as essential as water. He now spends more than 200 yuan (about 30 U.S. dollars) a month on tokens, even more than his traditional mobile phone bill. "This is a shift you can't ignore," he said. ■
+This photo provided by iSoftStone Information Technology (Group) Co., Ltd. shows a scene inside a token factory at the Beijing Economic-Technological Development Area in Beijing, capital of China, Sept. 21, 2026. (Xinhua)</description>
+      <guid isPermaLink="false">https://english.news.cn/20261012/1bd12fd59c5c4902befbd7e75eee38b1/c.html</guid>
+    </item>
+    <item>
+      <title>26th China International Industry Fair kicks off in Shanghai</title>
+      <link>https://english.news.cn/20261012/f4dd23ae7cff4c29a6fadc118de087ad/c.html</link>
+      <description>Published: 2026-10-12
+
+People visit the 26th China International Industry Fair (CIIF) in east China's Shanghai, Oct. 12, 2026. The 26th CIIF kicked off here on Monday, with the theme of "Intelligent Economy, Limitless Smart Manufacturing." (Xinhua/Fang Zhe)
+People visit the 26th China International Industry Fair (CIIF) in east China's Shanghai, Oct. 12, 2026. The 26th CIIF kicked off here on Monday, with the theme of "Intelligent Economy, Limitless Smart Manufacturing." (Xinhua/Wang Xiang)</description>
+      <guid isPermaLink="false">https://english.news.cn/20261012/f4dd23ae7cff4c29a6fadc118de087ad/c.html</guid>
     </item>
     <item>
       <title>Global vine, wine congress kicks off in northwest China's Ningxia</title>
@@ -65,16 +62,6 @@ The local wine industry has also become a driver of tourism. Wineries in Ningxia
 This photo taken on Oct. 12, 2026 shows the opening ceremony of the 47th World Congress of Vine and Wine held in Yinchuan, northwest China's Ningxia Hui Autonomous Region. (Xinhua/Wang Peng)
 A foreign guest learns about Ningxia's wine during the opening ceremony of the 47th World Congress of Vine and Wine in Yinchuan, northwest China's Ningxia Hui Autonomous Region, Oct. 12, 2026. (Xinhua/Wang Peng)</description>
       <guid isPermaLink="false">https://english.news.cn/20261012/2af30634770c4b93841cdf00a9964d09/c.html</guid>
-    </item>
-    <item>
-      <title>Miaojialiang grand bridge along Xi'an-Chongqing high-speed railway successfully closed</title>
-      <link>https://english.news.cn/20261012/fdc88a7b6a9e46cfb4e44eade6bc45bc/c.html</link>
-      <description>Published: 2026-10-12
-
-An aerial drone photo taken on Oct. 12, 2026 shows the construction site of the Miaojialiang grand bridge in southwest China's Chongqing Municipality. Located in Chengkou County of Chongqing, the 941.6-meter-long Miaojialiang grand bridge, a key project along the Xi'an-Chongqing high-speed railway, was successfully closed here on Monday. (Xinhua/Tang Yi)
-This photo taken on Oct. 12, 2026 shows the construction site of the Miaojialiang grand bridge in southwest China's Chongqing Municipality. Located in Chengkou County of Chongqing, the 941.6-meter-long Miaojialiang grand bridge, a key project along the Xi'an-Chongqing high-speed railway, was successfully closed here on Monday. (Xinhua/Tang Yi)
-An aerial drone photo taken on Oct. 12, 2026 shows the construction site of the Miaojialiang grand bridge in southwest China's Chongqing Municipality. Located in Chengkou County of Chongqing, the 941.6-meter-long Miaojialiang grand bridge, a key project along the Xi'an-Chongqing high-speed railway, was successfully closed here on Monday. (Xinhua/Tang Yi)</description>
-      <guid isPermaLink="false">https://english.news.cn/20261012/fdc88a7b6a9e46cfb4e44eade6bc45bc/c.html</guid>
     </item>
     <item>
       <title>Extended holiday boosts Chinese travel demand across Europe</title>
@@ -138,61 +125,90 @@ Though they have passed away, their voices live on. Through their memories, we r
       <guid isPermaLink="false">https://english.news.cn/20261012/972bdafded6a417ab2f9ca9a6a2daa8e/c.html</guid>
     </item>
     <item>
-      <title>2026 Nobel Prize in Economics goes to Robert E. Hall, Michael Woodford</title>
-      <link>https://english.news.cn/20261012/591206af84744370b4bddafad80b2a36/c.html</link>
+      <title>U.S. needs to handle Taiwan question prudently: FM spokesperson</title>
+      <link>https://english.news.cn/20261012/81281a35fa6c45fda167771178e4315d/c.html</link>
       <description>Published: 2026-10-12
 
-STOCKHOLM, Oct. 12 (Xinhua) -- The Royal Swedish Academy of Sciences announced Monday that the 2026 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel has been awarded to Robert E. Hall and Michael Woodford for "microeconomic foundations of macroeconomic stabilization."
-The academy said the laureates have developed macroeconomic models that have significantly improved the ability to implement effective stabilization policies. Based on these models, well-timed fiscal and monetary policy measures can help smooth economic fluctuations.
-"The laureates' work has provided us with a stable theoretical foundation for the models that are now used by central banks and governments around the world. With them, we are better equipped to deal with shocks in the economy, such as energy crises or sudden changes in how much households consume," said John Hassler, chair of the Committee for the Prize in Economic Sciences.
-Both laureates were born in the United States. Hall is a professor at Stanford University, while Woodford is affiliated with Columbia University. ■</description>
-      <guid isPermaLink="false">https://english.news.cn/20261012/591206af84744370b4bddafad80b2a36/c.html</guid>
+BEIJING, Oct. 12 (Xinhua) -- The U.S. needs to abide by the one-China principle and the three China-U.S. joint communiqués, handle the Taiwan question prudently, and take concrete actions to uphold the overall China-U.S. relations and peace and stability in the region, a foreign ministry spokesperson said on Monday.
+Spokesperson Mao Ning told a regular press briefing after the U.S. State Department last week said China's maritime activities off Taiwan's east coast are "deeply destabilizing."
+"China has on multiple occasions made clear its position on this," said Mao, adding that China has exclusive economic zone and continental shelf in waters east of the Taiwan island. It is fully within China's sovereign rights and jurisdiction, therefore legitimate, lawful and beyond reproach, for China to carry out activities in these waters.
+"The party that instigates troubles and disrupts stability in this part of waters has never been the Chinese side," Mao emphasized, saying that the Taiwan question is China's internal affair that brooks no external interference. ■</description>
+      <guid isPermaLink="false">https://english.news.cn/20261012/81281a35fa6c45fda167771178e4315d/c.html</guid>
     </item>
     <item>
-      <title>China's NEV share of new car sales hits record 61.6 pct in September</title>
-      <link>https://english.news.cn/20261012/2707f31ad7744567b4503e3a7db90fff/c.html</link>
+      <title>China to cut NEV export tax rebate for high-quality auto industry growth</title>
+      <link>https://english.news.cn/20261012/18c5c504668842cc8fb6fb48630924c9/c.html</link>
       <description>Published: 2026-10-12
 
-BEIJING, Oct. 12 (Xinhua) -- New energy vehicles (NEVs) accounted for a record 61.6 percent of China's monthly new car sales in September, marking the third consecutive month above the 60 percent threshold, while the cumulative share for the first three quarters rose to 53.6 percent, industry data showed on Monday.
-In the first three quarters of 2026, NEV output and sales reached 12.483 million and 12.472 million units, respectively, both up by more than 10 percent year on year, according to the China Association of Automobile Manufacturers (CAAM).
-Overall auto output and sales in September stood at 2.99 million and 2.956 million units, respectively, up 11.4 percent and 9 percent month on month.
-NEV output and sales for the month reached 1.814 million and 1.823 million units, up 12.2 percent and 13.6 percent year on year, respectively.
-In the first three quarters, auto output and sales totaled 23.246 million and 23.271 million units, edging down slightly year on year.
-Vehicle exports maintained rapid growth. In September, China exported 1.053 million vehicles, up 61.4 percent year on year, including 571,000 NEVs, more than double the figure a year earlier, the data showed. NEVs accounted for more than half of total vehicle exports for the fourth consecutive month.
-During the January-September period, auto exports totaled 8.205 million units, including over 4 million NEVs, more than double the level a year earlier.
-"Despite a complex and severe external environment, exports have continued to grow rapidly, demonstrating strong resilience, while domestic new growth drivers are being steadily unleashed and the share of NEV sales is rising steadily," said Chen Shihua, deputy secretary-general of CAAM.
+BEIJING, Oct. 12 (Xinhua) -- China announced on Monday that it will cut the value-added tax (VAT) export rebate rate for new energy vehicles (NEVs) to 9 percent from 13 percent starting April 1, 2027.
+VAT export rebates for e-cigarette devices and related products will be scrapped from the same date, according to a statement jointly issued by the Ministry of Finance and the State Taxation Administration.
+Export consumption tax policies for products subject to the tax will remain unchanged, with existing tax refund or exemption arrangements continuing to apply, the statement said.
+The adjustment comes as China has continued to optimize export tax rebate policies.
+The country scrapped VAT export rebates for photovoltaic products from April 1, 2026, while cutting the rebate rate for battery products to 6 percent from 9 percent on the same date. The rebates for battery products will be eliminated from Jan. 1, 2027.
+China is the world's largest market for NEVs, a category that includes battery electric and plug-in hybrid vehicles. The sector has expanded rapidly in recent years, with automakers increasingly looking to overseas markets for growth.
+Luo Zhiheng, chief economist at Yuekai Securities, told business news network Yicai that cutting export tax rebates can, to some extent, reduce rat race competition and encourage companies to shift from low-price competition to technology and brand-based competition.
+"China's NEVs are highly competitive internationally. Against the backdrop of tight global supplies of traditional energy, NEVs have met the needs of residents in Europe and the United States. Even with a partial rebate cut, they can retain sufficient competitiveness," Luo said. "Objectively, this also plays a positive role in stabilizing the macro tax burden and can better support the development of domestic demand."
+During the January-September period, China's auto exports totaled 8.205 million units, including over 4 million NEVs, more than double the level a year earlier, according to the latest data.
+"Despite a complex and severe external environment, exports have continued to grow rapidly, demonstrating strong resilience, while domestic new growth drivers are being steadily unleashed and the share of NEV sales is rising steadily," said Chen Shihua, deputy secretary-general of the China Association of Automobile Manufacturers.
 Looking ahead to the fourth quarter, the industry is expected to maintain steady operation, Chen said. ■</description>
-      <guid isPermaLink="false">https://english.news.cn/20261012/2707f31ad7744567b4503e3a7db90fff/c.html</guid>
+      <guid isPermaLink="false">https://english.news.cn/20261012/18c5c504668842cc8fb6fb48630924c9/c.html</guid>
     </item>
     <item>
-      <title>Chinese foreign ministry slams Taiwan leader's separatist rhetoric</title>
-      <link>https://english.news.cn/20261012/6f4ff2611e3b4b53a3cdb04a24833679/c.html</link>
+      <title>Xi Focus: Turning China's innovation moments into lasting momentum</title>
+      <link>https://english.news.cn/20261012/9d1aa6339f474878be43f2242fd3ba05/c.html</link>
       <description>Published: 2026-10-12
 
-BEIJING, Oct. 12 (Xinhua) -- The Chinese mainland and Taiwan belong to one and the same China, and this constitutes the real status quo in the Taiwan Strait, Chinese foreign ministry spokesperson Mao Ning said on Monday.
-Mao made the remarks at a regular news briefing after Taiwan leader Lai Ching-te sought to solicit external support for "Taiwan independence" in a speech in Taipei on Saturday.
-No matter what Lai says or does, it can't change the historical and legal fact that Taiwan belongs to China, nor can it alter the doomed failure of "Taiwan independence," still less can it stop the overwhelming trend that China will ultimately be reunified, she said.
-The so-called democracy touted by Lai cannot disguise his separatist agenda, she noted.
-Taiwan's return to China is an important part of the victorious outcomes of World War II and the post-war international order, the spokesperson said. ■</description>
-      <guid isPermaLink="false">https://english.news.cn/20261012/6f4ff2611e3b4b53a3cdb04a24833679/c.html</guid>
+BEIJING, Oct. 12 (Xinhua) -- In June 2024, China's Chang'e-6 probe brought back humanity's first samples ever retrieved from the far side of the moon, an achievement hailed by global media as historic.
+Seven months later, DeepSeek's R1 reasoning model drew worldwide attention to China's advances in artificial intelligence (AI), with a Silicon Valley venture capitalist calling it AI's "Sputnik moment."
+The wave of innovation milestones carried into 2026. In March, China approved the market launch of an invasive brain-computer interface medical device by a Chinese company, indicating that the device has now entered the phase of clinical application. Last week, the journal Nature published a research article reporting that Chinese scientists had developed a nuclear clock capable of stable operation, marking a breakthrough in ultra-precise time measurement with potential applications in satellite navigation and deep-space exploration.
+How to transform breakthroughs in individual fields into lasting gains in productivity across the economy? China has made headway in this regard, as it is pursuing "new quality productive forces," an innovation-centered major task put forward by President Xi Jinping.
+During an inspection tour of northeast China's Heilongjiang Province in September 2023, Xi, also general secretary of the Communist Party of China (CPC) Central Committee and chairman of the Central Military Commission, brought the concept of new quality productive forces to the public's attention, calling for better integration of sci-tech innovation resources and the development of strategic emerging and future industries.
+At the Central Economic Work Conference that December, Xi urged efforts to drive industrial innovation through sci-tech innovation, particularly by leveraging disruptive and cutting-edge technologies to foster new industries, new models and new growth drivers, and to develop new quality productive forces.
+The policy drive stepped up on Oct. 9, when the CPC Central Committee and the State Council issued guidelines setting out 19 key measures to accelerate the development of new quality productive forces.
+INNOVATE TO WIN THE FUTURE
+"Innovation drives development and innovation shapes the future," Xi has stressed.
+Shifting toward innovation-driven growth is imperative for China. The country has built a complete industrial system covering all industrial categories in the United Nations classification, yet it is still grappling with major pressures from demographic shifts to resource and environment constraints. The fact that some of its key technologies remain dependent on other countries, along with intensifying technological revolution and competition, adds urgency to this shift.
+Xi's expositions on this concept have provided guidance for the country's high-quality development as well as for Chinese modernization.
+At a group study session of the Political Bureau of the CPC Central Committee in January 2024, Xi said "developing new quality productive forces is an intrinsic requirement and an important focus of promoting high-quality development."
+With innovation playing the leading role, new quality productive forces mean advanced productivity that is freed from traditional economic growth mode and productivity development paths, features high-tech, high efficiency and high quality, and comes in line with the new development philosophy, said Xi.
+From quantum technology and new energy to AI and future industries, sci-tech innovation has been a recurring focus of the Political Bureau's group study sessions in recent years.
+The emphasis on breaking new ground echoes a long-standing idea in Chinese philosophy. At a meeting on cultural inheritance and development in June 2023, Xi identified innovation as one of the five defining characteristics of Chinese civilization.
+Acutely aware of what matters for an economy with a vast industrial base, Xi has stressed that developing new quality productive forces "does not mean neglecting or abandoning traditional industries." He also stressed that developing new quality productive forces should be tailored to local conditions, warning against both a headlong rush into new industries and the neglect of traditional industrial strengths.
+The guidelines issued on Oct. 9 align with this approach, calling for measures tailored to local conditions and for "establishing the new before abolishing the old." An official with the National Development and Reform Commission (NDRC) said these principles are intended to correct problems seen in practice, including investment and planning divorced from reality, a rush into emerging and future industries, and neglect of upgrading traditional industries.
+FROM DISCOVERY TO PRODUCTIVITY
+The crucial link is turning knowledge into application. Addressing a national science and technology gathering in Beijing in July 2026, Xi summed up the relationship: sci-tech innovation should highlight an application-oriented approach, while industrial innovation should raise scientific questions.
+The brain-computer interface device approved in March illustrates how this works in practice. By decoding neural signals and transmitting commands to a pneumatic glove, it helps eligible patients with cervical spinal cord injuries perform grasping movements. Its market approval marks an important step toward wider clinical use.
+In manufacturing, the demand for better products can itself steer research. At Yangquan Valve Co., Ltd., a century-old manufacturer in north China's Shanxi Province, engineers have developed ball valves for hydrogen pipelines, opening possibilities beyond its traditional products.
+During a visit to the factory in July 2025, Xi emphasized responding to market demand and using technological innovation to breathe new life into traditional industries.
+During a November 2025 visit to south China's Guangdong Province, Xi reviewed progress in integrating sci-tech innovation with industrial innovation, and called for the building of an internationally competitive modern industrial system.
+He also stressed the need to accelerate indigenous innovation, vigorously support the adoption of homegrown innovative products, and foster a favorable environment for their application.
+China's large market, extensive supply chains and strong research capacity create opportunities to turn scientific advances into industrial applications.
+In Guangdong, a manufacturing powerhouse, the value added of the province's 20 major industrial clusters accounted for 31.7 percent of its GDP in 2025. In east China's Anhui Province, an expanding network of vehicle manufacturers and suppliers brings together batteries, chips, materials and vehicle assembly, making it possible to build an entire new energy vehicle without leaving the province.
+The broader shift is visible in national figures. In August 2026, value added by high-tech manufacturing enterprises above the designated size rose 16.7 percent year on year, compared with a 5.2 percent increase for industrial enterprises above the designated size overall. The green transition offers another marker: renewable energy accounted for 73.9 percent of all newly installed power generation capacity in the first half of 2026, according to the National Energy Administration.
+These changes show the scale of the transformation under way. Making the gains durable, however, requires more than successful products or fast-growing sectors. It requires an innovation system that can generate, test, finance, and spread successive rounds of advances.
+SUSTAINING INNOVATION, SHARING OPPORTUNITIES
+Xi has repeatedly focused on what happens between an invention and its wider adoption. During a November 2024 visit to the Wuhan Institute of Industrial Innovation and Development in central China's Hubei Province, he asked about development timelines, cost reductions, international competitiveness and cooperation with enterprises -- practical questions about how technology reaches the market.
+There is also a longer horizon. Xi has emphasized basic research, which may not yield immediate commercial returns but provides the discoveries on which future industries depend. At a symposium on basic research in Shanghai in April 2026, Xi said, "We must seize opportunities, rise to challenges, put basic research high on the agenda, advance it with sustained commitment, and strive for continuous achievements."
+China's 15th Five-Year Plan (2026-2030) places the development of new quality productive forces and greater self-reliance and strength in science and technology among its strategic priorities.
+Liu Zhenzhong, a researcher at the Institute of Industrial and Technological Economics of the NDRC, noted that transformative technologies are changing how innovation is organized and how resources are allocated. Institutional reform, he said, is therefore needed to clear barriers to development.
+Xi has charted a practical path for empowering new quality productive forces through reform. He called for efforts to deepen reform of economic and sci-tech systems to "remove bottlenecks and blockages that constrain the development of new quality productive forces." He also urged establishing a high-standard market system and developing new ways to allocate production factors.
+Reform efforts include guidelines issued in April 2026 to deepen reform of the ChiNext board of the Shenzhen Stock Exchange, the country's Nasdaq-style board of growth enterprises; an initiative launched in 2024 to promote mutual recognition of data products across trading platforms; and measures aimed at improving market-access rules.
+Xi has also emphasized that innovation is not confined within national borders. At the second session of the 32nd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in November 2025, he stressed digital, smart and green development and called on Asia-Pacific economies to "move faster to nurture and promote new quality productive forces." He advocated deeper cooperation on open-source technologies and an open, competitive ecosystem for innovation.
+The core technology behind the signature substrate product of Austrian semiconductor materials company AT&amp;S was first commercialized in southwest China's Chongqing Municipality and has since been refined there. CEO Michael Mertin said China has long made it a priority to train scientists and engineers, and the new generation of Chinese engineers "not only possesses outstanding mathematical skills but is also increasingly creative."
+"In today's digital age, no company, city or country can innovate in isolation," Mertin said. "High-tech progress depends on trusted global networks, cross-border collaboration, and the exchange of talent, expertise and ideas."
+In the latest signal of openness and cooperation, the new guidelines call for allocating advanced factors of production globally, building global networks for innovation cooperation, and establishing efficient, convenient and secure mechanisms for cross-border data flows.
+"The more complex the international environment, the more we should be open-minded and engage with the world. We should determine the right balance between opening up and security, and achieve greater strength and self-reliance in science and technology through international cooperation," Xi once said. ■</description>
+      <guid isPermaLink="false">https://english.news.cn/20261012/9d1aa6339f474878be43f2242fd3ba05/c.html</guid>
     </item>
     <item>
-      <title>China-EU consensus on vehicle trade averts escalation of trade frictions: commerce ministry</title>
-      <link>https://english.news.cn/20261012/4ab667559ab14de797df09308e8e67c3/c.html</link>
+      <title>Xi congratulates Madise on assuming Estonian presidency</title>
+      <link>https://english.news.cn/20261012/c3e2c2e714fd4b59aba1c67bc559d56d/c.html</link>
       <description>Published: 2026-10-12
 
-BEIJING, Oct. 12 (Xinhua) -- The consensus reached between China and the European Union (EU) on hybrid and electric vehicle trade has helped prevent an escalation of trade frictions, a spokesperson for China's Ministry of Commerce said on Monday.
-The spokesperson made the remarks in response to speculation by some foreign media outlets over details of the trade arrangements, particularly those concerning hybrid vehicles, following the latest meeting of the China-EU trade and investment consultation mechanism in Beijing.
-The spokesperson said China and the EU had engaged in sustained dialogue under the mechanism and reached consensus on a number of outcomes, helping maintain a stable and balanced relationship between these two key trading partners.
-Guided by the principles of mutual respect and equal consultation, the two sides held intensive talks on hybrid and electric vehicle trade, addressing economic and trade differences and each other's concerns in a balanced manner, the spokesperson noted.
-Regarding hybrid vehicles, the two sides emphasized and confirmed three basic principles: respect for facts, non-discrimination and compliance with World Trade Organization (WTO) rules.
-Citing Eurostat data, the spokesperson said the EU imported 107,000 hybrid vehicles from China in 2024 and 302,000 in 2025.
-Building on the 2025 level, the two sides reached an arrangement allowing for further increases, ensuring room for Chinese enterprises to maintain exports and achieve steady growth while taking into account the legitimate concerns of industries on both sides based on actual conditions, the spokesperson said.
-Under the principle of non-discrimination, no measures will specifically target Chinese products, let alone discriminate against Chinese enterprises. The quota allocated to China will be no lower than that granted by the EU to any other source of imports, according to the spokesperson.
-The two sides also confirmed that the trade arrangement should comply with WTO rules. China reserves all its rights under the WTO framework, including the right to resort to dispute settlement and seek trade compensation, the spokesperson said.
-Regarding electric vehicles, the spokesperson said China and the EU achieved a "soft landing" in the EU's anti-subsidy case in January this year, with the bloc issuing a general guidance document on price undertakings. The EU will continue to advance relevant procedures concerning price undertakings by companies involved in the case, as well as other review procedures, the spokesperson added.
-The spokesperson stressed that the consensus, reached on the basis of reciprocity and mutual benefit, has effectively safeguarded the interests of Chinese enterprises, prevented an escalation of China-EU trade frictions, and provided a stable, predictable and sustainable environment for bilateral trade and investment, contributing to the stable, balanced and sound development of China-EU economic and trade relations. ■</description>
-      <guid isPermaLink="false">https://english.news.cn/20261012/4ab667559ab14de797df09308e8e67c3/c.html</guid>
+BEIJING, Oct. 12 (Xinhua) -- Chinese President Xi Jinping on Monday extended congratulations to Ulle Madise on her assumption of office as president of Estonia.
+Xi said that China and Estonia enjoy a traditional friendship and that bilateral relations have maintained steady development in recent years, with continued progress in exchanges and cooperation across various fields, bringing benefits to the two peoples.
+Xi said that he attaches great importance to the development of China-Estonia relations and stands ready to work with President Madise to take the 35th anniversary of the establishment of diplomatic relations between the two countries this year as an opportunity to enhance political mutual trust, expand mutually beneficial cooperation, deepen people-to-people and cultural exchanges, and continuously enrich the contemporary connotations of bilateral relations. ■</description>
+      <guid isPermaLink="false">https://english.news.cn/20261012/c3e2c2e714fd4b59aba1c67bc559d56d/c.html</guid>
     </item>
     <item>
       <title>Xi, Papua New Guinea's governor-general exchange congratulations over 50th anniversary of diplomatic ties</title>

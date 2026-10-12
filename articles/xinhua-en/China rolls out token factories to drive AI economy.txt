@@ -1,0 +1,36 @@
+TITLE:
+China rolls out "token factories" to drive AI economy
+
+PUBLISHED:
+2026-10-12
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261012/1bd12fd59c5c4902befbd7e75eee38b1/c.html
+
+ARTICLE TEXT:
+This photo provided by iSoftStone Information Technology (Group) Co., Ltd. shows a scene inside a token factory at the Beijing Economic-Technological Development Area in Beijing, capital of China, Sept. 21, 2026. (Xinhua)
+BEIJING, Oct. 12 (Xinhua) -- As AI applications gain momentum, China is accelerating the rollout of "token factories" in a bid to build an economic order suited to the AI era.
+Every time a user prompts an AI model to generate code, images or video, tokens are consumed behind the scenes. In March, China adopted "ciyuan" as the official Chinese term for "token," giving its AI services a standard unit for measuring, settling and tracking usage -- similar to how electricity is measured in kilowatt-hours.
+In late September, Beijing unveiled an action plan to accelerate the development of the token economy for 2026-2028. "This is the first provincial-level policy in China specifically dedicated to the token economy," said Zhang Jinrui, an official with the Beijing Municipal Bureau of Economy and Information Technology.
+"With the rollout of Beijing's new policy, tokens are no longer just a technical term associated with large models. The token economy has officially entered a stage of industrial application and institutional development," said Liu Yong, president of the Beijing-based Zhongguancun Internet Finance Institute.
+The Beijing action plan calls for building world-class token factories and establishing tiered evaluation standards, with throughput capacity, time to first token, PUE (power usage effectiveness) and cache hit rate as core metrics, to ensure the large-scale supply of high-quality tokens.
+A token factory can be thought of as the AI era's equivalent of a power plant. It integrates electricity, chips, data and models to directly produce tokens. Unlike traditional data centers that only rent out computing cards, customers no longer need to deploy models or optimize inference themselves -- they simply pay for the tokens they use.
+In the Beijing Economic-Technological Development Area, the Chinese capital's first token factory is now in operation, with a daily capacity of up to 1.4 trillion tokens in its first phase.
+The plan also designates token distribution platforms as part of the city's new infrastructure layout, exploring market-based pricing and circulation mechanisms for tokens, so that tokens can truly be measured and traded as an economic factor.
+On the application side, the new policy encourages the development of general-purpose and industry-specific AI agents, bringing token capabilities into sectors such as industry, research and government affairs.
+Chen Guangming, an official with the Beijing Municipal Bureau of Economy and Information Technology, said token consumption is currently growing fastest in AI-generated content and programming, and more vertical industries will become potential growth drivers for token consumption in the future.
+"In the internet era, competition was all about traffic and user attention. In the AI era, the logic has shifted -- what matters now is the quality and efficiency of outputting effective tokens," Liu said, adding that the shift from a traffic economy -- one built on user visits and attention -- to a token economy represents a new trend in China's economic development.
+Data from China's National Data Administration shows that by June, the country's average daily token calls had surpassed 500 trillion. "More than half of those calls were made in Beijing," Zhang said, noting that the city has so far registered 242 large models for public use.
+Beijing's early push is aimed not merely at building a series of token factories, but at exploring institutional rules suited to the token economy, making the city a testing ground for the industry's development, according to local authorities.
+Elsewhere, localities across China are developing token economies tailored to their own strengths, as part of efforts to implement the State Council's guidelines on the "AI Plus" initiative. The guidelines aim to build a systematic support framework for AI covering models, data, computing power, applications, open-source development, talent, policies and regulations, and security.
+In May, north China's Inner Mongolia Autonomous Region, drawing on its green computing resources, launched a token trading platform integrating model calls, token matching and transaction settlement. Nanning, capital of south China's Guangxi Zhuang Autonomous Region, is exploring new models such as cross-border data compliance and remote model inference delivery, helping domestic computing power and large-model capabilities reach ASEAN markets as standardized token services. East China's Anhui Province, meanwhile, encourages banks to offer "token loans" as a financial tool for the token economy.
+Industry observers generally agree that the global token economy remains in its early stage but holds vast potential. A research report by CICC, a Chinese investment bank, sees "token factories" as one of the fastest-growing and most commercially promising business models for large-model developers in the near term. JPMorgan predicts that China's AI inference token consumption will grow about 370-fold between 2025 and 2030.
+China's three major telecom operators rolled out token packages in May for individual users as well as government and enterprise clients, bringing token commercialization further into reach for individual consumers.
+Li Lingran, an engineer at an internet company in Beijing, says using large AI models at work has become as essential as water. He now spends more than 200 yuan (about 30 U.S. dollars) a month on tokens, even more than his traditional mobile phone bill. "This is a shift you can't ignore," he said. ■
+This photo provided by iSoftStone Information Technology (Group) Co., Ltd. shows a scene inside a token factory at the Beijing Economic-Technological Development Area in Beijing, capital of China, Sept. 21, 2026. (Xinhua)

@@ -1,0 +1,27 @@
+TITLE:
+China's Nebula-2 reusable rocket featuring 'chopstick-style' recovery system advances as key 5-meter-diameter propellant tank rolls off production line
+
+PUBLISHED:
+2026-10-12 22:04:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372115.shtml
+
+ARTICLE TEXT:
+Nebula-2 reusable rocket Photo: CGI provided by the Deep Blue Aerospace
+The 5-meter-diameter stainless steel propellant tank, a key component of China’s commercial reusable launch vehicle Nebula-2, has recently rolled off the production line, marking a major step forward in the rocket’s intensive engineering development phase, the Global Times learned from its developer, Wuxi-based commercial space startup Deep Blue Aerospace, on Monday. 
+The rocket is designed to feature a “chopstick-style” in-situ capture system, which could eventually allow it to be caught at the launch site rather than landing at a separate location.
+Propellant tanks are structural backbones of rockets and one of the key components affecting the pace of large-scale rocket production and delivery. 
+From design to manufacturing of the 5-meter-diameter stainless steel propellant tank, it set a new record for large-diameter stainless steel rocket tank production in China’s commercial space sector, and paving the way for a second-stage propulsion system test for the Nebula-2 rocket planned for year-end, the Science and Technology Daily reported on Monday. 
+The Nebula-2 rocket can carry up to 25 tons to low Earth orbit. Its first stage is equipped with 11 Thunder-RS engines delivering 12,446 kilonewtons of liftoff thrust, while its second stage uses a single vacuum-optimized engine. 
+The Nebula-2 is designed for more than 20 reuses and features a “chopstick-style” in-situ capture system which could eventually enable the rocket to be captured at its launch site rather than landing at a separate location, improving launch, recovery and reuse efficiency. 
+At present, the development of Nebula-2 is progressing smoothly, with its structural, propulsion, recovery and navigation, and ground tracking, telemetry and control systems advancing steadily on schedule. 
+With its high payload capacity and cost-effectiveness, Nebula-2 is designed to support a wide range of missions, from large-scale satellite constellation deployment for China’s satellite internet network to launching high-value medium- and large-sized satellites into geosynchronous transfer orbit (GTO), medium Earth orbit (MEO) and other orbits for domestic and international customers. 
+China is pursuing multiple technological approaches to reusable rocket recovery, with progress in 2026 highlighting the country's efforts to develop more flexible and cost-effective launch capabilities. 
+On July 10, the Long March-10B successfully completed a sea-based recovery of its first stage using a net system mounted on an offshore platform, marking China's first successful recovery of an orbital-class rocket booster. On August 19, the Zhuque-3 Y2 rocket developed by private aerospace firm LandSpace achieved the country's first successful land-based recovery of an orbital-class rocket's first stage using deployable landing legs.
