@@ -1,0 +1,32 @@
+TITLE:
+Led by DeepSeek, Chinese AI models take top five positions in global weekly token usage ranking
+
+PUBLISHED:
+2026-10-12 15:42:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372071.shtml
+
+ARTICLE TEXT:
+AI photo: VCG
+Chinese AI models have taken the top five spots in weekly token usage, according to the latest data from OpenRouter, a global large language model (LLM) aggregation platform.
+From October 5 to 11, AI models worldwide processed 172 trillion tokens, up 3.61 percent week over week. Chinese models accounted for 86.74 trillion tokens, compared with 18.97 trillion for US AI models. Token usage by Chinese AI models grew by 50.96 percent week over week, while usage by US models increased by 17.1 percent, the National Business Daily reported on Monday.
+This marked the 24th consecutive week that Chinese models led their US counterparts in token usage.
+A token is the basic unit of text processed by an AI model and it has become a key measure of AI usage and computing consumption.
+Chinese AI venture DeepSeek, which shook the tech industry last year by challenging US assumptions about China's AI capabilities, led the ranking. DeepSeek's V4.1 Flash processed 41 trillion tokens during the week, up 60 percent week over week.
+The other AI models in the top five also came from Chinese companies.
+Z.ai's GLM 5.3 Flash ranked second, processing 12.2 trillion tokens during the week, up 26 percent week-over-week. Xiaomi's MiMo-V2.6-Flash came in third, processing 11.5 trillion tokens, up 19 percent week-over-week.
+Shanghai-based AI firm StepFun's Step 5 Preview ranked fourth, processing 8.84 trillion tokens. Tencent Hy4 preview ranked fifth, processing 8.28 trillion tokens, up 27 percent week over week.
+It was not the first time that Chinese AI models had taken all five top spots in the ranking.
+Anthropic's Claude Opus 5.5 ranked eighth, processing 5.02 trillion tokens, up 104 percent week over week.
+During the week, the five leading Chinese models accounted for 47.9 percent of tokens processed.
+Chinese analysts said the models' strong weekly performance underscored rapid growth in global uses as developers worldwide increasingly turned to Chinese companies' low-cost, open-weight models.
+Tian Feng, president of the Fast Think Institute and former dean of the Intelligence Industry Research Institute at SenseTime, told the Global Times that the ranking represented an overall endorsement of Chinese models' capabilities, stability and cost-effectiveness. DeepSeek's performance was particularly noteworthy because the company significantly raised API prices for its latest flagship models in mid-August.
+"The weekly data again demonstrated that overseas enterprises and developers are treating Chinese models as serious options and evaluated them carefully when choosing LLMs," Tian said.
+Global corporate adoption of Chinese models increased substantially in 2026, according to CNBC. Chinese models accounted for just 6-13 percent of uses on OpenRouter in February.

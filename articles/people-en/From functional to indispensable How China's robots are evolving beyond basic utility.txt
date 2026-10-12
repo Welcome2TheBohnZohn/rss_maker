@@ -1,0 +1,39 @@
+TITLE:
+From functional to indispensable: How China's robots are evolving beyond basic utility
+
+PUBLISHED:
+2026-10-12
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1012/c90000-20507251.html
+
+ARTICLE TEXT:
+From functional to indispensable: How China's robots are evolving beyond basic utility
+Data-collecting engineers train robots at Damon Technology, a company devoted to the R&D and application of intelligent logistics technologies in Huzhou, east China's Zhejiang province. (Photo/He Weiwei)
+Once showcased in competitive arenas, Chinese robots are now operating seamlessly across factory floors worldwide. This rapid evolution marks a significant leap in the country's robotics sector, which has seen steadily growing exports and increasingly widespread deployment in both industrial and everyday applications globally.
+According to data released by China's General Administration of Customs, industrial robot exports surpassed imports for the first time in 2025, marking the country's transition into a net exporter of industrial robots.
+The next frontier lies in making these machines not just functional, but genuinely indispensable. How can they better assist human workers? How can they take over tasks that are dirty, dull, dangerous, or demanding -- the so-called "4D" jobs that are hazardous, monotonous, or highly repetitive? Answering these questions has become a central priority for robotics developers across China.
+In heavy manufacturing, for instance, robots deployed at steel-structure workstations by China Construction Science and Industry Corp. Ltd. operate continuously without fatigue, boosting production-line efficiency by 22% to 40%. This automation helps offset skilled-labor shortages and accelerates the delivery cycle for prefabricated components. Equipped with 3D laser vision systems, these robots maintain positioning accuracy within one millimeter, while weld quality inspections achieve a first-pass acceptance rate exceeding 99.5%.
+Logistics hubs present a different set of challenges. High-volume sorting facilities demand speed and precision under constantly shifting conditions.
+"Packages at distribution centers vary widely in shape and rigidity, from sturdy cardboard boxes to soft, irregularly shaped parcels. When a box is damaged or its weight distribution is uneven, conventional robotic arms can easily fail to pick it up or even become jammed," said the head of the technical team at Robotera, a Chinese embodied-intelligence robotics company.
+An industrial robot carries samples to laboratories in a smart workshop of ZUCH Technology, a high-tech enterprise specializing in connector system solutions in Yueqing, east China's Zhejiang province. (Photo/Su Qiaojiang)
+To handle complex working conditions, Robotera robots can instantly determine an object's center of gravity and material upon contact with a package. They rapidly adjust their strategies to deliver flexible grasping. Field test data shows that when handling real packages, Robotera robots can process more than 1,200 items per hour at peak, with a grasping success rate of approximately 95 percent.
+Outdoor and unstructured environments pose yet another challenge. In emergency response and industrial inspection, robots must navigate toxic atmospheres, unstable terrain, mud, rubble, and poor visibility caused by rain or snow. Modern quadruped robots have been engineered to perceive real-time changes in ground conditions and autonomously adapt their movement to avoid obstacles.
+Liu Chen, head of product development at Hangzhou-based Deep Robotics, highlighted joint initiatives with the Zhejiang provincial department of emergency management, including AI-powered flood-response and reconnaissance robots.
+Liu said these robots can not only navigate complex sections of terrain autonomously, but also carry reconnaissance and inspection equipment. They are actively deployed for hazard detection, environmental monitoring, and search-and-rescue support.
+While hardware defines what a robot can physically do, true intelligence lies in its ability to adapt to unpredictable real-world scenarios. Cross-factory deployment, in particular, has historically required extensive recalibration for each new site.
+Deep Robotics has addressed this by developing a ready-to-deploy architecture. After a quadruped robot learns to identify a specific instrument at Factory A, its embedded AI system enables direct capability transfer. When deployed at Factory B, it can immediately recognize and interact with similar equipment. This cross-site knowledge sharing significantly reduces the setup and commissioning time for new installations.
+"Robots functioning in dynamic, real-world environments rely on an 'embodied brain,' which requires the coordinated development of multiple capabilities, including task understanding, scene memory, autonomous navigation, embodied manipulation and safety decision-making," Liu said.
+A quadruped robot carries out patrols in a citrus orchard at a modern agricultural park in Jiang'an county, Yibin, southwest China's Sichuan province. (Photo/Zhuang Ge'er)
+"It is not simply a matter of adding a large model. AI must genuinely understand the laws governing the physical world. To this end, Deep Robotics is continuing to advance research and development of its 'embodied brain,'" Liu added.
+China's humanoid robot shipments exceeded 40,000 units in the first half of 2026, accounting for 97 percent of the global total. A 2026 report on the development of the humanoid robotics industry says humanoid robots are moving rapidly from small-scale trials toward routine deployment and large-scale applications.
+Industry insiders pointed out that, backed by years of accumulated manufacturing capabilities, China, the world's largest market for industrial robots, enjoys a complete industrial chain, strong capacity for rapid supply-chain support and cost competitiveness.
+At the same time, China has a wealth of application scenarios across industries such as manufacturing, logistics and services, providing abundant data and giving Chinese robotics companies extensive experience across diverse real-world scenarios.
+As technology continues to evolve at a faster pace, China's robotics industry is expected to accelerate the upgrading of complete robot systems toward higher-end, smarter products.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
