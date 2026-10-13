@@ -1,0 +1,41 @@
+TITLE:
+China leverages electric vehicles to stabilize the power grid
+
+PUBLISHED:
+2026-10-13
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1013/c90000-20507739.html
+
+ARTICLE TEXT:
+China leverages electric vehicles to stabilize the power grid
+International buyers are introduced to an ultra-fast-charging battery for new energy vehicles at the 2026 Power Battery Application Ecosystem Exhibition in Yibin, southwest China's Sichuan province, Sept. 3, 2026. (Photo/Lan Feng)
+A global energy revolution is underway, centered on replacing fossil fuels with renewable energy and gasoline and diesel vehicles with electric vehicles (EVs). China is spearheading this shift, and developing a new power system integrating source, grid, load, and storage is an inevitable path forward.
+As the stock of new energy vehicles climbs toward the 100-million mark, massive numbers of EVs will transcend their traditional role as transportation tools. They are emerging as a critical component of the next-generation power infrastructure.
+China is expected to have 110 million to 160 million EVs on the road by 2030, with the number projected to rise to 300 million to 400 million by 2040. As ultra-fast charging networks expand, the strain of synchronized charging on local grids is becoming increasingly apparent.
+For instance, if 5 million EVs were to charge simultaneously overnight at 10 kW each, the resulting demand -- 50 million kW -- would far exceed the peak capacity of most municipal grids.
+Shifting EV charging from unmanaged, decentralized charging to coordinated, bidirectional energy flow, is therefore crucial. The key lies in enabling vehicle-to-grid (V2G) technology, which allows EVs to interact dynamically with the power network.
+At its core, V2G transforms EVs from passive grid consumers into active, mobile energy storage units. Vehicles can draw power during off-peak hours and feed electricity back into the grid during periods of high demand.
+This not only alleviates grid congestion but also creates new revenue streams for owners who participate in wholesale energy markets.
+With an average 70-kWh battery pack, leveraging surplus cycling capacity for grid services could generate cumulative lifetime returns of 15,000 to 75,000 yuan ($2,240 to $11,198). In effect, EVs are shifting from depreciating consumer products to income-generating assets.
+A worker inspects charging piles for electric vehicles in a workshop of a new energy company in Luoyang, central China's Henan province. (Photo/Zhang Yixi)
+Battery life and safety are among the public's major concerns. Research shows that properly managed V2G operations do not accelerate battery degradation; on the contrary, they can help extend battery calendar life.
+Current lithium iron phosphate (LFP) batteries used in EVs can undergo about 3,000 full charge-discharge cycles before their capacity falls to 70 percent. Yet a typical household vehicle consumes only about 500 cycles over 10 to 15 years of use, leaving substantial capacity for additional applications.
+Technologies such as bidirectional pulsing can achieve more uniform lithium distribution, suppress lithium plating, and boost fast-charging and low-temperature performance. Meanwhile, V2G operation keeps batteries mostly at a partial state of charge. This prevents calendar-life degradation caused by long-term storage at full charge. When paired with intelligent risk monitoring, these systems effectively minimize safety incidents.
+V2G applications have already taken shape in three typical scenarios.
+The first is the "point" scenario in industrial parks, where vehicle batteries operate in coordination with photovoltaic generation and energy storage facilities.
+The second is the "line" scenario in transportation, where integrated solar-storage-charging systems and batteries used for swapping at heavy-truck stations can supply power to passenger vehicles, reducing the impact on the main power grid.
+The third is the "area" scenario in buildings, where integrated "home-vehicle-grid" systems enable comprehensive management of building energy use and V2G operations.
+Looking ahead, V2G is expected to become a major form of distributed short-duration energy storage in China. Given that high-rise buildings dominate China's urban landscape and that conditions for installing fixed energy storage systems at home are limited, using EVs parked in underground garages for energy storage is a more practical option.
+Electric vehicles are charged in Qingzhou, east China's Shandong province. (Photo/Wang Jilin)
+Under China's 15th Five-Year Plan (2026-2030) for the development of the new type of power system, the aggregate adjustable charging capacity enabled by V2G is expected to reach 50 million kilowatts by 2030. By 2040, as the growth of fixed energy storage slows, V2G energy storage capacity could exceed 4 billion kilowatt-hours.
+Conservatively estimated, the total battery capacity of 350 million EVs will reach 25 billion kilowatt-hours by 2050, enough to meet the country's electricity demand for one day in an emergency.
+The next five years will be a launch phase for the V2G industry. As technical standards are improved, market mechanisms are put in place and business models mature, more than 100 million EVs will effectively form a vast network of "mobile power banks" for the grid, providing strong support for energy transition.
+(Ouyang Minggao is an academician of the Chinese Academy of Sciences and a professor at Tsinghua University. The article was compiled by People's Daily journalist Wang Zheng.)
+Copyright © 2026 People's Daily Online. All Rights Reserved.
