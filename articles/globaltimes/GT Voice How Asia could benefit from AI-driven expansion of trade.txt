@@ -1,0 +1,27 @@
+TITLE:
+GT Voice: How Asia could benefit from AI-driven expansion of trade
+
+PUBLISHED:
+2026-10-14 22:55:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372289.shtml
+
+ARTICLE TEXT:
+AI Illustration: Chen Xia/Global Times
+The IMF's new chief economist Silvana Tenreyro said on Tuesday that global trade grew 8.3 percent between 2023 and 2025, while global trade in AI grew by 29 percent, benefiting China, India and other Asian countries, Reuters reported.
+Why has Asia reaped the benefits of the expansion of AI trade? First, AI depends heavily on hardware. Chip manufacturing, server assembly, data center construction and power infrastructure all require a mature industrial system, large-scale manufacturing capacity and a stable supply chain network as their foundation. After decades of industrial upgrading and technological accumulation, the capacity and cost advantages in these segments have long been concentrated in Asia. 
+From memory chip manufacturing to the ecosystem covering advanced processes, server components and cooling systems, to the large-scale production capacity of servers, optical modules and electronic components, Asia has formed the world's most complete AI hardware supply network. 
+In the first eight months of this year, China's exports of servers, optical modules and electronic components grew at double-digit rates year-on-year, while its share of global humanoid robot shipments rose to 97 percent, according to customs statistics. Behind these figures lies the supply capacity that Asian manufacturing has unleashed in the AI hardware sector.
+Second is the scale effect on the demand side. China and India combined have more than 2.8 billion people, a regional market without parallel anywhere else in the world. It serves as both a vast proving ground for AI applications and a mega-buyer of AI hardware and services. In Asia, AI demand is being released simultaneously across countless scenarios, such as AI-assisted product selection for cross-border e-commerce livestreams, image recognition built into educational devices, and AI-powered quality inspection on factory floors. 
+Feedback from hundreds of millions of users feeds back into product iteration at a speed unmatched elsewhere. This is what AI adoption in Asia looks like: not confined to laboratories or launch events, but reaching into every capillary of commerce, manufacturing and daily consumption. That endogenous demand is itself a key pillar of global AI trade.
+Some may be wondering whether Asia's deep participation in the AI cycle comes at the expense of advanced economies. The answer is no. Asia's AI-driven growth is not about taking dividends away from them. It is about making the global AI pie larger by providing manufacturing capacity and market space. Asian factories supply computing equipment to the world, and Asian markets provide revenue and users to global AI companies. The stable operation of Asian supply chains in turn supports the return expectations of global AI investment. This is a mutually reinforcing cycle, not a zero-sum game.
+The scale of this cycle is expanding rapidly. In recent years, global trade in AI-related products has grown far faster than overall merchandise trade. While AI-related goods may account for about 15 percent of world trade, trade in AI-enabling goods drove 42 percent of goods trade growth in 2025, and this share rose to 76 percent during the first quarter of 2026, according to World Trade Organization and Organisation for Economic Co-operation and Development analysis. 
+Without the large-scale, cost-effective AI hardware provided by Asian supply chains, the cost of global data center construction would rise sharply, the pace of AI adoption would be far slower, and AI deployment in every country would ultimately suffer. Conversely, the rapid growth of Asia's AI industry has also created substantial new import demand, from high-end research and development equipment to specialized software in niche fields to AI service solutions adapted to different markets.
+This does not mean Asia can rest easy. Challenges such as geopolitical disruptions to supply chains, export controls on critical technologies, and bottlenecks in power and computing infrastructure could all affect the sustainability of this round of dividends. But for now, with the region's ability to capture the dividends of AI trade expansion, Asia has already secured a key position on that track.
