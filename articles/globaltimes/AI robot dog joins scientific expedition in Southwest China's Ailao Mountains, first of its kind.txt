@@ -1,0 +1,36 @@
+TITLE:
+AI robot dog joins scientific expedition in Southwest China's Ailao Mountains, first of its kind
+
+PUBLISHED:
+2026-10-14 14:52:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372249.shtml
+
+ARTICLE TEXT:
+Scientific expedition team members work with Deep Robotics's Lynx M20S wheeled-legged robot in the Ailao Mountains in Southwest China's Yunnan Province File photo: Courtesy of DEEP Robotics
+A robotic dog developed by Hangzhou-based DEEP Robotics has taken part in a biodiversity expedition in forests of Ailao Mountains in Southwest China's Yunnan Province, marking the first real-world scientific exploration application of an embodied artificial intelligence (AI) robot.
+The expedition, jointly organized by ifeng.com's  scientific exploration documentary program  and the China Association for Scientific Expedition, focused on biodiversity research in the Ailao Mountains, an area known for its rich species diversity and challenging terrain
+The LYNX M20S wheeled-legged robot was deployed indense forests, on steep slopes and other locations that are difficult or unsafe for people to reach. During the mission, it carried out route scouting, biological observation, image recording and supplies transport, helping researchers collect data with minimal disturbance to the environment, the company said in a statement sent to the Global Times on Wednesday.
+Ailao Mountain region is considered one of the most biologically diverse natural ecosystems on Earth and is often referred to as a "natural gene bank of species." Its dense forests, valleys, muddy ground, fallen logs and high humidity create a demanding setting for field science.
+Weather conditions can change rapidly in the area, with frequent rainfall, fog and thunderstorms, along with sharp temperature swings, placing high demands on equipment reliability and environmental adaptability.  
+According to DEEP Robotics, the LYNX M20S robot dog is designed for challenging terrain and harsh outdoor use. It features an IP67 protection rating, allowing it to operate in dusty and rainy conditions, and operates in temperatures ranging from -30C to 55C. The robot can carry a sustained load of 35 kilograms and has a battery life of up to 3.5 hours.
+Its wheeled-legged design combines the efficiency of wheels with the agility of legs, allowing it to handle rocky paths, steep slopes, undergrowth and muddy terrain. The company said its industrial-grade waterproof and dustproof capabilities make it suitable for humid forest environments, while its load capacity enables it to transport imaging devices and small field supplies.
+One notable result from the expedition was the robot dog's successful capture of images of a rare saprophytic plant known as "Monotropa uniflora." 
+Chinese scientists aid the footage provides valuable firsthand visual material and adds important data for botanical research.
+The case indicates that embodied AI is helping researchers overcome observation limits in complex natural environments. 
+According to the company, the LYNX M20S robot dog's quiet operation and small sizehelp it blend into the forest and approach gibbons without disturbing them. Its high-definition imaging system provides multiple viewing angles, including upward and side shots under the canopy, allowing researchers to record natural behaviors such as leaping, foraging, and vocalizing. Its low-disturbance design also let the expedition team move about 20 meters closer for better filming angles.
+Li Jie, executive vice president of the China Association for Scientific Expedition, said the technology is expanding researchers' observational capabilities in complex natural environments, bringing more places that were previously inaccessible or impossible to observe continuously into the scope of scientific study.
+The value of robot dogs in scientific expeditions goes beyond testing performance in extreme environments. Their deployment is turning embodied intelligence into a practical tool for understanding and protecting nature, Li Yang, marketing director at DEEP Robotics, told the Global Times on Wednesday.
+The company said its robot dogs have already been deployed in real-world outdoor scenarios including Hoh Xil National Nature Reserve in Northwest China's Qinghai Province, the Arctic Ocean, Siling Co in Southwest China's Tibet Autonomous Region and Ailao Mountain.
+Analysts say changing terrain and complex ecosystems provide a natural test for robots' mobility, sensing and task coordination capabilities, while also offering valuable examples for embodied AI applications in real-world settings.
+In a separate development on Monday, another inspection-assistance robot dog began operating at a container terminal of Ningbo-Zhoushan Port in East China's Zhejiang Province. The port said the robot has now been deployed across all container terminals in the Ningbo-Zhoushan port area, with cumulative inspections exceeding 20,000 twenty-foot equivalent units (TEUs).
+The field deployment of DEEP Robotics' LYNX M20S in the Ailao Mountains is a meaningful milestone for embodied AI, Zhong Xiangyun, a robotics industry observer, told the Global Times on Wednesday. It again demonstrated that embodied AI is beginning to move from technological demonstrations to practical field use, Zhong said.
+Instead of staying in the lab, the robot was put to work in a harsh, uneven, and ecologically sensitive environment, showing that advanced robotics is beginning to move from demonstration to practical field use, Zhong said.
+"If robots can consistently assist with biodiversity research and other fieldwork in rugged terrain, they could become valuable tools for scientists by reducing risks and broadening the range of scientific observations," Zhong said.
