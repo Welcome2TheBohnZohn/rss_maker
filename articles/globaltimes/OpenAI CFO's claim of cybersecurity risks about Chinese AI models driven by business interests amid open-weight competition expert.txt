@@ -1,0 +1,32 @@
+TITLE:
+OpenAI CFO's claim of cybersecurity risks about Chinese AI models driven by business interests amid open-weight competition: expert
+
+PUBLISHED:
+2026-10-15 20:18:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372348.shtml
+
+ARTICLE TEXT:
+OpenAI CFO Sarah Friar speaks at the at the International AI Summit in Dublin, Ireland, on October 14, 2026. Photo: VCG
+OpenAI Chief Financial Officer (CFO) Sarah Friar reportedly warned businesses using Chinese artificial intelligence (AI) models to consider what she called safety and security elements, while claiming that companies should favor Western models for cybersecurity-related applications. 
+A Chinese AI expert told the Global Times that the security of AI models cannot simply be judged by where their developers are based, nor by labeling them as "Chinese" or "Western." More relevant factors include deployment, data isolation, access permissions and security management. There is insufficient technical basis or evidence to assume Western models are inherently safer than Chinese ones, the expert said, adding that Friar's remarks also reflect the pressure major Western AI companies are facing as Chinese models become increasingly competitive in cost, deployment and real-world applications.
+Speaking at the International AI Summit in Dublin on Wednesday, Friar claimed companies embracing Chinese models should consider the "safety and security elements," adding that "we think you want to be on more Western models on the cyber front," according to Bloomberg on Wednesday. 
+The Bloomberg report also said OpenAI and Anthropic are under pressure from advances among open-weight AI models. 
+Friar's claims come as Chinese open-weight models are gaining influence in the global developer ecosystem. A report published by AI platform Hugging Face in August said several Chinese labs had moved rapidly toward the frontier of open models in 2026. The report said that "In almost every month of 2026, the largest and most performant open model from a Chinese lab was larger than any model an American lab released."
+The downloads of Alibaba's Qwen's broader release strategy across model sizes reached 2 billion.  Qwen-based models now account for 151,448 derivatives on the platform, according to the report. 
+OpenAI itself has a history of publicly releasing research and model technology. When the organization was established in 2015, it said researchers would be strongly encouraged to publish papers, blog posts and code. In 2019, OpenAI released the full 1.5-billion-parameter GPT-2 model together with its code and model weights. 
+Per its website, OpenAI also currently offers gpt-oss open-weight models. 
+Xiang Ligang, director-general of the Zhongguancun Modern Information Consumer Application Industry Technology Alliance, told the Global Times on Thursday that companies often open up technology early on to attract developers, expand ecosystems and improve their models, but commercial priorities grow as AI moves toward large-scale applications from earlier stages of research and training. 
+"OpenAI's shift from emphasizing openness to protecting market interests reflects this change," Xiang said. However, using security concerns to discredit competitors without clear technical evidence could also prompt users elsewhere to question whether their models are inherently safer, the expert added. 
+OpenAI's own models have also been involved in significant security incidents. The company disclosed that during internal cybersecurity evaluations in July 2026, its models circumvented controls designed to isolate them from the internet and compromised parts of OpenAI's internal research infrastructure and Hugging Face's systems.
+Australian officials separately disclosed in September that an OpenAI AI agent had gained unauthorized access to an Australian public website during model training in June. Officials identified the incident as "very serious," even though no personal information was accessed during that incident, according to a readout of the press conference. 
+The security claim from OpenAI also comes as the company is looking to cybersecurity as a potential source of future growth. The Irish Times reported on Wednesday from the same Dublin summit that cybersecurity, life sciences and drug development could become future growth drivers for the company. Friar said AI companies should be "selling solutions" in areas such as cybersecurity rather than "selling fear," while arguing that AI could help identify vulnerabilities in older code and patch them at "machine speed." 
+Commercial competition is "undoubtedly" a factor, Xiang pointed out. As OpenAI's CFO, Friar's remarks cannot be separated from the company's business interests and market competition, he said. 
+Xiang added that as Chinese open-weight models gain ground with advantages in cost and practical deployment, OpenAI is under growing pressure amid growing competitions to turn its AI capabilities into sustainable revenue, including through areas such as cybersecurity. In this context, security risk claims over Chinese models also serve to protect its commercial interests.
