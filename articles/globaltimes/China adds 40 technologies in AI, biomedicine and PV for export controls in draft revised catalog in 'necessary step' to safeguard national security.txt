@@ -1,0 +1,43 @@
+TITLE:
+China adds 40 technologies in AI, biomedicine and PV for export controls in draft revised catalog in 'necessary step' to safeguard national security
+
+PUBLISHED:
+2026-10-16 20:52:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372418.shtml
+
+ARTICLE TEXT:
+The Ministry of Commerce of China File photo: VCG
+China on Friday published a draft revision of its catalog of technologies prohibited and restricted for export, adding 40 technologies in artificial intelligence (AI), biomedicine and photovoltaic (PV) solar systems to the list.
+The draft of the revised catalog, jointly issued by the Ministry of Commerce (MOFCOM) and the Ministry of Science and Technology, features 14 additions to the prohibition category and 26 additions to the restricted category. By sectors, 23 additions are related to AI, 12 additions to PV and 5 additions are related to biomedicine.
+Chinese analysts and industry experts said that as China's science and technology advance, the international technological exchange landscape has changed from one that China relies on imported foreign technology to one that features both technology imports and exports. To cope with this, timely and routine updates of the catalog of technologies prohibited and restricted for export is necessary for ensuring national security, and preventing the outflow of core technologies.
+They noted, however, that the proposed new catalogue will not impede global technological exchanges and technologies subject to restrictions can still be exported in a compliant manner.
+The draft, in particular, revised catalogue proposed to prevent the outflow of the above-mentioned high-technology and core technology. The revised catalogue proposed to prohibit the exports of core technologies of AI large models that are trained with national key sensitive data and AI agents that serve key national information infrastructure, national defense and core government affairs. Design technologies of 2.5-dimensional and 3-dimensional AI chips, as well as 3-dimensional flash memory are restricted for exports. AI information processing technologies and voiceprint recognition technologies have also been added to the proposed restriction catalogue. 
+However, the proposed rule stipulated those technologies that have entered the public domain through open source, published academic papers, or other means are not included in the scope of management.
+For the PV sector, there are 12 additions for the prohibition or restriction categories. They involve the manufacturing technique and core equipment of making polysilicon, silicon wafer and PV batteries. Specifically, technologies related to the perovskite solar cells was added to the prohibited list and the heterojunction technology (HJT) solar cells was added to the restricted category. The former technology has great potential in boosting up a cell's efficiency and Chinese companies enjoy a global lead, the latter has space application.
+For biomedicines, five technologies related to cell and gene technology, small nucleic acid drugs, and pathogenic microbiology technology were added. For outbound licensing models that do not involve transfer of ownership, facilitation measures such as automatic licensing apply.
+Dynamic management
+A ministry spokesperson said in a statement that since 2001, the catalogue has been adjusted and revised on multiple occasions, with items added and removed and with some controlled and some liberalized. This proposed revision is also a regular part of technology trade management, conducted in accordance with laws and regulations, and does not target any specific country or region, the spokesperson said.
+The Chinese government supports enterprises in conducting mutually beneficial transnational operations and international technological cooperation, and its relevant position remains unchanged, the spokesperson reiterated.
+Whereas Chinese companies led the global solar sector for years, Chinese companies have been making great headways in AI and innovative drugs.
+According to data from the World Intellectual Property Organization, China has become the world's largest holder of AI patents, accounting for approximately 60 percent of the global total.
+In 2025, overseas licensing deals for Chinese innovative drugs soared past $130 billion, and about 30 percent of global new innovative under development pipeline is from China.
+Cui Fan, a professor at the University of International Business and Economics, told the Global Times on Friday that the formulation, adjustment and improvement of the catalogue are intended to regulate the market order of technology export and safeguard the country's economic and technological rights and interests. The move is firmly based on domestic laws and regulations, and conforms to relevant international rules.
+Various countries adopt different approaches to impose management measures on important technologies that affect their national economy and social development. The US, the EU, Japan, the UK, South Korea, and other countries all regularly conduct technology export management, Cui said, noting that dynamically adjusting the catalogue on a routine basis in a lawful manner has become an important part of China's technology export management.
+Certain countries have been introducing measures that interfere with international scientific and technological exchange and cooperation, restricting China's scientific and technological R&D capabilities on the one hand, and imposing direct or indirect forced technology transfer on the other. Dynamically adjusting the catalogue can help maintain the order of technology export and effectively prevent certain cutting-edge technologies from being "cherry-picked," Cui said.
+Targeted approach
+Targeted and tiered management of the catalogue along with other facilitation measures rolled out will help smoothen the normal and compliant international exchanges of related technologies in the catalogue.
+Zhao Qiuyan, a researcher with the industry portal, China Machine Think Tank, told the Global Times that the Chinese government has implemented scientific classified and tiered management of the catalogue to ensure both management of vital technologies and facilitation of compliant technology trade.
+"For example, with regard to AI technologies, core large models are included in the prohibited category, while important large models are listed as restricted. This reflects the integration of regulation with end-use, and demonstrates the scientific nature, precision, and consistency of the approach," Zhao said, noting that the listing of certain AI technologies is a new measure to prevent technology proliferation and a new paradigm to ensure that high-tech products are not used to harm national security and international peace.
+The catalogue clarifies multiple export scenarios to which facilitation measures are intended to apply, in a tiered and classified management approach to help enhance transparency and predictability and ensure safe, well-regulated, and orderly technology exports, according to the MOFCOM spokesperson.
+The Chinese government has not erected barriers to mature manufacturing technologies and equipment, which will ensure continuous supply of cost-effective green products to the world and sustained contribution to global green transition, an executive from a solar firm told the Global Times on condition of anonymity.
+The catalogue focuses on advanced technologies and core equipment at the forefront of iterative development. This reflects a strategy of fully opening up mature technologies while precisely safeguarding advanced ones. It both upholds a globally inclusive and shared landscape and prevents new technologies from losing their iterative momentum through disorderly proliferation, the executive said.
+The draft revision is currently soliciting opinions from the general public, according to MOFCOM. The public may submit comments on the scope of newly added technologies, indicators, control policies, facilitation measures, and other related aspects from October 16 to November 15.
+The catalogue, first published in 2001, had previous revisions in 2008, 2020, 2023 and 2025. Technologies listed as prohibited cannot be exported, while restricted technologies require export licenses.
