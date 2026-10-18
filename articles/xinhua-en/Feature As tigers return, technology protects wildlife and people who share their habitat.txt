@@ -1,0 +1,39 @@
+TITLE:
+Feature: As tigers return, technology protects wildlife and people who share their habitat
+
+PUBLISHED:
+2026-10-18
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261018/035092a631cc4f3dbe9b97b2c36f425b/c.html
+
+ARTICLE TEXT:
+CHANGCHUN/HARBIN, Oct. 18 (Xinhua) -- A tigress moved through the forest, followed by five cubs, their small bodies weaving through the undergrowth.
+This rare scene was captured by an infrared camera in the Northeast China Tiger and Leopard National Park (NCTLNP) late last year. It was the first recorded footage in China of a wild Siberian tiger accompanied by an unusually large litter of five cubs, offering a glimpse into the recovery of these endangered big cats.
+Transmitted to the park's monitoring center in real time, the footage became part of a growing body of data that helps conservation workers identify individual animals and track their movements without having to follow them deep into the forest.
+Latest monitoring shows that three of the tigress's five cubs have already left their mother's side, while the other two are still with her.
+Siberian tigers, also known as Amur tigers, along with Amur leopards, are flagship species for biodiversity conservation and important indicators of a healthy ecosystem. Following a pilot phase launched in 2017, the NCTLNP was officially established in 2021 as one of the first five national parks in China.
+Leveraging new technology, this park has built an integrated monitoring system that combines satellite remote sensing, ground-based infrared cameras and aerial surveillance involving drones, covering most of its 14,100-square-kilometer area across Jilin and Heilongjiang provinces in China's northeast.
+A major challenge in building such a system is network coverage. The park has established 95 wireless communication base stations and deployed around 30,000 cameras, according to Sun Pengyu, the person responsible for the forestry and grassland sector at Jishi Media, the main constructor of the system.
+Wireless data transmission covers more than 80 percent of the park area, allowing footage to reach the park administration within roughly a minute of being captured, Sun said.
+Empowered by artificial intelligence, the system can identify more than 30 wildlife species and make preliminary identifications of individual tigers and leopards based on their distinctive coat patterns, said Chen Xiaocai, head of the park administration's comprehensive office.
+Researchers then cross-check the initial identifications against other biological features, including facial contours, to verify each animal's identity and build individual profiles for further research and conservation work, Chen added.
+The park has also restored forest habitats and improved ecological connectivity. Along the China-Russia border, more than 290 sections of fencing in areas frequented by tigers and leopards have been removed, helping reopen cross-border routes for wildlife.
+The latest monitoring data show that the number of wild Siberian tigers in the park has risen from 27 in 2017 to 72, while the wild Amur leopard population has grown from 42 to 115. Sightings of other wildlife, including deer and roe deer, offer further indications of an ecosystem supporting the return of its top predators.
+For Li Gang, deputy head of Chaoyanggou forest farm in Dongning, Heilongjiang Province, the changes brought by technology are tangible.
+Li has worked at the forest farm, also a core conservation area, since 2009. In the early years, maintaining infrared cameras meant trekking into the mountains to replace batteries and retrieve memory cards.
+This process not only delayed access to information but also exposed staff to risks posed by rugged terrain and encounters with large predators.
+"On one occasion, I walked 17 kilometers carrying about 200 batteries and spare cameras," he recalled.
+Now, cameras equipped with wireless transmission can send images and video directly to a central platform. Satellite imagery helps workers assess habitat conditions across large areas, while drones can inspect remote terrain, check for suspected forest fires and investigate possible illegal activities.
+Li has also seen changes in the wildlife around him. "Sika deer were scarce in the area when I began working here, but during a recent outing, I saw more than 100," Li said.
+As tigers and leopards reclaim more territory, protecting them also means keeping people safe. In parts of the national park, villages and wildlife habitats overlap, making early warnings an important part of conservation.
+Cameras near settlements can detect tigers, leopards, bears and wild boars entering designated risk areas. Alerts are then sent to patrol teams and nearby residents, giving people time to avoid potentially dangerous encounters.
+In Dongning, information can also be shared via local chat groups, allowing rangers to warn residents when a tiger is spotted.
+For Li and his colleagues, such technology does not replace fieldwork for rangers, but it helps make patrols more targeted, reducing unnecessary journeys into sensitive habitats.
+"We want to give people and wildlife room to live without disturbing one another, for the benefit of both," Li said. ■

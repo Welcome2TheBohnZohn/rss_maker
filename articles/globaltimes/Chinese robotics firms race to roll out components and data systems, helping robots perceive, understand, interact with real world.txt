@@ -1,0 +1,38 @@
+TITLE:
+Chinese robotics firms race to roll out components and data systems, helping robots perceive, understand, interact with real world
+
+PUBLISHED:
+2026-10-18 13:13:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372460.shtml
+
+ARTICLE TEXT:
+A humanoid robot uses Hesai Group's Kosmo spatial camera to scan a store in Shanghai on Wednesday. Photo: Li Xuanmin/Global Times
+At the Humanoid Robot Data Training Center in Beijing's western Shijingshan District, dozens of robots stood in their workrooms, learning how to pick up an object steadily and quickly. This is not a simple task - the robot must "see" the object, gauge its distance and angle, and control the force exerted by its fingers.
+Motion-capture systems, which convert human movements into training data, are insufficient to help these robots mature. To perform reliably across different objects and environments, robots need more precise 3D spatial perception, more sensitive tactile feedback, more dexterous end effectors, and data technologies capable of reconstructing and simulating the real world.
+As China's humanoid robots move from labs to factories and downstream competition increasingly centers on their ability to perceive and interact with the real world, every grasp at the Shijingshan training facility highlights the pressing need for more advanced supporting technologies and hardware devices. 
+In this context, Chinese companies have been racing to roll out new products across upstream segments -from sensing hardware and dexterous hands to drive systems and data infrastructure, aiming to capitalize on this emerging opportunity while strengthening the homegrown embodied AI supply chain.
+"China's manufacturing of downstream humanoid robot is quite crowded now, there are still many business opportunities upstream, particularly in the perception layer which centered on enhancing embodied AI's perception and manipulation capabilities," Liu Shaoshan, director of Embodied AI at the Shenzhen Institute of Artificial Intelligence and Robotics for Society, told the Global Times. 
+Behind this shift lies not only growing demand for robot applications, but also a change in the logic of industrial competition. As robots become more agile, the capacity to accurately understand their environment, perceive objects, and reliably complete tasks is becoming one of the key factors that determine their commercial value. 
+Visual perception is one of the core technologies for robots. In line with the trend, physical AI infrastructure company Hesai Group on Wednesday launched Kosmo, a 3D world data engine. Kosmo combines Kosmo One, the world's first AI spatial camera, with the Kosmo World cloud platform to transform physical environments into high-fidelity 3D digital spaces for robot training, model development and immersive content creation. 
+Li Yifan, co-founder and CEO of Hesai, said that there has been a surging demand for devices like Kosmo amid large-scale deployment of physical AI. The Kosmo devices were delivered to the first batch of customers in July this year, having securing orders from downstream companies including Galbot, engaging about 200 partners.
+Li noted that many current humanoid robots have yet to demonstrate a path toward general-purpose robots. "A robot that can dance does not necessarily have value, and a number of robots are still unable to complete real tasks. Some also does not in itself represent an upgrade in automation, failing to go beyond traditional automation such as parcel-sorting robots or cooking robots," Li told the Global Times. 
+In this context, he stressed that the build-up of the infrastructure for physical AI has only just begun, and to facilitate the process, two key issues need to be properly addressed - how machines can act upon the real world, and how AI can obtain high-quality, sufficient volumes of real-world data. 
+"Making robot smarter involves a large amount of investment, whether in large model, computing power or training data. In hardware part, it is about acting as the 'eyes' and 'muscles,' and enable the humanoid robots to execute more efficiently," Li explained. 
+Hesai is not alone in the Chinese suppliers' moves to capitalize on this rapid-surging robotic upstream market demand. 
+Orbbec, a high-tech firm based in Shenzhen, South China's Guangdong Province specializing in 3D visual sensing technology, has been rolling out more of its EGO data collection devices this year, the Global Times learned from the company. The heat-mounted device records the wearer's perspective and movements, generating data for training large AI models used in robotics.
+"The demands from robotic companies have become more diversified, and we have customized our technologies accordingly. For example, service robots operate in environments with strong lighting, complex textures and sudden crowds. Our company analyzed on-site data and adjusted algorithms to solve the problem of robot operation under extreme lighting conditions. For sweeping robots, we provide an infrared active fill-light solution so that they can identify tiny objects even in nighttime," Zhao Jiyu, the company's marketing director, told the Global Times.
+Industry insiders believe that one of the reasons Chinese upstream device makers can respond swiftly to demands from the robotics supply chain lies in the rich experience they have accumulated in the rounds of tech wave - for example the consumer electronics boom and autonomous driving.
+"The core components of humanoid robots and autonomous driving overlap to a significant level of extent, enabling Chinese hardware suppliers to adapt to potential business demands more quickly while bringing down the costs further," Liu said. He also noted that downstream mass production of humanoid robots is "achievable" by building on automakers' production lines.
+Across the upstream, core component segments in China such as tactile sensors, dexterous hands and joint modules continued to attract additional capital this year, industry insiders said. 
+"These developments are driven by demand from the downstream sector. As downstream applications become increasingly diverse, they in turn are feeding back into the upstream, requiring better components to support them," Liu said. He added that this is a very "unique" phenomenon in China as the country has the world's most comprehensive supply chain, with relatively easy access to parts in a wide variety of forms, which provides favorable conditions for the rapid iteration of humanoid robot perception-layer products.
+Analysts believe that China's robotics edge makes it probably the only country in the world capable of meeting real-world demand across all layers of humanoid robots at a competitive cost.
+According to IDC data, the global humanoid robot shipments approached 25,000 units in the first half of 2026, a year-on-year increase of 432.1 percent .Among which, China's shipment accounted for about 77.9 percent of the global market.
+According to Li, a single humanoid robot requires over 100 actuation modules, which refers to joint actuation units that drive robots' movement. And industry estimates suggest that when the global total of humanoid robots reaches 10 billion units, demand for actuation modules could reach 1 trillion sets.

@@ -1,0 +1,26 @@
+TITLE:
+China unveils first 100,000-card AI supercluster hardware, showcases 10 frontier research applications
+
+PUBLISHED:
+2026-10-18 14:27:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372462.shtml
+
+ARTICLE TEXT:
+Visitors tour the exhibition hall of Sugon 8000, China's first fully homegrown 100,000-card AI supercluster, at the 2026 World Artificial Intelligence Conference in Shanghai on July 20, 2026. Photo: VCG
+The physical system of China's first artificial intelligence (AI) supercluster capable of supporting over 100,000 domestically developed computing cards, also known as Sugon 8000, debuted at the ongoing China National Annual Conference on High Performance Computing, CCTV News reported on Sunday.
+A 100,000-card cluster means interconnecting 100,000 AI accelerator cards at high speed. But scale is not its most impressive feature. Sugon 8000 is a computing system built explicitly around the native convergence of supercomputing and intelligent computing within a unified architecture. It can run both the highest-precision scientific computing and large model training and inference, according to CCTV News.
+The system marks a step toward scaling AI infrastructure construction is from the 10,000-card level to 100,000-card deployment. Connected to national integrated computing network through the National Supercomputing Internet, the system will provide accessible, efficient and convenient computing services to research institutions, universities, enterprises and individual users, Sugon said.
+By integrating high-performance computing (HPC) and AI computing, Sugon 8000 enables computing resources to be allocated according to the requirements of different tasks. This helps improve resource efficiency while meeting the needs of diverse scientific and industrial applications, Liu Gang, director of the Institute of Economic Research at Nankai University, told the Global Times on Sunday.
+Ma Jihua, a senior telecommunications analyst, said the successful deployment of Sugon 8000 has provided a reference for building domestic AI infrastructure at the 100,000-accelerator scale.
+"Such systems require more than simply connecting large numbers of chips: High-speed interconnects, storage throughput, liquid cooling, workload scheduling and long-term stability all pose major engineering challenges," Ma said. 
+The system's rollout indicates that domestic computing infrastructure is moving toward larger-scale deployment and that integrated HPC-AI capabilities are progressing from construction to practical use, with the potential to support scientific breakthroughs and industrial applications, Ma said.
+During the National Annual Conference on High Performance Computing, Sugon presented results from 10 advanced research applications using Sugon 8000, ranging from studies of material properties at microscopic scales to simulations of celestial bodies, covering fields including commercial aerospace, meteorology and oceanography, agricultural breeding, energy exploration and engineering R&D. Several studies have achieved world-first breakthroughs, pointing to a clear trend of domestic advanced computing power accelerating its entry into industrial applications, according to media reports.
+To date, more than 300 key applications have been extensively optimized for Sugon 8000, spanning more than 30 research and industrial fields, with over 20 running on the full system. As AI technology penetrates every sector, computing systems must simultaneously support model training, data analysis and scientific simulation. Domestic heterogeneous computing, represented by Sugon 8000, offers advantages such as unified scheduling and high scaling efficiency and is expected to become a new type of infrastructure enabling enterprises to cut R&D costs, improve efficiency and shorten innovation cycles.
