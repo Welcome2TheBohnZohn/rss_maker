@@ -1,0 +1,53 @@
+TITLE:
+Xinhua Headlines: Inside China's "unlikely" AI computing hub
+
+PUBLISHED:
+2026-10-18
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261018/275af7ad0d984f2f94335c22f2af7ae3/c.html
+
+ARTICLE TEXT:
+* In less than two years, Inner Mongolia's computing capacity has nearly quadrupled, reaching 363,000 petaflops by August 2026, as large-scale data centers have sprung up across the region.
+* However, the region is not content to remain a mere "landlord of data centers." It is striving to move up the value chain, reinventing itself not only as a hub for green computing but also for token trading and AI applications.
+* With the influx comes new challenges. Computing facilities require enormous amounts of electricity to run and water to keep server racks from overheating. Inner Mongolia, a frontrunner in China's green energy transition, is charting a course of green computing.
+HOHHOT, Oct. 18 (Xinhua) -- A four-hour drive northwest of Beijing takes one across the Great Wall and into the grasslands of Inner Mongolia, seemingly a world away from China's booming coastal towns.
+Yet here, in a city once known as China's "potato capital," data centers are rising from the grasslands, towering cranes fill the skyline, and some of the country's biggest tech companies are moving in.
+The city is Ulanqab, in the Inner Mongolia Autonomous Region, which has emerged as a new frontier in the global race for computing power. Ulanqab is a poster child for this rise. In less than two years, Inner Mongolia's computing capacity has nearly quadrupled, reaching 363,000 petaflops by August 2026, as large-scale data centers have sprung up across the region.
+A combination of factors helped fuel this transformation. Its climate allows natural cooling of AI server racks for nearly ten months a year. The windswept steppes offer a massive volume of wind and solar power, driving rates down to as low as around 0.35 yuan (about 5.2 U.S. cents) per kWh. Moreover, its proximity to Beijing ensures an ultra-low latency of under 5 milliseconds, facilitating seamless model training and real-time inference.
+However, the region is not content to remain a mere "landlord of data centers." It is striving to move up the value chain, reinventing itself not only as a hub for green computing but also for token trading and AI applications.
+RISING ABOVE GRASSLAND
+At the Ulanqab Chahar High Tech Development Zone, the epicenter of the city's newfound buzz, an "Apple Boulevard" runs alongside an "Alibaba Boulevard" and a "Huawei Boulevard" -- named after three of the major companies that have set up a presence here. Other tech giants, including ByteDance, Kuaishou and VNET Group, have also moved in.
+Vehicles from across China line the roads, and workers speak in accents from every corner of the country. Around lunchtime, food stalls spring up around the construction sites, selling boxed meals, fruit and drinks.
+"Within the high-tech zone alone, 22 computing-power projects are currently under construction, involving nearly 30,000 construction workers," said Liu Junping, deputy director of the administrative committee of the development zone.
+"When I came here to scout the site in 2022, it was still pretty desolate, and sandstorms would sometimes sweep through," recalled Zhou Yiguang, an executive with the VNET Group's Ulanqab base. The group has planned a computing cluster covering 1,100 mu (about 73 hectares) of land in Ulanqab, and the first phase has been in operation since October 2024.
+In fact, it is not just Ulanqab. Inner Mongolia has emerged as a hub for computing power, with its regional capital Hohhot as another high ground. As of the first half of 2026, roughly 20 of China's 30 leading private computing companies had established a presence in the region, with combined investment exceeding 200 billion yuan (around 29.75 billion U.S. dollars). In addition, nine of the country's top 10 computing service providers had also set up operations there.
+GREEN COMPUTING
+With the influx comes new challenges. Computing facilities require enormous amounts of electricity to run and water to keep server racks from overheating. Inner Mongolia, a frontrunner in China's green energy transition, is charting a course of green computing.
+In 2025, the computing industry in Ulanqab alone consumed 4.3 billion kWh of electricity. That figure is estimated to reach 9 billion kWh in 2026 and will continue to surge as more computing centers are expected to start operating over the next two to three years.
+Globally, tech giants are moving beyond simply "buying power" to "competing for power" and even "generating their own power." China, however, has leveraged its world-leading power grid, renewable energy and energy storage industries to pioneer the integration of computing power and electricity supply, known as "computing-electricity coordination."
+In the Ulanqab Chahar High Tech Development Zone, a zero-carbon industrial park is taking shape. The park will be managed as a unified power distribution unit, with wind and solar infrastructure developed collectively by the government, then distributed to individual computing centers across the park.
+Chen Zhigang, deputy director of the Ulanqab municipal development and reform commission, said that the park's surrounding areas have about 10 gigawatts of wind and solar development capacity available. Once tapped, these resources could generate more than 30 billion kWh of electricity annually, enough to cover future increases in demand.
+After the zero-carbon industrial park is completed, more than 80 percent of the park's electricity will come directly from renewable energy. In the Horinger New Area in Hohhot, computing centers in operation source 85 percent of their power consumption from green energy.
+Water poses another potential constraint. However, widespread adoption of water-conserving cooling equipment, such as waterless fluorine-pump air conditioning systems and closed cooling towers, helped ease the high demand for cooling water.
+Moreover, take VNET Group's cloud computing center in Ulanqab for example: here, outdoor cold air is directly used for cooling for nearly 10 months of the year, with spray systems activated only during the hottest summer days.
+"All the water used for cooling at the computing center is reclaimed water. It does not affect local natural water resources or groundwater," said Li Yi, technical director of VNET Group's Ulanqab base.
+According to the Ulanqab water resources bureau, under the regional regulations, data centers are prohibited from using groundwater as cooling water. In 2025, big data companies across the city consumed 1.54 million cubic meters of water, accounting for only 0.33 percent of the city's total water consumption. Meanwhile, the city produces about 72 million tonnes of reclaimed water annually.
+TOKEN HUB
+Building computing capacity is one thing, yet turning it into a high-value AI economy is another. "If we rely solely on cheap electricity and low land costs, we risk becoming little more than 'landlords of server rooms,'" Liu Huansuo, deputy director of the Ulanqab big data administration, warned.
+The concern is well-founded. The high-value segments of the computing economy -- chips, algorithms and models -- remain largely beyond Inner Mongolia's reach.
+According to economic data from Ulanqab, the city's computing-power industry generated 6.835 billion yuan in revenue in 2025, with 368 million yuan in tax revenue. A computing center is estimated to create about 100 jobs per 100 mu (about 6.7 hectares) of land.
+Yet these returns remain modest relative to the massive upfront investment in infrastructure and the enormous computing capacity that is being developed.
+To address the challenge, Inner Mongolia strives to move up the value chain -- evolving from a "server-room landlord" to a "token capital," and cultivating its own ecosystem of AI applications.
+On May 30, Inner Mongolia's Token Trading Platform, billed as the country's first green-computing full-stack AI platform, went into operation in the Horinger New Area, positioning Hohhot to become a major token-trading hub in northern China.
+The goal is to turn raw computing power into a tradable commodity that can be measured, priced and ultimately converted into higher-value AI services, said Guo Juying, deputy director of the Horinger New Area Administrative Committee. She described the transition as a shift from "selling electricity" to "selling tokens," as every AI conversation or model inference can ultimately be measured in terms of tokens generated and consumed.
+Ulanqab has its own plan. At the end of 2025, the city released a three-year action plan for building a "Token Capital" for 2026-2028, envisioning a new economic chain spanning the production, trading and application of tokens.
+The application ecosystem is also expanding. Hohhot has developed nearly 100 application scenarios in sectors such as dairy, new energy and biomedicine. A facial recognition database for cattle is already widely used on smart pastures.
+For a region that has built its computing infrastructure at remarkable speed, the next challenge may be harder. But overcoming it will open up a whole new horizon across China's economic landscape. ■
+(Video reporter:Zhang Sheng; Video editors: Hong Ling, Zhang Mocheng and Hong Yan)
