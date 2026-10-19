@@ -1,0 +1,40 @@
+TITLE:
+China's integrated computing network spurs new industrial opportunities
+
+PUBLISHED:
+2026-10-19
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261019/87c93fbe4fe84dc2ad00690357ebb1fb/c.html
+
+ARTICLE TEXT:
+BEIJING, Oct. 19 (Xinhua) -- China's national integrated computing power network is unleashing new industrial opportunities, supported by an increasingly complete industrial chain spanning upstream hardware, midstream platforms, and a widening range of downstream applications.
+Chinese central authorities have recently issued a set of guidelines aimed at accelerating the development of new quality productive forces to bolster high-quality development.
+The guidelines outlined multiple key sectors for advancing the deep integration of the digital economy and the real economy, including building a national integrated computing power network and a nationwide blockchain network, among other initiatives.
+Coordinated computing power development in the Beijing-Tianjin-Hebei region is a good example of China's comprehensive advancement in building a national network.
+By now, 36 data centers have been established in Langfang City, north China's Hebei Province, roughly a one-hour drive from Beijing.
+These data centers are serving China's tech giants like Huawei and JD.com, as well as other companies. Computing resources here also meet the real-time computing demands of Beijing's sci-tech innovation industries, internet sector, and other sectors.
+Building on the coordinated layout and construction of the national integrated computing power network, regions across the country are stepping up efforts to build and optimize computing hubs, data centers, and computing network nodes, while accelerating computing-electricity coordination and computing-network integration.
+Other regions are also capitalizing on their strengths to gain a foothold in niche markets and pursue differentiated development.
+The Lichuan AI Computing Center is nestled in the Wuling Mountains of Lichuan City, central China's Hubei Province. Its services cover culture and tourism, government affairs, and aerospace information.
+This city is not endowed with abundant scientific or educational resources, but its mountainous location, cool climate and rich hydropower resources make it an ideal place for a computing center with relatively low electricity costs.
+In Liangwu Township of Lichuan, a satellite ground receiving station has been built by GEOVIS Raywin Technology Co., Ltd. It allows instant access to computing power from the adjacent AI computing center when receiving and processing satellite data.
+"The station's proximity to the computing center enhances the operational efficiency, convenience, and cost-effectiveness," said Gao Kui, the company's general manager of operations.
+By the end of June this year, China's intelligent computing capacity had risen 177 percent year on year to reach 2,185 EFLOPS. EFLOPS refers to a unit measuring computing performance, with each unit representing 1 quintillion floating-point operations per second.
+By then, more than 70 computing transmission channels connecting computing hubs and key regions had been built, according to data from the Ministry of Industry and Information Technology.
+China is accelerating the construction of an integrated national computing power platform, aiming to enhance the quality and efficiency of computing resources and strengthen the country's capabilities in core technologies such as AI chips.
+The China computing power platform has now achieved integrated nationwide computing power monitoring and coordination. It has listed over 2,000 computing products and connected to more than 300 large models, providing AI developers with on-demand access to computing power.
+"A national integrated computing power network is not a simple pile-up of computing resources, but is connecting computing power, electricity, data, models, and scenarios into an infrastructure network for the intelligent economy," said Li Mingyan, an analyst at the industrial research institute of consulting firm CIO Manage.
+This platform can meet the diverse needs of application scenarios such as large AI model training, autonomous driving, smart finance, and low-altitude economy.
+Also, through the "East Data, West Computing" project and cross-regional computing power scheduling, it better matches the green electricity resources in the country's western regions with the computing power demand in the eastern regions, lowering the cost of computing use and promoting the consumption of green energy, according to Li.
+As a national strategy, China's "East Data, West Computing" project operates similarly to a power grid, shifting the heavy data processing demands of the country's economically bustling eastern coast to resource-rich western regions. It utilizes the west's abundant green energy such as wind and hydropower, making it a major milestone in green technology and carbon reduction.
+Industry experts said that industrial opportunities will gradually emerge along the upstream, midstream and downstream of the national computing network.
+For example, the large-scale construction of computing clusters will drive demand for AI chips, high-speed optical modules, and green energy facilities. In addition, services ranging from computing power scheduling and model inference optimization to token-based metering and billing are expected to spur the growth of new platform companies.
+"At the application level, the network will sustain intelligent upgrading across industries and help innovate businesses in areas of the token economy, cloud computers, and cloud phones," said Li Wei, a researcher at the China Academy of Information and Communications Technology.
+The network also helps lower the barriers to digitalization and AI adoption for small and medium-sized enterprises, and improve quality and performance of traditional industries, she added. ■
