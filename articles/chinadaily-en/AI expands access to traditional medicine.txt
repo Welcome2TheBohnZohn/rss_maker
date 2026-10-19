@@ -1,0 +1,35 @@
+TITLE:
+AI expands access to traditional medicine
+
+PUBLISHED:
+2026-10-19
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202610/19/WS6ad55796e4b06d4aa05636f1.html
+
+ARTICLE TEXT:
+AI expands access to traditional medicine
+Artificial intelligence is now being widely applied to enhance traditional medicine, making it more accessible, standardized and research-based, according to a report released on Sunday on the sidelines of the 2026 World Conference on Traditional Medicine in Beijing.
+Centuries-old traditional remedies have typically relied on wisdom passed down through a teacher-disciple tradition, and often lack the scientific rigor and diagnostic standards adopted by modern medicine.
+Li Haiyan, director of the Institute of Information on Traditional Chinese Medicine of the China Academy of Chinese Medical Sciences, which led the report, said that AI tools can turn accumulated practices into knowledge and data that can be stored, programmed and validated.
+She was speaking at the launch of the report examining AI's applications in the global development of traditional medicine. The report was initiated by the Global Alliance for Traditional and Integrative Medicine and was released during the 2026 World Conference on Traditional Medicine, which was held over the weekend.
+Premier Li Qiang also underlined the need to harness science and technology to accelerate the innovative development of traditional medicine. While addressing the opening ceremony of the conference on Saturday, he said China will promote the digital and intelligent transformation of TCM and encourage and support active participation of Chinese and foreign research institutions and enterprises.
+The report said that AI-empowered traditional medicine has entered a phase of rapid development, as a number of nations have incorporated the technology into broader health development strategies.
+In a sign of evolving technologies, a total of 3,030 AI-related traditional medicine patents have been published globally since 2000, and 6,882 high-quality academic papers have been released since 1990, the report said.
+China accounted for 80.4 percent of the patents and 47 percent of the academic papers, demonstrating the scale of the nation's research and technological advantage in this field, it added.
+In clinical practice, Li, the researcher, said that AI has been used to assist in examinations of a patient's tongue, pulse, facial appearance and other aspects, as well as in diagnosis.
+For some syndromes, AI-assisted tongue diagnosis has proved to be 85 to 92 percent accurate, with the ability to distinguish experience-based symptom descriptions such as "a reddish tongue".
+"Some digital twin models trained on the clinical experience, diagnostic reasoning and typical case records of renowned TCM practitioners have already been piloted in China's county-level TCM hospitals to expand access to quality TCM resources," she said.
+AI has also been used to digitalize the surveying, identification, cultivation and supply chain traceability of medicinal plants, accelerate the screening of active ingredients and analysis of drug mechanisms, and advance basic research in areas such as jing luo, also known as meridians, through which the body's energy is believed to circulate.
+Moreover, Li said AI has enabled more systematic reviews of ancient medical texts to bolster innovative inheritance of traditional practices.
+In one case cited in the report, researchers used deep learning-assisted in vivo imaging to observe dynamic changes in immune cells in mouse models after electroacupuncture stimulation, offering a new perspective on how acupuncture points regulate the immune system, said Chen Jianxin, a professor at Beijing University of Chinese Medicine.
+In addition to TCM, Chen said the report showcases AI-powered inheritance among traditional Korean medicine practitioners, as well as smart diagnostic devices for Ayurveda, the traditional system of medicine originating in India.
+Chen said the uneven development of digital capabilities globally has affected traditional medicine's adoption of AI.
+More efforts are needed to accumulate high-quality datasets, address language differences between countries as well as between ancient and modern times, provide clearer explanations of medical mechanisms, and promote the establishment of unified supervision regulations targeting AI-assisted traditional medicine, he added.
+wangxiaoyu@chinadaily.com.cn
