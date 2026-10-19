@@ -1,0 +1,29 @@
+TITLE:
+AI brewing fresh global growth for Chinese tech
+
+PUBLISHED:
+2026-10-19
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202610/19/WS6ad5621de4b06d4aa0563710.html
+
+ARTICLE TEXT:
+AI brewing fresh global growth for Chinese tech
+Homegrown products gaining popularity, with GBA players leading in intelligent hardware
+Amid the sleek consumer gadgets on display at IFA 2026 in Berlin, Germany, a Chinese-made heavy-duty quadruped robot offered a glimpse into a broader shift in China's artificial intelligence sector — homegrown technologies are moving beyond laboratories and consumer devices into demanding real-world operations.
+The Hypertron-T01, developed by Shenzhen-based Astrall Dynamics, is designed to carry heavy loads and navigate steep slopes, gravel and slippery surfaces, capabilities aimed at power inspections, emergency response and other environments where reliability matters as much as intelligence. It was named a winner in the Best in IFA Next & Emerging Technologies category at the IFA 2026 Innovation Awards.
+The robot's appearance at the IFA reflects how Chinese AI hardware companies are building a new competitive edge around proprietary technologies, engineering execution and the ability to turn algorithms into products that can withstand continuous industrial use, rather than relying mainly on cost advantages.
+"The robot effectively addresses challenges in specialized industrial scenarios such as power inspections, campus security and emergency firefighting, where both speed and stability under heavy loads are required," said Lin Shenchu, head of marketing at Astrall Dynamics.
+That progress is increasingly being tested in operating environments at home before reaching markets overseas. Hypertron-series robots, for example, have undergone long-term unmanned operations in substations run by leading Chinese power grid companies, generating data and experience for further product refinements.
+According to the company, its self-developed power system enables the Hypertron-T01 to carry a maximum dynamic load of 80 kilograms while limiting overheating and performance degradation under heavy loads. Such advances point to a wider transition in China's AI sector from showcasing stand-alone technologies to delivering scalable systems and solutions for industrial needs around the world.
+The company's strategy for international expansion involves not only selling products, but also working with local partners to co-develop industry-specific applications, Lin said, adding that the company, established in 2024, plans to open core software development kit (SDK) interfaces covering motion control, sensor data and device management to partners in Europe.
+"The move is intended to shorten the development cycle for industry-specific solutions from six months to a few months by collaborating with global integrators, solution providers and developers to expand the range of industrial applications," said Lin, adding that opening the SDK interfaces will enable local European partners to develop solutions tailored to specific operating environments more quickly.
+"These solutions can go global because they address challenges facing industries worldwide, including severe labor shortages and aging populations, as well as growing staffing gaps in high-risk jobs, night-shift inspections and repetitive tasks."
+The trend was also visible at IFA 2026 as embodied AI moved from screens into the physical world. More than 1,000 exhibitors from the Chinese mainland and Hong Kong participated in the event, marking a record level of Chinese participation.
+During IFA 2026, which was held in early September, Chinese exhibitors showcased their strengths in AI applications, supply chain management, engineering execution and ecosystem collaboration, demonstrating capabilities essential to the large-scale deployment of AI.
