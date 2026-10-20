@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 01:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:28:08 +0000</lastBuildDate>
     <item>
       <title>National Economy was Generally Stable with New Achievement Made in High-Quality Development in the First Three Quarters</title>
       <link>https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html</link>
@@ -76,6 +76,248 @@ In case of any differences between English translation and the original Chinese 
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965619.html</guid>
     </item>
     <item>
+      <title>Sales Prices of Commercial Residential Buildings in 70 Medium and Large-si...</title>
+      <link>https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965629.html</link>
+      <description>Published: 2026-10-19 09:30:00
+
+Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in September 2026
+Sales Price Indices of Newly Constructed Commercial Residential Buildings in 70 Large and Medium-Sized Cities
+Table I
+| Cities | M/M | Y/Y | Average in Jan- Sep | Cities | M/M | Y/Y | Average in Jan- Sep | 
+|  | Last Month=100 | the Same Month Last Year=100 | the Same Period Last Year=100 |  | Last Month=100 | the Same Month Last Year=100 | the Same Period Last Year=100 | 
+| Beijing | 99.8 | 97.3 | 97.7 | Tangshan | 99.7 | 94.3 | 93.9 | 
+| Tianjin | 99.9 | 96.4 | 95.6 | Qinhuangdao | 99.6 | 94.8 | 94.8 | 
+| Shijiazhuang | 99.9 | 96.1 | 95.6 | Baotou | 99.8 | 93.9 | 92.8 | 
+| Taiyuan | 100.1 | 98.4 | 98.2 | Dandong | 99.9 | 97.7 | 97.6 | 
+| Hohhot | 99.8 | 96.4 | 96.1 | Jinzhou | 100.1 | 97.5 | 97.1 | 
+| Shenyang | 100.0 | 100.5 | 100.0 | Jilin | 99.9 | 98.8 | 98.2 | 
+| Dalian | 100.2 | 100.8 | 99.7 | Mudanjiang | 99.8 | 98.0 | 98.2 | 
+| Changchun | 100.3 | 99.3 | 98.4 | Wuxi | 99.8 | 97.5 | 96.0 | 
+| Harbin | 99.8 | 97.4 | 97.4 | Xuzhou | 100.4 | 97.7 | 95.8 | 
+| Shanghai | 100.2 | 102.8 | 103.4 | Yangzhou | 99.7 | 96.7 | 95.3 | 
+| Nanjing | 100.2 | 99.5 | 97.3 | Wenzhou | 99.7 | 96.6 | 96.0 | 
+| Hangzhou | 100.1 | 101.8 | 102.3 | Jinhua | 99.6 | 95.6 | 95.7 | 
+| Ningbo | 100.0 | 100.0 | 98.5 | Bengbu | 99.9 | 96.7 | 96.4 | 
+| Hefei | 100.2 | 100.4 | 100.8 | Anqing | 99.6 | 95.4 | 96.1 | 
+| Fuzhou | 99.5 | 94.6 | 95.1 | Quanzhou | 99.8 | 96.4 | 96.5 | 
+| Xiamen | 99.7 | 99.1 | 97.5 | Jiujiang | 99.6 | 95.0 | 95.4 | 
+| Nanchang | 99.8 | 96.5 | 95.4 | Ganzhou | 99.8 | 96.5 | 95.7 | 
+| Jinan | 100.0 | 97.1 | 96.6 | Yantai | 99.9 | 97.8 | 96.7 | 
+| Qingdao | 100.2 | 99.1 | 97.7 | Jining | 99.8 | 96.4 | 95.6 | 
+| Zhengzhou | 99.5 | 95.2 | 94.7 | Luoyang | 99.7 | 93.7 | 94.6 | 
+| Wuhan | 100.2 | 98.9 | 97.1 | Pingdingshan | 99.5 | 96.5 | 97.5 | 
+| Changsha | 100.0 | 96.3 | 96.4 | Yichang | 100.2 | 99.2 | 99.6 | 
+| Guangzhou | 100.2 | 98.9 | 96.6 | Xiangyang | 99.9 | 95.1 | 94.9 | 
+| Shenzhen | 100.3 | 99.0 | 96.0 | Yueyang | 99.8 | 95.3 | 95.2 | 
+| Nanning | 100.3 | 97.2 | 96.9 | Changde | 99.8 | 94.6 | 94.8 | 
+| Haikou | 99.7 | 95.5 | 94.9 | Shaoguan | 99.4 | 95.9 | 97.2 | 
+| Chongqing | 100.3 | 97.6 | 96.2 | Zhanjiang | 99.4 | 94.3 | 95.2 | 
+| Chengdu | 99.7 | 95.2 | 95.4 | Huizhou | 99.7 | 95.7 | 95.4 | 
+| Guiyang | 99.7 | 96.8 | 96.3 | Guilin | 99.8 | 94.3 | 94.4 | 
+| Kunming | 99.8 | 95.1 | 94.2 | Beihai | 99.3 | 93.8 | 93.9 | 
+| Xi’an | 99.7 | 95.0 | 94.5 | Sanya | 99.9 | 98.1 | 98.5 | 
+| Lanzhou | 99.7 | 96.6 | 95.9 | Luzhou | 99.5 | 92.4 | 92.8 | 
+| Xining | 99.9 | 95.3 | 96.0 | Nanchong | 99.9 | 96.6 | 96.5 | 
+| Yinchuan | 99.9 | 99.4 | 97.6 | Zunyi | 99.7 | 96.1 | 96.3 | 
+| Urumqi | 100.1 | 99.3 | 99.7 | Dali | 99.7 | 97.8 | 96.7 | 
+Sales Price Indices of Second-Hand Residential Buildings in 70 Large and Medium-Sized Cities
+Table II
+| Cities | M/M | Y/Y | Average in Jan- Sep | Cities | M/M | Y/Y | Average in Jan- Sep | 
+|  | Last Month=100 | the Same Month Last Year=100 | the Same Period Last Year=100 |  | Last Month=100 | the Same Month Last Year=100 | the Same Period Last Year=100 | 
+| Beijing | 100.1 | 97.5 | 93.8 | Tangshan | 99.5 | 92.9 | 92.1 | 
+| Tianjin | 99.7 | 94.7 | 94.1 | Qinhuangdao | 99.7 | 93.1 | 92.3 | 
+| Shijiazhuang | 99.8 | 95.6 | 94.6 | Baotou | 99.5 | 93.2 | 92.2 | 
+| Taiyuan | 99.6 | 94.7 | 95.1 | Dandong | 99.8 | 97.4 | 96.7 | 
+| Hohhot | 99.7 | 94.3 | 94.2 | Jinzhou | 99.8 | 97.3 | 96.6 | 
+| Shenyang | 100.0 | 99.7 | 98.1 | Jilin | 99.5 | 95.9 | 95.8 | 
+| Dalian | 100.1 | 97.9 | 96.0 | Mudanjiang | 99.8 | 97.1 | 97.2 | 
+| Changchun | 99.6 | 96.4 | 96.1 | Wuxi | 100.3 | 96.9 | 94.8 | 
+| Harbin | 99.6 | 95.6 | 95.3 | Xuzhou | 100.3 | 97.1 | 93.2 | 
+| Shanghai | 100.5 | 100.8 | 96.2 | Yangzhou | 99.7 | 93.7 | 92.9 | 
+| Nanjing | 99.6 | 95.6 | 93.4 | Wenzhou | 99.7 | 95.0 | 94.0 | 
+| Hangzhou | 99.7 | 96.8 | 95.8 | Jinhua | 99.8 | 94.9 | 94.2 | 
+| Ningbo | 99.9 | 98.2 | 95.2 | Bengbu | 99.8 | 95.9 | 95.3 | 
+| Hefei | 100.2 | 96.9 | 94.2 | Anqing | 99.7 | 95.9 | 94.7 | 
+| Fuzhou | 99.6 | 95.5 | 94.5 | Quanzhou | 99.6 | 95.6 | 95.6 | 
+| Xiamen | 99.7 | 96.0 | 94.0 | Jiujiang | 99.7 | 93.3 | 92.8 | 
+| Nanchang | 99.6 | 94.2 | 93.3 | Ganzhou | 99.6 | 94.4 | 93.6 | 
+| Jinan | 99.6 | 95.2 | 94.8 | Yantai | 99.9 | 95.5 | 93.9 | 
+| Qingdao | 99.9 | 95.0 | 93.7 | Jining | 99.6 | 95.2 | 93.8 | 
+| Zhengzhou | 99.6 | 95.3 | 93.0 | Luoyang | 99.4 | 93.5 | 94.6 | 
+| Wuhan | 100.1 | 94.7 | 91.8 | Pingdingshan | 99.6 | 93.1 | 92.7 | 
+| Changsha | 99.7 | 94.5 | 92.6 | Yichang | 99.7 | 96.2 | 95.7 | 
+| Guangzhou | 100.1 | 97.1 | 93.6 | Xiangyang | 99.6 | 93.1 | 92.9 | 
+| Shenzhen | 100.2 | 98.5 | 95.0 | Yueyang | 99.7 | 94.0 | 93.7 | 
+| Nanning | 99.7 | 94.3 | 93.5 | Changde | 99.6 | 93.5 | 92.5 | 
+| Haikou | 99.2 | 92.8 | 93.4 | Shaoguan | 99.5 | 94.0 | 94.5 | 
+| Chongqing | 99.7 | 96.5 | 94.9 | Zhanjiang | 99.5 | 93.9 | 94.2 | 
+| Chengdu | 99.5 | 94.4 | 94.1 | Huizhou | 99.6 | 95.0 | 93.9 | 
+| Guiyang | 99.6 | 95.0 | 94.7 | Guilin | 99.9 | 94.0 | 93.1 | 
+| Kunming | 99.5 | 93.3 | 92.9 | Beihai | 99.4 | 93.3 | 93.1 | 
+| Xi’an | 99.7 | 94.9 | 92.4 | Sanya | 100.0 | 93.9 | 93.1 | 
+| Lanzhou | 99.9 | 96.2 | 95.0 | Luzhou | 99.6 | 91.2 | 91.3 | 
+| Xining | 99.8 | 97.0 | 97.8 | Nanchong | 99.7 | 94.6 | 94.6 | 
+| Yinchuan | 99.7 | 94.7 | 93.8 | Zunyi | 99.8 | 94.9 | 94.7 | 
+| Urumqi | 99.8 | 95.9 | 95.3 | Dali | 99.5 | 93.0 | 93.5 | 
+Price Indices of Newly Constructed Commercial Residential Buildings by Floor Space in 70 Large and Medium-Sized Cities
+Table III
+| Cities | 90m2and Below |  |  | 90-144m2 |  |  | Above 144m2 |  |  | 
+|  | M/M | Y/Y | Average in Jan- Sep | M/M | Y/Y | Average in Jan- Sep | M/M | Y/Y | Average in Jan- Sep | 
+|  | Last Month=100 | the Same Month Last Year=100 | the Same Period Last Year=100 | Last Month=100 | the Same Month Last Year=100 | the Same Period Last Year=100 | Last Month=100 | the Same Month Last Year=100 | the Same Period Last Year=100 | 
+| Beijing | 99.7 | 96.5 | 96.7 | 99.8 | 96.6 | 96.9 | 99.8 | 98.5 | 99.0 | 
+| Tianjin | 99.9 | 97.1 | 96.1 | 100.0 | 96.2 | 95.4 | 100.0 | 96.6 | 95.8 | 
+| Shijiazhuang | 99.8 | 95.2 | 95.5 | 99.8 | 97.3 | 96.4 | 100.1 | 94.7 | 94.6 | 
+| Taiyuan | 100.3 | 98.7 | 97.7 | 99.9 | 98.6 | 98.4 | 100.2 | 98.2 | 98.0 | 
+| Hohhot | 100.1 | 96.7 | 96.7 | 99.9 | 96.9 | 96.5 | 99.6 | 95.1 | 95.1 | 
+| Shenyang | 99.6 | 100.9 | 100.1 | 100.0 | 100.3 | 99.8 | 100.2 | 100.8 | 100.4 | 
+| Dalian | 100.1 | 100.0 | 98.4 | 100.3 | 101.3 | 100.1 | 100.2 | 99.8 | 99.3 | 
+| Changchun | 100.2 | 98.3 | 97.4 | 100.3 | 99.9 | 98.8 | 100.4 | 98.5 | 98.2 | 
+| Harbin | 99.9 | 95.7 | 95.8 | 100.0 | 97.8 | 97.5 | 99.4 | 97.7 | 98.4 | 
+| Shanghai | 99.7 | 101.5 | 102.4 | 100.0 | 101.0 | 102.0 | 100.5 | 105.6 | 105.5 | 
+| Nanjing | 100.0 | 99.7 | 97.5 | 100.3 | 99.4 | 97.0 | 100.2 | 99.6 | 97.8 | 
+| Hangzhou | 100.1 | 100.4 | 100.0 | 100.3 | 100.4 | 100.3 | 100.0 | 103.3 | 104.3 | 
+| Ningbo | 99.6 | 99.1 | 98.1 | 100.0 | 100.5 | 98.3 | 100.1 | 99.6 | 98.8 | 
+| Hefei | 100.0 | 101.0 | 101.8 | 100.3 | 100.7 | 100.9 | 100.1 | 99.8 | 100.4 | 
+| Fuzhou | 99.2 | 93.8 | 94.5 | 99.7 | 95.1 | 94.9 | 99.4 | 94.4 | 95.5 | 
+| Xiamen | 99.9 | 98.6 | 96.1 | 99.8 | 99.6 | 97.9 | 99.3 | 98.4 | 97.5 | 
+| Nanchang | 99.9 | 96.3 | 95.6 | 99.8 | 97.0 | 95.7 | 99.9 | 95.0 | 94.4 | 
+| Jinan | 100.3 | 96.7 | 95.5 | 100.0 | 97.2 | 96.8 | 100.0 | 97.1 | 96.4 | 
+| Qingdao | 99.9 | 96.8 | 96.3 | 100.2 | 99.3 | 97.7 | 100.4 | 99.0 | 97.7 | 
+| Zhengzhou | 99.3 | 94.7 | 94.4 | 99.7 | 95.9 | 95.3 | 99.2 | 94.2 | 93.7 | 
+| Wuhan | 100.2 | 98.7 | 97.4 | 100.1 | 98.5 | 96.6 | 100.4 | 100.1 | 98.3 | 
+| Changsha | 99.7 | 96.2 | 96.9 | 100.0 | 96.7 | 96.7 | 100.0 | 95.8 | 96.0 | 
+| Guangzhou | 100.0 | 98.5 | 96.5 | 100.1 | 98.6 | 96.3 | 100.4 | 100.0 | 97.3 | 
+| Shenzhen | 100.4 | 98.8 | 96.1 | 100.3 | 98.7 | 95.8 | 100.1 | 100.3 | 96.8 | 
+| Nanning | 100.2 | 96.9 | 96.5 | 100.4 | 97.5 | 97.3 | 100.1 | 96.3 | 96.1 | 
+| Haikou | 99.9 | 96.1 | 95.1 | 99.7 | 94.6 | 94.3 | 99.6 | 97.0 | 96.1 | 
+| Chongqing | 100.4 | 97.9 | 96.6 | 100.2 | 97.5 | 95.9 | 100.6 | 97.8 | 96.4 | 
+| Chengdu | 99.6 | 96.6 | 96.9 | 99.6 | 95.0 | 95.1 | 99.8 | 95.6 | 95.6 | 
+| Guiyang | 99.8 | 96.2 | 95.0 | 99.7 | 96.8 | 96.7 | 99.9 | 97.2 | 95.6 | 
+| Kunming | 99.9 | 94.9 | 93.4 | 99.7 | 95.1 | 94.3 | 100.0 | 95.3 | 94.2 | 
+| Xi’an | 100.0 | 96.1 | 95.0 | 99.5 | 94.6 | 93.8 | 99.9 | 95.7 | 95.7 | 
+| Lanzhou | 99.5 | 96.5 | 96.5 | 99.9 | 96.6 | 95.8 | 99.2 | 96.2 | 96.2 | 
+| Xining | 99.7 | 94.5 | 95.0 | 99.9 | 95.0 | 95.8 | 99.9 | 96.5 | 97.0 | 
+| Yinchuan | 100.0 | 100.1 | 98.9 | 99.9 | 99.7 | 97.8 | 100.0 | 98.2 | 96.9 | 
+| Urumqi | 100.2 | 100.0 | 100.1 | 100.1 | 99.3 | 99.6 | 100.0 | 98.7 | 99.7 | 
+| Tangshan | 99.6 | 93.8 | 93.9 | 99.7 | 94.6 | 93.9 | 99.8 | 93.6 | 93.9 | 
+| Qinhuangdao | 99.5 | 94.6 | 94.4 | 99.7 | 95.1 | 95.1 | 99.5 | 94.1 | 94.4 | 
+| Baotou | 99.6 | 93.7 | 92.3 | 99.8 | 94.0 | 93.0 | 99.8 | 93.6 | 92.3 | 
+| Dandong | 100.1 | 98.2 | 97.6 | 100.0 | 97.3 | 97.5 | 99.7 | 98.4 | 97.8 | 
+| Jinzhou | 100.0 | 97.5 | 97.4 | 100.1 | 98.2 | 97.6 | 100.2 | 95.7 | 95.8 | 
+| Jilin | 99.7 | 97.8 | 97.2 | 100.0 | 99.0 | 98.3 | 99.9 | 99.0 | 98.5 | 
+| Mudanjiang | 99.9 | 96.3 | 97.0 | 99.8 | 98.6 | 98.7 | 99.7 | 96.7 | 96.7 | 
+| Wuxi | 100.0 | 96.6 | 95.7 | 99.9 | 98.1 | 96.1 | 99.6 | 96.9 | 95.8 | 
+| Xuzhou | 100.0 | 98.5 | 96.5 | 100.6 | 98.1 | 95.6 | 100.2 | 96.8 | 96.1 | 
+| Yangzhou | 100.0 | 95.3 | 94.0 | 99.6 | 96.7 | 95.7 | 99.8 | 96.9 | 94.6 | 
+| Wenzhou | 99.9 | 97.1 | 96.0 | 99.7 | 97.1 | 96.0 | 99.6 | 96.0 | 95.9 | 
+| Jinhua | 99.4 | 95.4 | 96.3 | 99.6 | 95.8 | 95.9 | 99.7 | 95.3 | 95.3 | 
+| Bengbu | 100.0 | 95.9 | 96.5 | 99.8 | 96.9 | 96.7 | 100.0 | 96.2 | 95.8 | 
+| Anqing | 99.8 | 98.7 | 98.4 | 99.6 | 95.7 | 96.4 | 99.6 | 93.7 | 94.6 | 
+| Quanzhou | 99.7 | 96.4 | 97.4 | 99.8 | 96.1 | 95.9 | 99.9 | 96.8 | 97.3 | 
+| Jiujiang | 99.6 | 95.4 | 95.5 | 99.6 | 94.7 | 95.1 | 99.8 | 96.4 | 96.9 | 
+| Ganzhou | 99.0 | 95.9 | 96.5 | 99.9 | 96.8 | 95.7 | 99.7 | 95.8 | 95.5 | 
+| Yantai | 99.8 | 96.2 | 96.1 | 100.0 | 97.8 | 96.7 | 99.9 | 98.0 | 96.8 | 
+| Jining | 100.0 | 97.4 | 96.8 | 99.8 | 95.6 | 94.7 | 99.9 | 97.8 | 97.1 | 
+| Luoyang | 99.6 | 93.0 | 93.8 | 99.6 | 93.7 | 94.5 | 99.9 | 94.1 | 95.0 | 
+| Pingdingshan | 99.5 | 96.6 | 98.2 | 99.4 | 96.5 | 97.4 | 99.6 | 96.5 | 97.7 | 
+| Yichang | 100.1 | 101.0 | 101.3 | 100.2 | 99.4 | 99.6 | 100.3 | 98.1 | 99.3 | 
+| Xiangyang | 100.1 | 94.7 | 94.1 | 99.9 | 95.5 | 95.0 | 99.7 | 93.5 | 94.8 | 
+| Yueyang | 99.5 | 94.5 | 94.6 | 99.7 | 95.2 | 95.2 | 100.0 | 95.7 | 95.4 | 
+| Changde | 99.7 | 94.8 | 94.9 | 99.9 | 94.6 | 94.7 | 99.8 | 94.4 | 95.0 | 
+| Shaoguan | 99.7 | 99.5 | 99.6 | 99.4 | 95.8 | 97.2 | 99.3 | 96.1 | 97.1 | 
+| Zhanjiang | 99.6 | 94.1 | 95.4 | 99.4 | 94.5 | 95.2 | 99.4 | 93.1 | 94.4 | 
+| Huizhou | 99.5 | 96.1 | 95.5 | 99.6 | 95.5 | 95.3 | 100.0 | 96.8 | 95.3 | 
+| Guilin | 99.8 | 94.4 | 94.4 | 99.8 | 94.2 | 94.4 | 99.6 | 94.5 | 94.4 | 
+| Beihai | 99.2 | 93.4 | 93.5 | 99.5 | 94.4 | 94.6 | 99.4 | 93.0 | 93.4 | 
+| Sanya | 100.0 | 99.3 | 99.3 | 99.9 | 97.2 | 97.9 | 99.9 | 99.3 | 99.4 | 
+| Luzhou | 99.4 | 93.0 | 94.0 | 99.5 | 92.4 | 92.7 | 99.5 | 92.1 | 93.1 | 
+| Nanchong | 99.9 | 96.5 | 96.5 | 99.9 | 96.5 | 96.5 | 100.2 | 97.6 | 96.6 | 
+| Zunyi | 99.8 | 93.8 | 94.7 | 99.7 | 96.4 | 96.7 | 99.7 | 95.1 | 95.2 | 
+| Dali | 99.7 | 96.3 | 96.1 | 99.7 | 98.2 | 97.0 | 99.9 | 97.3 | 96.3 | 
+Price Indices of Second-Hand Residential Buildings by Floor Space in 70 Large and Medium-Sized Cities
+Table IV
+| Cities | 90m2and Below |  |  | 90-144m2 |  |  | Above 144m2 |  |  | 
+|  | M/M | Y/Y | Average in Jan- Sep | M/M | Y/Y | Average in Jan- Sep | M/M | Y/Y | Average in Jan- Sep | 
+|  | Last Month=100 | the Same Month Last Year=100 | the Same Period Last Year=100 | Last Month=100 | the Same Month Last Year=100 | the Same Period Last Year=100 | Last Month=100 | the Same Month Last Year=100 | the Same Period Last Year=100 | 
+| Beijing | 100.0 | 96.9 | 93.1 | 100.2 | 97.8 | 93.9 | 100.0 | 98.5 | 95.4 | 
+| Tianjin | 99.8 | 94.9 | 94.3 | 99.7 | 94.7 | 94.1 | 99.7 | 94.2 | 93.8 | 
+| Shijiazhuang | 99.9 | 94.9 | 94.1 | 99.9 | 96.1 | 94.8 | 99.5 | 95.2 | 94.9 | 
+| Taiyuan | 99.6 | 94.9 | 95.1 | 99.8 | 94.6 | 95.2 | 99.4 | 94.5 | 95.0 | 
+| Hohhot | 99.9 | 94.2 | 94.1 | 99.6 | 94.2 | 94.1 | 99.8 | 94.7 | 94.6 | 
+| Shenyang | 99.8 | 99.3 | 97.8 | 100.3 | 100.1 | 98.1 | 99.8 | 99.7 | 98.8 | 
+| Dalian | 100.2 | 98.1 | 95.4 | 100.1 | 98.1 | 96.5 | 100.3 | 96.7 | 96.1 | 
+| Changchun | 99.7 | 97.0 | 97.0 | 99.5 | 96.2 | 95.9 | 99.9 | 95.1 | 94.5 | 
+| Harbin | 99.7 | 95.8 | 95.6 | 99.6 | 96.1 | 95.7 | 99.5 | 94.3 | 94.1 | 
+| Shanghai | 100.6 | 101.4 | 96.3 | 100.4 | 99.9 | 95.9 | 100.7 | 100.9 | 96.3 | 
+| Nanjing | 99.5 | 95.2 | 93.2 | 99.7 | 95.8 | 93.3 | 99.9 | 96.1 | 94.1 | 
+| Hangzhou | 99.6 | 96.4 | 95.5 | 99.7 | 96.7 | 95.9 | 99.8 | 97.5 | 96.2 | 
+| Ningbo | 99.9 | 97.3 | 94.2 | 99.9 | 98.7 | 95.9 | 100.0 | 97.9 | 94.4 | 
+| Hefei | 100.2 | 97.4 | 94.2 | 100.3 | 96.7 | 94.1 | 99.9 | 96.5 | 94.4 | 
+| Fuzhou | 99.4 | 95.5 | 94.3 | 99.6 | 95.6 | 94.6 | 100.0 | 95.3 | 94.7 | 
+| Xiamen | 99.5 | 96.2 | 93.9 | 99.9 | 96.4 | 94.2 | 99.8 | 94.9 | 93.9 | 
+| Nanchang | 99.7 | 93.6 | 93.0 | 99.6 | 94.5 | 93.3 | 99.6 | 93.9 | 93.6 | 
+| Jinan | 99.2 | 96.8 | 97.3 | 99.7 | 94.9 | 94.1 | 99.9 | 94.2 | 93.9 | 
+| Qingdao | 99.9 | 94.9 | 93.8 | 99.8 | 95.0 | 93.6 | 100.3 | 95.1 | 94.0 | 
+| Zhengzhou | 99.5 | 95.5 | 93.3 | 99.7 | 95.4 | 92.9 | 99.7 | 94.8 | 92.9 | 
+| Wuhan | 100.0 | 95.0 | 92.3 | 100.1 | 94.5 | 91.5 | 100.3 | 95.0 | 92.2 | 
+| Changsha | 100.0 | 94.7 | 92.7 | 99.7 | 94.6 | 92.5 | 99.7 | 94.2 | 92.6 | 
+| Guangzhou | 100.1 | 97.2 | 93.4 | 100.2 | 97.4 | 94.0 | 100.1 | 96.2 | 93.2 | 
+| Shenzhen | 100.1 | 98.3 | 94.9 | 100.3 | 99.2 | 95.4 | 100.4 | 97.8 | 94.3 | 
+| Nanning | 99.7 | 93.8 | 93.0 | 99.7 | 94.3 | 93.7 | 99.6 | 94.7 | 93.5 | 
+| Haikou | 99.3 | 93.4 | 93.5 | 99.2 | 92.6 | 93.3 | 99.4 | 92.5 | 93.3 | 
+| Chongqing | 99.5 | 96.1 | 94.6 | 99.8 | 97.0 | 95.4 | 99.9 | 96.1 | 94.1 | 
+| Chengdu | 99.6 | 93.3 | 93.9 | 99.6 | 95.3 | 94.3 | 99.4 | 94.3 | 94.3 | 
+| Guiyang | 99.5 | 94.3 | 94.6 | 99.7 | 95.2 | 94.4 | 99.5 | 95.4 | 95.4 | 
+| Kunming | 99.8 | 93.2 | 92.7 | 99.4 | 93.5 | 93.3 | 99.4 | 92.8 | 92.5 | 
+| Xi’an | 99.8 | 95.5 | 93.1 | 99.7 | 94.7 | 91.8 | 99.9 | 94.9 | 93.1 | 
+| Lanzhou | 99.9 | 95.5 | 95.0 | 99.9 | 96.8 | 94.9 | 99.8 | 95.5 | 94.8 | 
+| Xining | 99.6 | 97.2 | 98.1 | 100.0 | 97.6 | 98.1 | 99.2 | 94.2 | 95.8 | 
+| Yinchuan | 99.9 | 95.1 | 94.3 | 99.7 | 95.1 | 93.9 | 99.8 | 93.1 | 93.0 | 
+| Urumqi | 99.9 | 96.5 | 96.0 | 99.9 | 95.8 | 94.9 | 99.2 | 94.5 | 95.4 | 
+| Tangshan | 99.6 | 92.7 | 92.0 | 99.4 | 93.1 | 92.1 | 99.5 | 93.0 | 92.4 | 
+| Qinhuangdao | 99.6 | 93.3 | 92.4 | 99.7 | 93.0 | 92.4 | 99.7 | 93.1 | 91.9 | 
+| Baotou | 99.0 | 91.8 | 92.2 | 99.9 | 94.5 | 92.4 | 99.8 | 92.6 | 91.6 | 
+| Dandong | 100.0 | 97.3 | 96.6 | 99.7 | 97.4 | 96.6 | 99.7 | 98.2 | 97.3 | 
+| Jinzhou | 100.0 | 97.4 | 96.7 | 99.7 | 97.1 | 96.4 | 99.6 | 97.9 | 96.7 | 
+| Jilin | 99.5 | 96.2 | 95.9 | 99.4 | 95.7 | 95.7 | 99.7 | 96.0 | 95.4 | 
+| Mudanjiang | 99.9 | 96.8 | 97.1 | 99.6 | 97.5 | 97.3 | 100.0 | 96.6 | 96.8 | 
+| Wuxi | 100.0 | 96.6 | 94.5 | 100.6 | 97.1 | 94.7 | 100.2 | 96.6 | 95.4 | 
+| Xuzhou | 100.8 | 96.4 | 92.8 | 100.2 | 97.6 | 93.5 | 100.2 | 95.9 | 92.4 | 
+| Yangzhou | 99.9 | 93.4 | 91.8 | 99.6 | 93.6 | 93.3 | 99.8 | 95.1 | 93.7 | 
+| Wenzhou | 99.8 | 95.3 | 94.1 | 99.7 | 95.0 | 94.0 | 99.6 | 94.9 | 93.9 | 
+| Jinhua | 99.7 | 95.0 | 94.0 | 99.8 | 94.7 | 94.2 | 99.8 | 95.6 | 94.7 | 
+| Bengbu | 99.9 | 94.8 | 94.1 | 99.8 | 96.3 | 95.8 | 99.4 | 95.0 | 94.3 | 
+| Anqing | 99.8 | 95.9 | 94.3 | 99.7 | 96.3 | 95.1 | 99.4 | 93.6 | 93.0 | 
+| Quanzhou | 99.7 | 94.3 | 94.2 | 99.6 | 95.4 | 95.6 | 99.5 | 96.7 | 96.4 | 
+| Jiujiang | 99.6 | 93.0 | 92.8 | 99.7 | 93.5 | 92.8 | 99.8 | 93.0 | 92.8 | 
+| Ganzhou | 99.7 | 95.1 | 93.8 | 99.6 | 94.8 | 93.9 | 99.5 | 92.7 | 92.4 | 
+| Yantai | 99.7 | 93.9 | 92.5 | 99.9 | 96.2 | 94.5 | 99.8 | 95.3 | 94.0 | 
+| Jining | 99.5 | 92.4 | 91.7 | 99.7 | 95.4 | 93.9 | 99.6 | 96.2 | 95.0 | 
+| Luoyang | 99.2 | 92.5 | 93.6 | 99.4 | 93.8 | 95.1 | 99.4 | 93.6 | 94.3 | 
+| Pingdingshan | 99.8 | 93.1 | 93.1 | 99.4 | 93.3 | 92.5 | 99.7 | 92.6 | 93.0 | 
+| Yichang | 99.6 | 96.4 | 96.0 | 99.9 | 96.1 | 95.7 | 99.2 | 96.1 | 95.6 | 
+| Xiangyang | 99.7 | 94.0 | 93.3 | 99.6 | 92.7 | 92.7 | 99.5 | 94.0 | 93.7 | 
+| Yueyang | 99.7 | 93.6 | 93.8 | 99.7 | 93.9 | 93.5 | 99.3 | 94.5 | 94.3 | 
+| Changde | 99.2 | 92.8 | 92.1 | 99.7 | 94.1 | 92.6 | 99.7 | 92.7 | 92.5 | 
+| Shaoguan | 99.0 | 93.6 | 94.2 | 99.8 | 94.5 | 94.6 | 99.2 | 93.2 | 94.4 | 
+| Zhanjiang | 99.2 | 92.9 | 93.5 | 99.7 | 93.7 | 94.2 | 99.4 | 95.6 | 95.0 | 
+| Huizhou | 99.4 | 96.9 | 95.1 | 99.6 | 94.5 | 93.6 | 99.7 | 94.6 | 93.6 | 
+| Guilin | 99.9 | 94.2 | 93.4 | 99.9 | 93.9 | 92.9 | 100.0 | 94.4 | 93.3 | 
+| Beihai | 99.2 | 93.0 | 92.9 | 99.6 | 93.6 | 93.2 | 99.7 | 93.6 | 93.3 | 
+| Sanya | 100.1 | 94.5 | 93.6 | 99.9 | 93.8 | 92.7 | 100.0 | 92.8 | 92.7 | 
+| Luzhou | 99.9 | 91.9 | 91.9 | 99.5 | 90.8 | 91.0 | 99.5 | 91.7 | 92.0 | 
+| Nanchong | 99.6 | 94.3 | 94.5 | 99.8 | 95.1 | 94.9 | 99.5 | 92.7 | 93.1 | 
+| Zunyi | 99.5 | 94.8 | 94.9 | 99.9 | 94.7 | 94.9 | 99.9 | 95.4 | 94.2 | 
+| Dali | 99.3 | 93.3 | 93.6 | 99.4 | 92.6 | 93.5 | 99.8 | 93.3 | 93.5 | 
+Annotations:
+1. Survey Coverage: The survey was conducted in the municipal districts of 70 medium and large-sized cities, excluding the counties.
+2. Survey Methods: The survey of newly constructed commercial residential buildings’ sales prices is an overall survey, with basic data derived from online contract-signing data provided by local real estate management departments. The survey of second-hand residential buildings’ sales prices combines the survey of main units with typical survey, with basic data sourced from reports submitted by real estate agencies or housing service platforms, as well as on-site price collection by surveyors.
+3. The calculation of the price indices can be seen in the Statistical Reporting System on Real Estate Prices.
+4. If there is no deal record this month, the overall price level is regarded as unchanged.
+5. According to the requirements of the statistical system, starting from January 2026, the statistical survey of real estate prices in 70 medium and large-sized cities takes 2025 as the base period for a new round of comparison. The weights of basic categories for each city have been adjusted to better reflect changes in the residential building sales structure. According to the calculation, the impact of the base period rotation on the monthly year-on-year sales price indices of commercial residential buildings in 70 medium and large-sized cities is within 0.03 percentage points on average.</description>
+      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965629.html</guid>
+    </item>
+    <item>
       <title>Latest Releases</title>
       <link>http://www.stats.gov.cn/english/PressRelease/</link>
       <description>Published: 2026-10-19
@@ -97,118 +339,157 @@ Home
 Latest Releases
 1.National Economy was Generally Stable with New Achievement Made in High-Quality Develop...
 2026-10-19
-2.Consumer Price Index in September 2026
+2.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
+2026-10-19
+3.Statistical Communiqué on National Expenditures on Science and Technology in 2025
+2026-10-17
+4.Consumer Price Index in September 2026
 2026-10-15
-3.Industrial Producer Price Indexes in September 2026
+5.Industrial Producer Price Indexes in September 2026
 2026-10-15
-4.Market Prices of Important Means of Production in Circulation, September 21-30, 2026
+6.Market Prices of Important Means of Production in Circulation, September 21-30, 2026
 2026-10-09
-5.Purchasing Managers’ Index for September 2026
+7.Purchasing Managers’ Index for September 2026
 2026-10-01
-6.Profits of Industrial Enterprises above the Designated Size from January to August in 2026
+8.Profits of Industrial Enterprises above the Designated Size from January to August in 2026
 2026-09-29
-7.Market Prices of Important Means of Production in Circulation, September 11-20, 2026
+9.Market Prices of Important Means of Production in Circulation, September 11-20, 2026
 2026-09-24
-8.Industrial Production Operation in August 2026
+10.Industrial Production Operation in August 2026
 2026-09-16
-9.Investment in Fixed Assets from January to August 2026
+11.Investment in Fixed Assets from January to August 2026
 2026-09-16
-10.Investment in Real Estate Development from January to August 2026
+12.Investment in Real Estate Development from January to August 2026
 2026-09-16
-11.Total Retail Sales of Consumer Goods from January to August 2026
+13.Total Retail Sales of Consumer Goods from January to August 2026
 2026-09-16
-12.Energy Production in August 2026
+14.Energy Production in August 2026
 2026-09-16
-13.National Economy Remained Steady with Innovation-Led and High-Quality Development in Au...
-2026-09-15
-14.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
-2026-09-15
-15.Market Prices of Important Means of Production in Circulation, September 1-10, 2026
-2026-09-14</description>
+15.National Economy Remained Steady with Innovation-Led and High-Quality Development in Au...
+2026-09-15</description>
       <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
     </item>
     <item>
-      <title>Industrial Producer Price Indexes in September 2026</title>
-      <link>https://www.stats.gov.cn/english/PressRelease/202610/t20261015_1965499.html</link>
-      <description>Published: 2026-10-15 09:30:00
+      <title>Statistical Communiqué on National Expenditures on Science and Technology...</title>
+      <link>https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965621.html</link>
+      <description>Published: 2026-10-17 09:30:00
 
-Industrial Producer Price Indexes in September 2026
-In September 2026, China’s producer price index for industrial products (PPI) increased by 5.0% year on year and 1.2% month on month. The purchasing price index for industrial producers increased by 6.9% year on year and 1.2% month on month. From January to September, on average, the producer price index for industrial products increased by 2.3% year on year, and the purchasing price index for industrial producers increased by 3.6%.
-I. Year-on-Year Changes in Industrial Producer Price Indexes
-In September, among producer price indexes for industrial products, the price index for means of production increased by 6.5% year on year, pushing the overall producer price index for industrial products up by about 5.07 percentage points. Specifically, the price index for mining and quarrying increased by 25.4%, that for raw materials increased by 9.4%, and that for the processing industry increased by 3.4%. The price index for consumer goods decreased by 0.1%, bringing the overall producer price index for industrial products down by about 0.03 percentage points. Specifically, the price index for food decreased by 1.8%, that for clothing decreased by 1.2%, that for articles for daily use decreased by 0.6%, and that for durable consumer goods increased by 1.6%.
-Among purchasing price indexes for industrial producers, the price index for nonferrous metals and cables increased by 20.0%, that for fuel and power increased by 13.6%, that for raw chemical materials increased by 12.6%, that for textile materials increased by 4.5%, that for building materials and non-metals decreased by 2.3%, and that for ferrous metals and agricultural and sideline products both decreased by 0.4%.
-II. Month-on-Month Changes in Industrial Producer Price Indexes
-In September, among producer price indexes for industrial products, the price index for means of production increased by 1.4% month on month, pushing the overall producer price index for industrial products up by about 1.14 percentage points. Specifically, the price index for mining and quarrying increased by 7.7%, that for raw materials increased by 2.6%, and that for the processing industry increased by 0.2%. The price index for consumer goods increased by 0.1%, pushing the overall producer price index for industrial products up by about 0.03 percentage points. Specifically, the price indexes for food and durable consumer goods both increased by 0.2%, and that for clothing and articles for daily use both remained flat.
-Among purchasing price indexes for industrial producers, the price indexes for fuel and power increased by 3.7%, that for raw chemical materials increased by 2.4%, that for nonferrous metals and cables increased by 1.4%, that for building materials and non-metals increased by 0.7%, that for textile materials increased by 0.6%, that for agricultural and sideline products increased by 0.1%, and that for ferrous metals decreased by 0.2%.
-Industrial Producer Price Indexes in September 2026
-|  | Growth Rate M/M (%) | Growth Rate Y/Y (%) | Jan-Sep Growth Rate Y/Y (%) | 
-| I. Producer Price Indexes for Industrial Products | 1.2 | 5.0 | 2.3 | 
-| Means of production | 1.4 | 6.5 | 3.3 | 
-| Mining and quarrying | 7.7 | 25.4 | 9.7 | 
-| Raw materials | 2.6 | 9.4 | 4.9 | 
-| Processing | 0.2 | 3.4 | 1.9 | 
-| Consumer goods | 0.1 | -0.1 | -1.0 | 
-| Food | 0.2 | -1.8 | -1.9 | 
-| Clothing | 0.0 | -1.2 | -1.0 | 
-| Articles for daily use | 0.0 | -0.6 | -1.2 | 
-| Durable consumer goods | 0.2 | 1.6 | -0.2 | 
-| II. Purchasing Price Indexes for Industrial Producers | 1.2 | 6.9 | 3.6 | 
-| Fuel and power | 3.7 | 13.6 | 4.1 | 
-| Ferrous metals | -0.2 | -0.4 | -0.7 | 
-| Nonferrous metals and cables | 1.4 | 20.0 | 20.4 | 
-| Raw chemical materials | 2.4 | 12.6 | 5.2 | 
-| Timber and paper pulp | 0.0 | 0.0 | -1.6 | 
-| Building materials and non-metals | 0.7 | -2.3 | -4.3 | 
-| Other industrial raw materials and semi-products | 0.1 | 1.9 | 0.8 | 
-| Agricultural and sideline products | 0.1 | -0.4 | -1.6 | 
-| Textile materials | 0.6 | 4.5 | 1.5 | 
-| III. Producer Price Indexes for Major Industries |  |  |  | 
-| Mining and washing of coal | 9.5 | 35.3 | 10.6 | 
-| Extraction of petroleum and natural gas | 10.4 | 24.5 | 9.9 | 
-| Mining and processing of ferrous metal ores | -1.3 | -3.4 | 1.8 | 
-| Mining and processing of non-ferrous metal ores | 1.6 | 21.4 | 28.3 | 
-| Mining and processing of non-metal ores | 0.1 | -1.6 | -3.5 | 
-| Processing of food from agricultural and sideline products | 0.5 | -0.9 | -1.4 | 
-| Manufacture of foods | -0.2 | -1.1 | -1.5 | 
-| Manufacture of liquor, beverages and refined tea | -0.1 | -5.3 | -3.6 | 
-| Manufacture of tobacco | 0.0 | 0.1 | 0.2 | 
-| Textile industry | 0.2 | 2.2 | 0.5 | 
-| Manufacture of textiles, wearing apparel and accessories | 0.1 | -1.0 | -1.3 | 
-| Processing of timber, manufacture of wood, bamboo, rattan, palm and straw products | -0.1 | -1.7 | -2.1 | 
-| Manufacture of paper and paper products | -0.4 | 0.6 | -0.7 | 
-| Printing and reproduction of recording media | 0.0 | -2.1 | -2.9 | 
-| Processing of petroleum, coal and other fuels | 8.4 | 21.6 | 6.5 | 
-| Manufacture of raw chemical materials and chemical products | 2.4 | 12.1 | 5.9 | 
-| Manufacture of medicines | 0.0 | -3.3 | -4.3 | 
-| Manufacture of chemical fibers | 2.1 | 12.3 | 4.0 | 
-| Manufacture of rubber and plastic products | 0.2 | 2.0 | -0.7 | 
-| Manufacture of non-metallic mineral products | 0.3 | -2.5 | -4.4 | 
-| Smelting and pressing of ferrous metals | 0.2 | -0.2 | -0.5 | 
-| Smelting and pressing of non-ferrous metals | 1.5 | 21.4 | 21.6 | 
-| Manufacture of metal products | 0.1 | 1.7 | 0.8 | 
-| Manufacture of general-purpose machinery | 0.0 | -0.4 | -0.8 | 
-| Manufacture of automobiles | -0.2 | -2.0 | -2.2 | 
-| Manufacture of railway, ships, aerospace and other transport equipment | 0.0 | 0.1 | -0.2 | 
-| Manufacture of computers, communication equipment and other electronic equipment | 0.4 | 5.8 | 2.2 | 
-| Production and supply of electricity and heat power | -0.2 | -3.9 | -4.0 | 
-| Production and supply of gas | 0.9 | 5.6 | 1.3 | 
-| Production and supply of water | 0.0 | -0.1 | 1.0 | 
+Statistical Communiqué on National Expenditures on Science and Technology in 2025
+Statistical Communiqué on National Expenditures on Science and Technology in 2025[1]
+National Bureau of Statistics
+Ministry of Science and Technology
+Ministry of Finance
+October 16, 2026
+In 2025, China’s expenditures on research and experimental development (R&amp;D) maintained steady growth, with a relatively rapid rise in investment intensity. The proportion of expenditure for basic research increased steadily, while the national fiscal expenditures on science and technology continued to increase.
+I. Expenditures on Research and Experimental Development (R&amp;D)
+In 2025, a total of 3,928.82 billion yuan was invested in R&amp;D across the country, an increase of 296.13 billion yuan over the previous year, an increase of 8.2%; the investment intensity of R&amp;D expenditures (as a share of GDP[2]) was 2.80%, an increase of 0.11 percentage points over the previous year. The per capita expenditure calculated based on the full-time equivalent of R&amp;D personnel was 487 thousand yuan, an increase of 7 thousand yuan over the previous year.
+In terms of types of activities, the national expenditure for basic research was 283.46 billion yuan, an increase of 13.3% over the previous year; the expenditure for applied research was 444.16 billion yuan, an increase of 3.2%; the expenditure for experimental development was 3,201.20 billion yuan, an increase of 8.4%. The proportion of expenditure for basic research was 7.21%, an increase of 0.33 percentage points over the previous year; the proportion of expenditure for applied research and experimental development was 11.3% and 81.5%, respectively.
+In terms of activity entities, the R&amp;D expenditures by various enterprises were 3,039.44 billion yuan, an increase of 7.7% over the previous year; the expenditures by government-affiliated research institutions were 457.23 billion yuan, an increase of 8.1%; the expenditures by higher education institutions were 340.73 billion yuan, an increase of 11.1%; the expenditures by other entities were 91.42 billion yuan, an increase of 11.7%. The proportions of R&amp;D expenditures by enterprises, government-affiliated research institutions, and higher education institutions were 77.4%, 11.6%, and 8.7%, respectively.
+In terms of industrial sectors, the R&amp;D expenditure of high-technology manufacturing industry above the designated size was 843.07 billion yuan, an increase of 9.9% over the previous year; the investment intensity (as a share of business revenue) was 3.38%, an increase of 0.03 percentage points over the previous year. Among industrial enterprises above the designated size, there were 8 industries with R&amp;D expenditure of more than 100 billion yuan, and the expenditures accounted for 69.4% of the R&amp;D expenditure of all industrial enterprises above the designated size, an increase of 1.2 percentage points over the previous year. (see Table 1 for details).
+In terms of regions, there were 6 provinces (municipalities) that invested over 200 billion yuan in R&amp;D, including Guangdong (551.04 billion yuan), Jiangsu (494.82 billion yuan), Beijing (369.61 billion yuan), Zhejiang (317.72 billion yuan), Shandong (282.57 billion yuan), and Shanghai (258.05 billion yuan). There were 7 provinces (municipalities) whose investment intensity of R&amp;D expenditures (as a share of GRDP[3]) exceeded the national average level, namely Beijing (7.10%), Shanghai (4.55%), Guangdong (3.78%), Jiangsu (3.48%), Tianjin (3.47%), Zhejiang (3.36%), and Anhui (2.86%) (see Table 2 for details).
+II. Fiscal Expenditures on Science and Technology (S&amp;T)
+In 2025, national fiscal expenditures on science and technology were 1,318.45 billion yuan, an increase of 55.53 billion yuan over the previous year, an increase of 4.4%. Among them, the central fiscal expenditures on science and technology were 447.32 billion yuan, accounting for 33.9% of the national fiscal expenditures on science and technology; the local fiscal expenditures on science and technology were 871.12 billion yuan, accounting for 66.1%.
+Fiscal Expenditures on Science and Technology (S&amp;T) in 2025
+| Indicators | Fiscal S&amp;T Expenditures (100 million yuan) | Growth Rate Y/Y (%) | As a Share of Fiscal S&amp;T Expenditures (%) | 
+| Total | 13184.5 | 4.4 | -- | 
+| Of which: S&amp;T Expenditures | 12079.2 | 4.9 | 91.6 | 
+| S&amp;T Expenditures in Other Functional Expenses | 1105.2 | -1.2 | 8.4 | 
+Table 1 R&amp;D Expenditures of Industrial Enterprises Above Designed Size by Sector in 2025
+| Sectors | R&amp;D Expenditures (100 million yuan) | Investment Intensity of R&amp;D Expenditures (%) | 
+| Total | 24161.2 | 1.76 | 
+| Mining | 545.5 | 1.05 | 
+| Mining and Washing of Coal | 211.7 | 0.81 | 
+| Extraction of Petroleum and Natural Gas | 162.8 | 1.42 | 
+| Mining and Processing of Ferrous Metal Ores | 34.0 | 0.77 | 
+| Mining and Processing of Non-ferrous Metal Ores | 50.4 | 1.20 | 
+| Mining and Processing of Non-metal Ores | 31.0 | 0.98 | 
+| Professional and Support Activities for Mining | 55.6 | 2.05 | 
+| Mining of Other Ores | 0.0 | 0.45 | 
+| Manufacturing | 23228.5 | 1.95 | 
+| Processing of Food from Agricultural and Sideline Products | 355.2 | 0.71 | 
+| Manufacture of Foods | 210.7 | 1.00 | 
+| Manufacture of Liquor, Beverages and Refined Tea | 89.3 | 0.64 | 
+| Manufacture of Tobacco | 32.2 | 0.23 | 
+| Textile industry | 305.6 | 1.44 | 
+| Manufacture of Textiles, Wearing Apparel and Accessories | 106.9 | 1.05 | 
+| Manufacture of Leather, Fur, Feather and Related Products and Footwear | 99.7 | 1.56 | 
+| Processing of Timbers, Manufacture of Wood, Bamboo, Rattan, Palm, and Straw Products | 75.1 | 1.07 | 
+| Manufacture of Furniture | 78.0 | 1.34 | 
+| Manufacture of Paper and Paper Products | 147.2 | 1.10 | 
+| Printing and Reproduction of Recording Media | 91.0 | 1.51 | 
+| Manufacture of Articles for Culture, Education, Arts and Crafts, Sport and Entertainment Activities | 125.4 | 0.95 | 
+| Processing of Petroleum, Coal and Other Fuels | 201.2 | 0.39 | 
+| Manufacture of Raw Chemical Materials and Chemical Products | 1306.9 | 1.49 | 
+| Manufacture of Medicines | 1213.3 | 5.13 | 
+| Manufacture of Chemical Fibers | 209.9 | 2.04 | 
+| Manufacture of Rubber and Plastic Products | 605.8 | 2.01 | 
+| Manufacture of Non-metallic Mineral Products | 652.5 | 1.54 | 
+| Smelting and Pressing of Ferrous Metals | 1090.1 | 1.44 | 
+| Smelting and Pressing of Non-ferrous Metals | 781.1 | 0.82 | 
+| Manufacture of Metal Products | 832.5 | 1.81 | 
+| Manufacture of General-purpose Machinery | 1401.3 | 2.74 | 
+| Manufacture of Special-purpose Machinery | 1426.3 | 3.71 | 
+| Manufacture of Automobiles | 2372.5 | 2.12 | 
+| Manufacture of Railway, Ship, Aerospace and Other Transport Equipment | 817.7 | 3.31 | 
+| Manufacture of Electrical Machinery and Apparatus | 2689.0 | 2.33 | 
+| Manufacture of Computers, Communication and Other Electronic Equipment | 5263.8 | 3.03 | 
+| Manufacture of Measuring Instruments and Machinery | 457.0 | 3.92 | 
+| Other Manufacturing | 90.4 | 3.02 | 
+| Utilization of Waste Resources | 68.2 | 0.57 | 
+| Repair Service of Metal Products, Machinery and Equipment | 32.6 | 1.05 | 
+| Production and Supply of Electricity, Heat Power, Gas and Water | 387.2 | 0.30 | 
+| Production and Supply of Electricity and Heat Power | 307.2 | 0.30 | 
+| Production and Supply of Gas | 43.5 | 0.20 | 
+| Production and Supply of Water | 36.5 | 0.76 | 
+Table 2 R&amp;D Expenditures by Region in 2025
+| Regions | R&amp;D Expenditures (100 million yuan) | Investment Intensity of R&amp;D Expenditures (%) | 
+| National Total | 39288.2 | 2.80 | 
+| Beijing | 3696.1 | 7.10 | 
+| Tianjin | 643.1 | 3.47 | 
+| Hebei | 1029.0 | 2.09 | 
+| Shanxi | 315.9 | 1.24 | 
+| Inner Mongolia | 278.2 | 1.04 | 
+| Liaoning | 764.2 | 2.30 | 
+| Jilin | 260.2 | 1.74 | 
+| Heilongjiang | 274.4 | 1.63 | 
+| Shanghai | 2580.5 | 4.55 | 
+| Jiangsu | 4948.2 | 3.48 | 
+| Zhejiang | 3177.2 | 3.36 | 
+| Anhui | 1513.1 | 2.86 | 
+| Fujian | 1359.8 | 2.26 | 
+| Jiangxi | 717.8 | 1.99 | 
+| Shandong | 2825.7 | 2.74 | 
+| Henan | 1352.2 | 2.03 | 
+| Hubei | 1635.3 | 2.61 | 
+| Hunan | 1495.8 | 2.70 | 
+| Guangdong | 5510.4 | 3.78 | 
+| Guangxi | 274.0 | 0.92 | 
+| Hainan | 135.2 | 1.67 | 
+| Chongqing | 857.7 | 2.54 | 
+| Sichuan | 1555.8 | 2.30 | 
+| Guizhou | 263.0 | 1.12 | 
+| Yunnan | 373.9 | 1.14 | 
+| Xizang | 8.2 | 0.27 | 
+| Shaanxi | 959.0 | 2.62 | 
+| Gansu | 177.6 | 1.30 | 
+| Qinghai | 36.9 | 0.90 | 
+| Ningxia | 101.4 | 1.78 | 
+| Xinjiang | 167.9 | 0.78 | 
+Notes:
+[1] Statistics in this Communiqué do not include the Hong Kong Special Administrative Region, Macao Special Administrative Region and Taiwan Province. Due to rounding, the subentries may not add up to the aggregate totals.
+[2] The GDP in 2025 is based on preliminary accounting data, while the GDP for 2024 is the final verified data.
+[3] The GRDP in 2025 is based on preliminary accounting data.
 Annotations:
-1. Index Interpretation
-The industrial producer price index comprises the producer price index for industrial products (PPI) and the purchasing price index for industrial producers.
-The PPI reflects the trend and magnitude of changes in producer prices for products when they are sold for the first time by industrial enterprises.
-The purchasing price index for industrial producers reflects the trend and magnitude of changes in prices for intermediate inputs purchased by industrial enterprises.
+1. Explanatory Notes on Main Statistical Indicators
+Expenditures on research and experimental development (R&amp;D) refer to all expenditures actually incurred during the reporting period for conducting R&amp;D activities. R&amp;D refers to the creative and systematic work conducted to increase the stock of knowledge (including knowledge related to humanity, culture, and society) and to design new applications of existing knowledge. It encompasses basic research, applied research, and experimental development. The scale and intensity of R&amp;D are widely used internationally to reflect the scientific and technological strength and core competitiveness of a country.
+Basic research refers to experimental or theoretical work without any particular application or use in view, the primary purpose of which is to acquire the fundamental principles, laws and new knowledge of observed phenomena and observable facts.
+Applied research refers to original investigation undertaken to acquire new knowledge for a specific practical purpose or objective. It is conducted to determine possible uses for the findings of basic research or to identify new methods for achieving specific and predetermined objectives.
+Experimental development refers to systematic work that draws on knowledge gained from scientific research and practical experience, as well as other knowledge generated through research, to develop new products and processes or improve existing products and processes.
 2. Statistical Coverage
-The statistical survey of the PPI covers prices for 41 major industrial categories and more than 1,300 basic categories of industrial products; the statistical survey of the purchasing price index for industrial producers covers prices for 9 major categories and more than 800 basic categories of industrial products.
-3. Survey Method
-The survey of the industrial producer price index adopts an approach that combines surveys of main units and typical surveys, covering more than 40,000 industrial enterprises across China.
-4. Statistical Standard
-The industries are classified based on the Industrial Classification for National Economic Activities (GB/T 4754-2017).
-5. Data Description
-Due to rounding, the aggregate data may be equal to the high or low value of the classified figures. For some categories or industries where price changes are minor, the growth rate becomes zero after being rounded to one decimal place. In such cases, the price change is described as “flat”.
-6. Base Period Rotation
-According to the statistical system arrangement, starting from January 2026, China’s PPI has been compiled and published with 2025 as the base period. Compared with the previous base period, the survey categories, surveyed enterprises and representative specification items, and the category weights have been adjusted to reflect the latest changes in the industrial production structure. According to calculations, the impact of the base period rotation on the monthly year-on-year PPI is approximately 0.08 percentage points on average.</description>
-      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202610/t20261015_1965499.html</guid>
+The statistical coverage of R&amp;D expenditures includes all enterprises and public institutions engaged in R&amp;D activities across society, including government-affiliated research institutions, higher education institutions, and enterprises and public institutions in the industries with relatively intensive R&amp;D activities (including agriculture, forestry, animal husbandry and fishery, mining, manufacturing, production and supply of electricity, heat power, gas and water, construction, transport, storage and post, information transmission, software and information technology services, financial intermediation, leasing and business services, scientific research and technical services, water conservancy, environment and public facilities management, health and social service, culture, sports and entertainment, etc.)
+3. Survey Methods
+The methods for surveying R&amp;D expenditures are structured as follows: the comprehensive survey is conducted for industrial enterprises above the designated size, specialized and first-class construction enterprises, and service enterprises above the designated size (engaged in transport, storage and post, information transmission, software and information technology services, leasing and business services, scientific research and technical services, water conservancy, environment and public facilities management, health and social service, and culture, sports and entertainment), government-affiliated research institutions (government-affiliated independent legal-entity scientific research and technology development institutions, scientific and technological information and literature institutions, etc.) and other non-enterprise legal entities in scientific research and technical services, higher education institutions and affiliated hospitals; the sampling survey and estimation are conducted for industrial enterprises and service enterprises below the designated size; the survey of main units is conducted for enterprises involved in scientific research and breeding and Grade III Class A hospitals that fall outside the scope of the statistics in the science and technology and education sectors; data for enterprises and public institutions in other industries are obtained through methods such as estimation based on relevant data.</description>
+      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202610/t20261019_1965621.html</guid>
     </item>
     <item>
       <title>Consumer Price Index in September 2026</title>
@@ -285,152 +566,6 @@ Due to rounding, the aggregate data may be equal to the high or low value of the
 5. Base Period Rotation
 According to the statistical system arrangement, starting from January 2026, China’s CPI has been compiled and published with 2025 as the base period. Compared with the previous base period, the survey categories, representative specification items, surveyed sites, and the category weights have been adjusted to reflect the latest changes in the consumption structure. According to calculations, the impact of the base period rotation on the monthly year-on-year CPI is approximately 0.06 percentage points on average.</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202610/t20261015_1965500.html</guid>
-    </item>
-    <item>
-      <title>Market Prices of Important Means of Production in Circulation, September 2...</title>
-      <link>https://www.stats.gov.cn/english/PressRelease/202610/t20261008_1965467.html</link>
-      <description>Published: 2026-10-09 09:30:00
-
-Market Prices of Important Means of Production in Circulation, September 21-30, 2026
-China Economic Monitoring and Analysis Center
-SCI International
-In lateSeptember 2026, according to the monitoring of market prices of 50 kinds of important means of production under 9 categories in the national circulation field, the prices of 22 products increased, 23 kinds decreased, and 5 kinds remained flat compared with those in mid-September 2026.
-Market Prices of Important Means of Production in Circulation
-(September 21-30, 2026)
-| Products | Units | Current Price (yuan) | Price Change over Previous Period (yuan) | ±Rate (%) | 
-| I. Ferrous Metals |  |  |  |  | 
-| Rebar (Φ20mm, HRB400E) | ton | 3175.9 | 10.8 | 0.3 | 
-| Wire (Φ8-10mm, HPB300) | ton | 3371.0 | 17.3 | 0.5 | 
-| Ordinary Medium Plate (20mm, Q235) | ton | 3537.4 | -10.6 | -0.3 | 
-| Ordinary Hot-Rolled Sheet (4.75-11.5mm, Q235) | ton | 3297.1 | -11.8 | -0.4 | 
-| Seamless Steel Pipe (219*6, 20#) | ton | 4020.6 | -1.8 | 0.0 | 
-| Angle Steel (5#) | ton | 3412.3 | -20.8 | -0.6 | 
-| II. Nonferrous Metals |  |  |  |  | 
-| Electrolytic Copper (1#) | ton | 111742.5 | 2972.5 | 2.7 | 
-| Aluminum Ingot (A00) | ton | 24225.0 | 33.3 | 0.1 | 
-| Lead Ingot (1#) | ton | 16216.7 | 333.4 | 2.1 | 
-| Zinc Ingot (0#) | ton | 26600.8 | 343.3 | 1.3 | 
-| III. Chemical Products |  |  |  |  | 
-| Sulfuric Acid (98%) | ton | 1696.5 | -80.8 | -4.5 | 
-| Caustic Soda (Liquid Caustic Soda, 32%) | ton | 676.2 | -6.4 | -0.9 | 
-| Methyl Alcohol (Superior Quality) | ton | 3808.3 | 112.4 | 3.0 | 
-| Pure Benzene (Petroleum Benzene, Industrial Grade) | ton | 10239.8 | 586.3 | 6.1 | 
-| Ethyl Alcohol (95.0%) | ton | 5448.7 | 29.4 | 0.5 | 
-| Polyethylene (LLDPE, Melt Index 2 Film Material) | ton | 9341.9 | -247.9 | -2.6 | 
-| Polypropylene (Wire Drawing Material) | ton | 9891.9 | -148.1 | -1.5 | 
-| Glacial Acetic Acid (99.5% and above) | ton | 4584.7 | 434.7 | 10.5 | 
-| Butadiene Rubber (BR9000) | ton | 15072.2 | -30.2 | -0.2 | 
-| Polyester Filament (POY150D/48F) | ton | 9520.8 | -118.5 | -1.2 | 
-| Lithium Iron Phosphate (Standard Power Grade) | ton | 51229.8 | -651.3 | -1.3 | 
-| IV. Petroleum and Gas |  |  |  |  | 
-| Liquefied Natural Gas (LNG) | ton | 6185.9 | -36.7 | -0.6 | 
-| Liquefied Petroleum Gas (LPG) | ton | 7506.1 | 17.3 | 0.2 | 
-| Gasoline (95#, National VI Emission Standard) | ton | 11096.6 | 75.0 | 0.7 | 
-| Diesel Oil (0#, National VI Emission Standard) | ton | 9127.3 | 177.0 | 2.0 | 
-| Paraffin (58#, Semi-refined) | ton | 7660.0 | 41.7 | 0.5 | 
-| V. Coal |  |  |  |  | 
-| Anthracite (Washed, Medium Pieces) | ton | 1551.8 | -41.0 | -2.6 | 
-| Shanxi Superior Mixed Coal (5500 kilocalories) | ton | 987.7 | 5.0 | 0.5 | 
-| Coking Coal (Main Coking Coal) | ton | 2470.0 | -79.3 | -3.1 | 
-| Coke (Quasi Primary Metallurgical Coke) | ton | 2096.4 | 0.0 | 0.0 | 
-| VI. Non-metallic Mineral Products |  |  |  |  | 
-| Ordinary Portland Cement (P.O 42.5 in Bulk) | ton | 262.3 | 3.5 | 1.4 | 
-| Float Flat Glass (5/6mm) | ton | 1100.4 | -1.0 | -0.1 | 
-| Polysilicon (Dense Grade) | kg | 41.0 | 0.0 | 0.0 | 
-| VII. Agricultural Products (Mainly Used for Processing) |  |  |  |  | 
-| Rice (Japonica Rice) | ton | 3981.0 | 0.0 | 0.0 | 
-| Wheat (National Standard Grade III) | ton | 2409.6 | 13.0 | 0.5 | 
-| Corn (Yellow Corn Grade II) | ton | 2166.3 | -43.2 | -2.0 | 
-| Cotton (Ginned Cotton, White Cotton Grade III) | ton | 16995.0 | -15.7 | -0.1 | 
-| Live Hog (Three-way Crossbred) | kg | 10.3 | -0.4 | -3.7 | 
-| Soybean (Soy) | ton | 4753.5 | 56.8 | 1.2 | 
-| Soybean Meal (Crude Protein Content≥43%) | ton | 3371.1 | -3.8 | -0.1 | 
-| Peanut (For Oil Processing) | ton | 7425.0 | -8.3 | -0.1 | 
-| White Sugar (National Standard Grade I) | ton | 5192.5 | -0.4 | 0.0 | 
-| VIII. Agricultural Means of Production |  |  |  |  | 
-| Urea (Small and Medium Granules) | ton | 1768.4 | -24.1 | -1.3 | 
-| Phosphate Fertilizer (55% Monoammonium Phosphate) | ton | 3934.4 | -154.0 | -3.8 | 
-| Potassium Fertilizer (62% White Muriate of Potash, Port Price) | ton | 3060.6 | -16.9 | -0.5 | 
-| Compound Fertilizer (Compound Fertilizer of Potassium Sulfate, 45% NPK) | ton | 3599.7 | -10.9 | -0.3 | 
-| Pesticide (Glyphosate, 95% Technical Material) | ton | 28250.0 | 1157.1 | 4.3 | 
-| IX. Forest Products |  |  |  |  | 
-| Natural Rubber (Standard Rubber SCRWF) | ton | 18480.6 | 228.2 | 1.3 | 
-| Pulp (Imported Coniferous Pulp) | ton | 5016.6 | 65.1 | 1.3 | 
-| Corrugated Paper (AA Grade, 120g) | ton | 3086.7 | 6.2 | 0.2 | 
-| Notes: The previous period was September 11-20, 2026. |  |  |  |  | 
-Annotations:
-1. Notes on Indicators
-Market prices of important means of production in circulation refer to the wholesale prices and selling prices of enterprises trading important means of production. Different from producer prices, market prices of means of production include producer prices, as well as circulation expenses, profits, and taxes of the enterprises. Producer prices and market prices influence each other. Due to a time lag, their movements may show divergence in a certain period of time.
-2. Monitoring Content
-The monitoring of market prices of important means of production in circulation includes the prices of 50 kinds of products under 9 categories. For details of product categories and specifications, please see the attached table.
-3. Monitoring Coverage
-The monitoring covers nearly 2,000 wholesalers, agents, and dealers of more than 300 trading markets in 31 provinces (autonomous regions and municipalities).
-4. Monitoring Methods
-Price monitoring methods include information officers gathering prices on-site or requesting prices by telephone, instant messaging tools, e-mail, and so on.
-5. Statistics on Price Movement Counts
-The number of products with price increases, decreases, and no change is counted based on the percentage change (%).
-Attached Table: Specifications of Market Price Monitoring Products of Important Means of Production in Circulation
-| No. | Monitored Products | Specifications | Explanation | 
-|  | I. Ferrous Metals |  |  | 
-| 1 | Rebar | Φ20mm, HRB400E | Yield Strength≥400MPa | 
-| 2 | Wire | Φ8-10mm, HPB300 | Yield Strength≥300MPa | 
-| 3 | Ordinary Medium Plate | 20mm, Q235 | Yield Strength≥235MPa | 
-| 4 | Ordinary Hot-Rolled Sheet | 4.75-11.5mm, Q235 | Yield Strength≥235MPa, Width 1500mm | 
-| 5 | Seamless Steel Pipe | 219*6, 20# | 20# Steel, Yield Strength≥245MPa | 
-| 6 | Angle Steel | 5# | Yield Strength≥235MPa | 
-|  | II. Nonferrous Metals |  |  | 
-| 7 | Electrolytic Copper | 1# | Mass Fraction of Copper and Silver≥99.95% | 
-| 8 | Aluminum Ingot | A00 | Mass Fraction of Aluminum≥99.7% | 
-| 9 | Lead Ingot | 1# | Mass Fraction of Lead≥99.994% | 
-| 10 | Zinc Ingot | 0# | Mass Fraction of Zinc≥99.995% | 
-|  | III. Chemical Products |  |  | 
-| 11 | Sulfuric Acid | 98% | Mass Fraction of H2SO4≥98% | 
-| 12 | Caustic Soda (Liquid Caustic Soda) | 32% | Mass Fraction of NaOH≥32% Ionic Membrane | 
-| 13 | Methyl Alcohol | Superior Quality | Mass Fraction of Water≤0.10% | 
-| 14 | Pure Benzene (Petroleum Benzene) | Industrial Grade | Benzene Purity≥99.8% | 
-| 15 | Ethyl Alcohol | 95.0% | Standard-grade Ethyl Alcohol | 
-| 16 | Polyethylene (LLDPE) | Melt Index 2 Film Material | Melt Index: 2.0±0.5g/10min | 
-| 17 | Polypropylene | Wire Drawing Material | Melt Index: 3.0±0.9g/10min | 
-| 18 | Glacial Acetic Acid | 99.5% and above | Acetic Acid Purity≥99.5% | 
-| 19 | Butadiene Rubber | BR9000 | In Blocks, Oyster White, Ash Content≤0.20% | 
-| 20 | Polyester Filament | POY150D/48F | Semi-dull, 167 Dtex, AA Grade | 
-| 21 | Lithium Iron Phosphate | Standard Power Grade | Energy Density≥120Wh/kg | 
-|  | IV. Petroleum and Gas |  |  | 
-| 22 | Liquefied Natural Gas | LNG | Methane Content≥75%, Density≥430kg/m3 | 
-| 23 | Liquefied Petroleum Gas | LPG | Saturated Vapor Pressure: 1380-1430kPa | 
-| 24 | Gasoline | 95# | National Emission Standard VI | 
-| 25 | Diesel Oil | 0# | National Emission Standard VI | 
-| 26 | Paraffin | 58#, Semi-refined | Melting Point No Lower Than 58℃ | 
-|  | V. Coal |  |  | 
-| 27 | Anthracite | Washed, Medium Pieces | Volatile Matter≤8% | 
-| 28 | Shanxi Superior Mixed Coal | 5500 kilocalories | Mixed Coal of High Quality, Calorific Value: 5500 Kilocalories | 
-| 29 | Coking Coal | Main Coking Coal | Sulphur Content &lt;1% | 
-| 30 | Coke | Quasi Primary Metallurgical Coke | 12.01%≤Ash Content≤13.50% | 
-|  | VI. Non-metallic Mineral Products |  |  | 
-| 31 | Ordinary Portland Cement | P.O 42.5 in Bulk | Compressive Strength: 42.5MPa | 
-| 32 | Float Flat Glass | 5/6mm | Transparent Glass, with a Thickness of 5/6mm | 
-| 33 | Polysilicon | Dense Grade | Purity: 6N-9N | 
-|  | VII. Agricultural Products (Mainly Used for Processing) |  |  | 
-| 34 | Rice | Japonica Rice | Impurity≤0.25%, Moisture≤15.5% | 
-| 35 | Wheat | National Standard Grade III | Impurity≤1.0%, Moisture≤12.5% | 
-| 36 | Corn | Yellow Corn Grade II | Impurity≤1.0%, Moisture≤14.0% | 
-| 37 | Cotton (Ginned Cotton) | White Cotton Grade III | Fiber Length≥28mm, White or Oyster White | 
-| 38 | Live Hog | Three-way Crossbred | Meat hog produced by three-way crossbreeding of foreign pig breeds | 
-| 39 | Soybean | Soy | Impurity≤1.0%, Moisture≤13.0% | 
-| 40 | Soybean Meal | Crude Protein Content≥43% | Crude Protein≥43%, Moisture≤13.0% | 
-| 41 | Peanut | For Oil Processing | Impurity≤1.0%, Moisture≤9.0% | 
-| 42 | White Sugar | National Standard Grade I | Sucrose Content≥99.6g/100g | 
-|  | VIII. Agricultural Means of Production |  |  | 
-| 43 | Urea | Small and Medium Granules | Total Nitrogen≥46%, Moisture≤1.0% | 
-| 44 | Phosphate Fertilizer | Monoammonium Phosphate | Total Nutrients (N+P2O5) = 55% | 
-| 45 | Potassium Fertilizer | Muriate of Potash | K2O=62% | 
-| 46 | Compound Fertilizer | Compound Fertilizer of Potassium Sulfate | NPK Content: 45% | 
-| 47 | Pesticide (Glyphosate) | 95% Technical Material | Mass Fraction Of Glyphosate≥95% | 
-|  | IX. Forest Products |  |  | 
-| 48 | Natural Rubber | Standard Rubber SCRWF | Impurity≤0.05%, Ash Content≤0.5% | 
-| 49 | Pulp | Imported Coniferous Pulp | Tensile Index≥85.0N·m/g, Burst Index≥6.5KPa·m2/g, Tearing Index≥9.0mN·m2/g | 
-| 50 | Corrugated Paper | AA Grade, 120g | 120±5g/m2 |</description>
-      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202610/t20261008_1965467.html</guid>
     </item>
     <item>
       <title>International Cooperation</title>

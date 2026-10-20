@@ -1,0 +1,39 @@
+TITLE:
+BeiDou Navigation Satellite System drives economic growth and social development
+
+PUBLISHED:
+2026-10-20
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1020/c90000-20510319.html
+
+ARTICLE TEXT:
+BeiDou Navigation Satellite System drives economic growth and social development
+An operator uses a BeiDou-guided agricultural drone to apply precision crop protection treatments over a paddy field in Pingpu township, Wuhu, east China's Anhui province. (Photo/Xiao Benxiang)
+From satellite constellations in space to ground-based terminals, and from transport and emergency response to smart cities, agricultural production, and maritime navigation, China's BeiDou Navigation Satellite System (BDS) has steadily expanded its global footprint in recent years. By strengthening industrial support capabilities and deepening its international reach, the system is providing new momentum for economic and social progress worldwide.
+In July 2026, BDS completed a comprehensive in-orbit upgrade of its entire satellite constellation. "The upgraded system now provides nationwide real-time positioning at centimeter-level accuracy, alongside globally covered high-precision positioning featuring rapid convergence, "said Gou Ping, chairman of China Satellite Network Group Co., Ltd. "It also supports up to one billion connected terminals, including 100 million consumer devices and one million industrial units, all operating with sustained reliability."
+The delivery of high-precision, highly stable, and highly reliable positioning, navigation, and timing services across all environments forms the foundation for the large-scale application of the BDS.
+Zhang Nu, chairman of China Time and Space Information Group Co., Ltd., said that more than 70 mobile phone models worldwide now support the BDS short-message communication function, with more than 450 million users having activated the service.
+Looking ahead to the 15th Five-Year Plan period (2026-2030), China will coordinate the deployment of space-based and ground-based navigation augmentation resources, and promote the integration of the BDS with low-Earth-orbit navigation augmentation systems, 5G and 6G, inertial navigation, LiDAR, vision-based technologies, and other sources of positioning and timing information.
+The goal is to build a multi-level, three-dimensional integrated positioning and navigation system, extending seamless positioning and timing services from outdoors to indoors and from the deep sea to deep space.
+In Waigang township, Jiading district, Shanghai, a new model of intelligent farming is taking shape across more than 667 hectares of high-standard farmland. With support from BeiDou technology, various types of smart agricultural machinery are carrying out the entire rice production process, from plowing and planting to crop management and harvesting.
+"Automatic navigation and driving systems for agricultural machinery equipped with next-generation BDS positioning terminals offer greater accuracy and more stable signals. They are already being used on farms in western and northern China," said Liu Bolin, head of planning at Shanghai-based company ComNav Tech.
+Farm operators drive BeiDou-enabled harvesters to harvest early rice in Taihe county, Ji'an, east China's Jiangxi province. (Photo/Deng Heping)
+During the 14th Five-Year Plan period (2021-2025), the BDS-related industry grew by more than 53 percent. By late 2025, BDS applications had extended across key sectors, including transportation, energy, urban development, emergency response and disaster mitigation. The system is continuing to expand into new fields and application scenarios, such as the low-altitude economy, the marine economy, and cultural, sports and tourism events.
+Consumer adoption is accelerating rapidly. "On Feb. 22 this year, Amap recorded one trillion BDS positioning requests in a single day, supporting a total daily navigation distance of 9 billion kilometers," said Liu Zhenfei, chairman of Amap, a leading provider of digital maps in China.
+China is improving policies to support and guide the industry, strengthening collaboration among industry, universities, research institutions and end users, and promoting coordinated development among upstream and downstream players and businesses of all sizes across the BeiDou industrial chain.
+Under the leadership of China Time and Space Information Group Co., Ltd. and other organizations, a new technical framework for short-message communication using space-time information has been released. It has helped reduce the cost of short-message chips by 70 percent and driven shipments of chips using the new framework to 50 million units.
+As one of four global navigation satellite systems officially recognized by the United Nations, BeiDou-related hardware and software solutions have now reached more than 140 countries and regions worldwide.
+"Space technology has increasingly become an important component of digital infrastructure and the digital economy," said Chea Vandeth, Cambodia's minister of post and telecommunications and chairman of the Digital Government Committee. Together with other global navigation systems, the BDS has enhanced the diversity, availability and resilience of global satellite-based positioning, navigation and timing services, the minister added.
+Expanding the international application of the BDS on a larger scale and promoting international cooperation in satellite navigation serve the shared interests and aspirations of countries around the world.
+BeiDou-enabled autonomous guided vehicles transport containers at a fully automated container terminal of Rizhao Port in east China's Shandong province. (Photo/Tang Ke)
+Deep in the deserts of Saudi Arabia, Sinopec Geophysical Corporation, a subsidiary of China Petrochemical Corporation, is leveraging high-efficiency 3D seismic acquisition technology to help local oil firms explore for oil and gas resources.
+"Every geophone point across thousands of square kilometers and each shot point for vibrator trucks demand high-precision positioning and time synchronization," explained Wang Zhongwen, a production operations expert at the Sinopec BeiDou operation and service center. By integrating the BDS with spatio-temporal information terminals, the project has greatly boosted construction precision and operational efficiency, cutting the re-survey rate by 85 percent.
+According to a 2026 report on the development of the BDS industry, compiled by the China Academy of Information and Communications Technology, BeiDou's global outreach is shifting from a product-export model toward a comprehensive ecosystem approach that seamlessly integrates hardware, software solutions, managed services, and partner networks.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
