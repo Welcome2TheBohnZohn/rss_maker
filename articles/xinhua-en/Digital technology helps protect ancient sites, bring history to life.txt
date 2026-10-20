@@ -1,0 +1,39 @@
+TITLE:
+Digital technology helps protect ancient sites, bring history to life
+
+PUBLISHED:
+2026-10-19
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261019/7b3458ae433547038354e705a111327e/c.html
+
+ARTICLE TEXT:
+HANGZHOU, Oct. 19 (Xinhua) -- As night falls, 5,000 drones rise into the sky. Their lights trace timber beams and columns, and lost royal palaces slowly take shape overhead. By blending digital technology with archaeological evidence, the spectacle brings Liangzhu, an early regional state that flourished more than 5,000 years ago, back to life.
+At the Liangzhu Ruins in east China's Zhejiang Province, a UNESCO World Heritage Site inscribed in 2019, digital reconstructions of ancient palaces are opening a window to the past, bringing the civilization to life while safeguarding its fragile remains.
+"Digital technology allows us to transform our research findings into a stunning visual experience, showing how the Liangzhu people lived and worked 5,000 years ago," said Sun Haibo, director of the Cultural Relics and Heritage Administration under the Hangzhou Liangzhu Archaeological Site Administrative District Management Committee.
+"The columns traced by drones were placed where they stood 5,000 years ago, allowing us to imagine the structures that once occupied those spots," said Wang Ningyuan, an expert at the Zhejiang Provincial Institute of Cultural Relics and Archaeology.
+The Liangzhu case offers a glimpse of how technology is reshaping the way China safeguards and presents its cultural heritage.
+TECH PROTECTS RUINS
+Preserving earthen ruins in humid climates has long been a global challenge. At Liangzhu, moss and mold grow quickly, and even visitors' footsteps can threaten fragile heritage sites.
+The difficulty is compounded by the site's vast scale. Some 316 sites are scattered across a 162-square-kilometer protection zone interwoven with local development. More than 90 percent of the area remains open, making foot patrols alone insufficient.
+Liangzhu's solution is to let algorithms stand watch over the ground.
+Across the zone, facilities, including 1,006 surveillance cameras and hundreds of ground sensors tracking soil moisture around the clock, form an integrated, intelligent monitoring network. The network issues automatic warnings when abnormalities are detected, cutting response times from three days to 30 minutes.
+Researchers have also built a digital twin, a virtual model of the physical site, on a smart management platform. It can simulate extreme weather such as typhoons and downpours, allowing researchers to identify weak points and develop response plans tailored to the areas most at risk.
+TECH BRINGS HISTORY TO LIFE
+Preserving the remains is only part of the task. Liangzhu is also using technology to help visitors step into the world of this ancient civilization and discover its jade craftsmanship, rice farming and water management firsthand.
+At the Liangzhu Museum, visitors can put on augmented reality (AR) glasses and watch a virtual jade cong appear to float out of its display case. The tubular object, with a square exterior and circular interior, can be rotated digitally in midair, revealing intricate carvings from every angle without touching the original.
+With a tap on the arm of a pair of AI glasses, visitors can activate an intelligent guide. The device identifies exhibits in the wearer's field of view and provides explanations. Visitors can also ask follow-up questions about whatever catches their interest.
+"I can see how it would be appealing maybe to the younger generation and people who are new to archaeology and are kind of learning about this stuff for the first time," said Dorian Fuller, fellow of the British Academy and professor at the Institute of Archaeology, University College London, after trying the AI glasses during a recent visit to the museum.
+"I've been visiting Liangzhu since 2004. I visited the previous museum before this one was built," said Fuller. "There's been an improvement, obviously, in the ways in which material is presented at museums with the advent of video screens and touch screens and an additional reconstruction."
+Behind the AI guide lies a carefully built knowledge base. The museum has organized its records and archaeological reports into a structured database to support the system. "Every sentence produced by AI can be traced to reliable sources," said Luo Xiaohong, a researcher at the museum.
+"Artifacts may age, but data can be preserved forever," said Luo, noting that Liangzhu launched its artifact digitization initiative as early as 2014. A new round of digital collection is now underway, and more than 200 precious artifacts will be given a permanent digital life.
+If AR brings individual artifacts closer, virtual reality (VR) at the ruins offers visitors a chance to explore the ancient city as a whole.
+Launched in 2025, the VR experience at Liangzhu takes visitors into a digitally reconstructed city. Wearing headsets, they can watch farmers tend rice fields, artisans carve jade and communities work together to manage floods.
+At the ongoing fourth Liangzhu Forum held in Hangzhou, Heena Waleed, minister of Arts, Culture and Heritage of the Maldives, said using digital means to preserve the memory of civilization is an important guarantee that cultural heritage will be left to future generations.
+"While technology empowers cultural heritage protection, its application must remain anchored to the artifacts' characteristics and intrinsic values," said Xiong Qingbo, an official with the Fujian Provincial Bureau of Cultural Heritage. "Only by doing so can we ensure their proper preservation and transmission amidst rapid technological advancement." ■
