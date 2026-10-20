@@ -1,0 +1,32 @@
+TITLE:
+China establishes data-focused new central SOE to unlock data value
+
+PUBLISHED:
+2026-10-20
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261020/2039459dfaeb4c10872705a3f7b845cf/c.html
+
+ARTICLE TEXT:
+XIONGAN, Oct. 20 (Xinhua) -- China National Data Group Co., Ltd., a new state-owned enterprise (SOE) directly administered by the central government, was officially inaugurated at a ceremony in Xiongan New Area, north China's Hebei Province, on Tuesday.
+Headquartered in Xiongan New Area, the newly established enterprise is tasked with specializing in the development and utilization of data resources, bringing the total number of SOEs directly administered by the central government to 100.
+It is positioned as a national team for data services, a leader in data infrastructure connectivity and a strategic force for national data sci-tech innovation.
+The group said it will provide clients with inclusive and secure data services, and industry data governance services.
+Focusing on advancing China's "AI Plus" initiative, the group also vowed to provide high-quality datasets and corpora to further the development of the AI industry.
+The establishment of the new central SOE comes as data has increasingly become a new type of production factor driving China's digital and intelligent transformation.
+Unlike traditional production factors, unprocessed data can hardly generate value. Only data that is connected to real scenarios, addresses practical difficulties and undergoes processing can be transformed into usable resources, analysts said.
+China has been bolstering its efforts to develop a data market in recent years. In 2020, the country listed data as a new type of production factor, alongside traditional factors such as land, labor, capital and technology, highlighting its growing role in driving economic growth and digital transformation.
+Following the introduction of a three-year action plan in 2024 to boost the development and application of data as a production factor, China has seen the value of data resources continue to be unleashed.
+The plan sets out efforts to expand the breadth and depth of data applications across key sectors, foster new industries, business models and growth drivers, and unlock the multiplier effect of data in supporting high-quality development.
+In 2025, China's total data output reached 52.26 zettabytes, up 27.28 percent year on year and accounting for about 27.44 percent of the global total, according to a national survey on data resources released in April this year. A zettabyte is the equivalent of about one trillion gigabytes.
+Enterprises contributed about 90 percent of incremental data output, while emerging fields such as embodied intelligence and the low-altitude economy saw surging growth in data production, the survey noted.
+Traditional sectors such as industrial manufacturing, transportation and logistics, and software and information technology services also posted marked expansion in data output.
+To further unlock the potential of data resources, Chinese central authorities have pledged greater efforts to build an open, shared and secure nationally integrated data market, according to a set of guidelines aimed at accelerating the development of new quality productive forces.
+Efforts will be made to promote the deep integration of the digital economy and the real economy, and optimize the layout, construction and operation of national data infrastructure, according to the guidelines, which were jointly issued by the Communist Party of China Central Committee and the State Council earlier this month.
+As massive amounts of data are scattered across different departments, industries and fields, China National Data Group is expected to overcome challenges including barriers to data circulation, high data governance costs and insufficient supply of high-quality datasets, analysts said. ■

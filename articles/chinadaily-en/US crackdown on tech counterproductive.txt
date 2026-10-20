@@ -1,0 +1,30 @@
+TITLE:
+US crackdown on tech counterproductive
+
+PUBLISHED:
+2026-10-20
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202610/20/WS6ad76b91e4b06d4aa0563d46.html
+
+ARTICLE TEXT:
+US crackdown on tech counterproductive: China Daily editorial
+The sanctions and bans imposed by the United States on Chinese technology are seemingly never-ending. In its latest move in the escalating crackdown on China's high-tech sector, the US administration has ordered the removal of all artificial intelligence technology developed by the Chinese company DeepSeek from the IT systems of civilian federal agencies.
+Announced by the US Department of Homeland Security on Monday, the order bans the use of DeepSeek's AI within civilian government agencies, as well as any technologies developed with the assistance of its models. The department baselessly cited "multiple threat vectors" associated with DeepSeek's models.
+Several US agencies, including the US Department of Commerce and the Navy, have already banned DeepSeek on government devices.
+The ban coincides with the US State Department's announcement on Monday of sweeping sanctions under the Protecting American Intellectual Property Act of 2022 against five Chinese entities suspected of "stealing trade secrets" from US companies. Additionally, the US Federal Communications Commission banned the import of all new models of Chinese drones and Chinese-made consumer routers last December.
+These synchronized moves reflect a broader strategy to gradually "decouple" US technological infrastructure from Chinese technology where the US thinks it is necessary. Under the pretext of safeguarding "national security" and protecting "intellectual property" from foreign "threats", Washington aims to slow down China's AI advances to maintain the US' competitiveness in the global technology arena.
+In today's world, technological competition is in fact competition between innovation ecosystems. If the US cannot shake China's comprehensive innovation ecosystem, then cracking down on individual technologies and applications will not hold back China's overall technological progress.
+Chinese AI companies have achieved breakthroughs in model algorithms and technological applications through dedicated research and development within such an innovation ecosystem. Groundless accusations that their success stems from "unfairly acquired technological strengths" are pure slander. For instance, DeepSeek's success can be attributed to its cost efficiency and open-source accessibility. Incorporating DeepSeek into projects costs companies and AI developers only a fraction of what they would pay for a closed-source model like Google's Gemini or Anthropic's Claude. This affordability is why DeepSeek's AI models are widely used by US tech companies and why its free chatbot is among the most downloaded apps in many countries and regions.
+The US' attempt to maintain its technological dominance through protectionism and administrative intervention is symptomatic of its strategic anxiety. Building technological barriers reflects a zero-sum mindset that is fundamentally at odds with the open, inclusive and mutually beneficial future of global AI development.
+Healthy high-tech competition drives innovation, while confrontation and "small yard, high fence" policies only hinder collaborative innovation and fragment supply chains without delivering real benefits.
+Moreover, the recent US actions against DeepSeek contradict the spirit of the consensus reached between the two sides last month, when they agreed on the establishment of the China-US AI Dialogue to exchange views on risks and benefits related to AI, with the next exchange scheduled in November. They also agreed to establish a bilateral communication channel for AI incidents.
+The consensus was hard-won and should be translated into action and results.
+No country can address global challenges such as data security and algorithmic risks on its own. China and the US, both major countries in AI, should have the capability and responsibility to develop and manage AI for good, and ensure that the development of AI is always under human control and serves the well-being of the people.
+To that end, the US should abandon its outdated Cold War mentality, respect independent innovations, and leverage the agreed communication channels to manage risks and resolve differences through dialogue.
