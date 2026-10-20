@@ -1,0 +1,39 @@
+TITLE:
+China establishes National Data Group in Xiong'an; new central SOE to develop data resources, support AI growth
+
+PUBLISHED:
+2026-10-20 23:00:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372661.shtml
+
+ARTICLE TEXT:
+A view of the Xiong'an Urban Computing Center on April 2, 2026 Photo: Tao Mingyang/GT
+China National Data Group Co., Ltd., a new state-owned enterprise (SOE) directly administered by the central government, was officially inaugurated on Tuesday at a ceremony in Xiong'an New Area, North China's Hebei Province. 
+Headquartered in Xiong'an New Area, the newly established enterprise is tasked with specializing in the development and utilization of data resources, bringing the total number of SOEs directly administered by the central government to 100, according to Xinhua News Agency.
+It is positioned as a national team for data services, a leader in data infrastructure connectivity and a strategic force for national data sci-tech innovation.
+Chinese Vice Premier Ding Xuexiang attended the inauguration ceremony. Ding, also a member of the Standing Committee of the Political Bureau of the Communist Party of China Central Committee, said the establishment of the enterprise is of great significance for seizing opportunities in artificial intelligence, accelerating the building of Digital China, and fostering new competitive advantages for the country, Xinhua reported. 
+Ding urged the enterprise to improve data‑related services, accelerate the development of data infrastructure, step up efforts to achieve breakthroughs in key and core technologies, and play a strategic, leading and supporting role in the data sector. 
+He also called on relevant government departments to step up support, local authorities to ensure the necessary resources, and related enterprises to strengthen cooperation to build a concerted effort to promote the development of the data industry.
+Developing data resources
+"The establishment of the China National Data Group carries extremely important strategic significance," Song Ding, a research fellow at the China Development Institute, told the Global Times on Tuesday. It will help facilitate the flow and sharing of data resources across industries and regions, substantially improve resource allocation efficiency, break down "data silos" and accelerate the development of a unified national data market, Song said.
+The State Council approved the group's establishment, with the State-owned Assets Supervision and Administration Commission of the State Council exercising investor responsibilities on behalf of the State Council, according to public information.
+Bian Yongzu, a financial expert and executive deputy editor-in-chief of Modernization of Management magazine, told the Global Times on Tuesday that large-model training depends on knowledge and data, with model quality directly linked to data quality. Despite the enormous volume of data worldwide, genuinely high-quality data that can be effectively utilized remain scarce, underscoring their core role in future economic development.
+In April 2017, China decided to establish the Xiong'an New Area as part of a strategy to promote the coordinated development of the Beijing-Tianjin-Hebei region.
+The group's location also sends a clear strategic signal, Song said. Rather than being established in Beijing and subsequently relocated, the enterprise is being built from the ground up in Xiong'an, expanding the area's role in nurturing future industries and new types of central SOEs.
+Building a nationwide network
+The inauguration comes as China advances national data infrastructure construction. Guidelines published in January 2025 set a 2029 target for putting its main framework in place, with interconnected facilities supporting large-scale data circulation to be developed during 2027-2028, according to a document released by China's National Development and Reform Commission, the country's top economic planner. 
+China's "East Data, West Computing" project also seeks to connect computing resources across regions. A national policy document calls for moving suitable AI training, inference and other computing workloads westward, while improving resource utilization and integrating computing power with data and algorithms.
+Ulanqab, in North China's Inner Mongolia Autonomous Region, offers a concrete example of this regional collaboration. The city has now taken on 75,000 petaflops of computing workloads from Beijing, supporting large-model training for leading companies such as ByteDance, DeepSeek and Baidu, Xinhua reported on Saturday. These resources power applications across cutting-edge fields such as computer vision, autonomous driving, and film and television rendering.
+The city's operational computing capacity has reached 190,000 petaflops, with intelligent computing accounting for more than 90 percent of the total. Ulanqab has attracted more than 100 data center projects, according to the report.
+An advanced optical cable runs directly from Ulanqab to Beijing, with a measured one-way data transmission latency of just 2.1 milliseconds, making the several hundred kilometers in between almost imperceptible.
+In addition, Lichuan AI Computing Center is nestled in the Wuling Mountains of Lichuan City, Central China's Hubei Province. Its services cover culture and tourism, government affairs and aerospace information. This city is not endowed with abundant scientific or educational resources, but its mountainous location, cool climate and rich hydropower resources make it an ideal place for a computing center with relatively low electricity costs, according to another report by Xinhua on Monday.
+The China computing power platform has now achieved integrated nationwide computing power monitoring and coordination. It has listed over 2,000 computing products and connected to more than 300 large models, providing AI developers with on-demand access to computing power.
+Song said data development, computing infrastructure, model research and industrial applications can be distributed nationwide according to different regions' resources and industrial strengths, forming a coordinated division of labor.
+The group could help connect data resource development with computing facilities, model research and application scenarios across China, providing foundational support for AI, Song said. "Its significance lies not only in promoting Xiong'an's digital economy, but also in serving the development of the nationwide AI industrial system."
