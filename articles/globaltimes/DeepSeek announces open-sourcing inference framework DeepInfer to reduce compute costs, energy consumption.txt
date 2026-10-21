@@ -1,0 +1,25 @@
+TITLE:
+DeepSeek announces open-sourcing inference framework DeepInfer to reduce compute costs, energy consumption
+
+PUBLISHED:
+2026-10-21 13:11:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372699.shtml
+
+ARTICLE TEXT:
+Logo of DeepSeek Photo: VCG
+Chinese AI start-up DeepSeek has announced the open-sourcing of its internal inference framework, DeepInfer, to help software developers and enterprises optimize throughput and latency for large-scale inference, lowering compute costs and energy consumption, the company said on Tuesday.
+Training is how a model learns; inference is how it becomes useful to people. With the massive volume of user requests today, the inference framework is responsible for orchestrating and scheduling vast compute clusters, and its efficiency directly determines the compute costs and power consumption of AI services, according to the company.
+DeepInfer combines high-performance kernels with a deeply optimized inference engine. It supports distributed inference, speculative decoding, structured outputs, and more, and runs on both NVIDIA and Huawei Ascend platforms.
+Built on DeepInfer, the company has already delivered high-throughput, low-latency large-scale inference services for DeepSeek V4.1 Flash. A single cluster currently serves 155 trillion tokens per day.
+Inference code for future DeepSeek models, along with subsequent performance work, will continue to be open-sourced in DeepInfer, it said.
+The company also open-sourced deepseek-recipe, a production-grade token encoding and decoding component that converts efficiently and accurately between mainstream LLM API protocols and model token sequences. Its processing logic is fully aligned with the official DeepSeek API, so third-party deployments get the same API behavior as the official one. 
+"With fully open-sourced models, operator libraries, and inference frameworks, we look forward to seeing, in the near future, an unprecedented expansion in the scope and quality of AI services worldwide — making them more equitable, transparent, and trustworthy. This will accelerate technological iteration and reduce energy waste across society, allowing limited resources to flow more efficiently between infrastructure and user devices, and delivering more powerful intelligence at a cost everyone can afford—along with the goodwill and boundless possibilities that come with it," the company noted.
+Global Times

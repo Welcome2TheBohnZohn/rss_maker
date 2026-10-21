@@ -1,0 +1,37 @@
+TITLE:
+Chinese firm launches remote-sensing satellite into orbit aboard a sea-based carrier rocket, introducing a new operating model
+
+PUBLISHED:
+2026-10-21 12:08:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372694.shtml
+
+ARTICLE TEXT:
+Photo: Courtesy of Galactic Energy
+China successfully launched a commercial remote-sensing satellite into orbit aboard a Ceres-1 sea-based carrier rocket on Wednesday, marking another major step in the development of the country's commercial space sector and its capacity to provide launch services for satellite constellations.
+The Ceres-1 Y8 sea-based rocket was launched from waters near East China's Shandong Province at 11:39 am on Wednesday, successfully placing the Xiguang Sihao 01 satellite into a low Earth orbit at an altitude of 541 kilometers, according to the rocket's developer, Galactic Energy.
+The mission marked the seventh sea launch of the Ceres-1 sea-based rocket. Since its maiden flight on September 5, 2023, the rocket has maintained a 100 percent launch success rate, making it one of China's commercial launch vehicles designed to meet demand for rapid-response and high-frequency launches, the company said.
+The launch also marked a milestone in the development of Shandong's maritime commercial space launch infrastructure, with the newly commissioned land-based command center in Rizhao taking on the core role of directing and monitoring offshore launch operations.
+According to information provided to the Global Times by Haiyang Oriental Spaceport, the home port where the rocket was assembled and prepared for departure, the spaceport has supported 29 maritime launch missions to date, placing a total of 176 satellites into their designated orbits with a 100 percent success rate. Eight of those missions have been supported this year.
+The sustained pace of launches signals that maritime launch operations at Haiyang are entering a new phase of regular and scaled-up operations, according to the spaceport.
+The Dongfang Hangtian Gang launch vessel is equipped with a domestically developed real-time launch-attitude control system using proprietary technology. The system dynamically compensates for vessel movement to minimize the impact of ship motion on the rocket's launch attitude, enabling precision launches in sea conditions up to Level 4, according to the spaceport.
+A key innovation in Wednesday's mission was the adoption of a new operational model known as "land-based command and control, sea-based launch," implemented by Shandong Haishang Commercial Aerospace for the first time in Rizhao.
+With the commissioning of the Hailong Bay shore-based command center in Rizhao, the city now has a dedicated land-based facility for directing maritime rocket launches. The new arrangement separates offshore launch operations from core command, data analysis and dispatch functions, allowing offshore operations and shore-based command functions to be coordinated efficiently.
+Under the model, the rocket and launch vessel remain offshore to conduct launch operations, while the command center on land oversees pre-launch system checks, countdown procedures, launch commands and real-time monitoring of the rocket from liftoff through orbital insertion.
+Real-time operational data from the rocket and launch platform are transmitted to the shore-based command center through dedicated high-speed communication links, enabling centralized monitoring, analysis and coordination throughout the mission.
+Previously, command and control systems, data analysis and operational dispatch functions for maritime launches were concentrated aboard the launch vessel. The new arrangement is designed to reduce the constraints associated with vessel space, power supply, communications and changing sea conditions, while improving operational safety, reliability and scalability.
+The new model represents an upgrade to Shandong's maritime commercial launch system and provides an operational foundation for more standardized and frequent sea-based launch missions.
+Developed by Guangdong Tianyuan Technology Co, the Xiguang Sihao 01 satellite is the pathfinder satellite for the Wuyang constellation and is intended to support commercial remote-sensing services.
+The satellite will serve a range of applications across the Guangdong-Hong Kong-Macao Greater Bay Area, South China and low-latitude regions along the 21st Century Maritime Silk Road, including natural resource monitoring, agricultural production, marine observation, ecological protection, emergency response to floods and typhoons, and urban governance.
+It is expected to offer particular advantages in monitoring typhoons, red tides, crop growth and urban expansion, according to the company.
+The developer describes the Wuyang constellation as the world's first low-inclination remote-sensing satellite constellation. The Xiguang Sihao 01 satellite is designed to help establish the foundation for its subsequent development.
+The Ceres-1 sea-based rocket is a small commercial launch vehicle developed by Galactic Energy. With the flexibility to operate from different launch locations and support high-frequency missions, it is also China's first privately developed rocket model capable of launching from both land-based and sea-based platforms, according to the company.
+To date, Galactic Energy has conducted 23 successful orbital launch missions, delivering a total of 90 commercial satellites with different functions into their designated orbits for 28 satellite customers, the company said.
+Photo: Courtesy of Galactic Energy

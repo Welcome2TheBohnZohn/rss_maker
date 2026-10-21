@@ -1,0 +1,41 @@
+TITLE:
+One keystroke, a new career: AI reshapes China's film and TV industry
+
+PUBLISHED:
+2026-10-21
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261021/e977b74f757b4727af464f3ec7910507/c.html
+
+ARTICLE TEXT:
+BEIJING, Oct. 21 (Xinhua) -- At a film and television industry park in Suzhou, east China's Jiangsu Province, Qin Wenshan sits glued to his computer screen, watching as visuals, sound effects, subtitles and special effects fall into place on a video timeline.
+With a single press of the Enter key, a team of AI agents springs into action, analyzing the script, designing characters and building scenes frame by frame.
+Qin entered the field in late 2023, after stumbling across AI-generated content (AIGC), leading him to experiment with AI video production in his spare time. Before that, he had worked as a safety management officer in the local rail transit sector.
+After his short-video series racked up hundreds of millions of views, Qin turned his hobby into a business, putting together a team focused on AI-powered content production.
+His journey offers a glimpse into a broader transformation sweeping China's film and TV industry, where advances in AIGC video technology are changing not only how content is made, but also who can make it and at what cost.
+PRODUCTION GETS A RESHUFFLE
+Making a film or TV series used to require large teams of screenwriters, directors, cinematographers, production designers, editors, and visual effects artists, with all hands on deck. A crew could range from a few dozen people to several hundred and beyond.
+The bigger the spectacle, the higher the bill. Productions involving animation, sci-fi or fantasy often come with high costs, particularly when they feature complex settings and elaborate visual effects.
+AI is changing the math.
+Qin's team put AI to work on "PandaPawz," a sci-fi animated short featuring futuristic settings and intense fight scenes, completing the film in just 28 days at a cost of around 30,000 yuan (about 4,464 U.S. dollars).
+Industry data shows that AI can dramatically shorten production schedules, cutting timelines that once stretched over months or even years to just days. Some short-form drama episodes can now be produced in just hours, while efficiency in visual effects and previsualization has increased threefold to tenfold.
+Yet AI's role goes far beyond generating images. Li Nan, a creator of AI-generated animated dramas, said the process begins with refining the story outline and developing detailed storyboards. AI tools then generate frames with consistent visual styles and character designs, which are turned into videos and combined with AI voice-overs and automated editing to create finished episodes.
+This streamlined workflow enables small teams to handle work that once required extensive collaboration. In April, Li formed a two-person team dedicated to AI-generated animated dramas. Since then, its account has amassed more than 140,000 followers.
+"Film and TV production used to be a massive team effort. Now, one person can do the work of an entire department, with AI as the backbone," Qin said.
+GROWING DEMAND
+The rapid expansion of AI-generated dramas is evident in both output figures and market projections. Official data released in September showed that 430,000 micro-dramas had been released nationwide in the first eight months of this year -- 13 times the total for all of 2025 -- with AI-made productions accounting for more than 90 percent.
+The country now has more than 800 million viewers of micro-dramas -- series whose episodes run for less than 20 minutes. The market was worth more than 100 billion yuan in 2025.
+The demand is expected to grow further. According to a report by DataEye, an industry data platform, China's AI-generated drama and animation market alone is projected to reach 40 billion yuan in 2026, a year-on-year increase of 138 percent.
+The boom, however, also raises questions about content quality and the protection of rights and interests. The National Radio and Television Administration (NRTA) has acknowledged that AI is creating new opportunities for creative expression and more cost-efficient micro-drama production, while also highlighting the challenges the technology poses.
+"Our position is clear: live-action dramas are the mainstay of quality productions and should receive strong support," said Wang Xiaoliang, an official with the NRTA, at a September news conference on the development of radio, television, and the online audio and video sector over the next five years.
+At the same time, the administration said it will guide and regulate the innovative use of AI across the entire production process of audiovisual content in the coming years.
+For industry leaders, the future may lie not in choosing between AI and traditional filmmaking, but in combining the two. Gong Yu, founder and CEO of iQIYI, a leading online entertainment platform, believes the use of AI in film and drama production will be common in the future, and that a hybrid approach combining live-action filming with AI may be the way forward.
+The Chinese company is already exploring the potential of AI in longer productions. In July, it premiered "Mystic Tales: The Spider Lady's Vendetta," an AIGC internet feature film running over 60 minutes, which brings Chinese supernatural folklore to life, on both its domestic and international platforms.
+Recently, it unveiled a trailer for "Immortals Over Mortal Love," its first full-length, multi-season drama combining AI filmmaking with live-action performances by professional actors. The first season of the series is produced on NadouPro, the company's film and TV production platform empowered by large models.
+The move toward AI-generated long-form dramas signals a new stage in the technology's development, industry insider Hu Jie said, adding that these productions may face a tougher test of their storytelling, visual quality and ability to strike an emotional chord with audiences. ■
