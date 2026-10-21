@@ -1,0 +1,30 @@
+TITLE:
+AI-hardware integration drives intelligent device innovation in China
+
+PUBLISHED:
+2026-10-21
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261021/743a2d3775ed4c2689d55c1f7be48808/c.html
+
+ARTICLE TEXT:
+BEIJING, Oct. 21 (Xinhua) -- Chinese tech firms are harnessing the deep integration of AI and hardware to bring a new generation of intelligent devices to market, launching not just new products but entirely new product categories.
+Alibaba's Qwen has recently unveiled a set of new products including two models of AI glasses and a model of AI clip-on earphones. Other leading tech firms, including Huawei, ZTE, Vivo and Baidu, are also stepping up efforts to launch new intelligent products.
+Industry insiders noted that the wave of new products reflects a broader shift in the intelligent device market, with products such as smartphones, PCs, smart glasses and wearables entering a new phase of AI-driven upgrades.
+Liang Linjun, a researcher at the China Academy of Information and Communications Technology (CAICT), said that in terms of capability support, neural processing units, high-capacity high-speed storage and high-precision sensors are quickly becoming standard components for intelligent devices.
+Intelligent devices are evolving from tools that passively execute commands into intelligent assistants capable of understanding user intent and delivering proactive services.
+The N1 series AI glasses launched by Alibaba's Qwen feature a 50-megapixel imaging system and support all-day environmental perception, translation, meeting minutes and voice-enabled task execution.
+In addition, the N1 Pro adds real-time vital sign monitoring, eye-tracking interaction and iris authentication. Its AI Insight Report converts raw data into easy-to-understand insights, helping users grasp changes in their vital signs.
+Notably, new smartphones are shifting away from the earlier version of "AI feature stacking" toward native on-device AI agents. For example, some newly released models come with built-in personal AI agents that autonomously plan and coordinate services across apps, enabling one-stop execution of diverse tasks like ticket booking, office workflows, video editing and local lifestyle services.
+Beyond merely serving as "personal assistants," intelligent devices are evolving into "family companions." For instance, Baidu has recently rolled out a lineup of home AI terminals powered by dedicated AI agents. Tailored for household scenarios, these devices support family scheduling, care monitoring and more.
+The push to accelerate the adoption of intelligent devices is also gaining policy support. Chinese central authorities recently issued a set of guidelines aimed at accelerating the development of new quality productive forces to bolster high-quality development.
+These guidelines urged speeding up the scenario-based application of new-generation intelligent devices such as intelligent connected new energy vehicles, AI smartphones and personal computers, and humanoid robots.
+Industry insiders said that intelligent terminals serve as the gateway for smart technologies to reach hundreds of millions of users in the AI era. As AI devices transform from passive command-execution tools into intelligent assistants capable of perceiving and understanding their environments, delivering services and improving themselves, the leap in intelligent experience is poised to spur replacement demand in the massive existing market.
+"Going forward, the industry should accelerate the upgrading and iteration of AI phones and AI computers," Liang said.
+Liang called for prioritizing key technologies such as on-device large models, device-cloud collaborative architectures and multimodal natural interaction. ■
