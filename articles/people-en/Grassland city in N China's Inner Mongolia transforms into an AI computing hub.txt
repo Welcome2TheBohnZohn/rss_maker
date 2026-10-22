@@ -1,0 +1,37 @@
+TITLE:
+Grassland city in N China's Inner Mongolia transforms into an AI computing hub
+
+PUBLISHED:
+2026-10-22
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1022/c90000-20511223.html
+
+ARTICLE TEXT:
+Grassland city in N China's Inner Mongolia transforms into an AI computing hub
+Swans glide across the waters of Chahannur National Wetland Park in Shangdu county, Ulanqab, north China's Inner Mongolia autonomous region, on March 19, 2026. (People's Daily Online/Wang Zheng)
+How long does it take to travel from Ulanqab in north China's Inner Mongolia autonomous region to Beijing? By high-speed rail, roughly 100 minutes. Yet data traverses the same distance -- more than 240 kilometers -- in just 2.1 milliseconds via high-capacity fiber-optic cables.
+Harnessing its abundant wind resources and cool climate, Ulanqab is rapidly emerging as a major computing hub. As of the end of August, the city had secured agreements for 109 computing projects, covering more than 7 million standard server racks, with 190,000 petaflops of computing capacity already in operation.
+A Goldman Sachs report says that Ulanqab has emerged as one of the largest and fastest-growing AI computing clusters in the Asia-Pacific region.
+How did a once-isolated city with limited industrial diversification become a rising force on the national and global stage?
+For generations, Ulanqab's harsh winters, low rainfall, and brief growing season constrained traditional agriculture. Its economy has long depended on farming and livestock, leaving many communities vulnerable to climatic fluctuations.
+The city was once a key target of China's poverty alleviation campaign. Over the decades, Ulanqab has earned a string of nicknames, including China's "potato capital," "oat capital," and "wind power capital," each reflecting its distinctive geography and economy.
+Times have changed. Driven by the "East Data, West Computing" initiative, Ulanqab, this once austere landscape, is breaking free from the constraints of its traditional development path, rapidly emerging as a hub for cloud computing, AI computing, and token production. Behind this transformation lies a reimagining of how its natural resources can drive development.
+Computing infrastructure requires enormous physical facilities. Servers run around the clock, creating two major challenges: securing a reliable power supply and dissipating the heat they generate.
+This gives the computing industry different location priorities from traditional manufacturing. It does not necessarily need to be near densely populated cities; instead, it places greater emphasis on energy costs, climate, and available land. In this new equation, Ulanqab's traditional geographic disadvantages are becoming assets in the digital age.
+Take wind energy first. Ulanqab experiences 60 days of strong winds in spring alone. Combined with an annual solar radiation of 5,500-6,200 megajoules per square meter, these conditions give the city abundant wind and solar resources. Its wind and solar farms rank among the nation's leaders in annual utilization hours, and installed renewable energy capacity has reached 20.67 million kilowatts.
+Computing is an electricity-intensive industry. The more servers a data center operates and the greater its computing capacity, the more power it needs. Ulanqab's wind and solar resources, once of limited use to traditional industries, now align with the massive electricity demand of data centers.
+Photo shows wind turbines at the wind and solar power facility operated by China Three Gorges Renewables (Group) Co., Ltd. in Siziwang Banner, Ulanqab, north China's Inner Mongolia autonomous region, on May 8, 2026. (People's Daily Online/Wang Zheng)
+Cold weather carries new meaning here too. For traditional agriculture and livestock farming, low average temperatures and a short frost-free season limit the growing season. For data centers, however, the same cold climate offers a natural source of cooling.
+Ulanqab's average summer temperature is just 18.8 degrees Celsius, and the region enjoys nearly 10 months of natural cooling each year. Large data centers can use cool outdoor air to dissipate heat, reducing energy consumption by an estimated 30 percent. What once constrained agricultural production has become an economic resource that directly lowers computing costs.
+Then there's proximity. "Just a 'step' west of Beijing lies Ulanqab" is a slogan that captures the city's close proximity to the capital. Ulanqab is over 300 kilometers from Beijing. For traditional goods, that distance can mean lengthy transport times and high logistics costs. For data, however, a dedicated 144-fiber, dual-route link to Beijing enables ultra-low-latency transmission.
+Powered by green electricity, natural cooling and ultra-low-latency connectivity, Ulanqab is meeting growing demand from the Beijing-Tianjin-Hebei region for AI training, autonomous driving R&D and big data processing.
+By converting its natural and geographic advantages into digital hub strengths, the city is emerging as a green computing powerhouse. Leading companies in AI and smart vehicles are setting up operations there, driving the development of a full industrial chain spanning computing infrastructure, hardware manufacturing, cybersecurity, data services and talent training. Ulanqab is emerging as a key hub in China's integrated national computing network.
+Ulanqab is evolving from a transportation hub into a computing hub, unlocking new avenues for growth in the digital economy.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
