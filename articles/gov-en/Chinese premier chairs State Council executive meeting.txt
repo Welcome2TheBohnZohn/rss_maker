@@ -2,7 +2,7 @@ TITLE:
 Chinese premier chairs State Council executive meeting
 
 PUBLISHED:
-2026-10-17
+2026-10-23
 
 SOURCE:
 PRC Government English
@@ -11,16 +11,14 @@ CATEGORY:
 Authoritative PRC Media
 
 URL:
-https://english.www.gov.cn/news/202610/17/content_WS6ad2c43cc6d00ca5f9a0dbb8.html
+https://english.www.gov.cn/news/202610/23/content_WS6adb6170c6d00ca5f9a0ded2.html
 
 ARTICLE TEXT:
-BEIJING, Oct. 16 -- Chinese Premier Li Qiang on Friday chaired a State Council executive meeting that heard a report on the progress of the "AI Plus" initiative, discussed a draft revision to the Teachers Law and a draft amendment to the Pricing Law, and reviewed and approved a draft decision on amending and repealing certain administrative regulations.
-Noting that artificial intelligence (AI) is a key factor shaping future development, the meeting called for further advancing the "AI Plus" initiative by leveraging China's comprehensive industrial system, diverse application scenarios and strong engineering capabilities to drive technological innovation through practical applications.
-It called for intensified efforts to tackle key technological challenges, promote algorithmic innovation, advance the coordinated development of computing capacity and electricity supply, and increase the supply of high-quality data.
-The meeting also stressed the need to promote AI applications in the real economy by better aligning supply and demand, encouraging joint research and development, advancing pilot testing and validation, and cultivating application scenarios to translate AI technologies into real productive forces.
-It called for coordinating development and security, adopting differentiated measures tailored to different industries, and strengthening risk assessment to ensure AI safety.
-The meeting discussed and approved in principle the draft revision to the Teachers Law and decided to submit it to the Standing Committee of the National People's Congress for deliberation.
-It called for stronger safeguards for teachers' pay and benefits, reduced non-teaching workloads, improved public services for teachers, and better protection of their professional dignity and legitimate rights and interests.
-The meeting urged efforts to build a high-caliber, professional teaching workforce, improve the teacher education system, enhance teachers' ability to teach and nurture students, strengthen professional ethics and conduct, and foster an atmosphere of respecting teachers and valuing education throughout society.
-The meeting also discussed and approved in principle the draft amendment to the Pricing Law and decided to submit it to the national legislature's standing committee for deliberation. It called for curbing disorderly low-price competition in accordance with the law and regulating price competition in the platform economy to foster a fair and orderly market environment.
-The meeting decided to amend certain provisions of 14 administrative regulations and repeal four others.
+BEIJING, Oct. 23 -- Chinese Premier Li Qiang on Friday presided over a State Council executive meeting that studied measures to coordinate population development with economic and social development and heard a report on the implementation of the arrangements made at the national conference on the services sector.
+Noting that population is fundamental to a country's economic and social development, the meeting called for efforts to tap the demographic dividend and support high-quality economic and social development through high-quality population development.
+The meeting stressed the need to expand skills training and better align education and training with industrial development to promote high-quality and full employment.
+It also called for steady progress in ensuring equal access to basic public services and optimizing the infrastructure layout in line with population distribution.
+Efforts should be made to accelerate the development of a birth-friendly society and to maintain a stable number of newborns, according to the meeting.
+Regarding the service industry, the meeting emphasized its underpinning role in driving economic growth and called for stronger support in areas such as financing, land use, talent and data.
+The meeting urged continuous efforts to break down market access barriers, remove hidden hurdles for private investment, and explore innovative development paths tailored to local conditions.
+It also emphasized the need to increase investment in the services sector to unleash the potential of service consumption as well as cultivate leading enterprises and distinctive brands.
