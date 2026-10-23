@@ -1,0 +1,29 @@
+TITLE:
+Chinese tech company unveils new AI model based on fully domestic computing power
+
+PUBLISHED:
+2026-10-23
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1023/c90000-20511624.html
+
+ARTICLE TEXT:
+Chinese tech company unveils new AI model based on fully domestic computing power
+iFlytek 1024 Global Developer Festival 2026 is held in Beijing on October 22, 2026. Photo: Zhang Weilan/Global Times
+Chinese tech company iFlytek released and open-sourced its general-purpose large-language model (LLM), Spark-X2.6, at an industry event in Beijing on Thursday. The new model is an end-cloud integrated LLM that the company said has achieved breakthroughs in coding and agentic capabilities using fully domestic computing infrastructure.
+The model, sized at 293-A30B mixture-of-experts architecture (293B total parameters, 30B active per token), supports a context window of 1 million tokens and has been deployed on a domestic 10,000-card inference cluster.
+"Spark-X2.6 has taken the lead in breaking through the efficiency bottleneck of long-horizon task training on domestic chips, truly achieving independence and controllability with homegrown computing power," the company's chairperson Liu Qingfeng said at the iFlytek 1024 Global Developer Festival 2026 held in Beijing on Thursday.
+The company said that the model has reached performance levels comparable to leading industry systems in multiple technical benchmarks. However, Liu emphasized that the model's real-world deployment performance in actual industrial scenarios — such as state-owned enterprises, education, healthcare and judicial services — outperforms its public benchmark scores.
+An industry observer attending the event told the Global Times that the emphasis is shifting away from sheer model size and benchmark competition toward deployment on domestic computing, data security, and real-world usefulness in office, industrial and research settings.
+Liu Dingding, a veteran industry analyst, said that the combination of end-cloud collaboration and a fully domestic hardware base offers a reference path for China's artificial intelligence (AI) industry.
+"What matters next is whether a model can be rooted in a domestic computing foundation, balance efficiency with data security, and truly enter real scenarios of office work, industry and scientific research," Liu noted.
+The development also comes as ties between Chinese AI modelmakers and domestic chip suppliers deepen.
+According to domestic media reports, a research team led by the Shenzhen Loop Area Institute in South China's Guangdong Province has successfully used Huawei's Ascend 910C chips to complete post-training for the DeepSeek-V4-Pro model, marking a major step forward as China's semiconductor industry tries to leap from supporting basic AI inference to more complex model training.
+Liu said that tighter US restrictions on AI chip exports to China are increasing the strategic importance of domestic computing infrastructure, adding that closer collaboration between model developers and domestic chipmakers is pushing China's AI ecosystem from "usable" to "practical" and more mature.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
