@@ -2,7 +2,7 @@ TITLE:
 Latest Releases
 
 PUBLISHED:
-2026-10-21
+2026-10-24
 
 SOURCE:
 National Bureau Statistics English
@@ -29,33 +29,33 @@ Release Calendar
 Home
 >
 Latest Releases
-1.Preliminary Accounting Results of GDP for the Third Quarter of 2026
+1.Market Prices of Important Means of Production in Circulation,October 11-20, 2026
+2026-10-24
+2.Preliminary Accounting Results of GDP for the Third Quarter of 2026
 2026-10-21
-2.Industrial Production Operation in September 2026
+3.Industrial Production Operation in September 2026
 2026-10-20
-3.Investment in Fixed Assets from January to September 2026
+4.Investment in Fixed Assets from January to September 2026
 2026-10-20
-4.Investment in Real Estate Development from January to September 2026
+5.Investment in Real Estate Development from January to September 2026
 2026-10-20
-5.Total Retail Sales of Consumer Goods from January to September 2026
+6.Total Retail Sales of Consumer Goods from January to September 2026
 2026-10-20
-6.Energy Production in September 2026
+7.Energy Production in September 2026
 2026-10-20
-7.Households’ Income and Consumption Expenditure in the First Three Quarters of 2026
+8.Households’ Income and Consumption Expenditure in the First Three Quarters of 2026
 2026-10-20
-8.Industrial Capacity Utilization Rate in the Third Quarter of 2026
+9.Industrial Capacity Utilization Rate in the Third Quarter of 2026
 2026-10-20
-9.National Economy was Generally Stable with New Achievement Made in High-Quality Develop...
+10.National Economy was Generally Stable with New Achievement Made in High-Quality Develop...
 2026-10-19
-10.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
+11.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
 2026-10-19
-11.Statistical Communiqué on National Expenditures on Science and Technology in 2025
+12.Statistical Communiqué on National Expenditures on Science and Technology in 2025
 2026-10-17
-12.Consumer Price Index in September 2026
+13.Consumer Price Index in September 2026
 2026-10-15
-13.Industrial Producer Price Indexes in September 2026
+14.Industrial Producer Price Indexes in September 2026
 2026-10-15
-14.Market Prices of Important Means of Production in Circulation, September 21-30, 2026
+15.Market Prices of Important Means of Production in Circulation, September 21-30, 2026
 2026-10-09
-15.Purchasing Managers’ Index for September 2026
-2026-10-01
