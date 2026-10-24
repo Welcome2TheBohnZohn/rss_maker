@@ -1,0 +1,31 @@
+TITLE:
+China's token prices double, usage triples amid AI application boom: report
+
+PUBLISHED:
+2026-10-24 16:57:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372872.shtml
+
+ARTICLE TEXT:
+Concept photo of token Photo: VCG
+Prices for Chinese artificial intelligence (AI) large model token services have doubled from the second half of 2025, while usage amount tripled. The average daily token use reached about 500 trillion in June 2026 - nearly four times the level in December 2025, according to a latest report.
+Analysts said that the combination of higher prices and sharply higher usage signals that demand for AI models is now strong enough to absorb a price recovery - and that the industry is moving toward competition on service quality. Domestic AI model suppliers continued to roll out more capable models for customers, including Moonshot AI and ByteDance's Volcengine, which released their latest new AI models on Saturday.
+The report released by the China Academy of Information and Communications Technology (CAICT) described the market as rising in both price and volume. The report was motivated in part by the growing number of MaaS (Model as a Service) providers supplying token services through public cloud APIs (application programming interfaces), and by users' lack of intuitive benchmarks for service performance and the resulting difficulty in choosing models.
+"In other words, a growing number of companies now sell online access to AI models, charging by how much the model is used. But customers have no easy way to compare which service is faster, more reliable or better value, so choosing one is difficult. That problem helped prompt the report," Wang Peng, a research fellow at the Beijing Academy of Social Sciences, told the Global Times on Saturday.
+CAICT report showed that model service prices rose sharply in 2026 both in China and overseas. After adjusting for different billing methods so prices can be compared, the average domestic price rose from 6.8 yuan ($1.02) in the second half of 2025 to 13.46 yuan this year - nearly double. Yet overseas prices remain far higher: typical models launched since 2026 average about 117.8 yuan on the same basis, roughly 8.7 times the domestic level.
+The supply side is also upgrading. On Saturday, Moonshot AI launched Kimi K3.1 Pro, a 3-trillion-parameter open-source model with a 1-million-token context window, which the company describes as the "world's largest open-source model by parameter count."
+"Across coding, agentic, and knowledge benchmarks, K3.1 Pro matches or approaches the strongest closed-source models," Moonshot AI said.
+According to the company, it scored 65.7 percent on the Terminal-Bench 4.0 coding-agent benchmark, above GPT-6 Astra's 58.2 percent and close to Claude Opus 5.5's 66.4 percent.
+According to media reports, Kimi K3.1 Pro's price is one-fifth that of GPT-6 Astra and about half of Claude Opus 5.5. GPT-6 Astra and Claude Opus 5.5 were the latest AI models released by OpenAI and Anthropic, respectively, in late September.
+Other Chinese vendors are pushing into more specialized and higher-value scenarios. Volcengine, ByteDance's cloud unit, began the first enterprise trials of its Seedance 2.5 4K video-generation model, supplying the model to 20 studios and directors, with the first titles expected to air as early as next month, the company said.
+And on Friday, at the 2026 World Intelligent Connected Vehicles Conference, a national AI application pilot base released what it called the industry's first automotive AI foundation.
+The base manages 112.7 EFLOPS (a unit of the speed of computer systems, meaning one quintillion floating-point operations per second) of computing power and has deployed six AI agents covering styling design, process planning, visual quality inspection, intelligent operations, autonomous-driving data generation and model training.
+From "burning cash to win customers" to "earning through service," the competitive logic of China's token market has changed, said Wang.
+"The simultaneous rise in prices and usage offers a blunt market judgment: customers are not paying more for more expensive tokens, but for models that solve more problems," Wang added.
