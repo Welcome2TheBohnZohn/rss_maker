@@ -1,0 +1,28 @@
+TITLE:
+110 humanoid robots set Guinness world record for synchronized dancing in China, eyeing large-scale deployment
+
+PUBLISHED:
+2026-10-25 10:59:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372888.shtml
+
+ARTICLE TEXT:
+Photo: Courtesy of AgiBot
+China's humanoid robot industry is moving from single-machine demonstration toward large-scale coordinated deployment, as 110 humanoid robots set a Guinness World Records title for the most humanoid robots dancing simultaneously in Jinan, East China's Shandong Province, on October 24.
+The 110 Expedition A3 humanoid robots, developed by Chinese firm AgiBot, performed synchronized dance routines and formation changes using the company's LinkBots cluster-control platform and ultra-wideband (UWB) positioning technology, which enables centimeter-level accuracy. The challenge tested the system's ability to coordinate large numbers of robots while maintaining precise positioning, the company said.
+During the display, the 110 Expedition A3 robots seamlessly performed a series of synchronized movements, including repositioning, jumping, flips and formation changes, which showcases advances in humanoid robots' spatial movement capabilities.
+Following the event, the robots will be deployed in cultural and tourism performances, public services, scientific research and education, among other settings, the company said.
+The significance of such multi-robot demonstrations extends beyond setting records. As Chinese robotics firms improve motion control, positioning and multi-robot coordination, the key challenge is turning these capabilities into reliable real-world applications. Several companies are now exploring large-scale deployment in industrial and service settings.
+At the World Robot Conference in Beijing in August, Chinese robotics firms demonstrated humanoid robots sorting parcels, handling components and packing mobile phones on production lines. Robotera said it had deployed more than 100 parcel-sorting robots across 15 warehouses, while DexForce reported deploying robots at a Lens Technology factory to pack mobile devices on an assembly line, according to Reuters.
+However, many applications remain at the pilot or early commercial stage, with reliability, adaptability and cost-effectiveness remaining major challenges to wider adoption. Addressing these hurdles is part of China's broader effort to accelerate the commercialization and large-scale deployment of humanoid robots and embodied AI, industry analysts said.
+China launched a real-world training initiative in June aimed at promoting the routine deployment of humanoid robots and embodied AI products in real-world production and everyday settings, accelerating their large-scale adoption. The initiative aims to develop more than 100 high-value application scenarios and build the capacity for large-scale deployment of tens of thousands of robots by the end of 2026.
+At an October 19 press conference, an official with the Ministry of Industry and Information Technology said that China had developed more than 400 humanoid robot models and produced over 40,000 units in the first half of 2026. Annual production is expected to exceed 100,000 units, while more than 300 priority scenarios are being targeted for real-world testing and deployment, according to the State Council Information Office. 
+Ultimately, the industry's next test is not simply how many robots can perform in sync, but whether they can carry out useful tasks reliably, efficiently and at scale. Moving embodied AI into real-world jobs requires more than individual technological breakthroughs — it also depends on the ability to train, test and improve robots at scale.
+Global Times
