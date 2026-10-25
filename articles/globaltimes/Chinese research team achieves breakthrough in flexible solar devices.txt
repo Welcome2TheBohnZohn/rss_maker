@@ -1,0 +1,28 @@
+TITLE:
+Chinese research team achieves breakthrough in flexible solar devices
+
+PUBLISHED:
+2026-10-25 19:37:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372915.shtml
+
+ARTICLE TEXT:
+Photo: Screenshot from Xinhua
+A Chinese research team has developed a new strategy to overcome a longstanding challenge in flexible perovskite solar cells, enabling the production of large-area, commercial size flexible photovoltaic devices with power conversion efficiencies consistently exceeding 20 percent, the Xinhua News Agency has reported.
+Conventional solar panels are typically heavy and rigid. Flexible perovskite solar films, a promising focus of next-generation photovoltaic research, are lightweight and can conform to curved surfaces. However, scaling them up has long posed a major challenge, as both their power conversion efficiency and lifespan tend to decline significantly as their size increases, hindering their transition from the laboratory to real-world applications.
+The research team, which is led by professor Li Yaowen at Soochow University in East China's Jiangsu Province, has developed a novel research and development strategy called "decoupled co-deposition." The new study was published online in the journal Science on Friday.
+Li said that co-deposition is a crucial step in producing flexible perovskite photovoltaic films. During the process, perovskite crystallizes out of a precursor solution and attaches to a plastic substrate, forming a continuous film. However, as the film's area increases, the interfacial layer between the film and the plastic substrate tends to become uneven in thickness, as per Xinhua. 
+The team investigated how the interfacial layer forms at the molecular level and identified a competitive mechanism, said co-corresponding author of the paper, professor Xu Guiying.
+When exposed to interfacial molecules and organic solvents in the precursor solution, hydroxyl groups on the plastic substrate face a molecular "either-or" choice. Some bind to the organic solvents, leaving the interfacial molecules unable to anchor themselves to the substrate.
+To address this problem, the team proposed "decoupled co-deposition," introducing a decoupling agent to break the bonds between the hydroxyl groups and organic solvents, allowing the hydroxyl groups to instead bind with the interfacial molecules. This helps the interfacial layer adhere firmly to the substrate.
+Over the past year, the team has worked with a company to scale up production beyond small-scale laboratory prototypes, producing a batch of large-area flexible photovoltaic devices with an effective area of 750 square centimeters. Their power conversion efficiency has more than doubled compared with previous levels, consistently exceeding 20 percent, Li said. 
+"We will continue to strengthen the integration of industry, academia and research, using real-world industrial needs to guide our innovation and steadily advance the commercialization of flexible photovoltaics," Li said.
+China's installed photovoltaic power capacity reached 1.286 billion kilowatts at the end of July and has surpassed coal-fired power capacity for the first time, making PV the country's largest power source by installed capacity, according to the National Energy Administration on September 1.
+With the world's largest and fastest-growing renewable energy system, China supplies over 80 percent of photovoltaic modules and 70 percent of wind power equipment around the world, assisting the green transition in many countries and regions.
