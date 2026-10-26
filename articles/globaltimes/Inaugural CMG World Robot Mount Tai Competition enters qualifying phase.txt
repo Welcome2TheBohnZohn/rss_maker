@@ -1,0 +1,38 @@
+TITLE:
+Inaugural CMG World Robot Mount Tai Competition enters qualifying phase
+
+PUBLISHED:
+2026-10-26 16:55:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372980.shtml
+
+ARTICLE TEXT:
+Robot at the inaugural CMG World Robot Mount Tai Challenge in Tai'an, East China's Shandong Province Photo: Courtesy of CMG 
+The inaugural CMG World Robot Mount Tai Competition entered the qualifying phase on Monday, with test runs underway ahead of the main event scheduled for November 2 in Tai'an, East China's Shandong Province. 
+The competition has drawn broad attention from across the robotics industry and features four events: a humanoid robot speed race, a legged robot speed race, a legged robot load-carrying race, and an all-terrain scouting challenge.
+The race course follows the hiking route from Hongmen to Zhongtianmen on Mount Tai, stretching 3.8 kilometers and including more than 3,100 stone steps. Known for its steep stairways and sharp turns, the route is designed to test robots' motion control, environmental perception, dynamic balance and overall adaptability.
+Organizers said the event aims to turn Mount Tai's natural terrain into a "natural extreme testing ground," helping robots move closer to real-world applications.
+Renowned for its grueling terrain, Mount Tai is one of China's most iconic peaks. Beyond its cultural and historical significance, it is also known for its long, steep and step-dense climbing routes, which typically take hikers two to three hours to get to the top.
+Among the participants is "Walker Taishan" or "Xingzhe Taishan" in Chinese, a Yobotics E1 humanoid robot developed by Shandong 
+Yobotics Intelligent Robot Co Ltd. It is the first robot in the industry to attempt climbing Mount Tai.
+Standing 1.38 meters tall and weighing 39 kilograms, Walker Taishan combines Chinese cultural symbolism with advanced technological design. Its name reflects both the spirit of determined progress and the steadfastness associated with Mount Tai, embodying a fusion of technology and humanity, the company told the Global Times on Monday.
+The Yobotics E1 features a modular structure that allows it to adapt to stairs, slopes, narrow passages, and rugged or muddy terrain. Equipped with gait-balance algorithms and whole-body coordinated motion control, the robot is designed for high reliability and strong environmental adaptability.
+Industry experts said that bringing robots into a genuine mountain environment reflects the industry's transition from laboratory demonstrations to validation in complex real-world scenarios.
+The event has attracted active participation from companies across the robotics supply chain. Thermal management is one telling example: continuous load-bearing climbs place enormous demands on joint motors and whole-machine heat dissipation. 
+Shanghai-based Wenqing Intelligent Control, a Chinese company specializing in robotic thermal management systems and embodied AI infrastructure, has used air-cooling and liquid-cooling technologies to maintain stable temperatures in its components, improving performance and reliability during prolonged, high-intensity operation.
+As the competition draws near, participating robots are undergoing final-round field testing and optimization at a mountain-climbing training ground at the foot of Mount Tai.
+Built by Shandong CCRC Technology Group, the facility replicates Mount Tai's 3.8-kilometer climbing route and more than 3,100 steps. It includes 11 test tracks designed to assess robots' perception, balance, motion control, gait transitions, and obstacle-crossing abilities in complex environments.
+Engineers said that the training is intended to help robots adapt to a wide range of real-world conditions and enhance their ability to recognize road surfaces and resist slipping, ensuring stable performance in the competition. 
+Although the simulated track is highly challenging, the actual route on Mount Tai is even more demanding. Worn stone steps, uneven step heights, gravel-covered surfaces all place greater strain on the robots' vision system and mobility.
+Wang Debao, senior vice president of Shandong CCRC, told the Global Times on Monday that researchers have built a specialized training site designed to challenge humanoid and quadruped robots with a series of realistic mountain-climbing tasks. The track features a continuous series of climbing steps, along with challenging features such as steps that are difficult for robots to detect, steep and slippery narrow steps, and S-shaped steps.
+The training site is also equipped with ramps alongside the track, rest platforms, and a safety hanging system. These facilities form a complete testing system that comprehensively evaluates key capabilities including environmental perception, dynamic balance, motion control, gait switching, and fault tolerance during obstacle crossing, Wang noted.
+In recent years, rapid advances in AI, motion control, sensor fusion and new materials have helped humanoid and legged robots move beyond demonstrations into practical applications such as inspection, rescue, logistics and tourism. 
+Organizers said that hosting the first CMG World Robot Mount Tai Competition will help Tai'an seize future opportunities and strengthen its competitiveness. The city will also use the event to deepen cooperation among industry, universities and research institutes, while attracting high-quality robotics projects.
+Global Times

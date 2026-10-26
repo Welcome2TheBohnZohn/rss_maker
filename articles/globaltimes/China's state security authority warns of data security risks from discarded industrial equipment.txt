@@ -1,0 +1,29 @@
+TITLE:
+China's state security authority warns of data security risks from discarded industrial equipment
+
+PUBLISHED:
+2026-10-26 09:45:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1372955.shtml
+
+ARTICLE TEXT:
+Photo: China's Ministry of State Security
+China's Ministry of State Security (MSS) warned on its WeChat account on Monday that improperly disposed-of industrial equipment and specialized instruments could pose risks to commercial secrets, critical infrastructure and national security, as sensitive data may remain recoverable even after files are deleted or storage devices are formatted.
+According to the article the MSS posted, some organizations mistakenly believe that deleting files or formatting hard drives is sufficient before selling or disposing of outdated equipment. However, such operations generally remove only file indexes, leaving underlying data potentially recoverable through specialized techniques.
+Conventional file deletion or formatting does not necessarily erase the underlying information, the article noted. Even equipment that appears to have reached the end of its service life may still contain sensitive corporate or industry data.
+The risks vary across sectors, potentially affecting corporate interests, the security of critical industries and national security, according to the article.
+In critical infrastructure sectors such as energy, telecommunications, transportation, chemicals and water management, retired industrial control systems and programmable controllers may contain operational parameters, facility layouts and security configurations. If acquired by overseas organizations, such information could be used to identify system vulnerabilities and security weaknesses, potentially facilitating cyberattacks or physical sabotage, the MSS warned.
+The article also highlighted risks associated with secondhand surveying and monitoring equipment, including GPS receivers and geological exploration instruments. Such devices may retain high-precision coordinates, terrain data and mineral exploration records, potentially including sensitive geographical information related to military-controlled areas, classified facilities and strategic infrastructure projects, the MSS said.
+Foreign intelligence agencies could also seek to acquire discarded industrial equipment and storage media from sensitive sectors through secondhand trading platforms or recycling channels, the article warned. Such equipment could be used to recover sensitive information or reverse-engineer system architectures, control logic and security vulnerabilities. Some buyers may offer unusually high prices while specifically targeting industrial enterprises and research institutions.
+To mitigate these risks, the article called for stricter management of discarded equipment, emphasizing that secure data destruction should take place before devices are sold or transferred.
+For equipment containing critical data, physical degaussing or destruction of storage media should be prioritized to prevent information recovery, according to the article.
+The article also recommended using qualified recycling and disposal providers rather than casually selling industrial equipment through secondhand platforms, while ensuring that the disposal process is properly documented.
+It further urged organizations to exercise caution when approached by buyers offering unusually high prices for discarded equipment, and to verify their identities and qualifications.
+Global Times
