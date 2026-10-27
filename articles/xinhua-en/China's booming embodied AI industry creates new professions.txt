@@ -1,0 +1,36 @@
+TITLE:
+China's booming embodied AI industry creates new professions
+
+PUBLISHED:
+2026-10-27
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261027/086f96f0d44f4f1a97fbe3fd7adc1b31/c.html
+
+ARTICLE TEXT:
+CHONGQING, Oct. 27 (Xinhua) -- New career opportunities are emerging across China's embodied artificial intelligence (AI) industry, from training robotic arms to building virtual training grounds for inspection robots.
+In September, China's Ministry of Human Resources and Social Security and other government departments announced 11 new professions, including embodied AI robot application technicians and digital twin engineers.
+At Sevnce Robotics in Liangjiang New Area of southwest China's Chongqing Municipality, Tang Zixiang works as an embodied AI robot application technician, training robots to perform tasks.
+Tang adjusts the positions and angles of knobs to simulate different working conditions and uses the resulting data to train AI models. He then deploys the trained models on robotic arms for further testing and refinement. Through repeated trials, robots gradually learn tasks in simulation before performing them in real-world settings.
+"Our job is to help robots move from the laboratory to a wide range of real-world applications," Tang said.
+Sevnce Robotics develops specialized robots for the petroleum, chemical and power industries. Its machines can replace or assist human inspectors in hazardous environments.
+In these settings, robots must operate reliably for extended periods. Tang said technicians need to define speed and accuracy requirements, test whether robots can recover from failed operations, and determine when they should stop or require human intervention.
+"Our aim is to turn robots that work in the laboratory into machines that can operate safely and reliably over the long term," he said.
+Digital twin engineering, another newly recognized profession, also helps prepare robots for real-world deployment.
+Jiang Lei, who works in this field, builds virtual environments where inspection robots can rehearse tasks before deployment.
+Using 3D reconstruction, Jiang's team creates digital replicas of factories, enabling virtual robots to rehearse inspection routes and check whether their cameras can capture instrument readings. Once tasks are validated in simulation, they can be transferred to physical robots.
+Traditionally, technicians would take robots to project sites before mapping the surroundings, planning routes and locating inspection points, Jiang said.
+Digital twins, however, allow the work to be rehearsed in simulation beforehand, potentially cutting on-site commissioning time from two or three weeks to two or three days. Simulation also generates data for algorithm testing and training, reducing the time and cost of collecting data in real-world environments.
+As the industry chain becomes more specialized, it is opening career opportunities for people with different educational backgrounds.
+Jiang, who studied vehicle engineering at university, moved from autonomous driving research to robot development, which requires expertise in 3D modeling, programming and simulation.
+Tang, who studied computer science as an undergraduate and postgraduate student and graduated this year, applies reinforcement learning and imitation learning to robot training while continuing to study robot kinematics and motion control.
+The industry's growth is also driving demand for specialists in data collection, model training, system commissioning, operations and maintenance.
+Figures released by China's Ministry of Industry and Information Technology show that the country had over 400 humanoid robot models and produced more than 40,000 units in the first half of 2026.
+Efforts to train the sector's workforce are also gaining momentum. Earlier this month, Beijing City University launched a high-skilled talent training program in embodied AI applications and practice, offering industry workers five days of intensive study that combines classroom instruction with hands-on work with real robots.
+Tang said he hoped robots would complement human workers rather than simply replace them. "I hope robots will take on more dangerous, tedious and repetitive work," Tang said. ■
