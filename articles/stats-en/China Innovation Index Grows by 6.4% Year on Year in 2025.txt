@@ -1,0 +1,138 @@
+TITLE:
+China Innovation Index Grows by 6.4% Year on Year in 2025
+
+PUBLISHED:
+2026-10-24 09:30:00
+
+SOURCE:
+National Bureau Statistics English
+
+CATEGORY:
+Economic
+
+URL:
+https://www.stats.gov.cn/english/PressRelease/202610/t20261026_1965691.html
+
+ARTICLE TEXT:
+China Innovation Index Grows by 6.4% Year on Year in 2025
+According to the calculation of the research group of the Department of Social, Science and Technology, and Cultural Statistics of the National Bureau of Statistics on China Innovation Index, the innovation index of China was 185.5 in 2025 (take 2015 as 100), an increase of 6.4% over the previous year[1]. By field, the innovation environment index, innovation input index, innovation output index and innovation effectiveness index were 199.9, 172.2, 233.0 and 137.0, respectively, increasing by 7.5%, 5.9%, 8.0%, and 2.9% over the previous year. The results indicated that China Innovation Index maintained steady growth in 2025. The innovation environment continued to improve, new drivers of growth gained momentum and strength, and scientific and technological innovation capabilities continued to grow, providing solid support for high-quality economic development.
+I. Innovation Environment Index. In 2025, China’s innovation environment index was 199.9, an increase of 7.5% over the previous year. By sub-index, all five sub-indices in this field achieved growth. Among them, the index of the proportion of enterprises enjoying additional tax deduction and exemption and the index of the proportion of science and engineering graduates in the relevant age cohort maintained relatively rapid growth, increasing by 19.1% and 8.7% respectively over the previous year; the per capita GDP index increased by 5.2% over the previous year; the index of the proportion of fiscal funding allocated to science and technology and the index of the number of people with a college degree or above per 10,000 employed persons increased by 3.4% and 1.9% respectively over the previous year.
+II. Innovation Input Index. In 2025, China’s innovation input index was 172.2, an increase of 5.9% over the previous year. By sub-index, all four sub-indices in this field achieved growth. Among them, the index of the proportion of enterprise R&D funds in business revenue recorded relatively rapid growth, increasing by 9.2% over the previous year; the index of the full-time equivalent of R&D personnel per 10,000 people, the index of the proportion of R&D funds in GDP and the index of per capita funding for basic researchers increased by 6.8%, 4.0%, and 3.5% respectively over the previous year.
+III. Innovation Output Index. In 2025, China’s innovation output index was 233.0, an increase of 8.0% over the previous year. By sub-index, all four sub-indices in this field achieved growth. Among them, the index of the number of high-value invention patents owned per 10,000 R&D personnel increased by 12.1% over the previous year, maintaining a double-digit growth for four consecutive years; the index of the proportion of enterprises with registered trademarks increased by 8.7% over the previous year; the index of the number of scientific and technological papers per 10,000 people and the index of the average contract value for technology market transactions increased by 5.7% and 5.5% respectively over the previous year.
+IV. Innovation Effectiveness Index. In 2025, China’s innovation effectiveness index was 137.0, an increase of 2.9% over the previous year. By sub-index, among the five sub-indices in this field, four increased and one remained flat. Among them, the overall labor productivity index increased by 6.1% over the previous year; the index of the proportion of new product sales revenue in business revenue and the index of the proportion of added value from the “three new”[2] economy in GDP increased by 4.5% and 2.1%, respectively, over the previous year; the index of the proportion of high-tech product export value in goods export value increased by 1.9% over the previous year; the index of the proportion of added value from patent-intensive industries in GDP remained flat over the previous year.
+China Innovation Index and Sub-Indices, 2015-2025
+(take 2015 as 100)
+China Innovation Index
+(take 2015 as 100)
+|  | 2015 | 2022 | 2023 | 2024 | 2025 | 
+| China Innovation Index | 100 | 155.9 | 165.5 | 174.4 | 185.5 | 
+| I. Innovation Environment Index | 100 | 160.6 | 177.3 | 186.0 | 199.9 | 
+| 1. Index of the number of people with a college degree or above per 10,000 employed persons | 100 | 128.2 | 136.7 | 141.5 | 144.1 | 
+| 2. Per capita GDP index | 100 | 145.1 | 153.2 | 160.9 | 169.3 | 
+| 3. Index of the proportion of science and engineering graduates in the relevant age cohort | 100 | 161.7 | 186.0 | 206.1 | 224.2 | 
+| 4. Index of the proportion of fiscal funding allocated to science and technology | 100 | 107.2 | 109.7 | 111.4 | 115.2 | 
+| 5. Index of the proportion of enterprises enjoying additional tax deduction and exemption | 100 | 332.4 | 412.2 | 427.9 | 509.4 | 
+| II. Innovation Input Index | 100 | 146.7 | 154.7 | 162.6 | 172.2 | 
+| 1. Index of the full-time equivalent of R&D personnel per 10,000 people | 100 | 165.6 | 189.0 | 197.8 | 211.3 | 
+| 2. Index of the proportion of R&D funds in GDP | 100 | 123.7 | 127.8 | 133.6 | 138.9 | 
+| 3. Index of per capita funding for basic researchers | 100 | 140.5 | 138.9 | 148.1 | 153.2 | 
+| 4. Index of the proportion of enterprise R&D funds in business revenue | 100 | 161.0 | 170.9 | 179.0 | 195.5 | 
+| III. Innovation Output Index | 100 | 187.5 | 199.7 | 215.8 | 233.0 | 
+| 1. Index of the number of scientific and technological papers per 10,000 people | 100 | 128.3 | 129.8 | 137.3 | 145.2 | 
+| 2. Index of the number of high-value invention patents owned per 10,000 R&D personnel | 100 | 227.7 | 263.3 | 296.2 | 332.2 | 
+| 3. Index of the proportion of enterprises with registered trademarks | 100 | 219.3 | 229.6 | 248.9 | 270.5 | 
+| 4. Index of the average contract value for technology market transactions | 100 | 193.2 | 202.9 | 214.7 | 226.5 | 
+| IV. Innovation Effectiveness Index | 100 | 129.1 | 130.5 | 133.1 | 137.0 | 
+| 1. Index of the proportion of new product sales revenue in business revenue | 100 | 181.0 | 184.6 | 186.9 | 195.3 | 
+| 2. Index of the proportion of high-tech product export value in goods export value | 100 | 92.7 | 86.5 | 85.6 | 87.2 | 
+| 3. Index of the proportion of added value from patent-intensive industries in GDP | 100 | 117.7 | 120.7 | 123.9 | 123.9 | 
+| 4. Index of the proportion of added value from the “three new” economy in GDP | 100 | 118.9 | 121.4 | 124.4 | 127.0 | 
+| 5. Overall labor productivity index | 100 | 152.8 | 161.7 | 169.6 | 179.9 | 
+Note: Based on the final verified data of gross domestic product (GDP), the data from 2022 to 2024 were revised accordingly.
+Notes:
+[1] The results of China Innovation Index have been revised accordingly based on the final verified data of GDP.
+[2] The “three new” economy refers to the collection of economic activities centered on new industries, new business forms, and new business models.
+Annex:
+Brief Explanation of China Innovation Index System and Index Compilation Method
+I. China Innovation Index System
+China Innovation Index system is divided into three levels. The first level is the overall development of innovation in China, which is reflected by the calculation of the total innovation index; the second level reflects the development of innovation in four subfields, including innovation environment, innovation input, innovation output, and innovation effectiveness, reflected by the calculation of their respective sub-indices; the third level is the specific development status of various aspects of innovation capabilities, which is reflected by the 18 sub-indices selected from the above-mentioned four subfields (see the appendix table for the index system). A brief explanation is as follows:
+i. Innovation Environment
+The field primarily reflects the support conditions necessary for driving innovative development, including essential resources such as human and financial resources, as well as the policy guidance and support required for fostering innovation.
+1. Number of people with a college degree or above per 10,000 employed persons
+It refers to the average number of employees possessing a certain level of educational qualifications. This index is used to reflect the comprehensive quality of the labor force in China.
+2. Per capita GDP
+It refers to the per capita gross domestic product (GDP, at constant prices). This is the most representative indicator of a country’s economic strength, which reflects the interdependence and mutual promotion between economic growth and innovation capability development.
+3. Proportion of science and engineering graduates in the relevant age cohort
+This index reflects the status of potential human resources for innovation in China. Science and engineering graduates refer to the number of graduates of science, engineering, agriculture and medicine at or above the undergraduate level, and the relevant age cohort refers to the population aged 20 to 34 in China.
+4. Proportion of fiscal funding allocated to science and technology
+The government’s fiscal funding allocated to science and technology plays a leading and guiding role in the innovation input and innovation activities of the whole society. This index reflects the government’s direct input in innovation as well as the planning and guidance for key, important and frontier fields.
+5. Proportion of enterprises enjoying additional tax deduction and exemption
+The policy allowing additional pre-tax deductions for R&D expenses is one of the most direct and effective measures to encourage enterprises to increase their input in research and development. This index reflects the implementation of relevant government policies and, to some extent, the environment for enterprise innovation. The data coverage of this indicator is limited to industrial enterprises above the designated size.
+ii. Innovation Input
+This field mainly reflects the scale and intensity of human and financial resource input for innovation, and input in crucial areas. R&D is the most important link in realizing innovation, and the R&D input indicators reflect the innovation input.
+1. Full-time equivalent of R&D personnel per 10,000 people
+It refers to the average full-time equivalent of R&D personnel calculated based on the total resident population. This index reflects the input scale and intensity of human resources for independent innovation. R&D personnel includes R&D personnel of enterprises, scientific research institutions, and higher education institutions, representing the combined R&D human resource input from various innovation entities across society. The full-time equivalent of R&D personnel refers to the number of R&D personnel converted into full-time equivalents based on their actual workload.
+2. Proportion of R&D funds in GDP
+This index, also known as R&D input intensity, is the core index that is commonly used worldwide and reflects the level of national or regional scientific and technological input, and is also an important index in China’s relevant scientific and technological innovation planning.
+3. Per capita funding for basic researchers
+It refers to the average expenditure on basic research per full-time equivalent of basic research personnel. Basic research is the foundation of scientific and technological development, and it represents a country’s original innovation capability to a certain extent. The index system uses this index to reflect the national efforts to strengthen the original innovation capability.
+4. Proportion of enterprise R&D funds in business revenue
+Enterprises are the main entities of innovation activities, while industrial enterprises play a leading role in enterprise innovation activities. This index reflects the input intensity of the main entities of innovation activities. The data coverage of this indicator is limited to industrial enterprises above the designated size.
+iii. Innovation Output
+This field reflects the intermediate innovation output through papers, patents, trademarks, and technology markets.
+1. Number of scientific and technological papers per 10,000 people
+Scientific and technological papers refer to the academic papers produced by scientific and technological projects initiated by enterprises and institutions and published in officially registered journals. Scientific and technological papers are one of the important forms of achievements produced in the process of innovation activities. This index reflects the output level and efficiency of R&D activities.
+2. Number of high-value invention patents owned per 10,000 R&D personnel
+It refers to the number of high-value and valid invention patents, averaged over R&D personnel. Patents are another important form of intermediate output of innovation activities. High-value invention patents refer to those that are in line with the development direction of national key industries, and those with high quality or high value. The specific scope of high-value patents is defined by the China National Intellectual Property Administration, reflecting a transformation toward high-quality patent development. This index, as part of the monitoring of the relevant planning, is an important measure of the output and efficiency of R&D activities.
+3. Proportion of enterprises with registered trademarks
+An enterprise with a registered trademark refers to an enterprise that is the primary registrant of a trademark that has been approved and registered by domestic or international trademark authorities and is currently valid. This index reflects the enterprise’s ownership of its own brand to some extent. The data coverage of this indicator is limited to industrial enterprises above the designated size.
+4. Average contract value for technology market transactions
+It refers to the average transaction amount in the technology market, calculated by the number of contract projects in the technology market. This index reflects the quality and efficiency of technology transfer and commercialization of scientific and technological achievements. The transaction amount in the technology market refers to the total amount of the contract projects in the national technology market.
+iv. Innovation Effectiveness
+The field reflects the impact of innovation on socio-economic development through aspects such as economic growth, economic transformation, adjustments in product structure, and international competitiveness in science and technology across industries.
+1. Proportion of new product sales revenue in business revenue
+Sales revenue of new products is an indicator of enterprises’ innovation outcomes, reflecting their success in bringing new products to market. It reflects the impact of innovation on the adjustment of product structure. The data coverage of this indicator is limited to industrial enterprises above the designated size.
+2. Proportion of high-tech product export value in goods export value
+There is an interactive relationship between the high-tech industry and innovation. This index reflects the impact of innovation on the international competitiveness of the industry through the changes in high-tech product export.
+3. Proportion of added value from patent-intensive industries in GDP
+Patent-intensive industries reflect the close integration of intellectual property rights, scientific and technological innovation, and the industrial economy. They are a strong support and important development direction for high-quality development. The proportion of their added value in GDP demonstrates the contribution of innovation to economic development in guiding the industrial restructuring and upgrading.
+4. Proportion of added value from the “three new” economy in GDP
+“Three new” economy plays a crucial role in promoting high-quality development. Its added value in GDP demonstrates the contribution of innovation to economic development from the perspective of economic transition and development and economic vitality enhancement driven by the emerging economy.
+5. Overall labor productivity
+It refers to the ratio of gross domestic product (GDP, at constant prices) to employed persons in a certain period of time. Innovation is an important factor affecting labor productivity, and improving labor productivity is one of the purposes of innovation. This index reflects the role of innovation in promoting economic development.
+II. Evaluation Method of China Innovation Index
+i. Select the Base Year
+On the basis of a comprehensive assessment of the availability, consistency, and continuity of indicators, 2015 is selected as the base year.
+ii. Determine the Index Weight
+The “level-by-level equal weight method” is adopted to distribute the weights, whereby the weight of each subfield is set at 1/4; within a certain subfield, the weight of each index is calculated as 1/n of the total weight for that field (where n represents the number of indices within that field); the final weight for each index is determined as 1/4n. See the appendix table for the weight of each index.
+iii. Calculate the Index Growth Rate
+When calculating the development speed with a fixed base, the conventional approach is to calculate the growth rate of each index and take a weighted average. This index continues to adopt the method used in the original index, whereby the average value of an indicator over two years is used as the reference value for calculating its growth rate. The range of growth rate of each index is controlled within the range of [-200, 200] to enhance the stability of data and reduce the distortion of the whole index system due to excessive fluctuation of values of certain indices. The calculation formula is as follows:
+, where i is the serial number of indices, t is the year, and t>=2016.
+iv. Compose Indices of Subfields and the Total Index
+1. Calculate the weighted growth rate of the indices in each field:
+, where i is the serial number of indices, t is the year,Wi is the weight of each index within its respective field, Vit is the calculated growth rate of each index, k is the number of indices within this field, and t>=2016.
+2. Calculate sub-indices of cumulative development in each field with a fixed base:
+, where t is the year, t>=2015, and E2015=100.
+3. Calculate the total index of the cumulative development with a fixed base:
+, where t is the year and is the weight of each field in the total index.
+Appendix Table: China Innovation Index System
+| Item | Indicators | Unit | Weight※ | 
+| Innovation Environment (1/4) | 1.1 Number of people with a college degree or above per 10,000 employed persons | persons / 10,000 persons | 1/5 | 
+|  | 1.2. Per capita GDP | yuan / person | 1/5 | 
+|  | 1.3 Proportion of science and engineering graduates in the relevant age cohort | % | 1/5 | 
+|  | 1.4 Proportion of fiscal funding allocated to science and technology | % | 1/5 | 
+|  | 1.5 Proportion of enterprises enjoying additional tax deduction and exemption | % | 1/5 | 
+| Innovation Input (1/4) | 2.1 Full-time equivalent of R&D personnel per 10,000 people | person-years / 10,000 persons | 1/4 | 
+|  | 2.2 Proportion of R&D funds in GDP | % | 1/4 | 
+|  | 2.3 Per Capita funding for basic researchers | 10,000 yuan / person-years | 1/4 | 
+|  | 2.4. Proportion of enterprise R&D funds in business revenue | % | 1/4 | 
+| Innovation Output (1/4) | 3.1 Number of scientific and technological papers per 10,000 people | Papers / 10,000 persons | 1/4 | 
+|  | 3.2. Number of high-value invention patents owned per 10,000 R&D personnel | patents / 10,000 persons | 1/4 | 
+|  | 3.3 Proportion of enterprises with registered trademarks | % | 1/4 | 
+|  | 3.4 Average contract value for technology market transactions | 10,000 yuan / contract | 1/4 | 
+| Innovation Effectiveness (1/4) | 4.1 Proportion of new product sales revenue in business revenue | % | 1/5 | 
+|  | 4.2 Proportion of high-tech product export value in goods export value | % | 1/5 | 
+|  | 4.3 Proportion of added value from patent-intensive industries in GDP | % | 1/5 | 
+|  | 4.4 Proportion of added value from the “three new” economy in GDP | % | 1/5 | 
+|  | 4.5 Overall labor productivity | yuan / person | 1/5 | 
+| ※Note: The weight of each subfield is 1/4, and the weight of an index within the specific subfield is 1/n (where n is the number of indices in that subfield). |  |  |  |

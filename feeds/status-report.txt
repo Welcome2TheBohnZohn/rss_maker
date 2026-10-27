@@ -229,12 +229,12 @@ SOURCE: People Military
 URL: http://military.people.com.cn/
 STATUS: WORKING
 CANDIDATE LINKS FOUND: 30
-ARTICLES ATTEMPTED: 10
+ARTICLES ATTEMPTED: 12
 ARTICLES WITH TEXT: 10
 ARTICLES WITH PUB DATE: 10
 ARTICLES WITH PUB TIME: 0
 ARTICLES WITH EXPLICIT TIMEZONE: 0
-ARTICLES SKIPPED/FAILED: 0
+ARTICLES SKIPPED/FAILED: 2
 RSS FEED: feeds/people-military.xml
 
 ----------------------------------------------------------------------
@@ -269,16 +269,15 @@ RSS FEED: feeds/qiushi-cn.xml
 
 SOURCE: Xinhua English
 URL: https://english.news.cn/
-STATUS: SOURCE FAILED
-CANDIDATE LINKS FOUND: 0
-ARTICLES ATTEMPTED: 0
-ARTICLES WITH TEXT: 0
-ARTICLES WITH PUB DATE: 0
+STATUS: WORKING
+CANDIDATE LINKS FOUND: 30
+ARTICLES ATTEMPTED: 10
+ARTICLES WITH TEXT: 10
+ARTICLES WITH PUB DATE: 10
 ARTICLES WITH PUB TIME: 0
 ARTICLES WITH EXPLICIT TIMEZONE: 0
 ARTICLES SKIPPED/FAILED: 0
 RSS FEED: feeds/xinhua-en.xml
-ERROR: HTTPSConnectionPool(host='english.news.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1032)')))
 
 ----------------------------------------------------------------------
 
@@ -342,12 +341,12 @@ SOURCE: CCTV Chinese
 URL: https://www.cctv.com/
 STATUS: WORKING
 CANDIDATE LINKS FOUND: 30
-ARTICLES ATTEMPTED: 15
+ARTICLES ATTEMPTED: 16
 ARTICLES WITH TEXT: 10
 ARTICLES WITH PUB DATE: 10
-ARTICLES WITH PUB TIME: 4
+ARTICLES WITH PUB TIME: 0
 ARTICLES WITH EXPLICIT TIMEZONE: 0
-ARTICLES SKIPPED/FAILED: 5
+ARTICLES SKIPPED/FAILED: 6
 RSS FEED: feeds/cctv-cn.xml
 
 ----------------------------------------------------------------------
