@@ -1,0 +1,27 @@
+TITLE:
+GT Voice: China's AI stock pullback isn't a signal of a 'bubble bursting'
+
+PUBLISHED:
+2026-10-27 22:14:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1373086.shtml
+
+ARTICLE TEXT:
+AI Photo: VCG
+The recent lackluster performance of China's STAR 50 Index, which tracks the 50 largest stocks on the sci-tech innovation board, has drawn attention, with some Western media outlets seizing on the pullback to draw misleading conclusions about the country's artificial intelligence (AI) development.
+Reuters on Monday published an article headlined "In China, the AI bubble has already burst," interpreting the drop in the AI-heavy STAR 50 Index and the contraction in the market capitalization of AI-related listed companies as the bursting of bubbles.
+Short-term stock price fluctuations reflect shifts in capital preferences, market expectations and valuations, and they do not necessarily signal a reversal in an industry's fundamentals. To equate an index decline with a "bursting bubble," and to treat capital market movements as a denial of China's AI industry prospects, is logically untenable and gives a misleading picture of China's technological development.
+Capital markets naturally experience cycles of rising and falling expectations and valuation corrections, and volatility in sci-tech innovation sectors is particularly fierce. This is a common phenomenon in global financial markets. The sharp pullback in AI and semiconductor-related stocks this round is essentially a correction of the overheated valuations of some targets in the earlier period, and a rational cooling of capital from excessive expectations, rather than a shake-up of the industrial foundation.
+Figures are more than enough to break the one-sided narrative of the "bubble theory." According to Minister of Industry and Information Technology Li Lecheng, China's core AI industry was valued at more than 1.2 trillion yuan ($173.9 billion) in 2025, as the technology is emerging as a powerful driver for high-quality economic development. AI is increasingly being deployed across factories and daily life in China. As of the end of 2025, more than 30 percent of manufacturing enterprises with annual main business turnover of at least 20 million yuan had adopted AI technologies, while Chinese companies had released more than 300 humanoid robot products.
+Data released at a State Council Information Office press conference shows that as of the end of June 2026, China's intelligent computing capacity reached 2,185 EFLOPS (Exa Floating-point Operations Per Second), a year-on-year surge of 177 percent, and the overall utilization rate of computing facilities nationwide stood at 71.4 percent.
+Even more symbolic is that Chinese AI large-language models recorded usage of 93.54 trillion tokens for the week ending October 25, marking 26 consecutive weeks of global leadership, according to data from OpenRouter. This figure shows that the vitality of China's domestic AI application ecosystem has entered the global first tier. These indicators certainly cannot replace profitability, nor can they guarantee that every enterprise will succeed, but they at least show that China's AI sector has a continuously expanding base, a growing number of market players and large-scale computing power support. Given such extensive industrial activity, it is obviously biased to claim that the entire industry is a "bubble that has burst" based solely on a phase of stock price adjustment.
+Judging the real prospects of a high-tech industry comes down to technological capability, commercial application and economic returns. Whether technology continues to advance and can operate reliably in complex scenarios, and whether applications are moving toward large-scale adoption and can help improve efficiency in manufacturing, healthcare, transportation, education and other sectors - these are the far more meaningful criteria. This process cannot be achieved overnight, nor will it change direction because of a few stock price swings.
+When evaluating China's science and technology industries, Western media outlets tend to swing between two extremes. When growth is rapid, it portrays China as an "unstoppable threat" and when the market adjusts, it rushes to declare "the bursting of bubbles." These two seemingly opposite narratives actually share the same problem: they are unwilling to understand China's development with a long-term and professional vision. China's AI sector should neither be overestimated nor underestimated. What it needs is continuous innovation, effective competition, and patient capital, rather than being led by short-term noise.
+In the end, the long-term value of China's AI development will stand the test of time through sustained technological progress, widespread commercial adoption and solid real economic returns. Separating short-term market sentiment from long-term industrial trends is far closer to the facts and carries far more analytical value than simply slapping on a "burst bubble" label.
