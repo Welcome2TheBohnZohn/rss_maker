@@ -1,0 +1,35 @@
+TITLE:
+Shanghai indices begin updated rules
+
+PUBLISHED:
+2026-10-27
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202610/27/WS6adfed5ee4b06d4aa0564e63.html
+
+ARTICLE TEXT:
+Shanghai indices begin updated rules
+Expert: 15% cap can keep a behemoth from 'kidnapping' overall market
+The latest compilation adjustments to the major indices on the Shanghai Stock Exchange, which took effect on Monday, will help further cushion market volatility and lower risks, which is of great importance at a time of global downward pressure, said experts.
+Two major changes have been implemented, according to the latest revision details announced in late September.
+First, a constituent's weight is now capped at 15 percent. Second, the timing for removing risk-warning counters from the indices has been moved earlier. Previously, a stock was taken from the index on the first trading day after the second Friday of the month following the date the risk warning took effect. Now it is dropped on the first trading day after the second Friday of the month following the date the risk warning was issued.
+Tian Lihui, a finance professor at Nankai University, compares the two practices to a "flow-control valve" and "filter" for the indices. The 15-percent cap can prevent one behemoth company from "kidnapping" the overall market performance due to its huge size. Bringing the removal date forward ushers disqualified counters out of the sample pool more efficiently.
+"Amid higher downward pressure, the market is more sensitive to any factors that might aggravate fluctuations. The latest adjustments can cleanse the index ecosystem at the algorithmic level, ensuring the indices objectively and fairly reflect overall quality even in a weak market," Tian said.
+Four major indices — including the SSE Composite Index and the STAR Composite Index — are subject to the 15-percent cap limit.
+Guo Shiliang, an independent financial commentator, said the new rule is mainly an adjustment to the compilation rules of the SSE series of indices rather than a cap applied uniformly on all A-share market indices.
+Given that the SSE Composite Index's weight composition is relatively balanced and the weight of any single heavyweight stock is far below the 15-percent cap, the impact on the SSE Composite Index's constituent shares is fairly limited, and the room for subsequent constituent weight adjustments will be relatively small. By contrast, the impact on weight adjustments for the tech-focused STAR Composite Index's constituent stocks will be larger.
+"Take memory chipmaker ChangXin Memory Technologies as an example. Prior to the new rule, the company's market-cap weight would have exceeded 20 percent once formally added to the STAR Composite Index, well above the 15-percent cap. The new rule will effectively reduce the index's overreliance on any single stock," Guo said.
+As for the adjustment to risk-warning stocks, Yang Delong, chief economist at First Seafront Fund, said that the liquidity of these companies may deteriorate in a weak market.
+Bringing the removal date forward helps shorten the time that passive products are stuck holding problem stocks and reduces the impact costs of concentrated rebalancing, thereby protecting the interests of investors holding funds that track the index, Yang said.
+This move represents another major adjustment in SSE indices since July 2020, when special treatment stocks — those with abnormal financial or operational situations — were removed from the sample pool and the inclusion of new stocks was delayed.
+Analysts from Guosen Securities said that the indices' long-term representation and investability are likely to steadily improve after the latest changes.
+Wu Xinkun, chief strategist at Guosen Securities, admitted there is short-term downward pressure on the A-share market, which is a combined result of external and internal factors.
+Rising oil prices amid geopolitical tensions in the Middle East — as well as the high inflation and interest rates in the United States — have suppressed the pricing of risky assets globally. In the domestic market, investor sentiment for the tech sector has not bottomed out while the market is still awaiting more capital inflows. The market fluctuation is thus magnified, Wu said.
+But the outlook on the A-share market's mid- to long-term performance is by no means pessimistic. Companies' profitability is improving, and more long-term capital will be ushered into A shares, providing support for a rebound likely to take place this quarter, he added.
+shijing@chinadaily.com.cn

@@ -1,0 +1,30 @@
+TITLE:
+China harnesses smart technologies to power transport upgrade
+
+PUBLISHED:
+2026-10-27 08:00:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1373029.shtml
+
+ARTICLE TEXT:
+A drone photo taken on June 19, 2025 shows smart transport robots at a container terminal of Tianjin Port in north China's Tianjin. (Xinhua/Zhao Zishuo)
+To drivers crossing the Guandu Yellow River Bridge in central China's Henan Province, it is just routine on a busy highway, but a sophisticated and invisible network of smart digital technologies is hard at work above and below the asphalt.
+This system was built to meet a very practical challenge. Opened in October 2019, the eight-lane bridge had long faced heavy pressure in terms of maintenance and safety management. To address blind spots, slow response and low efficiency in traditional upkeep, a full-process smart operations model was introduced to manage the bridge.
+In March 2025, the bridge operator set up a dedicated drone inspection unit equipped with two types of drones. Multi-rotor drones handle detailed checks of bridge surfaces, hazard verification and 3D modeling, while fixed-wing drones cover a 35-kilometer radius in a single flight for long-distance highway patrols.
+Working alongside road administration teams and manual maintenance crews, the drones form an "air patrol plus ground watch" system intended to provide all-weather, area-wide coverage.
+The bridge's intelligence capabilities extend beyond aerial patrols. A full-factor digital twin replicates the deck, guardrails, piers and ancillary facilities in a virtual environment. Radar-vision devices help the system detect illegal parking, intrusions and facility abnormalities even at night or in fog. When a risk is identified, alerts are linked to the 3D model and pinpointed to specific locations, replacing the older practice of estimating positions by mile markers.
+The upgrade is part of a wider push in central China's Henan, which has developed rapid road-condition detection equipment and a smart maintenance platform.
+Shan Fei, general manager of Henan Transportation Development Research Institute Co., Ltd., said the province has completed digital data collection and 3D modeling for 31,000 kilometers of trunk highways, using positioning from China's BeiDou Navigation Satellite System (BDS) and laser point cloud mapping. The resulting database covers 127 types of assets, including roadbeds, pavements, bridges, tunnels and traffic safety facilities, which he described as China's largest provincial-level digital foundation for highway assets.
+"From a single milestone or bollard to a kilometer-long bridge or tunnel, every element is now under digital management," Shan said.
+The Guandu bridge is a microcosm of China's broader push to fuse AI with transportation. According to Liu Wei, China's minister of transport, more than 7,800 kilometers of expressways have undergone digital and intelligent upgrades, 60 automated terminals have been built, and about 27 million pieces of equipment across the sector are now using the BDS.
+According to the Ministry of Transport, in 2025, 696 long-span bridges crossing rivers, seas and gorges were included in a three-level monitoring network linking national, provincial and individual bridge systems, with basic bridge data and monitoring and alert information shared instantly.
+Policy support is also expanding. In September 2025, seven government departments, including the Ministry of Transport, issued guidelines on applying AI to transportation, setting out a timetable and roadmap for the sector.
+In 2026, authorities launched an action plan to create typical application scenarios in areas such as intelligent driving, smart highways, intelligent supervision and smart shipping, aiming to roll out over 100 pilot projects and bring together more than 1,000 innovators.
+"AI plus transportation has become the new central thread in boosting China's strength in transport," said Wang Yunpeng, chairman of the China Intelligent Transportation Systems Association, noting that a modern, comprehensive, multi-modal transport network is taking shape and accelerating toward digitalization, intelligence, integration and green development.
