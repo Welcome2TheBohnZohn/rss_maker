@@ -2,7 +2,7 @@ TITLE:
 Profits of Industrial Enterprises above the Designated Size from January t...
 
 PUBLISHED:
-2026-09-29 09:30:00
+2026-10-28 09:30:00
 
 SOURCE:
 National Bureau Statistics English
@@ -11,90 +11,88 @@ CATEGORY:
 Economic
 
 URL:
-https://www.stats.gov.cn/english/PressRelease/202609/t20260929_1965447.html
+https://www.stats.gov.cn/english/PressRelease/202610/t20261028_1965704.html
 
 ARTICLE TEXT:
-Profits of Industrial Enterprises above the Designated Size from January to August in 2026
-From January to August, the total profits of industrial enterprises above the designated size nationwide reached 5,271.98 billion yuan, a year-on-year increase of 15.7% (calculated on a comparable basis; see Annotation II for details).
-From January to August, among industrial enterprises above the designated size, state-holding enterprises realized a total profit of 1,675.99 billion yuan, a year-on-year increase of 10.3%; share-holding enterprises realized a total profit of 4,071.46 billion yuan, an increase of 20.4%; enterprises funded by foreign investors and investors from Hong Kong, Macao and Taiwan realized a total profit of 1,179.47 billion yuan, an increase of 2.3%; private enterprises realized a total profit of 1,321.32 billion yuan, an increase of 10.4%.
-From January to August, the mining industry realized a total profit of 766.15 billion yuan, a year-on-year increase of 35.1%; the manufacturing industry realized a total profit of 3,969.53 billion yuan, an increase of 17.4%; the production and supply of electricity, heat power, gas and water realized a total profit of 536.30 billion yuan, a decrease of 12.0%.
-From January to August, the profits of main industries were as follows: the profit of the manufacture of computers, communication equipment and other electronic equipment increased by 110% year on year, that of the smelting and pressing of non-ferrous metals increased by 82.9%, that of the mining and washing of coal increased by 51.6%, that of the manufacture of raw chemical materials and chemical products increased by 51.0%, that of the extraction of petroleum and natural gas increased by 17.0%, that of the textile industry increased by 11.9%, that of the manufacture of general-purpose machinery increased by 2.5%, that of the manufacture of special-purpose machinery decreased by 2.1%, that of the manufacture of electrical machinery and apparatus decreased by 5.2%, that of the production and supply of electricity and heat power decreased by 15.1%, that of the manufacture of automobiles decreased by 16.0%, that of the processing of food from agricultural and sideline products decreased by 17.4%, that of the manufacture of non-metallic mineral products decreased by 46.7%, that of the smelting and pressing of ferrous metals decreased by 62.4%, and the processing of petroleum, coal and other fuels turned from loss to profit.
-From January to August, industrial enterprises above the designated size achieved a business revenue of 93.09 trillion yuan, a year-on-year increase of 6.6%; the operating costs incurred were 79.19 trillion yuan, an increase of 6.1%; the profit rate of business revenue was 5.66%, a year-on-year increase of 0.44 percentage points.
-At the end of August, the assets of industrial enterprises above the designated size totaled 197.33 trillion yuan, a year-on-year increase of 6.4%; the liabilities totaled 115.44 trillion yuan, an increase of 7.0%; the owners’ equity totaled 81.89 trillion yuan, an increase of 5.7%; the asset-liability ratio was 58.5%, a year-on-year increase of 0.3 percentage points.
-At the end of August, the accounts receivable of industrial enterprises above the designated size totaled 29.48 trillion yuan, a year-on-year increase of 9.0%; the inventory of finished goods was 7.36 trillion yuan, an increase of 11.0%.
-From January to August, the costs for per-hundred-yuan business revenue of industrial enterprises above the designated size were 85.07 yuan, a year-on-year decrease of 0.41 yuan; the expenses for per-hundred-yuan business revenue were 8.35 yuan, a year-on-year decrease of 0.14 yuan.
-At the end of August, the business revenue brought by per-hundred-yuan assets of industrial enterprises above the designated size was 72.4 yuan, a year-on-year increase of 0.4 yuan; the per capita business revenue was 1.922 million yuan, a year-on-year increase of 125 thousand yuan; the turnover days of finished goods inventory were 21.3 days, a year-on-year increase of 0.6 days; the average collection period for accounts receivable was 72.2 days, a year-on-year increase of 0.9 days.
-In August, the profits of industrial enterprises above the designated size increased by 4.2% year on year.
-Table 1 Key Financial Indicators of Industrial Enterprises above the Designated Size from January to August in 2026
+Profits of Industrial Enterprises above the Designated Size from January to September in 2026
+From January to September, the total profits of industrial enterprises above the designated size nationwide reached 6,033.74 billion yuan, a year-on-year increase of 15.5% (calculated on a comparable basis; see Annotation II for details).
+From January to September, among industrial enterprises above the designated size, state-holding enterprises realized a total profit of 1,939.55 billion yuan, a year-on-year increase of 13.1%; share-holding enterprises realized a total profit of 4,672.76 billion yuan, an increase of 20.8%; enterprises funded by foreign investors and investors from Hong Kong, Macao and Taiwan realized a total profit of 1,337.14 billion yuan, an increase of 0.5%; private enterprises realized a total profit of 1,509.13 billion yuan, an increase of 8.7%.
+From January to September, the mining industry realized a total profit of 881.37 billion yuan, a year-on-year increase of 38.2%; the manufacturing industry realized a total profit of 4,573.80 billion yuan, an increase of 17.0%; the production and supply of electricity, heat power, gas and water realized a total profit of 578.56 billion yuan, a decrease of 14.3%.
+From January to September, the profits of main industries were as follows: the profit of the manufacture of computers, communication equipment and other electronic equipment increased by 103.8% year on year, that of the smelting and pressing of non-ferrous metals increased by 79.7%, that of the mining and washing of coal increased by 57.0%, that of the manufacture of raw chemical materials and chemical products increased by 49.2%, that of the extraction of petroleum and natural gas increased by 21.3%, that of the textile industry increased by 7.2%, that of the manufacture of general-purpose machinery increased by 1.9%, that of the manufacture of special-purpose machinery decreased by 1.3%, that of the manufacture of electrical machinery and apparatus decreased by 5.9%, that of the processing of food from agricultural and sideline products decreased by 17.3%, that of the production and supply of electricity and heat power decreased by 17.9%, that of the manufacture of automobiles decreased by 22.8%, that of the manufacture of non-metallic mineral products decreased by 46.9%, that of the smelting and pressing of ferrous metals decreased by 73.3%, and the processing of petroleum, coal and other fuels turned from loss to profit.
+From January to September, industrial enterprises above the designated size achieved a business revenue of 106.21 trillion yuan, a year-on-year increase of 6.6%; the operating costs incurred were 90.30 trillion yuan, an increase of 6.1%; the profit rate of business revenue was 5.68%, a year-on-year increase of 0.44 percentage points.
+At the end of September, the assets of industrial enterprises above the designated size totaled 199.10 trillion yuan, a year-on-year increase of 6.7%; the liabilities totaled 116.61 trillion yuan, an increase of 7.4%; the owners’ equity totaled 82.49 trillion yuan, an increase of 5.6%; the asset-liability ratio was 58.6%, a year-on-year increase of 0.4 percentage points.
+At the end of September, the accounts receivable of industrial enterprises above the designated size totaled 29.77 trillion yuan, a year-on-year increase of 10.0%; the inventory of finished goods was 7.37 trillion yuan, an increase of 11.6%.
+From January to September, the costs for per-hundred-yuan business revenue of industrial enterprises above the designated size were 85.02 yuan, a year-on-year decrease of 0.45 yuan; the expenses for per-hundred-yuan business revenue were 8.35 yuan, a year-on-year decrease of 0.13 yuan.
+At the end of September, the business revenue brought by per-hundred-yuan assets of industrial enterprises above the designated size was 73.1 yuan, a year-on-year increase of 0.4 yuan; the per capita business revenue was 1.946 million yuan, a year-on-year increase of 127 thousand yuan; the turnover days of finished goods inventory were 21.0 days, a year-on-year increase of 0.6 days; the average collection period for accounts receivable was 71.6 days, a year-on-year increase of 1.3 days.
+In September, the profits of industrial enterprises above the designated size increased by 14.4% year on year.
+Table 1 Key Financial Indicators of Industrial Enterprises above the Designated Size from January to September in 2026
 | Category | Business Revenue |  | Operating Costs |  | Total Profits |  | 
-|  | Amount (100 million yuan) | Growth Rate Y/Y (%) | Amount (100 million yuan) | Growth Rate Y/Y (%) | Amount (100 million yuan) | Growth Rate Y/Y (%) | 
-| Total | 930851.2 | 6.6 | 791893.6 | 6.1 | 52719.8 | 15.7 | 
-| Of which: Mining | 36384.9 | 8.6 | 23537.3 | 2.1 | 7661.5 | 35.1 | 
-| Manufacturing | 809220.6 | 7.2 | 691755.6 | 6.7 | 39695.3 | 17.4 | 
-| Production and supply of electricity, heat power, gas and water | 85245.6 | 0.9 | 76600.7 | 2.1 | 5363.0 | -12.0 | 
-| Of which: State-holding enterprises | 257293.3 | 5.1 | 215973.0 | 4.7 | 16759.9 | 10.3 | 
-| Of which: Share-holding enterprises | 756594.3 | 7.4 | 645734.9 | 6.7 | 40714.6 | 20.4 | 
-| Enterprises funded by foreign investors and investors from Hong Kong, Macao and Taiwan | 170416.6 | 3.7 | 142918.9 | 3.7 | 11794.7 | 2.3 | 
-| Of which: Private enterprises | 323148.3 | 5.1 | 278472.2 | 4.9 | 13213.2 | 10.4 | 
+|  | Amount (100 million yuan) | Growth Rate Y/Y(%) | Amount (100 million yuan) | Growth Rate Y/Y(%) | Amount (100 million yuan) | Growth Rate Y/Y(%) | 
+| Total | 1062066.0 | 6.6 | 902965.5 | 6.1 | 60337.4 | 15.5 | 
+| Of which: Mining | 41602.0 | 9.6 | 26753.9 | 2.2 | 8813.7 | 38.2 | 
+| Manufacturing | 924564.6 | 7.1 | 789866.1 | 6.6 | 45738.0 | 17.0 | 
+| Production and supply of electricity, heat power, gas and water | 95899.4 | 0.9 | 86345.5 | 2.3 | 5785.6 | -14.3 | 
+| Of which: State-holding enterprises | 293126.8 | 5.4 | 245849.8 | 4.9 | 19395.5 | 13.1 | 
+| Of which: Share-holding enterprises | 862833.7 | 7.4 | 735974.5 | 6.7 | 46727.6 | 20.8 | 
+| Enterprises funded by foreign investors and investors from Hong Kong, Macao and Taiwan | 194933.0 | 3.8 | 163371.4 | 3.8 | 13371.4 | 0.5 | 
+| Of which: Private enterprises | 366446.8 | 4.7 | 315452.2 | 4.4 | 15091.3 | 8.7 | 
 | Notes: 1. Due to overlap between ownership categories, the sum of sub-items is greater than the total. 2. Due to rounding and without mechanical adjustment, the sub-items may not add up to the total. |  |  |  |  |  |  | 
-Table 2 Performance Indicators of Industrial Enterprises above the Designated Size from January to August in 2026
+Table 2 Performance Indicators of Industrial Enterprises above the Designated Size from January to September in 2026
 | Category | Profit Rate of Business Revenue | Costs for per-hundred-yuan Business Revenue | Expenses for per-hundred-yuan Business Revenue | Business Revenue Brought by per-hundred-yuan Assets | Per Capita Business Revenue | Asset-Liability Ratio | Turnover Days of Finished Goods Inventory | Average Collection Period for Accounts Receivable | 
-|  | Jan-Aug | Jan-Aug | Jan-Aug | By the end of August | By the end of August | By the end of August | By the end of August | By the end of August | 
-|  | (%) | (yuan) | (yuan) | (yuan) | (10 thousand yuan/person) | (%) | (days) | (days) | 
-| Total | 5.66 | 85.07 | 8.35 | 72.4 | 192.2 | 58.5 | 21.3 | 72.2 | 
-| Of which: Mining | 21.06 | 64.69 | 9.43 | 36.6 | 143.2 | 56.9 | 15.5 | 54.3 | 
-| Manufacturing | 4.91 | 85.48 | 8.65 | 84.9 | 185.3 | 58.2 | 23.7 | 74.1 | 
-| Production and supply of electricity, heat power, gas and water | 6.29 | 89.86 | 5.00 | 36.5 | 385.4 | 60.4 | 1.2 | 62.5 | 
-| Of which: State-holding enterprises | 6.51 | 83.94 | 5.87 | 53.9 | 328.8 | 57.9 | 12.7 | 56.2 | 
-| Of which: Share-holding enterprises | 5.38 | 85.35 | 8.12 | 71.1 | 191.6 | 59.6 | 21.5 | 70.1 | 
-| Enterprises funded by foreign investors and investors from Hong Kong, Macao and Taiwan | 6.92 | 83.86 | 9.37 | 78.8 | 198.7 | 53.2 | 20.2 | 82.0 | 
-| Of which: Private enterprises | 4.09 | 86.17 | 9.81 | 90.5 | 140.1 | 59.9 | 26.8 | 76.1 | 
-Table 3 Key Financial Indicators of Industrial Enterprises above the Designated Size from January to August in 2026 (By Industry)
+|  | Jan-Sep (%) | Jan-Sep (yuan) | Jan-Sep (yuan) | By the end of September (yuan) | By the end of September (10 thousand yuan/person) | By the end of September (%) | By the end of September (days) | By the end of September (days) | 
+| Total | 5.68 | 85.02 | 8.35 | 73.1 | 194.6 | 58.6 | 21.0 | 71.6 | 
+| Of which: Mining | 21.19 | 64.31 | 9.53 | 37.0 | 145.7 | 56.9 | 15.6 | 53.7 | 
+| Manufacturing | 4.95 | 85.43 | 8.64 | 85.8 | 187.8 | 58.3 | 23.4 | 73.5 | 
+| Production and supply of electricity, heat power, gas and water | 6.03 | 90.04 | 5.08 | 36.5 | 384.6 | 60.5 | 1.2 | 60.8 | 
+| Of which: State-holding enterprises | 6.62 | 83.87 | 5.91 | 54.3 | 332.1 | 57.9 | 12.5 | 55.6 | 
+| Of which: Share-holding enterprises | 5.42 | 85.30 | 8.12 | 71.7 | 193.8 | 59.6 | 21.3 | 69.3 | 
+| Enterprises funded by foreign investors and investors from Hong Kong, Macao and Taiwan | 6.86 | 83.81 | 9.37 | 79.8 | 201.9 | 53.5 | 19.7 | 81.8 | 
+| Of which: Private enterprises | 4.12 | 86.08 | 9.83 | 90.9 | 141.1 | 60.0 | 26.6 | 75.7 | 
+Table 3 Key Financial Indicators of Industrial Enterprises above the Designated Size from January to September in 2026 (By Industry)
 | Industry | Business Revenue |  | Operating Costs |  | Total Profits |  | 
-|  | Amount | Growth Rate Y/Y | Amount | Growth Rate Y/Y | Amount | Growth Rate Y/Y | 
-|  | (100 million yuan) | (%) | (100 million yuan) | (%) | (100 million yuan) | (%) | 
-| Total | 930851.2 | 6.6 | 791893.6 | 6.1 | 52719.8 | 15.7 | 
-| Mining and washing of coal | 18267.0 | 10.4 | 12573.2 | 4.1 | 2943.8 | 51.6 | 
-| Extraction of petroleum and natural gas | 8693.5 | 13.0 | 4593.0 | 8.7 | 2765.5 | 17.0 | 
-| Mining and processing of ferrous metal ores | 2822.2 | -6.6 | 2231.4 | -7.3 | 313.7 | -2.8 | 
-| Mining and processing of non-ferrous metal ores | 3461.3 | 31.1 | 1614.8 | 8.1 | 1403.0 | 71.8 | 
-| Mining and processing of non-metal ores | 1829.3 | -14.4 | 1306.7 | -14.0 | 190.5 | -7.2 | 
-| Professional and support activities for mining | 1310.1 | -9.3 | 1217.0 | -8.9 | 44.9 | 103.2 | 
-| Mining of other ores | 1.6 | -15.8 | 1.2 | -14.3 | 0.1 | -50.0 | 
-| Processing of food from agricultural and sideline products | 33573.6 | 2.7 | 31240.3 | 3.0 | 592.0 | -17.4 | 
-| Manufacture of foods | 14491.4 | 4.8 | 11409.9 | 4.9 | 1099.9 | 1.6 | 
-| Manufacture of liquor, beverages and refined tea | 9018.2 | -7.7 | 5974.9 | -6.1 | 1431.0 | -34.7 | 
-| Manufacture of tobacco | 10608.8 | 0.2 | 2991.6 | -0.3 | 1436.8 | 0.1 | 
-| Textile industry | 14235.5 | 2.8 | 12686.5 | 2.4 | 381.1 | 11.9 | 
-| Manufacture of textile, wearing apparel and accessories | 6536.6 | -1.9 | 5538.6 | -2.5 | 196.5 | -14.4 | 
-| Manufacture of leather, fur, feather and related products and footwear | 4324.5 | -3.1 | 3747.9 | -2.9 | 194.3 | -10.9 | 
-| Processing of timber, manufacture of wood, bamboo, rattan, palm and straw products | 4083.8 | -14.6 | 3753.5 | -14.3 | 63.4 | -38.0 | 
-| Manufacture of furniture | 3434.8 | -8.9 | 2856.7 | -8.3 | 75.8 | -51.8 | 
-| Manufacture of paper and paper products | 9229.7 | 5.0 | 8148.9 | 4.7 | 247.0 | 23.6 | 
-| Printing and reproduction of recording media | 3991.7 | 1.0 | 3334.0 | 1.4 | 162.0 | -14.2 | 
-| Manufacture of articles for culture, education, arts and crafts, sport and entertainment activities | 7769.6 | -7.2 | 6802.7 | -8.0 | 223.3 | -17.0 | 
-| Processing of petroleum, coal and other fuels | 35535.8 | 4.4 | 29732.3 | 2.2 | 562.9 | (Note 1) | 
-| Manufacture of raw chemical materials and chemical products | 62187.7 | 9.1 | 53312.8 | 7.6 | 3532.4 | 51.0 | 
-| Manufacture of medicines | 15045.6 | -0.3 | 8704.7 | 0.7 | 2119.6 | 3.9 | 
-| Manufacture of chemical fibers | 6978.1 | 2.8 | 6302.2 | 0.2 | 293.9 | 107.7 | 
-| Manufacture of rubber and plastic products | 20267.6 | 3.0 | 17130.7 | 2.8 | 928.0 | -3.2 | 
-| Manufacture of non-metallic mineral products | 25622.3 | -9.5 | 22046.6 | -9.1 | 419.5 | -46.7 | 
-| Smelting and pressing of ferrous metals | 49288.6 | -1.1 | 46993.8 | -0.4 | 294.3 | -62.4 | 
-| Smelting and pressing of non-ferrous metals | 72826.3 | 18.5 | 67199.2 | 16.2 | 3959.1 | 82.9 | 
-| Manufacture of metal products | 30874.6 | 4.0 | 27461.6 | 4.2 | 887.9 | -6.3 | 
-| Manufacture of general-purpose machinery | 34135.6 | 5.9 | 27694.9 | 5.8 | 2248.3 | 2.5 | 
-| Manufacture of special-purpose machinery | 25321.4 | 6.9 | 19717.8 | 7.1 | 1645.8 | -2.1 | 
-| Manufacture of automobiles | 70061.6 | 2.9 | 62370.3 | 4.0 | 2533.8 | -16.0 | 
-| Manufacture of railway, ship, aerospace and other transport equipment | 12204.1 | 12.0 | 10093.3 | 11.8 | 984.8 | 10.9 | 
-| Manufacture of electrical machinery and apparatus | 81221.0 | 11.5 | 70657.5 | 12.6 | 3671.9 | -5.2 | 
-| Manufacture of computers, communication equipment and other electronic equipment | 128102.9 | 20.1 | 108422.9 | 16.7 | 8474.7 | 109.9 | 
-| Manufacture of measuring instruments and machinery | 7250.7 | 7.2 | 5367.1 | 7.1 | 648.5 | 0.7 | 
-| Other manufacture | 1400.6 | 4.5 | 1145.9 | 3.9 | 75.5 | 3.4 | 
-| Utilization of waste resources | 7656.9 | 0.6 | 7254.3 | -0.8 | 174.2 | 74.7 | 
-| Repair service of metal products, machinery and equipment | 1941.1 | 12.8 | 1662.3 | 14.0 | 137.1 | 18.3 | 
-| Production and supply of electricity and heat power | 67008.3 | 0.4 | 60212.0 | 1.9 | 4462.5 | -15.1 | 
-| Production and supply of gas | 15196.4 | 3.2 | 14196.3 | 3.2 | 607.0 | 10.2 | 
-| Production and supply of water | 3041.0 | -0.2 | 2192.5 | 0.0 | 293.5 | 0.8 | 
+|  | Amount (100 million yuan) | Growth Rate Y/Y(%) | Amount (100 million yuan) | Growth Rate Y/Y(%) | Amount (100 million yuan) | Growth Rate Y/Y(%) | 
+| Total | 1062066.0 | 6.6 | 902965.5 | 6.1 | 60337.4 | 15.5 | 
+| Mining and washing of coal | 21028.1 | 11.9 | 14296.6 | 4.8 | 3530.4 | 57.0 | 
+| Extraction of petroleum and natural gas | 9914.8 | 15.1 | 5214.5 | 8.9 | 3116.2 | 21.3 | 
+| Mining and processing of ferrous metal ores | 3161.2 | -7.8 | 2507.3 | -8.3 | 351.8 | -3.6 | 
+| Mining and processing of non-ferrous metal ores | 3893.8 | 28.0 | 1829.5 | 5.7 | 1566.2 | 68.0 | 
+| Mining and processing of non-metal ores | 2073.6 | -14.8 | 1486.9 | -14.4 | 205.2 | -14.0 | 
+| Professional and support activities for mining | 1528.6 | -7.8 | 1417.7 | -7.2 | 43.7 | 64.9 | 
+| Mining of other ores | 2.0 | -9.1 | 1.4 | -12.5 | 0.2 | 0.0 | 
+| Processing of food from agricultural and sideline products | 38370.3 | 2.4 | 35685.6 | 2.7 | 687.2 | -17.3 | 
+| Manufacture of foods | 16430.8 | 3.8 | 12955.6 | 4.0 | 1223.3 | -0.5 | 
+| Manufacture of liquor, beverages and refined tea | 10180.8 | -7.4 | 6739.7 | -6.1 | 2038.8 | -14.3 | 
+| Manufacture of tobacco | 12086.9 | 2.4 | 3414.5 | 1.2 | 1618.1 | 2.4 | 
+| Textile industry | 16010.4 | 1.7 | 14253.1 | 1.4 | 428.3 | 7.2 | 
+| Manufacture of textile, wearing apparel and accessories | 7300.6 | -4.2 | 6174.1 | -5.0 | 219.5 | -15.6 | 
+| Manufacture of leather, fur, feather and related products and footwear | 4677.6 | -7.9 | 4040.5 | -8.0 | 210.5 | -13.3 | 
+| Processing of timber, manufacture of wood, bamboo, rattan, palm and straw products | 4627.0 | -14.3 | 4252.4 | -14.0 | 68.6 | -41.6 | 
+| Manufacture of furniture | 3858.8 | -8.9 | 3203.9 | -8.2 | 87.0 | -51.3 | 
+| Manufacture of paper and paper products | 10464.7 | 4.6 | 9240.3 | 4.5 | 280.1 | 15.3 | 
+| Printing and reproduction of recording media | 4532.9 | 0.6 | 3784.3 | 1.0 | 182.2 | -16.5 | 
+| Manufacture of articles for culture, education, arts and crafts, sport and entertainment activities | 8739.4 | -10.6 | 7635.7 | -11.7 | 251.2 | -21.3 | 
+| Processing of petroleum, coal and other fuels | 40813.2 | 6.1 | 34053.6 | 3.8 | 842.2 | (Note 1) | 
+| Manufacture of raw chemical materials and chemical products | 70777.1 | 9.4 | 60654.0 | 7.9 | 3977.6 | 49.2 | 
+| Manufacture of medicines | 17416.9 | -0.2 | 10001.8 | 0.5 | 2546.5 | 4.4 | 
+| Manufacture of chemical fibers | 7890.0 | 3.2 | 7123.4 | 0.7 | 326.8 | 81.7 | 
+| Manufacture of rubber and plastic products | 23029.6 | 2.8 | 19480.6 | 2.7 | 1033.9 | -7.5 | 
+| Manufacture of non-metallic mineral products | 29084.1 | -9.7 | 24995.0 | -9.3 | 507.0 | -46.9 | 
+| Smelting and pressing of ferrous metals | 55545.8 | -1.5 | 53018.2 | -0.6 | 243.4 | -73.3 | 
+| Smelting and pressing of non-ferrous metals | 82026.8 | 17.5 | 75707.7 | 15.3 | 4425.5 | 79.7 | 
+| Manufacture of metal products | 35238.5 | 4.3 | 31344.2 | 4.5 | 994.5 | -9.6 | 
+| Manufacture of general-purpose machinery | 39021.6 | 5.8 | 31645.8 | 5.7 | 2578.0 | 1.9 | 
+| Manufacture of special-purpose machinery | 29193.9 | 6.9 | 22693.0 | 7.1 | 1950.2 | -1.3 | 
+| Manufacture of automobiles | 80435.2 | 2.6 | 71626.8 | 3.8 | 2675.4 | -22.8 | 
+| Manufacture of railway, ship, aerospace and other transport equipment | 14069.5 | 11.7 | 11638.9 | 11.5 | 1117.3 | 10.0 | 
+| Manufacture of electrical machinery and apparatus | 92587.3 | 11.3 | 80418.2 | 12.2 | 4188.6 | -5.9 | 
+| Manufacture of computers, communication equipment and other electronic equipment | 149208.3 | 21.0 | 126401.9 | 17.6 | 9851.9 | 103.8 | 
+| Manufacture of measuring instruments and machinery | 8390.2 | 7.4 | 6209.3 | 7.3 | 746.4 | -1.1 | 
+| Other manufacture | 1544.0 | 0.3 | 1258.2 | -0.9 | 82.0 | -2.4 | 
+| Utilization of waste resources | 8813.1 | 1.8 | 8334.6 | 0.5 | 199.3 | 63.1 | 
+| Repair service of metal products, machinery and equipment | 2199.2 | 10.9 | 1881.1 | 11.7 | 156.9 | 20.6 | 
+| Production and supply of electricity and heat power | 75351.4 | 0.3 | 67891.3 | 2.0 | 4773.0 | -17.9 | 
+| Production and supply of gas | 17081.7 | 4.1 | 15954.7 | 4.0 | 691.0 | 13.8 | 
+| Production and supply of water | 3466.3 | -0.5 | 2499.6 | 0.0 | 321.6 | -2.9 | 
 | Notes: 1. As the processing of petroleum, coal and other fuels recorded losses in the same period last year, the year-on-year growth rate cannot be calculated. 2. Due to rounding and without mechanical adjustments, the sub-items may not add up to the total. |  |  |  |  |  |  | 
 Annotations:
 I. Notes on Indicators

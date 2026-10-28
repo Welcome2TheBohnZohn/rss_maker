@@ -7,7 +7,98 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 01:26:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:38:26 +0000</lastBuildDate>
+    <item>
+      <title>Are AI-generated short dramas a waste of computing power?</title>
+      <link>https://en.people.cn/n3/2026/1028/c90000-20513093.html</link>
+      <description>Published: 2026-10-28
+
+Are AI-generated short dramas a waste of computing power?
+Editor's Note:
+Currently, China's economy is steadily advancing along the path of high-quality development, even as domestic and international circumstances become increasingly complex. Some Western media, due to misunderstanding or bias, have repeatedly questioned or even distorted China's economic development. Accordingly, the Global Times launches the "Q&amp;A on China's Economy" column to publish opinion pieces to present facts and clarify perceptions.
+Recently, a set of figures on the share of token consumption by large artificial intelligence (AI) models has drawn considerable public attention in China. According to the figures, short dramas and video generation account for 55 percent of domestic token consumption, e-commerce and marketing 24 percent, and software development only 15 percent. Some have contrasted this with the claim that "58 percent of US tokens go to writing code and enterprise automation," giving rise to the catchy narrative that "China uses computing power to chase entertaining short dramas, while the US uses it to build the future."
+Set against the current international discourse surrounding China-US competition in AI, the comparison is certainly attention-grabbing. Yet it does not withstand even the most basic fact-checking or scrutiny. The claim that "AI short dramas and video generation account for 55 percent" originated from an industry assessment, which circulates online and is contained in the investor-relations records of a listed company that is itself heavily invested in AI-generated short dramas. It is not a comprehensive calculation based on any authoritative statistical framework. Doubao has also recently clarified that the computing-power figures are "somewhat unreliable" and that, at ByteDance itself, only about 10 percent of the company's total compute is used for training and inference of video-generation models. As for the claim that "58 percent of the US token go to writing code," no authoritative source for the figure can be found at all.
+Tokens are units used to measure and bill AI model usage, reflecting workload and computing consumption. They are neither a measure of productivity nor an equivalent of GDP, and therefore cannot be used directly to gauge the value of a country's AI industry. Meanwhile, video generation is a computationally intensive use case, while code generation is relatively low in token intensity but highly efficient. Comparing the two simply on the basis of token consumption is therefore methodologically unsound.
+What matters is not how many tokens are consumed, but what value they create. China has the world's most complete and largest industrial system, giving AI an exceptionally rich range of application scenarios and the world's largest real-world testing ground. Short dramas, e-commerce, livestreaming and content generation may not fit the conventional image of cutting-edge, "hard-core" technology. Yet it is precisely these everyday applications that place AI technology on the front line, where it is tested by real users and repeatedly refined through viable commercial cycles. A video-generation model used thousands or tens of thousands of times in short-drama production must meet real requirements for visual consistency, production deadlines and cost efficiency. This model has far more opportunities to be updated, iterated and improved - and can generate far greater industrial value-than a technology used only by a small number of engineers or one that exists largely in PowerPoint presentations.
+"Mass-market" does not mean "low-value," and mass adoption should not be set against frontier research. The scale of application itself helps fund research and points it toward the problems that matter. Large-scale use spreads inference costs across more users, helping transform model services from expensive laboratory tools into affordable public goods. In China, some video-generation models now cost less than one yuan per second, while AI short-drama production costs have fallen from several thousand yuan per minute to only a few hundred. Lower costs bring more small businesses and individual creators into the market, expanding the range of applications. In turn, the engineering challenges exposed by large-scale use help shape research priorities. China's strengths in open-source models, lightweight deployment and low-cost inference have, to a large extent, grown out of the demands of serving AI at scale.
+China's AI development is by no means focused only on applications at the expense of technological research. A 2024 report by the World Intellectual Property Organization (WIPO) already showed that China leads the world in the AI research publication volume, citations counts and patent output, and is world's largest source of generative AI patent publications. Chinese AI models have led weekly usage on OpenRouter, the world's largest AI model API aggregation platform, for 26 consecutive weeks, accounting for roughly two-thirds of total usage. The share of tokens used for coding tasks on the platform rose from about 10 percent in February to around 50 percent in September this year. China has never been absent from the development of foundational capabilities or frontier models. More importantly, it has not kept these advances locked inside laboratories. Instead, it has pursued development on two fronts, allowing research and development to interact with and reinforce the world's largest pool of real-world demand.
+There is little reason to fuel anxiety about "China falling behind the US in AI" with questionable data. Turning statistics based on inconsistent methods and unclear sources into a simplistic contrast between "building the future" and "chasing short dramas" risks misleading the public and politicizing normal technological diffusion and industrial specialization. Large-scale application is, in fact, one of the strongest foundations of China's AI development. By closing the loop between research and real-world deployment, China is pursuing its own path while also creating greater room for the global diffusion of AI technologies and their industrial applications.
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1028/c90000-20513093.html</guid>
+    </item>
+    <item>
+      <title>China firm advocate of, doer in reforming, improving global governance</title>
+      <link>https://en.people.cn/n3/2026/1028/c90000-20513065.html</link>
+      <description>Published: 2026-10-28
+
+China firm advocate of, doer in reforming, improving global governance
+On Oct. 23, Chinese President Xi Jinping sent a letter to the 2026 Global Governance Forum (Xiong'an), further elaborating on the importance of reforming and improving the global governance system and charting the course for advancing the implementation of the Global Governance Initiative (GGI). The letter demonstrated China's sense of responsibility and its willingness to work with other countries to build a more just and equitable world.
+Xi put forward the GGI in September 2025, a much-needed initiative that offers solutions to bridge the governance deficit and build a better future. In just over a year, the initiative has gained the support of more than 160 countries and international organizations. Over 60 countries have joined the Group of Friends of Global Governance. Its core elements have been incorporated into the documents of multilateral fora such as the G20, the Shanghai Cooperation Organization, and BRICS.
+The past year has underscored the great contemporary value of the GGI, with its appeal and influence continuing to grow. The initiative has become an important public good warmly embraced by the international community.
+The international community regards the GGI as a stalwart for multilateralism as the international landscape is undergoing a profound shift, and a safeguard for fairness and justice as the law of the jungle makes a comeback. To many in the world, the GGI provides a clear pathway to shared development and security and much-needed certainty for a turbulent world.
+Beyond championing the GGI, China has taken decisive steps to translate its vision into practice. Since its launch, China has advanced multiple proposals to promote peace and stability in conflict zones such as the Middle East, voluntarily waived demands for additional special and differential treatment in World Trade Organization negotiations, and introduced new forms of international public goods, such as the International Organization for Mediation and the World Artificial Intelligence Cooperation Organization.
+The GGI is widely regarded by people of foresight around the world as a remedy for and improvement on the existing international system, and a crystallization of Chinese wisdom that will shape a fairer, more inclusive, and more sustainable world.
+The 2026 Global Governance Forum (Xiong'an), held in Xiong'an New Area in north China's Hebei province, marked a major step by China in working with other countries around the world to put the GGI into practice.
+Under the theme "Rebuilding Confidence and Cooperation: Reforming and Improving Global Governance in a Transforming World," participants exchanged ideas and learned from one another. Their discussions addressed both the need to uphold the international system with the United Nations at its core and the governance of emerging fields such as artificial intelligence, cyberspace, and outer space.
+Through dialogue and communication, they sought to build consensus and develop joint solutions, contributing to international efforts to tackle governance challenges and reform and improve global governance.
+More than a policy dialogue, the forum offers the international community a tangible look at China's governance philosophy. In just nine years, Xiong'an New Area has transformed from a planned development zone into a dynamic innovation hub and a showcase of high-quality urban development. By engaging with this "city of the future," attendees witnessed firsthand how China's governance model -- centered on people-first development, ecological sustainability, technological innovation, and long-term planning -- has translated into measurable progress.
+This year marks the 55th anniversary of the restoration of the People's Republic of China's lawful seat in the United Nations. As a founding member of the United Nations and a permanent member of its Security Council, China has consistently upheld and practiced multilateralism.
+At the forum, China announced eight practical actions to advance global governance. These include ensuring the success of the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting in November, continuing to engage deeply in United Nations reform and encouraging the Group of Friends of Global Governance to play a bigger role.
+The country called on all parties to uphold the central role of the United Nations, practice the values of fairness and justice, bolster the strength of the Global South for better global governance, advance in the direction of openness and development, and improve the rules of governance in emerging fields.
+These measures clearly demonstrate China's firm resolve to work with other countries to steer global governance toward greater fairness and equity. They also provide a roadmap for joint efforts to implement the GGI in the next stage.
+An African media outlet commented that the forum's significance lies in its efforts to foster a more open, balanced and constructive dialogue on the future of international relations.
+Global governance serves the common interests of all nations, and requires the collective effort of the international community. China stands ready to work with all parties to uphold a vision of global governance featuring extensive consultation and joint contribution for shared benefit, build strength through confidence and overcome challenges through cooperation.
+Together, the international community can advance the implementation of the GGI, bring greater certainty and positive energy to a world fraught with change and turbulence, and work hand in hand toward a community with a shared future for humanity.
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1028/c90000-20513065.html</guid>
+    </item>
+    <item>
+      <title>China confirms identities of 8 more volunteer soldiers killed in Korean War</title>
+      <link>https://en.people.cn/n3/2026/1028/c90000-20513253.html</link>
+      <description>Published: 2026-10-28
+
+China confirms identities of 8 more volunteer soldiers killed in Korean War
+BEIJING, Oct. 28 (Xinhua) -- China has confirmed the identities of eight more Chinese People's Volunteers (CPV) martyrs who lost their lives during the War to Resist U.S. Aggression and Aid Korea (1950-1953), the Ministry of Veterans Affairs said on Wednesday.
+This marks further progress in efforts to identify the remains of CPV martyrs repatriated from the Republic of Korea (ROK), the ministry said.
+More than 70 years ago, the CPV crossed the Yalu River and fought alongside the army and civilians of the Democratic People's Republic of Korea (DPRK) against the ROK army and U.S.-led UN forces. China sent 2.9 million CPV soldiers to assist the DPRK during the war, of whom more than 360,000 were killed or injured. Most of the fallen CPV soldiers were buried on the Korean Peninsula.
+According to an agreement between China and the ROK signed in late 2013, the two sides consult every year on the handover of remains of Chinese soldiers found in the ROK.
+Since 2014, China and the ROK have completed 13 consecutive handovers involving the remains of 1,023 CPV martyrs.
+In recent years, China has intensified efforts to identify the remains of CPV martyrs, including the creation of a DNA database for martyrs and their relatives, offering solid technical and data support to help more families find their missing loved ones.
+To date, the identities of 44 of the martyrs have been confirmed and their relatives have been located.
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1028/c90000-20513253.html</guid>
+    </item>
+    <item>
+      <title>Upholding the United Nations' ideals and working together for humanity's future</title>
+      <link>https://en.people.cn/n3/2026/1028/c90000-20513009.html</link>
+      <description>Published: 2026-10-28
+
+Upholding the United Nations' ideals and working together for humanity's future
+This year marks the 55th anniversary of the restoration of the People's Republic of China's lawful seat in the United Nations (UN).
+Over more than half a century, China has steadily evolved from a participant in the international system into a builder of world peace, a contributor to global development, and a defender of the international order. This journey reflects not only a major country's growing engagement in global governance, but also how the spirit of the UN Charter has taken root in the modern world.
+On Oct. 25, 1971, the 26th session of the UN General Assembly adopted Resolution 2758 by an overwhelming majority, deciding to restore all the rights of the People's Republic of China in the UN and recognizing the representatives of its government as the only legitimate representatives of China to the UN.
+In his article "Renewing Multilateralism: China and UN in the 21st Century," former UN Resident Coordinator in China Siddharth Chatterjee wrote that, 55 years on, this decision endures as a defining milestone in the evolution of the international order.
+Over the past 55 years, China has evolved from embracing international rules to contributing ideas for global governance. Throughout this journey, it has consistently supported the UN, upheld the purposes and principles of the UN Charter, and played an active and constructive role within the UN framework. China has advanced the building of a community with a shared future for humanity and made significant contributions to world peace and development.
+Stephen Jackson, the UN Resident Coordinator in China, noted that China brings a distinctive perspective from the Global South to the UN, helping to create a more balanced global governance landscape.
+China has always been a builder of world peace. Guided by the Chinese nation's deep-rooted commitment to peace, China has chosen the path of peaceful development, rejecting the traditional route of aggression and expansion taken by major powers. Among the world's major countries, China has the best track record with respect to peace and security.
+China is the second-largest contributor to the UN peacekeeping budget and the largest provider of peacekeeping personnel among the permanent members of the UN Security Council. To date, it has dispatched more than 50,000 peacekeepers to 29 UN Security Council-authorized peacekeeping operations.
+As conflicts continue to flare around the world, China has worked to promote peace and dialogue. From the Russia-Ukraine conflict to the Israeli-Palestinian conflict, it has pursued approaches to resolving hotspot issues with Chinese characteristics and played a constructive role in easing tensions and resolving disputes.
+China has consistently contributed to global development. It achieved the poverty reduction goals set under the United Nations 2030 Agenda for Sustainable Development 10 years ahead of schedule and contributes around 30 percent of global economic growth.
+It is now a major trading partner for more than 160 countries and regions and has signed 24 free trade agreements with 31 countries and regions. The country has signed Belt and Road cooperation documents with over 150 countries and 30 international organizations, injecting fresh momentum into global development.
+In response to widening global development gaps, China has actively worked to put development back at the center of the international agenda and help developing countries strengthen their capacity for self-sustaining growth, so that the benefits of development can be shared more widely and equitably among people in all countries.
+China has always upheld the international order. Over the past 55 years, it has firmly defended the UN-centered international system, the international order underpinned by international law, and the basic norms governing international relations, founded on the purposes and principles of the UN Charter.
+China advocates and practices true multilateralism and actively leads and advances multilateral cooperation. It is a member of almost all universal intergovernmental organizations and a party to over 600 international conventions and their amendments. It has put forward Chinese solutions in emerging areas such as climate change and AI governance.
+China has successively proposed the four major global initiatives and taken the lead in implementing them, contributing Chinese wisdom and solutions to addressing deficits in peace, development, security and governance.
+The world is undergoing profound change and growing turbulence, while global challenges continue to mount. The international community must build consensus and work in concert to meet the challenges of our time.
+We should uphold fairness and justice, and strengthen the foundation of sovereign equality. The international community must firmly oppose hegemonic practices that allow the strong to bully the weak and must never let the world revert to the law of the jungle. International affairs should be discussed and decided by all countries together, and the legitimate concerns of developing countries must be heard and taken seriously. Only in this way can the foundations of the multilateral international order remain firm.
+We should uphold fundamental principles while breaking new ground to improve UN governance. Upholding fundamental principles means adhering to the purposes and principles of the UN Charter, safeguarding the international system and the basic norms governing international relations established after the end of World War II, and remaining committed to multilateralism.
+Innovation means responding to the changing times by enabling the UN to adapt and reform itself, continually improving its internal governance mechanisms, enhancing its effectiveness and better reflecting the concerns of developing countries.
+We should shoulder our shared responsibilities and put multilateralism into practice. More than 190 countries in the world are all aboard the same big boat, bound by a shared destiny. Only by working together can they weather the storms ahead.
+All parties should embrace the principle of extensive consultation and joint contribution for shared benefit, explore new approaches to cooperation and develop innovative cooperation models, while continuing to advance multilateralism in response to changing global circumstances, and working together to address global challenges such as climate change, food security and digital governance.
+At this new historical juncture, China will continue to be a staunch supporter of the UN and a steadfast practitioner of multilateralism, working hand in hand with other countries to build a community with a shared future for humanity and create a better world for all.
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1028/c90000-20513009.html</guid>
+    </item>
     <item>
       <title>Xi extends condolences over death of Japan's former PM Yasuo Fukuda</title>
       <link>https://en.people.cn/n3/2026/1028/c90000-20512919.html</link>
@@ -25,6 +116,81 @@ Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
       <guid isPermaLink="false">https://en.people.cn/n3/2026/1028/c90000-20512919.html</guid>
     </item>
     <item>
+      <title>Tangshan Port sees cargo throughput rise 2.01 pct in first three quarters of 2026</title>
+      <link>https://en.people.cn/n3/2026/1028/c90000-20513278.html</link>
+      <description>Published: 2026-10-28
+
+Tangshan Port sees cargo throughput rise 2.01 pct in first three quarters of 2026
+A drone photo taken on Oct. 27, 2026 shows a vessel, assisted by tugboats, approaching the ore terminal of Caofeidian Port Area in Tangshan Port in Tangshan, north China's Hebei Province. Tangshan Port handled a total cargo throughput of 665.89 million tonnes in the first three quarters of 2026, marking a 2.01 percent year-on-year growth, according to the local port administration. (Xinhua/Yang Shiyao)
+A vessel unloads at the ore terminal of Caofeidian Port Area in Tangshan Port in Tangshan, north China's Hebei Province, Oct. 27, 2026. Tangshan Port handled a total cargo throughput of 665.89 million tonnes in the first three quarters of 2026, marking a 2.01 percent year-on-year growth, according to the local port administration. (Xinhua/Yang Shiyao)
+A vessel is about to dock at the ore terminal of Caofeidian Port Area in Tangshan Port in Tangshan, north China's Hebei Province, Oct. 27, 2026. Tangshan Port handled a total cargo throughput of 665.89 million tonnes in the first three quarters of 2026, marking a 2.01 percent year-on-year growth, according to the local port administration. (Xinhua/Yang Shiyao)
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1028/c90000-20513278.html</guid>
+    </item>
+    <item>
+      <title>Rice harvested in China's Hunan</title>
+      <link>https://en.people.cn/n3/2026/1028/c90000-20513015.html</link>
+      <description>Published: 2026-10-28
+
+Rice harvested in China's Hunan
+An aerial drone photo taken on Oct. 26, 2026 shows a harvester working at a rice field in Hengshan County, central China's Hunan Province. (Photo by Cao Zhengping/Xinhua)
+A drone photo taken on Oct. 26, 2026 shows a harvester working at a rice field in Hengyang County, central China's Hunan Province. (Photo by Liu Xinrong/Xinhua)
+A villager loads harvested rice in Hengyang County, central China's Hunan Province, Oct. 26, 2026. (Photo by Liu Xinrong/Xinhua)
+A drone photo taken on Oct. 27, 2026 shows harvesters working at a rice field in Loudi City, central China's Hunan Province. (Photo by Li Jianxin/Xinhua)
+A drone photo taken on Oct. 26, 2026 shows a farmer drying rice in Hengshan County, central China's Hunan Province. (Photo by Cao Zhengping/Xinhua)
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1028/c90000-20513015.html</guid>
+    </item>
+    <item>
+      <title>China's wind and solar power capacity tops 2 billion kW</title>
+      <link>https://en.people.cn/n3/2026/1028/c90000-20512959.html</link>
+      <description>Published: 2026-10-28
+
+China's wind and solar power capacity tops 2 billion kW
+A drone photo taken on June 9, 2026 shows a wind farm and an energy storage power station in Ulanqab, north China's Inner Mongolia Autonomous Region. By the end of September 2026, China's cumulative installed capacity of wind and solar power reached 2.01 billion kilowatts, the country's National Energy Administration announced on Monday. Of the total, solar power capacity stood at 1.31 billion kilowatts, up 16.5 percent year on year, while wind power capacity reached 700 million kilowatts, up 20.4 percent. (Xinhua/Lian Zhen)
+A drone photo taken on Oct. 27, 2026 shows an integrated fishery and photovoltaic project and a wind farm in Baoying County, east China's Jiangsu Province. By the end of September 2026, China's cumulative installed capacity of wind and solar power reached 2.01 billion kilowatts, the country's National Energy Administration announced on Monday. Of the total, solar power capacity stood at 1.31 billion kilowatts, up 16.5 percent year on year, while wind power capacity reached 700 million kilowatts, up 20.4 percent. (Photo by Ren Fei/Xinhua)
+A drone photo taken on Oct. 21, 2026 shows a solar power base in Ningdong Town of Lingwu, northwest China's Ningxia Hui Autonomous Region. By the end of September 2026, China's cumulative installed capacity of wind and solar power reached 2.01 billion kilowatts, the country's National Energy Administration announced on Monday. Of the total, solar power capacity stood at 1.31 billion kilowatts, up 16.5 percent year on year, while wind power capacity reached 700 million kilowatts, up 20.4 percent. (Photo by Yuan Hongyan/Xinhua)
+A drone photo taken on June 30, 2026 shows offshore and onshore wind farms in Pingtan, southeast China's Fujian Province. By the end of September 2026, China's cumulative installed capacity of wind and solar power reached 2.01 billion kilowatts, the country's National Energy Administration announced on Monday. Of the total, solar power capacity stood at 1.31 billion kilowatts, up 16.5 percent year on year, while wind power capacity reached 700 million kilowatts, up 20.4 percent. (Xinhua/Lin Shanchuan)
+A drone photo taken on Sept. 9, 2026 shows an integrated fishery and photovoltaic project in Huanghua City, north China's Hebei Province. By the end of September 2026, China's cumulative installed capacity of wind and solar power reached 2.01 billion kilowatts, the country's National Energy Administration announced on Monday. Of the total, solar power capacity stood at 1.31 billion kilowatts, up 16.5 percent year on year, while wind power capacity reached 700 million kilowatts, up 20.4 percent. (Xinhua/Yang Shiyao)
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1028/c90000-20512959.html</guid>
+    </item>
+    <item>
+      <title>Why the CPC puts people's well-being at the heart of self-governance</title>
+      <link>https://en.people.cn/n3/2026/1028/c90000-20512946.html</link>
+      <description>Published: 2026-10-28
+
+Explainer: Why the CPC puts people's well-being at the heart of self-governance
+This photo taken on March 12, 2026 shows the Great Hall of the People ahead of the closing meeting of the fourth session of the 14th National People's Congress (NPC) in Beijing, capital of China. (Xinhua/Li Yan)
+BEIJING, Oct. 27 (Xinhua) -- In northeast China's Heilongjiang Province, eligible residents can receive certain forms of medical assistance and other support without submitting an application. Government departments share the information needed to provide the benefits.
+The provincial bodies responsible for disciplinary inspection helped drive the change. They prompted civil affairs departments to build a data-sharing network connecting 33 departments and institutions, enabling 12 frequently used assistance services to be provided without applications.
+The initiative offers a concrete example of how the self-supervision of the Communist Party of China (CPC) improve public services and help ensure that benefits reach those who most need them.
+Earning public trust through tangible improvements in people's lives is a defining feature of the CPC's full and rigorous self-governance, which is high on the agenda of the fifth plenary session of its 20th Central Committee. The key meeting, which opened Monday in Beijing, is considering a draft decision of the CPC Central Committee on major issues concerning strengthening full and rigorous Party self-governance with perseverance.
+COMMITMENT TO THE PEOPLE
+The CPC constitution commits the Party to serving the people, and states that it has no special interests of its own apart from those of the working class and the broadest possible majority of the people.
+Without seeking self-interest, the CPC can keep its spirit of thorough self-reform, and by swiftly detecting and resolving its own problems, the Party can prevent any interest group, power group or privileged stratum from preying on or corrupting its members.
+Chinese President Xi Jinping, also general secretary of the CPC Central Committee, has led an unprecedented anti-corruption campaign since 2012, driven by a determination to "offend a few thousand rather than fail 1.4 billion." The campaign has targeted corrupt officials at both high and low levels.
+Gyula Thurmer, president of the Hungarian Workers' Party, said serving the interests of the people is a central principle of the CPC.
+He added that the Party's anti-corruption efforts have achieved significant results, strengthening internal discipline and helping implement major economic and social development programs.
+Students build circuits during a science festival at a primary school in Wuzhou, south China's Guangxi Zhuang Autonomous Region, Sept. 29, 2026. (Xinhua/Huang Xiaobang)
+SAFEGUARDING PEOPLE'S INTERESTS
+Xi has called on Party members to bear in mind that "benefiting the people is their greatest political achievement."
+An official review of work in 2025 reported that disciplinary and supervisory bodies nationwide investigated 967,000 cases of misconduct and corruption affecting people's daily lives, returning or helping recover about 77.6 billion yuan (11.5 billion U.S. dollars) in money and property to the public.
+Faruk Boric, president of the Association of Friendship between China and Bosnia and Herzegovina, said China's efforts to pursue corrupt officials at both senior and lower levels send "a clear message that no official is above the rules, regardless of their position."
+He said China's experience offers important lessons in linking clean governance with people's well-being. Protecting public funds, he added, helps direct more resources toward health care, education and other public services.
+Cao Fudi carries chili peppers for drying at Huangling scenic area in Wuyuan County, east China's Jiangxi Province, Sept. 22, 2026. (Xinhua/Wan Xiang)
+BUILDING BETTER GOVERNANCE
+On several occasions, Xi has called for taking simultaneous, coordinated, and comprehensive steps to ensure that officials do not have the audacity, opportunity or desire to become corrupt.
+In his article on the Party's self-reform, Xi urged efforts to improve Party conduct, enforce discipline, and fight corruption, while integrating Party self-supervision with public oversight to deeply advance the Party's self-reform.
+Lyazid Benhami, a member of the Paris Association of French-Chinese Friendship, said rigorous Party self-governance can clarify officials' responsibilities, improve coordination and help sustain development programs.
+He highlighted China's emphasis on long-term planning, infrastructure, education and research, adding that the country has achieved a profound transformation regarding such priority areas and improved the well-being of its people.
+Those administrative strengths matter as China implements its 15th Five-Year Plan (2026-2030). In January, Xi urged efforts to confine power to an institutional cage in a more well-conceived and effective manner, and press ahead with the anti-corruption fight with a clearer understanding and stronger resolve, thus providing a strong guarantee for achieving the goals and tasks of the 15th Five-Year Plan period.
+Volker Tschapke, honorary president of Germany's Prussian Society, said the CPC's courage to "turn the blade inward" demonstrated a "moral strength that I truly admire." He stressed that rigorous Party self-governance ultimately serves the fundamental interests of the people.
+"I have seen with my own eyes what that has achieved: how villages have blossomed through targeted poverty alleviation, how rural areas have found new hope, how high-speed rail connects people and hearts," he said.
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1028/c90000-20512946.html</guid>
+    </item>
+    <item>
       <title>Xi congratulates Lula on re-election as Brazilian president</title>
       <link>https://en.people.cn/n3/2026/1028/c90000-20512918.html</link>
       <description>Published: 2026-10-28
@@ -38,230 +204,6 @@ Xi said that he attaches great importance to the development of China-Brazil rel
 Also on Tuesday, Chinese Vice President Han Zheng sent a congratulatory message to Geraldo Alckmin on his re-election as Brazil's vice president.
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
       <guid isPermaLink="false">https://en.people.cn/n3/2026/1028/c90000-20512918.html</guid>
-    </item>
-    <item>
-      <title>Displaced residents moving into prefab homes three days after Xizang quake</title>
-      <link>https://en.people.cn/n3/2026/1027/c90000-20512555.html</link>
-      <description>Published: 2026-10-27
-
-Displaced residents moving into prefab homes three days after Xizang quake
-A drone photo taken on Oct. 26, 2026 shows prefabricated houses at a resettlement site of a quake-hit village in Maru Township of Baqen County, Nagqu City, southwest China's Xizang Autonomous Region. (Xinhua/Gaesang Namgyae)
-BAQEN, Xizang, Oct. 26 (Xinhua) -- Three days after the 7.0-magnitude earthquake damaged his home, Tsewang Khangshi was busy moving folding beds and quilts into his temporary new home.
-On Sunday, the 36-year-old villager from Baqen County moved from a tent to a prefabricated house, which rescue workers had rushed against the clock to build in the wake of the quake that struck on Oct. 22, killing 16 people and injuring 76 others.
-More than 12,000 residents were evacuated, and 339 homes and 20 livestock sheds were damaged or destroyed, according to local authorities.
-Baqen County in southwest China's Xizang Autonomous Region, the epicenter of the earthquake, perches at an altitude of nearly 4,800 meters. Tiding over the cold winter has been a top concern for displaced residents like Tsewang Khangshi.
-Large quantities of disaster relief supplies had arrived in the disaster zone in batches. As of 11 a.m. on Oct. 24, 52,450 items or sets of disaster relief supplies had been sent to the quake zone, including 4,651 tents, 2,000 prefabricated houses, 11,772 folding beds, 5,715 quilts and other cold-weather necessities.
-Within five hours of the earthquake, the first tents had been erected. All affected residents, including Tsewang Khangshi's family, had moved into temporary tent shelters by Oct. 23.
-His family moved into a prefabricated house on Oct. 25. "We are so happy we can move into a prefabricated house," he said, packing quilts, clothes and folding beds into his vehicle -- all relief supplies delivered in the immediate aftermath of the quake.
-The high altitude, low temperatures and strong winds have posed challenges for both residents and rescue workers. Gusts reached up to 13 meters per second, making it difficult to keep warm, particularly at night.
-To provide better protection against the harsh weather, construction teams and power workers have worked around the clock to build sturdier, warmer temporary homes.
-The first 60 prefabricated housing units in the earthquake zone were completed at 2:10 a.m. on Oct. 25, and electricity was connected to the units by 8 p.m. on the same day.
-"We will ensure that affected residents have safe shelter, warm clothing and bedding, hot meals and clean drinking water," said Pan Zhiqing, Party chief of the Nagqu Municipal Emergency Management Bureau. "As more prefabricated units are completed, we will gradually move residents out of tents and into better-heated housing."
-As the new housing units became available, families began moving in, cleaning their rooms and arranging furniture. The sound of people carrying belongings and chatting filled the settlement in the afternoon sunshine.
-Outside, workers went from door to door, checking electrical wiring and the sealing of windows and doors against drafts. "All the prefabricated houses are fitted with chimneys for stove use, and we must ensure residents can stay warm through the winter," said Zhang Xuhui, a construction team leader with China Railway.
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1027/c90000-20512555.html</guid>
-    </item>
-    <item>
-      <title>Profits of China's major industrial firms up 15.5 pct in first nine months</title>
-      <link>https://en.people.cn/n3/2026/1027/c90000-20512676.html</link>
-      <description>Published: 2026-10-27
-
-Home&gt;&gt;
-		
-Profits of China's major industrial firms up 15.5 pct in first nine months
- (Xinhua) 10:51, October 27, 2026
-BEIJING, Oct. 27 (Xinhua) -- Profits of China's industrial firms above designated size increased 15.5 percent year on year during the first nine months of 2026, data from the National Bureau of Statistics showed on Tuesday.
-(Web editor: Zhang Kaiwei, Liang Jun)
-		About People's Daily Online |  Join Us | Contact Us
-		
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1027/c90000-20512676.html</guid>
-    </item>
-    <item>
-      <title>China sees steady growth in domestic tourism over first 9 months of 2026</title>
-      <link>https://en.people.cn/n3/2026/1027/c90000-20512475.html</link>
-      <description>Published: 2026-10-27
-
-China sees steady growth in domestic tourism over first 9 months of 2026
-BEIJING, Oct. 26 (Xinhua) -- China's domestic tourism market posted solid growth in terms of both trips and travel spending from January to September this year, the Ministry of Culture and Tourism (MCT) said on Monday.
-More than 5.3 billion domestic trips were made during the first nine months of 2026, up 6.2 percent year on year, data from a survey of domestic travelers conducted by the ministry revealed.
-Urban residents accounted for over 4 billion trips, an increase of 6.6 percent from a year earlier, while rural residents made 1.27 billion trips, marking a 5.1-percent rise.
-Domestic tourism spending expanded 2.2 percent year on year to 4.95 trillion yuan (about 737 billion U.S. dollars) during these nine months. Of the total, urban residents spent 4.14 trillion yuan, up 2.2 percent, while rural residents spent 810 billion yuan, rising 2.1 percent.
-China aims to record 8.3 billion year-round domestic trips and 7.7 trillion yuan in year-round domestic travel spending by 2030, according to a five-year tourism development plan for the 2026-2030 period released by the MCT in July.
-In 2025, the country saw more than 6.5 billion domestic trips, with tourism expenditure reaching 6.3 trillion yuan, both setting new records.
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1027/c90000-20512475.html</guid>
-    </item>
-    <item>
-      <title>Together for greater progress in poverty reduction</title>
-      <link>https://en.people.cn/n3/2026/1027/c90000-20512709.html</link>
-      <description>Published: 2026-10-27
-
-Together for greater progress in poverty reduction
-Farmers harvest kiwifruit for domestic and international markets at a kiwifruit farm in Fengxin county, Yichun, east China's Jiangxi province. (Photo/Zhou Liang)
-Eradicating poverty has long been a shared aspiration of humanity and remains one of the most formidable challenges to global development. Learning from poverty reduction efforts, building international consensus, deepening practical multilateral cooperation, and advancing the global fight against poverty are shared missions and responsibilities of the international community.
-As the world's largest developing country, China struggled with poverty for a long time. To tackle this global challenge, China rolled out the poverty alleviation campaign unmatched in human history in scale, intensity, and number of people benefiting, achieving a remarkable milestone in human development.
-After eight years of sustained effort, China lifted nearly 100 million rural residents out of absolute poverty, achieving the poverty reduction target of the UN 2030 Agenda for Sustainable Development 10 years ahead of schedule.
-Since the launch of reform and opening-up more than four decades ago, China has lifted over 800 million people out of poverty, accounting for more than 70 percent of the global total over the same period.
-Following the country's historic victory in the fight against poverty, China spent five years consolidating those gains and effectively linking poverty alleviation with rural revitalization. All related tasks were successfully completed, and the bottom line of preventing a large-scale relapse into poverty was firmly upheld.
-China's historic achievements in poverty reduction have contributed Chinese wisdom and solutions to the global cause.
-African scholars visit smart blueberry cultivation facilities and AI-powered crop management systems at a specialty agricultural park in Jinhua, east China's Zhejiang province. (Photo/Shi Bufa)
-Through years of exploration and practice, China has forged a path to poverty reduction with Chinese characteristics and developed its own theory of poverty alleviation, making significant original contributions to enriching the study of poverty eradication.
-Chinese President Xi Jinping's works, including "Up and Out of Poverty," have been translated into multiple languages and have become important reading for political leaders and scholars in many countries.
-China's sound approach to poverty reduction, effective institutional design, and targeted poverty alleviation efforts offer valuable ideas and practical pathways that can be learned from, replicated, and adapted by other countries seeking to help people still living in poverty achieve prosperity and well-being.
-United Nations Secretary-General Antonio Guterres has said that China's targeted poverty alleviation strategy is an important pathway toward achieving poverty reduction goals of the UN 2030 Agenda for Sustainable Development, and that China's experience offers valuable lessons for developing countries.
-China has consistently been a committed advocate and practitioner in global poverty reduction and development. At its core, poverty reduction is a development issue. Over the years, China has provided development assistance to more than 160 countries. It has launched the Global Partnership for Poverty Alleviation and Development, and announced eight actions for global development.
-China has listed poverty reduction as the top priority among the eight areas of cooperation under the Global Development Initiative and included "promoting global cooperation in poverty reduction" in the draft outline of its 15th Five-Year Plan (2026-2030).
-In Cambodia, the project dubbed the Cambodia-China Friendship Village for Poverty Alleviation has helped improve local residents' quality of life. In Madagascar, Chinese agricultural experts have provided hands-on training in farming techniques, leading to a substantial increase in hybrid rice yields. The Juncao technology has taken root in more than 100 countries and regions, becoming a "grass of happiness" that benefits communities around the world.
-More than 1,000 mu (about 66.67 hectares) of saline-alkali land has been transformed into marine aquaculture ponds for raising swimming crabs and other seafood in Yinzhou district, Ningbo, east China's Zhejiang province. (Photo/Zheng Kaixia)
-China has consistently sought to turn its own development experience into international public goods that can be shared with the world. Through practical cooperation and stronger South-South cooperation, it continues to advance global efforts to tackle poverty and support countries in pursuing shared development.
-The world is now entering the final push to achieve the poverty reduction goals of the UN 2030 Agenda for Sustainable Development. Affected by a combination of factors, including sluggish economic growth, frequent geopolitical conflicts and the politicization of development issues, global poverty reduction has stalled, while deep-seated challenges, including imbalances in development between the Global North and the Global South and growing development deficits, have become increasingly pronounced.
-A recent report jointly released by the UN Development Programme and the Oxford Poverty and Human Development Initiative, University of Oxford, shows that 1.2 billion people worldwide still live in acute multidimensional poverty.
-In the face of these daunting challenges, the international community must stand together, share responsibility, learn from one another's development experiences and deepen practical cooperation. Only through such collective efforts can we build a more inclusive, equitable and resilient global development framework.
-A just cause finds great support, and a journey with many companions gets far. China will continue to work hand in hand with the international community, share its experience in poverty reduction and help more countries explore paths to poverty alleviation and sustainable development suited to their own national conditions. Together, we can build a better world free from poverty and blessed with shared prosperity.
-Related Stories
-- To reduce global poverty, the world should partner with China, not exclude it: Insights from a Fellow of British Academy of Social Sciences
-- Immersive theater village inspired by poverty alleviation story opens in NW China's Ningxia
-- China's poverty alleviation experience: global contribution to poverty eradication
-- When life strikes, the safety net holds: A closer look at China's efforts to prevent families from backsliding into poverty
-- Explainer: SHIELD behind China's safeguards against poverty relapse
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1027/c90000-20512709.html</guid>
-    </item>
-    <item>
-      <title>Autumn scenery in Wuhan, China's Hubei</title>
-      <link>https://en.people.cn/n3/2026/1027/c90000-20512896.html</link>
-      <description>Published: 2026-10-27
-
-Autumn scenery in Wuhan, China's Hubei
-A man rides a bicycle by the East Lake in the early morning in Wuhan, central China's Hubei Province, Oct. 12, 2026. (Xinhua/Shen Hongbing)
-This photo taken on Oct. 27, 2026 shows a view of the East Lake in the early morning in Wuhan, central China's Hubei Province. (Xinhua/Xiao Yijiu)
-People enjoy their leisure time at a riverbank park in Wuhan, central China's Hubei Province, Oct. 24, 2026. (Xinhua/Shen Hongbing)
-A bird perches on the East Lake in Wuhan, central China's Hubei Province, Oct. 24, 2026. (Xinhua/Shen Hongbing)
-This photo taken on Oct. 27, 2026 shows a view of the East Lake in the early morning in Wuhan, central China's Hubei Province. (Xinhua/Xiao Yijiu)
-People have fun at a riverbank park in Wuhan, central China's Hubei Province, Oct. 24, 2026. (Xinhua/Shen Hongbing)
-This photo taken on Oct. 27, 2026 shows a view of the East Lake in the early morning in Wuhan, central China's Hubei Province. (Xinhua/Xiao Yijiu)
-This photo taken on Oct. 24, 2026 shows a view of the morning glow over the East Lake in Wuhan, central China's Hubei Province. (Xinhua/Shen Hongbing)
-People in the morning glow over the East Lake are pictured in Wuhan, central China's Hubei Province, Oct. 11, 2026. (Xinhua/Shen Hongbing)
-This photo taken on Oct. 11, 2026 shows a view of the morning glow over the East Lake in Wuhan, central China's Hubei Province. (Xinhua/Shen Hongbing)
-People enjoy the sunrise by the East Lake in Wuhan, central China's Hubei Province, Oct. 11, 2026. (Xinhua/Shen Hongbing)
-This photo taken on Oct. 12, 2026 shows a view of the morning glow over the East Lake in Wuhan, central China's Hubei Province. (Xinhua/Shen Hongbing)
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1027/c90000-20512896.html</guid>
-    </item>
-    <item>
-      <title>At China's Canton Fair, foreign buyers seek more than products</title>
-      <link>https://en.people.cn/n3/2026/1027/c90000-20512750.html</link>
-      <description>Published: 2026-10-27
-
-At China's Canton Fair, foreign buyers seek more than products
-A staff member of a motorcycle part company introduces the company's products to overseas buyers at the motorcycle section of the 140th China Import and Export Fair, Oct. 15. (Photo/Huang Jiming)
-The 140th China Import and Export Fair, also known as the Canton Fair, is underway in Guangzhou, south China's Guangdong province, attracting around 340,000 overseas buyers.
-Business negotiations remain brisk inside the exhibition halls, but many buyers are also taking their visits beyond the fairgrounds to factories across the Pearl River Delta. They are touring production lines, examining supply chains, and discussing joint R&amp;D.
-More and more overseas buyers are coming to China not just to source products, but to find solutions -- a growing trend in China's trade and economic exchanges with the world.
-The shift from buying products to seeking solutions reflects a broader evolution in the value China's industries offer.
-In the past, international buyers often arrived in China with specific shopping lists. They compared prices, checked delivery schedules, and placed orders, with cooperation largely ending once a transaction was completed.
-Today, many overseas buyers come armed with technical blueprints and market hurdles: how to streamline the whole supply chain from product design to mass production; how to drive down costs quickly when rolling out new technologies; and how to shorten R&amp;D lead times amid ever-shifting consumer trends.
-These questions are difficult for any single factory to answer on its own. China's comprehensive industrial system and well-developed supply chain networks, however, can provide end-to-end solutions. Overseas buyers who come to China to find partners gain more than a product supplier. They gain access to a complete industrial ecosystem encompassing raw material supplies, component manufacturing, technical services, and large-scale production.
-The shift from supplying products to coordinating across entire industrial chains shows how the competitiveness of Chinese manufacturing is increasingly extending across the value chain.
-Innovations in new energy vehicles, intelligent manufacturing, and industrial robotics span multiple fields, including mechanical engineering, electronic components, software systems, and materials processing. If any link fails to connect smoothly with the others, a promising technical concept may never make it to mass production.
-China's advantage lies in its ability to bring together the necessary supporting resources within a relatively compact industrial network, rapidly adjust designs in response to market feedback, and refine products through large-scale production.
-When overseas buyers visit factories in person, they are looking beyond the production capabilities of an individual company. They are also assessing how efficiently upstream and downstream businesses work together and how quickly the wider industrial ecosystem can respond to their needs.
-A humanoid robot showcases its boxing skills at the 140th China Import and Export Fair, Oct. 15. (Photo/Wang Meiyan)
-The shift from Chinese companies going global to overseas buyers coming to China reflects a change in direction, but the underlying principle remains the same: openness, cooperation, mutual benefit and win-win outcomes.
-This is more than a simple reversal of the flow of business. It reflects closer two-way engagement in international trade as industrial specialization deepens. By expanding overseas, Chinese companies can reach new markets and allocate resources globally. Overseas businesses, meanwhile, can tap into China's industrial support networks, technological capabilities and market scale to unlock new growth opportunities.
-Supply chains have never been isolated production lines exclusive to a single country. They are collaborative networks in which businesses across countries participate and work together. By complementing one another's strengths, they can create greater value together.
-At a time when global industrial and supply chains face multiple sources of uncertainty, businesses are placing greater emphasis than ever on supply chain stability, flexibility and resilience. For overseas buyers, a visit to a Chinese factory is therefore more than a sourcing trip. It is also a vote of confidence in China's industrial capabilities, business environment and development potential.
-Where traditional trade exhibitions once functioned primarily as transactional platforms, direct industrial engagement now cultivates enduring partnerships. A single facility tour can initiate a multi-year agreement; a joint production initiative can integrate enterprises across multiple regions.
-China's foreign trade is evolving not only in how businesses cooperate, but also in the role Chinese industries play in global commerce. By making better products, strengthening industrial chains and further improving the environment for opening up, China can help more businesses find partners, room for innovation and opportunities for growth. These connections are making the economic and trade ties between China and the rest of the world ever stronger.
-Overseas buyers discuss machinery specifications with a Chinese technician at the machinery and equipment exhibition zone of the 140th China Import and Export Fair, Oct. 19. (Photo/Wang Meiyan)
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1027/c90000-20512750.html</guid>
-    </item>
-    <item>
-      <title>9th CIIE set to see record number of product debuts</title>
-      <link>https://en.people.cn/n3/2026/1027/c90000-20512612.html</link>
-      <description>Published: 2026-10-27
-
-9th CIIE set to see record number of product debuts
-Flowers are in full bloom at the south square of the National Exhibition and Convention Center (Shanghai), venue for the 9th China International Import Expo (CIIE), on Oct. 17, 2026. (Photo/Wang Yadong)
-The 9th China International Import Expo (CIIE) will be held in Shanghai from Nov. 5 to 10. A total of 162 countries, regions, and international organizations are expected to participate, with the exhibition area exceeding 440,000 square meters for the first time.
-China's Vice Minister of Commerce Yan Dong said this year's CIIE will seek to become more market-oriented, distinctive, and professional, with three key highlights.
-A stronger commitment to openness. The Country Exhibition of the 9th CIIE will bring together 69 countries and international organizations, more than last year. Canada and Sri Lanka will serve as the guest countries of honor, while Moldova, Romania, and three other countries, along with the United Nations Development Programme, will participate for the first time.
-At the Business Exhibition of the 9th CIIE, U.S. companies will occupy more than 50,000 square meters of exhibition space, maintaining their top spot for the eighth consecutive year. Their exhibition area has grown by 1,500 square meters from last year. The Hongqiao International Economic Forum, held alongside the expo, will release a report on China's export capacity development for the first time.
-Stronger momentum for innovation. For the first time, the number of Fortune Global 500 companies and industry leaders participating in the expo will exceed 300. Nearly 200 companies and institutions that have participated in every previous edition will return to this year's expo, while more than 2,000 companies will make their debut.
-Photo shows the Bund in Shanghai. (Photo/Wang Gang)
-So far, more than 480 products have been confirmed for their global, Asian, or China debut at the expo, setting a new record.
-More opportunities for shared growth. Six international organizations, including the United Nations Conference on Trade and Development and the United Nations Industrial Development Organization, will participate in the expo. Government departments and local authorities will work together to organize more than 40 trade delegations and over 600 sub-delegations to the expo to explore business and procurement opportunities.
-The Business Exhibition of the 9th CIIE will exceed 370,000 square meters for the first time. A total of 4,142 companies from 148 countries and regions have signed up, the highest number in the expo's history.
-Xiao Lu, deputy Party secretary of the China International Import Expo Bureau, said the exhibition areas for medical equipment, healthcare products, consumer goods, and food and agricultural products have all been expanded. The Asia-Africa Products Zone will also be upgraded, with more space for African exhibitors. Free booth space for companies from least-developed countries will increase by 17 percent.
-More than 200 products making their global debut or first appearance at the expo will be showcased. They include a cochlear implant capable of detecting sound from all directions, a prototype 6G terminal and a water treatment system that can soften and remineralize water simultaneously.
-For the first time, the expo will feature a global consumer brands showcase.
-"Around 100 long-established, high-quality brands with strong consumer recognition have been selected, with a focus on the guest countries of honor and those featured in this year's 'Export to China' theme," said Xiao.
-The CIIE Shanghai Events and Conferences will provide exhibitors and business visitors with an efficient platform for communication and exchange. Nearly 100 events are being planned, including the release of research reports on companies expanding overseas and bulk commodity price indexes.
-New platforms and services will also be launched, including a cross-border data compliance platform and a digital credit insurance service on the China (Shanghai) International Trade Single Window, while facilitating the signing of a series of cooperation agreements.
-In the first eight months of this year, Shanghai's imports hit a record 1.87 trillion yuan (about $280 billion), accounting for 12.8 percent of China's total imports. As host city of the CIIE, Shanghai is exploring new ways to further expand imports.
-Customs officers inspect air-freighted exhibits arriving for the 9th China International Import Expo (CIIE) at Shanghai Pudong International Airport in Shanghai on Oct. 13, 2026. (Photo/Shen Chunchen)
-Lu Shan, vice mayor of Shanghai, said the city is working to speed up quarantine approval for imported goods and facilitate the transition of goods temporarily imported for exhibition into regular imports for domestic market. It is also upgrading the Waigaoqiao, Hongqiao and Huaihai Xintiandi National Import Trade Promotion and Innovation Demonstration Zones.
-On the supply-chain front, Shanghai is attracting and developing leading supply-chain companies to strengthen its global sourcing and distribution capabilities.
-The city has introduced 18 measures to facilitate customs clearance and set up 123 dedicated customs service desks and channels for the CIIE, enabling exhibits to be inspected and released upon arrival. The number of business negotiation areas has increased to 19, with a total area three times that of the previous edition.
-Lu said more exhibitors are shifting from participating in the six-day expo to establishing a long-term presence in China and increasing their investment.
-In the first eight months, the actual use of foreign capital in Shanghai reached $11.59 billion, up 6.9 percent year on year. The city is now home to 1,120 regional headquarters of multinational companies and 675 foreign-funded R&amp;D centers.
-Leveraging the CIIE, Shanghai is advancing institutional innovation, strengthening financial support and improving business services to foster a world-class business environment that is market-oriented, law-based and aligned with international standards.
-The city has introduced streamlined inspection procedures for imported consumer goods making their debut in China. Customs clearance time has been reduced from a minimum of seven days to as little as same-day release, helping more than 30,000 new products make their Shanghai debut faster.
-Since 2018, Shanghai has attracted more than 1,700 high-profile stores making their debut in China, Asia or worldwide.
-Related Stories
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1027/c90000-20512612.html</guid>
-    </item>
-    <item>
-      <title>Explainer: How a ruling party rules itself -- CPC's perspective</title>
-      <link>https://en.people.cn/n3/2026/1027/c90000-20512458.html</link>
-      <description>Published: 2026-10-27
-
-Explainer: How a ruling party rules itself -- CPC's perspective
-This photo taken on March 11, 2026 shows the Great Hall of the People, the venue for the closing meeting of the fourth session of the 14th National Committee of the Chinese People's Political Consultative Conference (CPPCC), in Beijing, capital of China. (Xinhua/Wang Xi)
-BEIJING, Oct. 26 (Xinhua) -- With more than 100 million members and the responsibility of governing a country of over 1.4 billion people, the Communist Party of China (CPC) faces an enduring task: identifying and addressing issues within its own ranks.
-The task has taken on fresh relevance as the CPC prepares to convene the fifth plenary session of its 20th Central Committee in Beijing on Monday. The four-day meeting is scheduled to deliberate on a draft decision on several major issues on persistently advancing full and rigorous Party self-governance.
-As Chinese President Xi Jinping, also general secretary of the CPC Central Committee, has pointed out, the CPC's full and rigorous self-governance is a great practice in the Party's self-reform in the new era, and has created a new frontier in its self-reform.
-WHY PERSISTENT SELF-REFORM?
-At a gathering marking the CPC's 105th founding anniversary in July, Xi said the Party focuses on self-strengthening and always brims with vigor and vitality, referring to it as one of its fine qualities with no parallel among other political parties and political forces.
-In its pursuit of a better life for the Chinese people, the Party has addressed development challenges through comprehensively deepening reform, while pursuing self-reform to enhance its governing capacity.
-Since the reform and opening-up in 1978, China has undergone profound transformations. Having achieved tremendous success from humble beginnings, reform efforts have now entered a "deep-water zone." Xi once compared the remaining difficult reforms as "tough bones that are hard to chew."
-As reforms have advanced into more complex stages, the CPC views full and rigorous governance of the Party as an essential guarantee. Under the banner of self-reform, the CPC has made persistent efforts to improve Party conduct, build a clean government and fight corruption.
-Haris Bilal Malik, a research fellow at the Institute of Strategic Studies Islamabad in Pakistan, said the CPC's approach treated self-reform as a continuing responsibility of the governing organization. Internal inspections, disciplinary supervision and anti-corruption measures were intended to identify organizational weaknesses, enforce standards of conduct and strengthen policy implementation, he said.
-Members of Communist Party of China (CPC) review the Party admission oath beside the replica of a boat, now referred to as the Red Boat, on which CPC founders concluded their meeting in 1921, on Nanhu Lake in Jiaxing, east China's Zhejiang Province, June 30, 2025. (Xinhua/Xu Yu)
-Helga Zepp-LaRouche, founder and president of the Schiller Institute, linked the CPC's concept of self-reform to the Confucian tradition of lifelong learning and self-improvement. She said improving governance capacity required a political culture within the Party that was oriented toward serving the people.
-Volker Tschapke, honorary president of Germany's Prussian Society, said the CPC's efforts went beyond short-term campaigns, reflecting a commitment to continuous self-examination.
-"This is not for show, this is character," he told Xinhua.
-HOW DOES OVERSIGHT BECOME ROUTINE?
-A central question is how self-reform efforts can bring about lasting changes in how officials and institutions operate.
-The central Party leadership's eight-point decision on improving work conduct, adopted in December 2012, set out rules governing research tours, meetings, documentation and other official duties. Its implementation has targeted problems ranging from the misuse of public funds for holiday gifts to misconduct outside working hours, with regulations, inspections and disciplinary measures reinforcing compliance.
-Anti-corruption efforts have also continued. China's top anti-graft authorities filed cases against 181 officials directly administered by the Organization Department of the Central Committee of the CPC in 2025, according to the work report of the fifth plenary session of the 20th Central Commission for Discipline Inspection.
-The work report also revealed that discipline inspection and supervisory authorities filed more than 1 million cases in 2025 and placed 47,000 individuals under detention. A total of 983,000 people received Party disciplinary or administrative punishment. Some 26,000 individuals voluntarily surrendered.
-Pavel Troshchinsky, a lead researcher at the Russian Academy of Sciences' Institute of China and Contemporary Asia, said China's anti-corruption efforts had moved from "paper requirements" to "real action."
-He highlighted the CPC's emphasis on ensuring that officials dare not, cannot and will not engage in corruption, combining punishment, institutional restraints and stronger ethical awareness.
-The CPC has also institutionalized regular inspections to assess whether Party organizations are implementing central decisions, exercising power properly and fulfilling their responsibilities. Inspection teams identify problems and provide feedback, while the organizations concerned must take corrective action under follow-up supervision.
-In 2025, the fifth and sixth rounds of inspections under the 20th CPC Central Committee were carried out in succession, completing full coverage of all provincial-level regions.
-The emphasis on corrective action can also be seen in China's environmental governance. Central environmental inspections examine whether local Party committees and governments are fulfilling their environmental protection responsibilities.
-Following the first round of inspections, which covered all 31 provincial-level regions by the end of 2017, inspection teams conducted a major follow-up review in 2018, covering 20 regions in two batches. Regulations issued in 2025 also provide for follow-up reviews of corrective action when necessary.
-In south China's Guangdong Province, inspectors found in 2018 that efforts to tackle pollution in the Lianjiang River had made insufficient progress. The findings prompted local authorities to accelerate wastewater treatment projects and tighten controls on industrial discharges. The river's water quality has since improved through sustained cleanup efforts.
-HOW DOES DISCIPLINE SHAPE DEVELOPMENT?
-A farmer shows an edible fungus cultivated with the Juncao technology at Yuanyi Village of Minning Town, Yongning County of Yinchuan, northwest China's Ningxia Hui Autonomous Region, Sept. 11, 2026. (Xinhua/Yang Zhisen)
-The effects of discipline and oversight extend beyond official conduct to the management of public resources and the implementation of development policies.
-Efforts to tackle corruption and misconduct in school meal programs offer an example. In 2025, disciplinary and supervisory authorities across China handled 61,000 cases involving corruption and misconduct in such programs, with 35,000 people receiving Party disciplinary or administrative sanctions, according to a report published in February 2026.
-The authorities also pushed for tighter oversight of school meal funds, procurement and food safety.
-Waleed Gaballah, a member of the Egyptian Association for Political Economy, Statistics and Legislation, said full and rigorous Party self-governance could strengthen fiscal discipline by curbing the misuse of public funds, reducing waste and improving the implementation of development projects.
-Emmanuel Matambo, research director of the Center for Africa-China Studies at the University of Johannesburg, said China's experience highlighted the importance of combining development commitments with the ability to recognize shortcomings and correct mistakes.
-Drawing on China's economic transformation and poverty reduction achievements, he emphasized that governing parties must ensure their policies deliver tangible benefits to the public.
-Tschapke drew on his visits to China to describe the changes he had witnessed in rural communities and infrastructure.
-"I have seen with my own eyes what has been achieved: how villages have blossomed through targeted poverty alleviation, how rural areas have found new hope, how high-speed rail connects people and hearts," he said.
-He associated those changes with the CPC's emphasis on public welfare and its efforts to ensure that resources reach the grassroots.
-Ruslan Yesin, head of the Department of Comprehensive Chinese Studies at Belarusian State University, attributed the CPC's governance achievements to its combination of long-term planning and pragmatic implementation, commitment to mutually beneficial international cooperation, and people-centered approach to development.
-Yesin said China's experience offers valuable lessons for the Global South in sustaining steady growth, improving livelihoods and enhancing the capacity for independent development.
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1027/c90000-20512458.html</guid>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,37 @@
+TITLE:
+Shenzhen pushes embodied intelligent robots into real-world use
+
+PUBLISHED:
+2026-10-28
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261028/9439950250b94bf4b52dcfdcf12979a4/c.html
+
+ARTICLE TEXT:
+SHENZHEN, Oct. 28 (Xinhua) -- South China's tech hub of Shenzhen in Guangdong Province is advancing its embodied intelligent robot industry with moves such as opening a robot school to empower machines with practical capabilities for real-world production and everyday chores.
+The Jubaopen Embodied AI Innovation Community was launched last month, offering a variety of scenarios for companies to collect data, train and test robots. In Chinese, Jubaopen literally means that embodied intelligence treasures gather together.
+True to its name, Jubaopen now serves as a public treasure house for robot companies, acting as a functional community in the Embodied Intelligence Hub in Bao'an District of Shenzhen.
+Shenzhen is one of China's most dynamic cities for the embodied intelligence industry, home to more than 1,100 companies spanning the full industrial chain, from core components to complete-robot manufacturing. Bao'an District alone boasts more than 600 AI and robot firms through major initiatives including the Embodied Intelligence Hub.
+The robot school buzzes with learning and training activities. Many robots are stationed across a rich variety of scenes: beside beds, next to shelves, and inside bathrooms. Some are repeatedly picking up and putting down water bottles, while others are gathering scattered clothes into a laundry basket.
+In a simulated living room and kitchen, technicians from Shenzhen Physen AI Technology Co., Ltd. (Physen AI) are collecting data while performing household chores. Right next door, a fleet of robots mirrors the technicians' movements, with all motion data recorded precisely.
+The data generated at the school is fed back, cleaned, labeled, and turned into "textbooks" for robot learning, supporting subsequent rounds of training.
+Once the training is complete, robots are tested in real-world scenarios on skills that include picking up a water bottle, folding clothes neatly and moving smoothly. Technicians then assess their behavior to decide what data needs improvement, and the training cycle repeats to make the robots smarter and more capable.
+"In the real-world application scenarios built by this robot school, we collect data on-site immediately and test whether it works, greatly cutting our data-collection costs," said Huang Zhishen, founder of Physen AI.
+Shenzhen's robotics sector reached historic highs in 2025. Humanoid robot production surged 83.1 percent year on year to 343,400 units, while the total robotics industrial output value exceeded 240 billion yuan (about 35.7 billion U.S. dollars), up over 20 percent year on year.
+This rapid ascent is a reflection of Shenzhen's strategic focus on high-end innovation, such as embodied intelligence, while leveraging the broader manufacturing capabilities of the Guangdong-Hong Kong-Macao Greater Bay Area.
+The Jubaopen Embodied AI Innovation Community integrates embodied intelligence data services with frontier technology business incubation, aiming to form a closed loop from data collection and training verification to business incubation and industrial deployment, according to Wang Maolin, co-founder of Jubaopen.
+The robot school now covers more than 6,000 square meters. Its standardized robot training scenarios span six core fields: smart home, motion capture, elderly care services, new retail, 3C manufacturing, and AI for Science.
+Beyond these training scenarios, it also connects to real-world venues such as sports stadiums, elderly care institutions, semiconductor factories, and commercial complexes, creating a closed loop of data collection, scenario iteration, and model optimization.
+The school also provides public services to sci-tech companies across the Guangdong-Hong Kong-Macao Greater Bay Area, including standardized data collection, algorithm training, model iteration and product testing. These services help companies effectively reduce R&D spending and shorten commercialization cycles.
+"Challenges of the robotics industry often lie not in concepts or breakthroughs in individual technologies, but in the continuous journey from prototype to engineering and then to scaled production," said Tan Weijia, secretary-general of the Shenzhen Robotics Association.
+Targeting the huge market gap for tens of millions of hours of data required for the commercial deployment of robots, Bao'an District enables robot companies to go through the entire process -- from data collection and model training to real-world scenario testing -- through the robot school and other initiatives.
+Zhang Xutao, deputy director-general of the Science, Technology and Innovation Bureau of Bao'an District, said the launch of Jubaopen precisely fills the embodied intelligence industry's gaps in data supply and early-stage incubation.
+"It effectively tackles pain points such as high R&D costs, fragmented scenarios, and difficult data reuse. Empowered by capital, technology, and real-world scenarios, it helps frontier sci-tech projects take root and grow," Zhang added.
+Jubaopen will move from the training ground to real-world sites such as factories, homes and stores, allowing robots to collect data and further verify their capabilities, according to Wang.
+"It will also upgrade to take on the comprehensive roles of data production, model training and application verification, serving not only as a training hub for embodied intelligent robots, but also a solid public service base for the industry," Wang said. ■
