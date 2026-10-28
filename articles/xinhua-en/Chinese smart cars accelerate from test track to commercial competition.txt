@@ -1,0 +1,33 @@
+TITLE:
+Chinese smart cars accelerate from test track to commercial competition
+
+PUBLISHED:
+2026-10-28
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261028/6b8497f50203434dbf0a4a43c3657eb8/c.html
+
+ARTICLE TEXT:
+BEIJING, Oct. 28 (Xinhua) -- Racing from the test track to the vast arena of commercial application, China's booming smart vehicle models and technologies are breathing new life into the intelligent connected vehicle (ICV) market.
+Industry insiders have noted that the focus of China's ICV industry is shifting from technology validation to scaled commercial competition. Commercial viability, per-vehicle cost and data compliance have become the make-or-break factors for market competition.
+As of Oct. 16 this year, a fleet of BAIC Motor's Arcfox AlphaS vehicles, the Level 3 version, had accumulated more than 150,000 km of road operations.
+This model is one of the first two Level 3 conditional autonomous driving models which received product admission approval from the Ministry of Industry and Information Technology (MIIT) in December 2025, marking China's Level 3 autonomous driving endeavor officially moving from closed-venue testing to road pilot validation.
+Level 3, or conditional driving automation, allows vehicles to perform dynamic automated driving tasks while requiring a human driver to remain available to take control when requested.
+In January 2026, the pilot fleet began scaled on-road pilot operations on designated routes, including the Beijing Daxing Airport Expressway.
+Amid real traffic circumstances, this fleet has been continuously collecting data on complex scenarios such as vehicle cut-ins and traffic flow fluctuations, repeatedly validating perception, decision-making and vehicle-road coordination capabilities.
+Beyond advancing new ICV models through road pilot validation, major Chinese automakers are also turning new technological achievements into real-world application, driving the country's auto industry shift from scale advantages to core technology strengths.
+These automakers have moved to the global technological forefront in vehicle integration, power batteries and intelligent cockpits, with combined driving assistance features becoming increasingly widespread. Major progress is being made across technologies spanning smart-driving chips, fast charging, vibration damping and real-time communication.
+By July this year, 70.5 percent of new passenger vehicles in China were equipped with Level 2 combined driver-assistance functions, while 34.2 percent of automobile models provided the Navigate on Autopilot (NOA) driving functions, Guo Shougang, an MIIT official, said at a press conference.
+The MIIT will accelerate diverse moves to boost progress in the ICV sector. These include scaling up the deployment of network infrastructure such as direct communication, promoting onboard applications of technologies like direct-to-satellite connectivity and the BeiDou system, and expanding multi-scenario connectivity adaptability.
+The ministry will also promote digital upgrades of traffic signals and road markings, advance pilot applications of vehicle-road-cloud integration, speed up scaled applications of vehicle-grid interaction, and actively explore sustainable business models, according to Guo.
+Weng Youling, an official with the Ministry of Transport, said the ministry will work with relevant departments to deepen implementation of innovation initiatives and continuously expand intelligent driving application scenarios.
+Meanwhile, efforts will be made to strengthen digital-intelligent infrastructure support, and drive steady progress in the integrated development of ICVs and the country's transportation sector.
+The MIIT and eight other government departments in early September jointly released a plan for the development of the intelligent connected new energy vehicle (NEV) industry during the 15th Five-Year Plan period (2026-2030).
+The plan proposes that, by 2030, China will further consolidate its advantages across the entire intelligent connected NEV industrial chain and join the ranks of the world's auto powerhouses.
+Intelligent connected NEVs are the main direction for transforming and upgrading the country's automobile industry, typical examples of new quality productive forces, and key components in building a modern industrial system in China, the plan notes. ■

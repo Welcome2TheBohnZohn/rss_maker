@@ -1,0 +1,27 @@
+TITLE:
+Chinese team finds 3 new planets, prompting new questions about Earth's future
+
+PUBLISHED:
+2026-10-28 22:34:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1373168.shtml
+
+ARTICLE TEXT:
+Photo: Courtesy of Qian Shengbang
+Chinese scientists have discovered three exoplanets that challenge the existing understanding of how planets evolve around aging stars, the research team behind the discoveries told the Global Times on Wednesday. 
+Like the sun, most stars generate light and heat by fusing hydrogen into helium in their cores. When their core hydrogen is exhausted, they eventually expand dramatically into red giants, potentially growing to hundreds of thousands or even millions of times their original volume. Nearby planets then face a grim fate: They may be directly engulfed by the stars' expanding atmospheres or gradually pulled toward them by tidal forces until they eventually plunge into the stars, said Qian Shengbang, a professor at the School of Physics and Astronomy at Yunnan University and head of the research team.
+However, the team has identified three exoplanets that appear to have survived in what current models predict to be a danger zone.
+The researchers confirmed that the three host stars have entered the core helium-burning phase after passing through the red giant phase, during which their planets would have been expected to be engulfed at their present orbital distances. The findings reveal a "survival paradox" that challenges current models of stellar and planetary evolution. The discovery of multiple examples suggests that the phenomenon may not be an isolated case and warrants further investigation into possible underlying physical mechanisms, said the team.
+"If we had found only one surviving planet in the past, we could still have explained it as a chance occurrence. But finding three 'lucky survivors' at once suggests that this is not an isolated case and that there may be some underlying physical mechanism common to all of them," Qian said.
+The discovery also raises intriguing questions about the future of our own solar system. In several billion years, the sun is expected to enter its red giant phase. Traditional theories suggest that Earth will most likely be engulfed by the expanding sun, but the new findings highlight the complexity of interactions between aging stars and their planets, potentially offering new insights into planetary survival, although they do not directly change current predictions about Earth's fate, Qian said.
+The team first analyzed subtle changes in the brightness of the three exoplanets' host stars - 24 Boo, HD 12648 and TYC 4282-605-1 - using satellite data and asteroseismology, confirming that the stars had entered the core helium-burning stage.
+Among them, exoplanet 24 Boo b orbits its host star roughly once every 30 days, at an orbital distance of just 18 percent of the distance between the Earth and the sun. It is the closest known exoplanet orbiting a red clump giant star, the team said. 
+The team then used models to reconstruct how far the three stars had expanded during their past evolution and compared these estimates with the planets' current orbits. The results showed that all three planets orbit within the regions where they were theoretically expected to have been engulfed by their host stars. Yet all three have survived and remain in existence.
+The new findings were published in the Proceedings of the National Academy of Sciences as "The Survival Paradox of Close-In Planets Orbiting Red Clump Giants," according to the team.
