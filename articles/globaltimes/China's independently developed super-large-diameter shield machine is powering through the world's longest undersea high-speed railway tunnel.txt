@@ -1,0 +1,63 @@
+TITLE:
+China's independently developed super-large-diameter shield machine is powering through the world's longest undersea high-speed railway tunnel
+
+PUBLISHED:
+2026-10-28 23:08:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1373172.shtml
+
+ARTICLE TEXT:
+A view of the excavation point where China's domestically built, super-large-diameter shield machine, "Yongzhou," operates in Ningbo, East China's Zhejiang Province, in September Photos on this page: Courtesy of China Railway 14th Bureau Group
+Every day, the smartphone of Dong Bing, the chief mechanical engineer of Yongzhou Railway project, buzzes with messages from a machine working deep beneath the seabed.
+The real-time push notifications track almost every aspect of the operation of "Yongzhou," a 135-meter-long, domestically built super-large-diameter shield machine. Whether the cutterhead torque is abnormal, the segments are floating or the main drive oil and seal pressures remain within the safe range all determine whether the multi-thousand-ton "steel giant" can advance safely beneath the seabed.
+"This tunnel boring machine's (TBM) intelligent system is more sensitive than people," Dong told the Global Times on the way to the machine's latest excavation point. 
+"Some problems are impossible to catch by human inspection. You walk past and everything looks fine. Then, a second later, a problem appears. The system can also pull the data together, identify related conditions and analyze possible causes. That is a huge help for safety," he explained.
+Far beneath the sea, "Yongzhou" is approaching one of the most demanding stages of its journey.
+Having advanced more than 4,000 meters from the Ningbo side, the machine has completed about 83 percent of its planned excavation and is heading toward the deepest section, about 93 meters beneath the seabed. After passing that point, it will meet another giant TBM "Dinghai," advancing from the opposite direction on the Zhoushan side, at the designated underwater docking point. The two machines will eventually achieve a precise rendezvous beneath the seabed, before being dismantled inside the completed tunnel. 
+Their destination is part of the Jintang undersea tunnel, a key section of the Yongzhou Railway that connects Ningbo and Zhoushan in East China's Zhejiang Province. Stretching 16.18 kilometers in total, with an 11.21-kilometer shield-driven section, it is the world's longest undersea high-speed railway tunnel.
+The project sets multiple world records: it is the undersea high-speed railway shield tunnel with the highest water and earth pressure, the most complex geology and the greatest construction difficulty. 
+But the significance of this engineering feat extends beyond the tunnel itself.
+Once heavily dependent on imported shield machines, China has now become the world's largest market and producer of these machines. And an on-site visit to "Yongzhou" offers a window into a broader transformation of Chinese high-end manufacturing - from "relying on imports" to "being able to build" to "building intelligently," and from scattered domestic breakthroughs to an integrated innovation capability that combines independent design, core manufacturing, intelligent construction and global engineering services.
+Gnawing through undersea 'ribs' 
+Near the TBM's latest excavation point, the Global Times reporter saw cutters that had just been removed from the machine. Some bore deep grooves and flattened edges. Others had chunks missing from their cutting rings, while still others had been worn down almost beyond recognition. To date, about 4,000 cutters have been replaced.
+Dong said that the machine is expected to reach the deepest section by the end of this year.
+The closer it gets, the more complex the geological conditions become, the tougher the excavation becomes. Previously, the machine needed roughly one cutter replacement for every meter of advance. Now, Dong explained, a cutter may need to be replaced after just a few dozen centimeters.
+"If excavating through ordinary soil is like eating a meat-filled bun, then working here is like eating a bun filled with ribs. You not only have to deal with the 'meat' inside, but also gnaw through the hard 'bones' bit by bit," Dong said, using an analogy from everyday life.  
+Along the Ningbo side route, the machine must navigate eight sections of full-face hard rock, 12 sections of mixed upper-soft and lower-hard strata and four sections of full-face soft soil. Nearly 70 percent of the route consists of unfavorable ground conditions, with rock strength reaching as high as 240 megapascals - more than eight times that of ordinary concrete.
+In some sections, the cutterhead must simultaneously deal with soft soil and extremely hard rock - posing another challenge. 
+In such a context, the China Railway 14th Bureau Group tailored the "Yongzhou" TBM for these conditions. It has an excavation diameter of 14.57 meters and is equipped with 308 cutters on its cutterhead. The TBM was put into operation in May 2024.
+TBM operators work at the operator cab of "Yongzhou" in Ningbo, East China's Zhejiang Province, in September.
+Becoming 'smarter'
+The innovations on "Yongzhou" - ranging from undersea "space station," to remote driving and artificial intelligence (AI) models - all demonstrated a new direction for Chinese TBM technology: not only making the machines bigger and stronger, but also making them smarter and more efficient.
+When the Global Times reporter visited "Yongzhou" last week, the TBM was in the middle of another intensive round of cutter replacement. 
+Unlike conventional pressurized entry techniques, which limit workers' effective working time to as little as 40 minutes a day under high pressure, the "Deep Sea Space Station" - China's first independently developed saturation-pressure intervention system for shield tunneling - allows technicians to remain in a pressurized living chamber and work in shifts over up to 28 days.
+Dong could still vividly recall the station's first application in February, when nine professional saturation divers, divided into three groups, carried out a 22-day operation at a depth of approximately 75 meters, replacing 46 cutters in total.
+"I was under tremendous pressure, but at the same time, I felt excited because we're advancing a very revolutionary innovation. Once we are successful, the homegrown innovation will fill a domestic technical gap, helping tackle one of the most challenging aspects of deep undersea tunneling while also accumulating valuable experience and technical reserves for future long-distance tunnels built under high water pressure," Dong said. 
+The equipment has a maximum operating depth of 200 meters. And to date, it has successively completed cutter replacement tasks at 75 meters and 80 meters beneath the seabed.
+Another intelligent push Dong's team is pioneering is a remote-driving platform, also the first-of-its-kind application for a large-diameter TBM.
+"With manned supervision onboard, a TBM operator can now sit at the ground control center, about four kilometers from the excavation point, and control the machine as it advances underground - a sharp transformation from traditional construction, in which operators must work inside the machine deep underground," said Cheng Jie, assistant TBM operator.
+Making such remote operations possible is a sophisticated smart digital system that acts as the TBM's "eyes and ears" deep beneath the seabed.
+Through cameras and sensors, the system continuously tracks the cutterhead's operating conditions, cutter wear and key excavation parameters, while analyzing the data to detect potential abnormalities. When something unusual occurs, it can send real-time alerts directly to the phones of key engineers, including Dong, allowing them to identify risks and make informed decisions.
+According to Cheng, the next step is moving toward intelligent operation.
+"In the future, operators may only need to issue a start command, and the TBM will automatically activate its propulsion system according to preset parameters," she said, highlighting the technology as an important preparation for construction in hazardous environments and emergency situations. 
+"The next generation of Chinese TBMs will move toward greater sophistication, intelligence and environmental sustainability," said Hao Weiqi, deputy director of the office of the High-end Equipment Industry Technology Research Institute under China Railway Construction Corp.
+The research institute has been focusing on intelligent excavation, digital twins and remote monitoring to enable underground construction with fewer workers or even unmanned operations. Besides, by integrating with AI, simulation technologies and digital twins, Chinese companies are moving beyond supplying individual TBMs toward providing comprehensive underground engineering solutions. 
+A view of the excavation point where "Yongzhou" operates in Ningbo, East China's Zhejiang Province, in September
+The 'king of engineering machinery'
+TBM, known as the "king of engineering machinery," is a hallmark of high-end equipment. Chinese-made full-face TBMs now account for more than two-thirds of the global market and over 95 percent of China's domestic market for new machines, according to industry data.
+The Global Times learned from China Railway Construction Heavy Industry Corp that the company's TBMs have been exported to more than 30 countries and regions, including Türkiye, South Korea, Italy, Zambia, Peru and Romania. 
+"Chinese companies' core advantage is the ability to customize equipment for different geological conditions compared with other foreign peers. We can tailor machines to specific underground environments while providing integrated solutions that combine equipment, intelligent systems and technical services throughout the entire construction process, backed by rapid delivery and response," Hao said.
+The growing global competitiveness was a sharp contrast to the scene a few decades ago, when China's underground construction projects depended heavily on foreign-made TBMs. 
+Those machines were expensive to purchase, while maintenance and repairs were often constrained by overseas suppliers, Dong recalled.
+"It is through continuous efforts by Chinese enterprises, based on the on-site needs of major projects, that they have continuously tackled key challenges and gradually achieved domestic substitution, moving from imitation and catching up to independent innovation and partial leadership," Hao said.
+China has also achieved technological self-reliance in key TBM components, including cutterheads, cutters, main drives, an 8.61-meter integral ultra-large-diameter main bearing, intelligent numerical control systems and seals, overcoming multiple technological bottlenecks, Hao added.
+Across the country, homegrown TBMs have been deployed in an increasingly wide range of tunneling projects, navigating complex geological conditions beneath rivers, lakes, seas, mountains and cities. Among them, the "Linghang," the world's largest-diameter shield machine designed for high-speed railway tunneling, has successfully passed beneath the Yangtze River, while the "Shenjiang-1" also set a record for underwater shield excavation at a depth of 113 meters beneath the seabed.
+The Yongzhou Railway, where "Yongzhou" is currently operating, is expected to open to traffic in 2028. By then, the high-speed rail journey from Ningbo to Zhoushan will take only 26 minutes, ending Zhoushan's history of having no railway connection.
+"We're now so close to the rail industry's dream of crossing the strait," Dong said, as the massive machine continued its journey deep beneath the seabed.
