@@ -1,0 +1,32 @@
+TITLE:
+AI drives digital transformation in China's primary care
+
+PUBLISHED:
+2026-10-29
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261029/d7e034c923674ede8ed386ae3df1cddb/c.html
+
+ARTICLE TEXT:
+BEIJING, Oct. 29 (Xinhua) -- China is introducing AI-powered tools in community health centers to speed up the digital transformation of grassroots healthcare, improve primary care, expand equitable access and enhance public well-being.
+Artificial intelligence (AI) assistants that support voice-based consultations, automated medical records, medication-risk screening, follow-up reminders and health education are appearing in community health centers. They are becoming a key part of the digital transformation of grassroots healthcare.
+The push comes as family doctors in China take on a wide range of duties, from resident registration and chronic-disease follow-up to initial screening and public-health record keeping, often burdened by heavy paperwork and limited staffing.
+AI-assisted family-doctor services have been introduced in many cities and provinces this year.
+In May, the Longgang District of Shenzhen in south China's Guangdong Province launched the "Ant Afu" app, allowing residents to check medical reports, obtain AI-assisted interpretations, sign up for family-doctor services and link family members' health information.
+In Beijing's Fengtai District, the Majiapu Community Health Service Center has deployed an AI family doctor and an AI health steward. Built on large models and AI-agent technologies, the system supports chronic-disease management, wearable-device monitoring and automatic risk alerts, with high-risk cases forwarded to contracted family doctors.
+In Wuxi, east China's Jiangsu Province, AI was used in a citywide cancer screening campaign. Residents completed risk self-assessments through a mobile app or an AI-powered voice questionnaire, and big-data models identified high-risk groups for follow-up screening at 49 institutions equipped with AI-assisted imaging, ultrasound and endoscopy systems.
+According to the Wuxi Municipal Health Commission, the AI-enabled screening significantly improved cancer detection among high-risk groups, with liver and lung cancers detected at markedly higher rates than in the general population.
+Industry insiders say the most significant shift is that AI is moving from isolated add-on tools into routine clinical workflows in some community health centers. Earlier systems often required doctors to open separate applications for image reading or diagnostic support. The newer AI systems are being integrated with hospital information systems and health-checkup platforms, so that AI prompts appear within the interfaces doctors already use.
+"AI used to seem lofty and unrelated to primary care," said Nie Chunlei, vice president of the Community Health Association of China. "But now we can see it has taken root at the grassroots level."
+With growing demand and expanding real-world deployments, more tech companies are entering the sector, further driving the digital upgrade of grassroots healthcare services.
+Ant Group's Ant Afu health app has rolled out its "AI agent plus human doctor" model in more than 40 cities. Tens of thousands of grassroots doctors use the platform, and it had served more than 5 million residents by mid-August this year.
+The push is not limited to Ant Group. JD Health, Runda Medical and others are also ramping up investment in primary-care AI, each drawing on its own strengths.
+Policy support has become more explicit. In October 2025, five national agencies issued guidance identifying intelligent clinical decision support, AI-enabled family-doctor services and coordinated chronic-disease management as priority areas. The guidance sets a goal of basically achieving full coverage of AI-assisted diagnosis and treatment in primary care institutions by 2030.
+Still, industry insiders caution that scaling AI across primary care requires careful adaptation. AI cannot simply be transplanted into primary care; it must be tailored to frontline needs, embedded in daily workflows and built into applications that are replicable, scalable and can be regulated -- challenges that will take time to resolve.
+Sun Dehui, R&D director at the Beijing Medical Robotics Industry Innovation Center, said primary-care AI is a clear long-term direction for public health. With policy support increasingly focused on the grassroots level, the sector is poised for rapid growth in the coming years, offering significant market potential while continuing to ease the burden on frontline clinicians and benefiting residents with chronic conditions. ■
