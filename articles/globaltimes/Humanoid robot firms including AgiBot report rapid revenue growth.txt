@@ -1,0 +1,30 @@
+TITLE:
+Humanoid robot firms including AgiBot report rapid revenue growth
+
+PUBLISHED:
+2026-10-29 22:31:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1373258.shtml
+
+ARTICLE TEXT:
+An AgiBot robot gives a tea ceremony demonstration at Chimelong Spaceship Park in Hengqin, Zhuhai, South China's Guangdong Province. Photo: Courtesy of Chimelong Group
+Multiple Chinese developers of humanoid robots have released upbeat financial and operational figures, showing robust revenue expansion amid the accelerating global adoption of embodied artificial intelligence (AI) machines.
+Peng Zhihui, co-founder of AgiBot, said on Thursday that the company's revenue for the first half of 2026 came close to 2 billion yuan ($300 million). The firm disclosed that the cumulative production of its general-purpose AI humanoid robots had hit 20,000 units as of September.
+In comparison, AgiBot achieved revenue of 1.05 billion yuan for the full year of 2025, it revealed in April this year.
+In terms of shipments, AgiBot said that it shipped 9,700 humanoid robots in the first half of 2026, capturing a 43.1 percent global market share and retaining its top spot worldwide, citing data from Counterpoint Research.
+"These figures demonstrate our capacity to manufacture robots in a sustained, stable and large-scale manner — and crucially, to deploy them effectively. Building a functional prototype in a lab, designing a product fit for mass production, and establishing supply chains, quality control systems, production rhythms, delivery networks and long-term maintenance frameworks are entirely separate challenges," the company told the Global Times on Thursday. 
+Peer rival Unitree Robotics also delivered strong results. Its revenue reached 1.817 billion yuan in the first nine months, up 55.71 percent year-on-year, while net profit attributable to shareholders surged 270.54 percent to 387 million yuan, according to the company's financial report. Third-quarter revenue rose 69.93 percent to 665 million yuan. 
+Siasun Robot & Automation released its third-quarter results on Wednesday, showing that the industrial robot giant generated 986 million yuan in revenue, up 76.6 percent year-on-year.
+The humanoid robot sector is at a critical takeoff stage, transitioning from technical validation toward large-scale real-world deployment. Leading players have generally posted rapid revenue growth, fueled by unlocked mass-production capabilities, expanding domestic use cases and rising overseas sales, Wang Peng, an associate research fellow at the Beijing Academy of Social Sciences, told the Global Times on Thursday. 
+The growth logic of the industry has shifted from its early reliance on demonstration orders and policy-backed pilot projects to sustained penetration into genuine commercial scenarios. Regular deployments are gaining greater traction across the industrial, cultural tourism, research and education sectors, he added. 
+The industry is undergoing supply-side consolidation and upgrades of its business model. Top firms are moving beyond pure hardware sales toward integrated solutions with long-term operational services. Aligned with the push for new quality productive forces, the industry is rapidly building a globally competitive Chinese robotics ecosystem, Wang noted. 
+China is now home to more than 140 humanoid robot manufacturers. In 2025, producers shipped 14,400 humanoid robots, accounting for roughly eight in every 10 units shipped globally, the Xinhua News Agency reported in September. 
+Market watchers said that the strong revenue numbers represent a milestone for China's humanoid robot sector, proving that local industrial chains are capable of supporting mass manufacturing, rather than merely building prototype units. But industry insiders cautioned that large-scale production is not the finish line of commercialization.
+Competitions may showcase robots' extreme performance limits, yet real value comes from steady commercial deployment. These robots are designed not only for demonstration events, but also for long-term operation inside factories, shopping malls and other real-world sites, they said.
