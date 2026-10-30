@@ -1,0 +1,58 @@
+TITLE:
+How China's desert energy bases fuel the world's largest renewable energy system
+
+PUBLISHED:
+2026-10-30 22:19:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1373335.shtml
+
+ARTICLE TEXT:
+A view of the energy storage area at the China Three Gorges Corporation's Ulanqab green power station in Ulanqab, Inner Mongolia Autonomous Region Photo: Courtesy of China Three Gorges Corporation
+At midday, more than 25,000 mirrors turn with the sun on a stretch of the Gobi in Jinta county, Northwest China's Gansu Province. Their reflections converge on a receiver high above the ground, where molten salt flowing through pipes absorbs the concentrated heat.
+The heat can be stored in tanks and used later to produce steam that drives a turbine. Even after sunlight fades from the mirror field, the energy collected during the day can continue generating electricity. 
+For Zhao Bin, who had spent nearly a decade working in the region, the harsh landscape held an opportunity. "It is precisely this harsh environment that gives rise to exceptional wind and solar energy resources," the head of the Jinta multi-energy complementary project told the Global Times.
+Across China's deserts, Gobi and other arid areas, collectively known in Chinese as "shagehuang," large wind and solar bases are putting those resources to work. Their development increasingly involves coordinating generation, storage, transmission and the industries that use the electricity.
+Chinese President Xi Jinping emphasized on October 16 that green development is an inherent requirement of high-quality development, calling for efforts to coordinate high-quality development with high-level environmental protection. He made the remarks during an inspection trip to the city of Ulanqab, North China's Inner Mongolia Autonomous Region.
+China has built the world's largest renewable energy system. By the end of 2025, its combined installed wind and solar power capacity had reached 1.84 billion kilowatts. The country plans to add about 1 billion kilowatts of wind and solar capacity during the 2026-2030 period, or roughly 200 million kilowatts a year, the People's Daily reported. China has also set a target for non-fossil fuels to account for 25 percent of energy consumption by 2030 and more than 30 percent by 2035, while aiming to bring total wind and solar capacity to 3.6 billion kilowatts by 2035.
+From the mirror fields of Gansu to the solar farms of the Kubuqi Desert and computing centers in Ulanqab, the practical challenge is to turn abundant but variable wind and sunlight into reliable electricity, local livelihoods and new industries. 
+Power on the grassland
+In Ulanqab, a small change on a monitoring screen once brought that challenge into view for wind-power worker Xing Yichen. 
+When Xing arrived at the green power station project of the China Three Gorges Corporation in Ulanqab in 2021, something unfamiliar caught his eye on an otherwise familiar monitoring screen: battery icons. 
+He later learned that the new symbols represented equipment that would give the station another way to manage its electricity.
+Wind and solar generation rise and fall with the weather, often producing electricity at times that do not match demand. The batteries allow the station to store some of that electricity and release it later, helping bridge the gap between when power is generated and when it is needed, according to the Three Gorges Corp.
+Located on the grasslands of Siziwang Banner, the project combines 2 gigawatts of wind and solar generation with a 550-megawatt battery system that can discharge at full power for two hours. A coordinated control system assigns output among the turbines, solar installations and batteries in response to grid instructions, allowing them to work together to balance electricity supply and demand, according to the company. 
+The company described how this works at its Jihong No. 1 station during the summer electricity-demand peak. When solar output surges around midday, batteries make short charging and discharging adjustments to capture electricity that would otherwise be curtailed. They can then release stored power quickly during the afternoon demand peak. 
+Horses graze near wind turbines on the grassland in Ulanqab, North China's Inner Mongolia Autonomous Region. Photo: VCG
+Winter brings a different operating pattern. Periods of strong renewable output can last longer, allowing the station to absorb larger quantities of surplus wind and solar electricity. Stored energy is then released when heating demand rises and the grid has room to receive it. These decisions also respond to the electricity market. Under the station's own dispatch arrangements, operators consider forecasts of renewable output and spot-market prices when deciding when to charge and discharge. Under direct grid dispatch, the batteries follow instructions intended to balance supply and demand. 
+By the end of September, the project had generated about 3.22 billion kilowatt-hours of electricity during 2026, according to the company. Yet storage has not eliminated curtailment. The project recorded a 25.91 percent curtailment loss rate in the first nine months of 2026.
+Working with the land
+For residents living beside the projects, the changes can be seen close to the ground.
+In Guanjing village in Dalad Banner, Ordos, Inner Mongolia, villager Feng Hui pointed toward a solar project as he described its benefits to Xinhua in September 2025. Alongside ecological improvements, he cited compensation villagers received for the use of their land.
+At a Kubuqi solar project, farmers and herders have also been raising chickens and growing crops beneath the panels with guidance from desertification-control specialists. The activity adds another use to land already producing electricity. 
+Making that combination work requires attention to the conditions around each panel. Zhao Jinquan, a construction manager at the Mengxi Kubuqi photovoltaic desertification-control project, explained that the panels provide shade and shelter from wind, reducing evaporation and improving growing conditions. Water used to wash the panels can also irrigate vegetation at the project, according to the report.
+The work extends beyond planting directly underneath the arrays. In an interview with the Global Times, Jin Jian, who headed a Chinese new energy company's office in the Middle East and Central Asia, described measures at a Kubuqi project that included windbreak belts, upright barriers made from sand willow branches, and drought-tolerant shrubs and grasses beneath the panels. 
+Staff members inspect a solar power station in Ordos, Inner Mongolia Autonomous Region, on August 13, 2025. Photo: VCG
+Water availability remains a condition for such restoration. In an October account of its ecological work, the Ordos ecology and environment bureau said the city treats water resource carrying capacity as a prerequisite for ecological construction and chooses trees or grasses according to local conditions. 
+In July, a new large-scale energy base entered the construction phase in the Kubuqi Desert. The project will bring together wind and solar power, energy storage and supporting thermal generation, with electricity to be transmitted to Shanghai through a planned ultra-high-voltage line.
+Hao Wenyi, general manager of Huaneng Kubuqi Power Generation Co, gave the People's Daily a sense of its dimensions: Driving from the southern to the northern end of the existing solar arrays took half an hour, although they represented only about one-eighth of the total planned capacity. The base has a planned installed capacity of 15.14 gigawatts and is expected to be completed in 2030. 
+Following the electricity
+Alongside sending electricity to distant users, renewable-rich regions are developing industries that can use more of it nearby. In Ulanqab, that connection reaches into autonomous driving and scientific research. 
+Xpeng's Fuyao autonomous-driving computing center and Fudan University's Qiewen No. 1 scientific computing cluster are both deployed at Alibaba Cloud's Ulanqab computing center, the city's big data bureau told the Global Times. The workloads give a concrete purpose to the servers being installed in the city: training driving systems and supporting research. 
+Ulanqab's appeal combines renewable resources with a cool climate and its location near major markets. Local authorities are now working on how electricity infrastructure can support the computing industry's continued growth.
+At the Zhongjin Data low-carbon computing base, the first batch of an integrated generation, grid, demand and storage project was connected in July 2025. The project pairs computing demand with 200 megawatts of wind power, 100 megawatts of solar power and battery storage designed for four hours of operation. 
+Once fully operational, the associated renewable generation is expected to replace 38.74 percent of the base's annual electricity consumption, according to the bureau. The figure describes the project's expected contribution at full capacity. 
+The industrial opportunities extend into the equipment and services needed to build and operate these facilities. Chahar High Tech Development Zone has developed a wind power equipment chain covering turbines, blades, nacelle covers and supporting systems, the Global Times learned from the development zone.
+Around computing centers, businesses are producing electrical equipment and server cabinets, recovering and reusing servers, and providing maintenance, data services and training. The city's computing industry chain employs more than 1,600 people, according to the big data bureau. 
+Local training is developing alongside those businesses. Ulanqab Vocational College and Huawei have jointly established an industry college that trains about 500 people annually in areas including computing resource scheduling and AI applications. 
+As the renewable industry matures, another type of work is emerging around equipment reaching the end of its first service life. 
+In August, Xinyuan Jiuquan, a subsidiary within China Resources Recycling Group's new energy business, began a project to remanufacture 25 retired wind turbines that had served for more than 15 years. Ageing equipment, declining generating efficiency and rising maintenance costs had brought the machines to retirement. 
+Technicians inspect and assess their components, repair damage and restore transmission systems. A remanufactured prototype has been completed, with potential applications including distributed wind generation, small captive power stations and auxiliary industrial power supply. The project adds equipment recovery and reuse to the industrial activity surrounding renewable development.
+Back in Jinta, the technology used to operate the mirror field is also changing. In a June media report, a visitor from Kazakhstan asked Zhao whether the station used artificial intelligence. 
+Zhao explained that AI tools were being introduced for abnormal-data alerts, assistance with electricity market decisions and on-site safety management. Staff could check monitoring data for the station through a mobile phone app - another tool for managing the electricity collected by the mirrors outside.
