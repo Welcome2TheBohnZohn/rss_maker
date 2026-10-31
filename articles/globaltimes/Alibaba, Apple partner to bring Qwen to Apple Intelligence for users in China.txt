@@ -1,0 +1,34 @@
+TITLE:
+Alibaba, Apple partner to bring Qwen to Apple Intelligence for users in China
+
+PUBLISHED:
+2026-10-31 11:15:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202610/1373351.shtml
+
+ARTICLE TEXT:
+Apple Intelligence Photo: VCG
+Chinese tech company Alibaba officially announced a partnership with Apple on Saturday to integrate its Qwen large language model into Apple Intelligence, allowing users in China to access Qwen's text and image understanding capabilities and content generation directly within Siri, Writing Tools and Visual Intelligence. 
+The features will be available for testing with Apple’s latest iOS developer beta on November 4, 2026, and will launch publicly with the official release of iOS 27.3 in December 2026. 
+For requests, Siri will be able to call on Qwen's broader knowledge to answer directly. Users will also be able to ask questions about selected photos and documents. Apple asks for consent before any question, document or image is sent to Qwen, according to a statement published on Alibaba’s WeChat account on Saturday.
+The release lists the first features Apple is bringing to supported iPhones in China. Apple said in a press release on Saturday that the first wave of Apple Intelligence features is coming to users in China. 
+The release describes Apple Intelligence as driven by Apple’s self-built generative models and deeply integrated into the apps and experiences people use every day for writing, self-expression, and getting things done.
+Apple said support for other platforms will follow after the necessary approvals are obtained.
+Alibaba said Qwen is also built into Apple's system-level Writing Tools, adding a Compose with Qwen feature that can generate content on any topic — and images as well.
+On iPhone, Visual Intelligence lets users learn more about their surroundings, including an Ask Qwen option to identify what is in front of them. Visual Intelligence can be launched from Camera Control, the Action button or Control Center.
+The integration is opt-in. Once enabled, users can sign in with either Sign in with Apple or their own Qwen account, and they control when Qwen is used and what information is shared. Alibaba said that user requests and generated replies will not be used to train its models.
+The Qwen integration will initially be available on iOS to users in China who bought an Apple Intelligence-capable iPhone, or whose device region and Apple account country are both set to China.
+Apple's initial China rollout will also include real-time translation, photo object removal, notification and email summaries, smart replies, and tools for rewriting, proofreading and summarizing text, according to Apple’s release.
+The first batch of features will be available on supported iPhones, including the iPhone 15 Pro and Pro Max, iPhone 16 and later models, iPhone Air and iPhone Duo, with device and Siri languages set to English or Simplified Chinese, according to Apple.
+“Qwen will draw on Alibaba’s deep AI capabilities to integrate deeply into the various experiences of Apple’s ecosystem, and together bring brand-new intelligent services to Apple users in China,” said Alibaba Group CEO Eddie Wu Yongming.
+Analysts said the development marks a significant step in bringing Apple's artificial intelligence to the Chinese market, as the US technology giant seeks to expand its AI ecosystem through cooperation with Chinese technology companies.
+Earlier this month, China's Ministry of Industry and Information Technology granted approval for Alibaba’s AI models to be integrated into several Apple handsets, including the new iPhone Duo, in the Chinese market.
+In July, Apple Intelligence appeared among seven on-device generative AI services that completed regulatory filing procedures in China. 
+Global Times

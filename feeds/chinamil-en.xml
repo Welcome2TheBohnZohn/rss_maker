@@ -7,7 +7,15 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 01:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:24:42 +0000</lastBuildDate>
+    <item>
+      <title>J-16D electronic warfare aircraft takes off</title>
+      <link>http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16497113.html</link>
+      <description>Published: 2026-10-31
+
+A J-16 multirole heavy fighter jet attached to a unit with the air force under the Chinese PLA Southern Theater Command soars into the sky during a combat training exercise on October, 16, 2026. (eng.chinamil.com.cn/Photo by Yang Runyue)</description>
+      <guid isPermaLink="false">http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16497113.html</guid>
+    </item>
     <item>
       <title>PLA conducts combat readiness patrols around China's Huangyan Dao</title>
       <link>http://eng.chinamil.com.cn/2025xb/H_251454/L_251456/16497205.html</link>
@@ -131,14 +139,6 @@ Military vehicles attached to the Chinese PLA Air Force maneuver across the vast
 
 A ZBL-08 infantry fighting vehicle attached to a brigade under the Chinese PLA 77th Group Army fires an HJ-73 anti-tank missile during a live-fire shooting assessment. (eng.chinamil.com.cn/Photo by Tang Haoyi)</description>
       <guid isPermaLink="false">http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16496496.html</guid>
-    </item>
-    <item>
-      <title>Army troops carry out CBRN decontamination drill</title>
-      <link>http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16495176.html</link>
-      <description>Published: 2026-10-26
-
-Soldiers assigned to a regiment under the Chinese PLA Army conduct chemical hazard detection during a Chemical, Biological, Radioactive and Nuclear (CBRN) decontamination drill on October 10, 2026. (eng.chinamil.com.cn/Photo by Zeng Cunjun)</description>
-      <guid isPermaLink="false">http://eng.chinamil.com.cn/2025xb/H_251454/F_251457/16495176.html</guid>
     </item>
   </channel>
 </rss>

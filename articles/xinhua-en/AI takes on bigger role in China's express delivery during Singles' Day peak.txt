@@ -1,0 +1,30 @@
+TITLE:
+AI takes on bigger role in China's express delivery during Singles' Day peak
+
+PUBLISHED:
+2026-10-31
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261031/0c16b318ace74fd393889db9f0eca385/c.html
+
+ARTICLE TEXT:
+BEIJING, Oct. 31 (Xinhua) -- A drone hovers overhead, calibrating its position as a smart locker below opens its double doors. A package is lowered precisely into the compartment before the doors close. Later, a customer collects it with a code, with no courier on site.
+Scenes like this are becoming common during this year's Singles' Day shopping rush, as China's express delivery industry pushes artificial intelligence (AI) deeper into frontline operations. From sorting centers to last-mile delivery, delivery companies are deploying intelligent agents, robots and predictive models to streamline the entire delivery chain.
+The Singles' Day shopping festival, also known as Double 11 because it falls on Nov. 11, is China's annual online shopping carnival and one of the world's biggest retail events.
+The most visible change this year is that AI is no longer confined to back-office analytics. STO Express, one of China's major couriers, has deployed AI "digital employees" through its SClaw intelligent-agent platform. The system can assist with customer inquiries, intercept abnormal shipments, plan trunk-line routes and help couriers make outbound calls and optimize delivery sequences. A digital quality-control system is also flagging risks for fresh produce and other sensitive parcels.
+"The core change at STO Express this year is using AI computing power to take on part of the frontline physical workload, while proactive services help absorb peak pressure. We are raising efficiency without compromising safety, ensuring the entire network can steadily handle this prolonged peak season," said Luo Jian, who oversees Double 11 operations at STO Express.
+Beyond frontline support, delivery companies are using intelligent decision systems to improve resource allocation. JD Logistics, the logistics arm of Chinese e-commerce giant JD.com, has rolled out its upgraded Super Brain 3.0 large model as a decision-making hub, forecasting order volumes by region and adjusting nationwide logistics capacity in real time. The company said AI-recommended delivery routes have an adoption rate of more than 90.2 percent.
+In specific operational scenarios, logistics robots are expanding their reach. JD Logistics is deploying embodied intelligent robotic arms at scale in sorting centers, and the arms have achieved a parcel tracking accuracy rate of 99.9 percent. Drones are also delivering to remote villages in southwest China, where mountainous terrain and river crossings have long made last-mile delivery difficult.
+AI applications are also extending into broader supply-chain management. SF Express is using sales forecasts and digital supply-chain tools to move inventory closer to consumers in advance, shortening the last-mile delivery distance. YTO Express has embedded more than 100 intelligent agents into route optimization, dispatch analysis and customer-service workflows, and put 28 digital employees to work in operations and customer service. Digital-twin systems now cover its entire network of consolidation hubs.
+The changes are not limited to the logistics chain itself. Zhang Yi, vice-president of the Guangdong Internet Society, said AI applications are now used across the entire e-commerce operation cycle, from product selection and content creation to traffic acquisition, customer service and competitor analysis.
+This shift is reflected in the latest data. A recent report by the China Federation of Logistics and Purchasing showed that AI adoption in China's logistics and supply chains had exceeded 37 percent, with transport at 78 percent, safety and compliance at 52.73 percent, and smart warehousing at 47.27 percent.
+China's express delivery sector handled 151.3 billion parcels in the first nine months of 2026, up 4.3 percent from a year earlier, according to the State Post Bureau. The scale of the market continues to provide diverse real-world scenarios for AI deployment across the logistics chain.
+Hu Dajian, vice-president of the China Federation of Logistics and Purchasing, said AI is shifting from isolated applications to whole-chain coordination, extending from single enterprises to broader industrial-chain collaboration.
+This whole-chain push is backed by national policy. The deployment comes as China promotes deeper integration of AI into the real economy. In 2025, China released a policy document to advance the "AI Plus" initiative, setting out goals and priorities for integrating AI across the economy and society.
+As these efforts take hold, industry observers said the broad commercial rollout of AI, from drones and unmanned vehicles to robotics and digital employees, has become a major highlight of this year's Singles' Day shopping peak, signaling that the next competitive edge will come less from scale than from AI embedded across the entire operational chain. ■
