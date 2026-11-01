@@ -1,0 +1,30 @@
+TITLE:
+GT Voice: China's memory chipmakers may lead game of innovation
+
+PUBLISHED:
+2026-11-01 21:11:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373419.shtml
+
+ARTICLE TEXT:
+CXMT File photo: VCG
+China's memory chip industry is moving into new technological territory. Leading memory chipmaker CXMT recently disclosed that it had completed engineering-sample validation of its sixth-generation process technology platform, building upon a key breakthrough in 4F² vertical-channel dynamic random-access memory (DRAM) architecture. 
+The evolution has prompted speculation that CXMT could become the first company in the world to bring 4F²-based products to market, if all goes well. While the outcome remains to be seen, the prospect has already added a new dimension to competition in the global memory arena.
+Memory chips are used in virtually every modern electronic device that stores data, from smartphones, personal computers and data centers. As artificial intelligence (AI) adoption expands, global demand for memory chips is growing, bringing the industry into greater focus.
+At the heart of this progress is a new architecture known as 4F². Current mainstream DRAM products use a 6F² cell structure. The 4F² architecture is designed to reduce the area occupied by each memory cell, allowing more data to be stored on a chip of the same size. This makes it an important upgrade to watch in the evolution of next-generation memory technology.
+Samsung Electronics and SK Hynix are also exploring such technologies to increase the density of memory integration. According to SBS News, SK Hynix said during a recent earnings call that it plans to develop technologies for a transition to 4F². Yet based on the progress publicly disclosed so far, CXMT appears to be among the global frontrunners in advancing 4F² toward engineering validation.
+For years, China's memory chip industry has been judged by how quickly it could close the gap with the world's leading players. But that story is beginning to change. 
+While publicly available information is still too limited to make a precise comparison between CXMT's progress on 4F² and that of its international competitors, and the eventual outcome will depend on a range of other factors, CXMT's latest advances offer a glimpse of what is to come.
+China's memory chip industry is beginning to chart a technological path of its own, rather than follow the course set by established players. Its advances in 4F² suggest that Chinese chipmakers are moving into some of the most advanced areas of next-generation memory research. 
+While the available information offers only a limited basis for assessing how Chinese firms compare technologically with established competitors in South Korea and the US, catching up is no longer the only measure of progress. China's memory chipmakers are moving beyond the task of closing the gap and becoming participants in the competition at the technological frontier of next-generation memory.
+China's memory chip industry is charting a course with real potential for long-term growth. CXMT reported revenue of 269.02 billion yuan ($40.39 billion) in the first nine months of 2026, up 738.51 percent year-on-year, and net profit attributable to shareholders of 132.04 billion yuan, reversing a year-earlier loss. The results point to a stronger financial foundation, giving CXMT greater capacity to sustain investment in tech innovations and expand production.
+CXMT is developing a business model in which commercial returns and technological progress reinforce each other. This offers evidence that China's memory chip industry is on the right path toward building up its competitiveness.
+The progress of Chinese memory chipmakers could also benefit the global market. As AI drives up demand for memory chips and supplies of some products remain tight, the expansion of China's memory industry will bring additional capacity to the market and give customers more choices. A broader supplier base and stronger competition could help ease supply constraints and make the global memory market more resilient.
+For China's memory chip industry, the real test is no longer just how quickly it can catch up with established players, but what it can contribute to the next generation of memory technology. The rapid progress in 4F² offers a glimpse of that potential. The next generation innovation needs more participants, not fewer. Broader competition can bring fresh ideas and accelerate technological progress, benefiting the industry as a whole.
