@@ -1,0 +1,38 @@
+TITLE:
+Wuzhen expo showcases China's broader AI integration, other digital advances
+
+PUBLISHED:
+2026-11-02 14:24:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373462.shtml
+
+ARTICLE TEXT:
+A visitor interacts with a humanoid robot at The Light of Internet Expo, a major event of the 2026 World Internet Conference Wuzhen Summit, East China's Zhejiang Province, on November 2, 2026. Photo: VCG
+The Light of Internet Expo, a major event of the 2026 World Internet Conference Wuzhen Summit, opened on Monday in Wuzhen, East China's Zhejiang Province, showcasing China's advances in artificial intelligence and its expanding industrial applications, as well as emerging opportunities in the country for global cooperation.
+The summit's opening ceremony will take place on Tuesday under the theme "Open Source and Openness, Joint Contribution and Shared Benefits — Jointly Building a Community with a Shared Future in Cyberspace." The expo will run through Thursday.
+According to summit organizers, more than 460 Chinese and overseas companies are participating in the physical exhibition. More than 1,000 technological achievements are expected to be put on display or scheduled to be released.
+The exhibition covers computing systems, AI models, intelligent agents and industrial applications. Its six themed topics are developments spanning communications infrastructure, computing capabilities, manufacturing, everyday services and cyber-security.
+Smart manufacturing is a prominent focus, with exhibits addressing specific production tasks. According to organizers, Schneider Electric's displays cover production and inspection applications in semiconductor manufacturing, new-energy batteries, and electronic components.
+Tongxiang, where Wuzhen is located, has a well-established textile and garment industry. A future factory exhibition area features flexible garment sewing, precision component assembly and workshop material transportation. Exhibition materials also include demonstrations by Aitu, a humanoid robot designed for garment manufacturing, exploring applications in flexible production.
+The exhibits bring AI into contact with the equipment, materials and workflows of factory operations, offering examples of how advances in models and robotics could be integrated into production, said analysts.
+The focus is shifting from demonstrating technological capabilities to showing how AI can serve real production and benefit everyday needs, technology industry analyst Liu Dingding told the Global Times on Monday.
+Rather than remaining isolated demonstrations, applications need to show how they can improve productivity and make daily life more convenient, he said.
+Computing infrastructure and LLMs offer another focus. According to organizers, Alibaba, Huawei, ZTE and Sugon are bringing computing super-node systems to the expo, alongside displays exploring advances in multimodal AI and spatial intelligence.
+The exhibition materials describe efforts to move AI beyond conversational interfaces toward understanding physical environments and executing complex tasks, connecting technological development with industrial demand.
+As AI becomes more closely integrated into business processes, cybersecurity companies are also presenting tools intended to support its deployment and protect enterprise data at the expo.
+Chinese cybersecurity company Qi-Anxin is presenting QAgent Fabric, an AI-native development collaboration platform connecting people, knowledge, workflows and agents. According to materials the company provided to the Global Times, the platform covers requirements, design, development and testing, aiming to improve software development efficiency and quality.
+DBAPP Security, another Chinese cyber-security company, is demonstrating its X security digital employees. According to materials provided to the Global Times, the products are designed to undertake penetration testing, code auditing, security operations and managed security services.
+The company said the digital employees translate security specialists' knowledge and working methods into agents capable of planning and executing tasks, providing round-the-clock services with capacity that can be expanded according to customer demand.
+Liu said that AI is creating new cyber-security challenges by enabling malicious actors to amplify their attack capabilities. Defenses need to advance alongside the technology, combining AI tools with a coordinated security framework, he said.
+International participation is high, with Intel, Qualcomm, Microsoft, SAP, Schneider Electric and Kaspersky among the exhibitors. Their displays cover computing chips, communications, software, smart manufacturing and cyber-security.
+Beyond product displays, the expo's program includes supply-demand matchmaking, investment promotion and industrial visits, seeking to connect technology providers with potential users and partners.
+A digital economy industrial cooperation conference scheduled for Wednesday will focus on intelligent agents, embodied intelligence and AI in manufacturing. Organizers plan to release AI application needs from Zhejiang's provincial state-owned enterprises, alongside manufacturing application scenarios.
+Liu said that opportunities for international cooperation lie in technologies that can meet concrete needs across industries, including chips, memory and robotics. He cited advanced driver assistance systems combining overseas chips with Chinese lidar and algorithms as an example of how complementary capabilities can support wider deployment.
+Global Times
