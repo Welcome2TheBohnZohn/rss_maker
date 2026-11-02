@@ -14,7 +14,6 @@ URL:
 https://www.chinadaily.com.cn/a/202611/02/WS6ae7e65ae4b06d4aa056662a.html
 
 ARTICLE TEXT:
-Draft standard aiming to speed C-V2X rollout
 A proposed mandatory national standard requiring commercial road transport in China to be fitted with cellular vehicle-to-everything (C-V2X) systems could accelerate the technology's rollout beyond pilot projects.
 The Ministry of Transport released the draft for public comment earlier this year. It is now under review after the comment period ended on Aug 29.
 Under the proposal, vehicles used in commercial road transport, other than trailers, would have to be equipped with systems using LTEV2X, a 4G-based form of C-V2X. The technology enables vehicles to exchange safety information directly with nearby vehicles and roadside infrastructure, supporting warnings about potential collisions and other road hazards.

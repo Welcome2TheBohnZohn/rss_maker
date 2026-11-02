@@ -1,0 +1,43 @@
+TITLE:
+Open source and practical AI take center stage at Wuzhen Summit
+
+PUBLISHED:
+2026-11-02 23:58:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373503.shtml
+
+ARTICLE TEXT:
+At the 2026 "Light of the Internet" Expo, a flagship event of the World Internet Conference (WIC) Wuzhen Summit in Jiaxing, East China's Zhejiang Province, visitors experience robotic vending services and explore new scenarios of smart consumption on November 2, 2026. Photo: VCG
+From robots filling prescriptions at smart pharmacies to automated systems handling garment sewing and precision assembly on factory floors, and sixth-generation (6G) mobile communications enabling the remote operation of construction machinery, futuristic applications were on display at the 2026 "Light of the Internet" Expo, which opened on Monday in Wuzhen, East China's Zhejiang Province.
+As a flagship event of the World Internet Conference (WIC) Wuzhen Summit, the expo highlighted China's accelerating efforts to integrate artificial intelligence (AI) and other cutting-edge technologies into real-world industrial and everyday applications, as well as its commitment to global cooperation in emerging technologies, Chinese analysts said.
+From November 2 to 5, the 2026 World Internet Conference (WIC) Wuzhen Summit has brought global attention back to this water town in East China. Under the theme "Open Source and Openness, Joint Contribution and Shared Benefits - Jointly Building a Community with a Shared Future in Cyberspace," the summit convenes government officials, representatives from international organizations, tech executives and researchers from around the world.
+Chinese industry experts and WIC participants noted that, with global AI development increasingly split between open-source and closed-source approaches, this year's WIC theme is especially significant. It demonstrates China's commitment to global AI cooperation and its willingness to engage with partners worldwide.
+The "Light of the Internet" Expo, which opened on Monday, features 671 companies and institutions across 54 countries and regions, showcasing over 1,000 new technological achievements. The six themed exhibition areas span communications infrastructure, computing capabilities, manufacturing, everyday services and cybersecurity. A number of cutting-edge technologies and products are making their debut at the expo, including satellite internet and 6G mobile communications, the Global Times learned.
+Open source goes tangible
+A major highlight of this year's summit is that "open source" has evolved from a concept into something tangible and interactive.
+For the first time, the WIC has invited developers under 40 to debate how open models can address real industrial needs.
+Xiang Ligang, president of the Beijing Institute of Intelligent Era Industry, told the Global Times on Monday that global AI development is now forming two distinct paths, with the US tending toward closed-source approaches, where major tech companies operate separately and form "silos" that hinder further progress. Against this backdrop, the WIC's theme of open source and shared benefits reflects China's commitment to and confidence in its own path - promoting openness and open source while advancing AI models, data and talent in a coordinated manner.
+"AI ultimately needs to become a powerful service system integrating society-wide cloud infrastructure, data centers, talent and communications; no single company can do this alone," Xiang said. "Only through open source and openness can capabilities be integrated to connect all aspects of social life and deliver real service value."
+AI-powered productivity
+As Monday's expo showcased China's advances in AI and its expanding industrial applications, along with emerging opportunities for global cooperation, Liu Dingding, a Chinese technology industry analyst, told the Global Times that the focus of the WIC is shifting from demonstrating technological capabilities to showing how AI can serve real production and benefit everyday needs. 
+Alibaba, Huawei, ZTE and Sugon have brought computing super-node systems to the expo, alongside displays exploring advances in multimodal AI and spatial intelligence. Schneider Electric's exhibits cover production and inspection applications in semiconductor manufacturing, new-energy batteries, and electronic components.
+A future factory exhibition area features flexible garment sewing and precision component assembly, with humanoid robots like Aitu - designed for garment manufacturing - exploring applications in flexible production, the Global Times learned from the WIC's organizer.
+The data behind the host town itself tells a compelling story. On the eve of the first Wuzhen Summit, the town could identify only 12 internet-related enterprises. By 2024, that number had surpassed 1,200 - a hundredfold increase. Wuzhen's GDP grew from 2.84 billion yuan ($426 million) to 10.89 billion yuan, effectively "rebuilding three Wuzhens."
+Chinese cybersecurity firm DBAPP Security demonstrated its X security digital employees at the expo. These products are designed to undertake penetration testing, code auditing, security operations, and managed security services. The company said that the digital employees translate security specialists' knowledge and working methods into agents capable of planning and executing tasks, providing round-the-clock services with capacity that can be expanded according to customer demand.
+The WIC's sub-forum agenda reflects the same industrial orientation. Across 27 sessions, topics range from agent interoperability to embodied intelligence, spatio-temporal intelligence and green, low-carbon transitions.
+Global AI cooperation for shared gains
+International participation remains high, with Intel, Qualcomm, Microsoft, Schneider Electric and Kaspersky among the exhibitors. Their displays cover computing chips, communications, software, smart manufacturing, and cybersecurity. 
+Liu said that opportunities for international cooperation lie in technologies that can meet concrete needs across industries, including chips, memory, and robotics. He cited advanced driver assistance systems that combine overseas chips with Chinese lidar and algorithms as an example of how complementary capabilities can support wider deployment.
+The WIC comes at a time when some countries are trying to erect protectionist walls and form exclusive circles in an area that thrives on global exchanges and cooperation
+At the just concluded Quad foreign ministers' meeting, the grouping expressed its intention to provide more than $85 million in technical and financial assistance to support access to trusted AI technologies across the so-called "Indo-Pacific."
+Chinese experts said that AI's future will not be decided by a few countries alone, but by whether the tools are interoperable, accountable and affordable.
+He Weiwen, a senior fellow at the Center for China and Globalization, said global AI cooperation should be built under a multilateral framework with the aim of achieving shared benefits for all countries, and warned that seeking exclusive groupings in digital technologies would incur not only immediate economic costs but also weaken global AI cooperation.
+Over the years, the theme of the WIC has evolved from internet to internet plus communication and now to AI, the development of which is not a matter for any single country and requires global coordination and shared rules to prosper.
+"In this context, the WIC's role as a communication platform has continued to strengthen, helping attract global participation and promote common standards and rules for safety and mutual understanding. One single conference cannot solve all the problems, but the summit provides an important platform and channel," Xiang said.
