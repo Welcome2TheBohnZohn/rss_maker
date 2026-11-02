@@ -1,0 +1,34 @@
+TITLE:
+Humanoid robot traffic police on duty at 2026 Hangzhou Marathon
+
+PUBLISHED:
+2026-11-01 20:30:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373413.shtml
+
+ARTICLE TEXT:
+Robot traffic officers are on duty at the 2026 Hangzhou Marathon on November 1, 2026. Photo: Courtesy of DEEP Robotics
+A new type of traffic police officer appeared at the 2026 Hangzhou Marathon on Sunday, as traffic and security humanoid robots developed by Hangzhou-based DEEP Robotics and local traffic authorities joined a four-point patrol team around the Huanglong Sports Center in Hangzhou, East China's Zhejiang Province.
+The robot, known as Hangxing No.2, has been deployed to support a range of tasks including intersection monitoring, autonomous patrols, traffic violation warnings and public inquiry services, becoming one of the most eye-catching elements of traffic management at this year's marathon.
+According to the company, Hangxing No.2 is based on the DEEP Robotics DR02 humanoid robot. Standing 178 centimeters tall, the DR02 carries an IP66 rating, meaning it is fully dust-tight and capable of withstanding heavy rain and high-pressure water jets. It can operate in temperatures ranging from -20 C to 55 C.
+The company said that the robot is suited to repetitive roadside advisory tasks, helping reduce the workload for frontline officers.
+This year's Hangzhou Marathon has attracted more than 300,000 applicants, with 36,000 runners taking part. The large crowds and shifting movement patterns around the venue create pressure on traditional security systems, which the organizers said were not always able to cover every blind spot.
+Hangxing No.2 was designed to help fill that gap, turning fixed surveillance points into mobile patrol units, the company said.
+The robot is equipped with a 275 TOPS computing unit and a multi-sensor fusion system including LiDAR, a depth camera and a wide-angle camera. It can patrol preset routes, move flexibly between multiple guard posts, and cover blind spots left by fixed surveillance.
+"Marathon security is concentrated in time, with dense crowds and highly repetitive tasks, which makes it a good scenario for robots to take on first," Meng Yuan, a representative of DEEP Robotics, told the Global Times on Sunday.
+"This deployment is also an exploration of a standardized application model for humanoid robots in traffic management at large marathon events."
+The robot uses multi-sensor environmental perception and a high-precision motion control system to detect traffic violations such as pedestrians crossing the road and vehicles cutting in, in real time. While carrying out standardized traffic control gestures, it also automatically broadcasts traffic safety advisories, helping police officers manage pedestrian flows more efficiently, according to the company.
+The deployment is a notable example of how embodied artificial intelligence is being integrated into urban public services. It also comes as humanoid robots move beyond laboratories and into real-world use cases.
+Chinese robotics company Unitree Robotics 
+unveiled its new H2-X
+ humanoid robot Kung Fu Legend Guardian in October. According to the company, the robot can potentially be applied in security and rescue scenarios, such as shielding a person from an attack, lifting the front of a car with its bare hands, and responding to a simulated traffic accident.
+In April, traffic police embodied intelligence robots were also deployed at the Beijing Yizhuang Half Marathon, directing participants on the course.
+Security, inspection, logistics and household services are seen as among the first areas where humanoid robots could become commercially viable, Wang Peng, a research fellow at the Beijing Academy of Social Sciences, told the Global Times on Sunday. He said that the true value of robotics lies not in replacing human workers, but in augmenting human capabilities, supporting productive development, and improving the quality of life.
+"Moving from factories to marathon courses marks an important step for humanoid robots, from technology demonstration to practical application," Wang said, adding that large events are a useful testing ground because they involve dense crowds and clearly defined tasks, allowing robots to show their perception, movement control and task execution abilities.

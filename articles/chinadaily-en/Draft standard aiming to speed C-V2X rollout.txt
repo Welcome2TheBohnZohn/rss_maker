@@ -1,0 +1,32 @@
+TITLE:
+Draft standard aiming to speed C-V2X rollout
+
+PUBLISHED:
+2026-11-02
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202611/02/WS6ae7e65ae4b06d4aa056662a.html
+
+ARTICLE TEXT:
+Draft standard aiming to speed C-V2X rollout
+A proposed mandatory national standard requiring commercial road transport in China to be fitted with cellular vehicle-to-everything (C-V2X) systems could accelerate the technology's rollout beyond pilot projects.
+The Ministry of Transport released the draft for public comment earlier this year. It is now under review after the comment period ended on Aug 29.
+Under the proposal, vehicles used in commercial road transport, other than trailers, would have to be equipped with systems using LTEV2X, a 4G-based form of C-V2X. The technology enables vehicles to exchange safety information directly with nearby vehicles and roadside infrastructure, supporting warnings about potential collisions and other road hazards.
+If adopted, the provision would turn C-V2X installation from a voluntary practice into a regulatory requirement for covered vehicles.
+Fan Ju, deputy general manager of CICT Connected and Intelligent Technologies, said C-V2X can warn drivers of hazards including rear-end collision risks, collision risks involving vehicles hidden from view by obstacles, and accidents ahead. Such functions can complement onboard cameras and radar, giving drivers or driver-assistance systems more time to respond, he said.
+Fan said the cost of installing C-V2X equipment during vehicle production is now relatively low. However, some automakers remain reluctant to adopt the technology because consumers may not perceive its benefits as readily as more visible features such as large infotainment screens.
+Deliveries of passenger vehicles fitted with C-V2X as standard equipment in China reached 344,000 in the first half, up 13.63 percent year-on-year, according to data from research institute Gaogong. In addition, C-V2X penetration in the passenger vehicle market stood at 4.03 percent.
+The proposal comes as China advances a vehicle-road-cloud integration pilot program launched by five government departments in 2024. The program covers 20 pilot areas, requires all participating vehicles to be equipped with C-V2X terminals and sets a 50 percent installation target for new vehicles in those areas.
+The pilot framework also calls for full 5G coverage in the pilot areas, connectivity for at least 90 percent of traffic signals and road signs, and LTE-V2X roadside communication units. Roadside sensing and edge-computing systems are to be deployed at key intersections and road sections.
+Figures published by the Ministry of Industry and Information Technology in late 2025 put the number of intelligent roadside units deployed nationwide at more than 11,000. Automakers including FAW, SAIC, BYD and Nio have also launched production models equipped with C-V2X as standard.
+During the 2026 World Intelligent Connected Vehicles Conference in Beijing, vehicles from several automakers took part in a demonstration in which roadside sensors and communication networks alerted drivers and driver-assistance systems to pedestrians and cyclists obscured from view.
+Li Keqiang, an academician with the Chinese Academy of Engineering, said that 22 Chinese and foreign companies were taking part in a joint initiative to advance vehicle-road-cloud integration, up from 15 in 2025. The initiative also covered the development and testing of related functions on 21 models.
+Li said broader commercial cooperation is also taking shape, with 14 partnerships involving 26 companies across the automotive value chain, including automakers, companies involved in city-level vehicle networks and connected-vehicle component suppliers.
+He expects initial vehicle-road-cloud functions to be introduced in production vehicles by the end of 2026 and more closely integrated with driver-assistance systems in 2027.
+wangyuchen@chinadaily.com.cn
