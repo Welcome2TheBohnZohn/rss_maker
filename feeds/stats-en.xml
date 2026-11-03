@@ -7,7 +7,229 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 23:54:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:50:01 +0000</lastBuildDate>
+    <item>
+      <title>Purchasing Managers’ Index for October 2026</title>
+      <link>https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965735.html</link>
+      <description>Published: 2026-11-01 09:30:00
+
+Purchasing Managers’ Index for October 2026
+Department of Service Statistics of NBS of China
+China Federation of Logistics &amp; Purchasing (CFLP)
+I. Manufacturing Purchasing Managers’ Index
+In October, the purchasing managers’ index (PMI) of China’s manufacturing industry was 49.3%, a decrease of 0.8 percentage points from the previous month,indicating a slight decline in the manufacturing climate.
+By enterprise size, the PMI for large enterprises was 50.2%, a decrease of 0.4 percentage points from the previous month, which was still above the threshold; the PMI for medium and small-sized enterprises stood at 48.4% and 47.5%, respectively, a decrease of 1.3 percentage points and 1.4 percentage points from the previous month, which were both below the threshold.
+By sub-index, among the five sub-indexes that constitute the manufacturing PMI, the supplier delivery time index was above the threshold; the production index, the new order index, the raw materials inventory index and the employment index were all below the threshold.
+The production index was 49.8%, a decrease of 1.9 percentage points from the previous month, indicating a moderation of production activities in the manufacturing industry.
+The new order index was 49.4%, a decrease of 1.1 percentage points from the previous month, indicating a decline in the market demand climate of the manufacturing industry.
+The raw materials inventory index was 48.4%, an increase of 0.2 percentage points from the previous month, indicating that the decline in the inventories of main raw materials in the manufacturing industry narrowed slightly.
+The employment index was 48.4%, unchanged from the previous month, indicating overall stability in the employment climate of the manufacturing industry.
+The supplier delivery time index was 50.2%, an increase of 0.1 percentage points from the previous month, indicating that the delivery time of raw material suppliers in the manufacturing industry shortened.
+Table 1 China’s Manufacturing PMI and Sub-indexes (Seasonally Adjusted)
+| Unit: % |  |  |  |  |  |  | 
+|  | PMI |  |  |  |  |  | 
+|  |  | Production Index | New Order Index | Raw Materials Inventory Index | Employment Index | Supplier Delivery Time Index | 
+| 2025-October | 49.0 | 49.7 | 48.8 | 47.3 | 48.3 | 50.0 | 
+| November | 49.2 | 50.0 | 49.2 | 47.3 | 48.4 | 50.1 | 
+| December | 50.1 | 51.7 | 50.8 | 47.8 | 48.2 | 50.2 | 
+| 2026-January | 49.3 | 50.6 | 49.2 | 47.4 | 48.1 | 50.1 | 
+| February | 49.0 | 49.6 | 48.6 | 47.5 | 48.0 | 49.1 | 
+| March | 50.4 | 51.4 | 51.6 | 47.7 | 48.6 | 49.5 | 
+| April | 50.3 | 51.5 | 50.6 | 49.3 | 48.8 | 49.5 | 
+| May | 50.0 | 51.2 | 49.9 | 48.6 | 48.6 | 49.2 | 
+| June | 50.3 | 51.4 | 51.2 | 48.4 | 48.5 | 49.9 | 
+| July | 49.2 | 49.9 | 48.5 | 48.3 | 49.0 | 49.5 | 
+| August | 49.8 | 50.4 | 50.6 | 48.1 | 48.7 | 50.1 | 
+| September | 50.1 | 51.7 | 50.5 | 48.2 | 48.4 | 50.1 | 
+| October | 49.3 | 49.8 | 49.4 | 48.4 | 48.4 | 50.2 | 
+Table 2 Other Related Indexes of China’s Manufacturing PMI (Seasonally Adjusted)
+| Unit: % |  |  |  |  |  |  |  |  | 
+|  | New Export Order Index | Import Index | Purchase Quantity Index | Main Raw Materials Purchase Price Index | Producer Price Index | Finished Goods Inventory Index | Existing Order Index | Production and Operation Expectation Index | 
+| 2025-October | 45.9 | 46.8 | 49.0 | 52.5 | 47.5 | 48.1 | 44.5 | 52.8 | 
+| November | 47.6 | 47.0 | 49.5 | 53.6 | 48.2 | 47.3 | 45.5 | 53.1 | 
+| December | 49.0 | 47.0 | 51.1 | 53.1 | 48.9 | 48.2 | 46.0 | 55.5 | 
+| 2026-January | 47.8 | 47.3 | 48.7 | 56.1 | 50.6 | 48.6 | 45.1 | 52.6 | 
+| February | 45.0 | 45.6 | 48.2 | 54.8 | 50.6 | 45.8 | 44.0 | 53.2 | 
+| March | 49.1 | 49.8 | 50.9 | 63.9 | 55.4 | 46.7 | 47.1 | 53.4 | 
+| April | 50.3 | 50.1 | 51.1 | 63.7 | 55.1 | 47.5 | 46.2 | 54.5 | 
+| May | 48.6 | 48.8 | 49.8 | 60.5 | 51.9 | 49.3 | 46.8 | 53.9 | 
+| June | 50.1 | 49.6 | 51.4 | 54.2 | 48.2 | 47.7 | 47.1 | 54.3 | 
+| July | 49.6 | 47.5 | 49.4 | 53.2 | 47.8 | 48.6 | 45.8 | 54.1 | 
+| August | 50.1 | 48.6 | 50.5 | 56.6 | 50.4 | 48.4 | 46.7 | 53.8 | 
+| September | 50.0 | 49.2 | 51.0 | 60.8 | 54.0 | 47.6 | 46.0 | 53.8 | 
+| October | 48.7 | 47.0 | 48.9 | 56.8 | 51.7 | 47.5 | 44.1 | 53.4 | 
+II. Non-manufacturing Purchasing Managers’ Index
+In October, the non-manufacturing business activity index was 49.7%, a decrease of 0.5 percentage points from the previous month, indicating a slight decline in the non-manufacturing climate.
+By industry, the business activity index for the construction industry was 48.0%, a decrease of 2.3 percentage points from the previous month; that for the service industry was 50.0%, a decrease of 0.2 percentage points from the previous month. In terms of the service industry, the business activity indexes for railway transportation, water transportation, post, Internet software and information technology services were all in the relatively high climate range of above 55.0%; those for capital market services, insurance and real estate were all below the threshold.
+The new order index was 44.4%, a decrease of 2.1 percentage points from the previous month, indicating a decline in the market demand climate of the non-manufacturing industry. By industry, the new order index for the construction industry was 40.0%, a decrease of 5.7 percentage points from the previous month; that for the service industry was 45.2%, a decrease of 1.5 percentage points from the previous month.
+The input price index was 51.5%, a decrease of 1.0 percentage point from the previous month, indicating a narrowing increase in overall input prices for business operations among non-manufacturing enterprises. By industry, the input price index for the construction industry was 52.4%, a decrease of 1.6 percentage points from the previous month; that for the service industry was 51.4%, a decrease of 0.8 percentage points from the previous month.
+The sales price index was 49.5%, a decrease of 0.8 percentage points from the previous month, indicating a decline in overall sales prices of non-manufacturing enterprises. By industry, the sales price index for the construction industry was 48.9%, an increase of 0.4 percentage points from the previous month; that for the service industry was 49.6%, a decrease of 1.0 percentage point from the previous month.
+The employment index was 46.0%, an increase of 0.1 percentage points from the previous month, indicating a slight improvement in the employment climate among non-manufacturing enterprises. By industry, the employment index for the construction industry was 42.0%, a decrease of 2.3 percentage points from the previous month; that for the service industry was 46.7%, an increase of 0.5 percentage points from the previous month.
+The business activity expectation index was 54.7%, a decrease of 0.8 percentage points from the previous month, which was still above the threshold, indicating that non-manufacturing enterprises remained confident in market development. By industry, the business activity expectation index for the construction industry was 52.3%, a decrease of 3.1 percentage points from the previous month; that for the service industry was 55.2%, a decrease of 0.3 percentage points from the previous month.
+Table 3 Main Sub-indexes of China’s Non-manufacturing PMI (Seasonally Adjusted)
+| Unit: % |  |  |  |  |  |  | 
+|  | Business Activity Index | New Order Index | Input Price Index | Sales Price Index | Employment Index | Business Activity Expectation Index | 
+| 2025-October | 50.1 | 46.0 | 49.4 | 47.8 | 45.2 | 56.1 | 
+| November | 49.5 | 45.7 | 50.4 | 49.1 | 45.3 | 56.2 | 
+| December | 50.2 | 47.3 | 50.2 | 48.0 | 46.1 | 56.5 | 
+| 2026-January | 49.4 | 46.1 | 50.0 | 48.8 | 46.1 | 56.0 | 
+| February | 49.5 | 45.2 | 50.9 | 48.8 | 46.0 | 55.0 | 
+| March | 50.1 | 45.0 | 52.3 | 49.9 | 45.2 | 54.2 | 
+| April | 49.4 | 44.3 | 51.7 | 48.1 | 45.5 | 54.7 | 
+| May | 50.1 | 45.0 | 52.2 | 48.8 | 45.6 | 54.8 | 
+| June | 50.2 | 48.0 | 49.7 | 48.4 | 45.8 | 55.3 | 
+| July | 49.0 | 44.4 | 49.7 | 47.9 | 45.4 | 55.4 | 
+| August | 49.0 | 44.1 | 51.1 | 49.3 | 45.4 | 55.0 | 
+| September | 50.2 | 46.5 | 52.5 | 50.3 | 45.9 | 55.5 | 
+| October | 49.7 | 44.4 | 51.5 | 49.5 | 46.0 | 54.7 | 
+Table 4 Other Sub-indexes of China’s Non-manufacturing PMI (Seasonally Adjusted)
+| Unit: % |  |  |  |  | 
+|  | New Export Order Index | Existing Order Index | Inventory Index | Supplier Delivery Time Index | 
+| 2025-October | 46.2 | 43.6 | 46.0 | 50.9 | 
+| November | 47.9 | 43.6 | 44.8 | 51.2 | 
+| December | 47.5 | 43.5 | 45.2 | 51.3 | 
+| 2026-January | 46.9 | 42.5 | 44.8 | 51.1 | 
+| February | 44.7 | 42.3 | 45.4 | 50.5 | 
+| March | 48.8 | 43.2 | 43.5 | 51.5 | 
+| April | 47.3 | 42.4 | 45.3 | 50.9 | 
+| May | 48.1 | 43.8 | 45.1 | 51.2 | 
+| June | 47.9 | 44.2 | 45.3 | 51.3 | 
+| July | 47.0 | 43.3 | 45.1 | 50.9 | 
+| August | 47.0 | 42.8 | 45.6 | 51.2 | 
+| September | 48.5 | 43.8 | 46.3 | 51.3 | 
+| October | 46.5 | 43.0 | 44.7 | 50.7 | 
+III. Composite PMI Output Index
+In October, the composite PMI output index was 49.7%, a decrease of 1.0 percentage point from the previous month, indicating a moderation in the overall production and business activities of Chinese enterprises.
+Annotations:
+1. Notes on Main Indicators
+Purchasing Managers’ Index (PMI) is a composite index based on the results of the monthly survey of purchasing managers in enterprises. It encompasses various aspects, including procurement, production, and distribution, across both the manufacturing and non-manufacturing industries. It is one of the internationally recognized leading indicators for monitoring macroeconomic trends, with strong predictive and early warning functions. Composite PMI Output Index is a comprehensive indicator within the PMI indicator system that reflects the overall changes in output across all industries (manufacturing and non-manufacturing) during the current period. A PMI reading above 50% indicates an expansion in the overall economy compared to the previous month, while a reading below 50% reflects a contraction.
+2. Statistical Coverage
+The survey involves 3,200 samples from 31 manufacturing industries and 4,300 samples from 43 non-manufacturing industries, as classified in the Industrial Classification for National Economic Activities (GB/T 4754-2017).
+3. Survey Method
+The PPS (Probability Proportional to Size) sampling method is adopted in the purchasing managers’ survey, with the manufacturing and non-manufacturing industries serving as strata. The sample size for each industry is determined in proportion to its share of value added in the total value added of manufacturing or non-manufacturing industries. Within each stratum, samples are selected with probabilities proportional to the enterprises’ principal business revenue.
+The survey was organized and implemented by survey teams directly affiliated with the NBS of China. The Online Reporting System of the NBS of China was used to conduct monthly survey questionnaires among the purchasing managers of the selected enterprises.
+4. Calculation Methods
+(1) Calculation Method of Sub-indexes. The index system of the manufacturing purchasing managers’ survey includes 13 sub-indexes, namely production, new orders, new export orders, existing orders, finished goods inventory, purchase quantity, import, main raw materials purchase price, producer price, raw materials inventory, employment, supplier delivery time, and production and operation expectation indexes. The index system of the non-manufacturing purchasing managers’ survey includes 10 sub-indexes, namely business activities, new orders, new export orders, existing orders, inventory, input price, sales price, employment, supplier delivery time, and business activity expectation indexes. Sub-indexes adopt the diffusion index calculation method, i.e., the percentage of enterprises with positive answers plus half of the percentage of those with the same answers. Since there is no composite index for the non-manufacturing industry, the business activity index is generally adopted internationally to reflect the overall changes in non-manufacturing economic development.
+(2) Calculation Method of Manufacturing PMI. Manufacturing PMI is a weighted composite index calculated from five diffusion indexes (sub-indexes). Five sub-indexes and their weights are determined in accordance with their leading impact on the economy. Specifically, the new order index weights 30%; the production index weights 25%; the employment index weights 20%; the supplier delivery time index weights 15%; the raw materials inventory index weights 10%. Among them, the supplier delivery time index is an inverted index, which is inversely calculated when compiling the manufacturing PMI.
+(3) Calculation Method of Composite PMI Output Index. Composite PMI Output Index is calculated as a weighted sum of the manufacturing production index and the non-manufacturing business activity index. Their weights are respectively determined by the proportion of manufacturing and non-manufacturing industries in GDP.
+5. Seasonal Adjustments
+The purchasing managers’ survey is conducted on a monthly basis. Due to the influence of seasonal factors, the data may fluctuate significantly. All released indexes have been seasonally adjusted.</description>
+      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965735.html</guid>
+    </item>
+    <item>
+      <title>Latest Releases</title>
+      <link>http://www.stats.gov.cn/english/PressRelease/</link>
+      <description>Published: 2026-11-01
+
+Chinese(GB)
+RSS
+Organizational Chart
+Data
+Communiqués
+Legal Framework
+Classifications &amp; Methods
+Latest Releases
+International Cooperation
+Understanding Statistics
+Agency
+Release Calendar
+Home
+&gt;
+Latest Releases
+1.Purchasing Managers’ Index for October 2026
+2026-11-01
+2.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
+2026-10-31
+3.Profits of Industrial Enterprises above the Designated Size from January to September i...
+2026-10-28
+4.Market Prices of Important Means of Production in Circulation,October 11-20, 2026
+2026-10-24
+5.China Innovation Index Grows by 6.4% Year on Year in 2025
+2026-10-24
+6.Preliminary Accounting Results of GDP for the Third Quarter of 2026
+2026-10-21
+7.Industrial Production Operation in September 2026
+2026-10-20
+8.Investment in Fixed Assets from January to September 2026
+2026-10-20
+9.Investment in Real Estate Development from January to September 2026
+2026-10-20
+10.Total Retail Sales of Consumer Goods from January to September 2026
+2026-10-20
+11.Energy Production in September 2026
+2026-10-20
+12.Households’ Income and Consumption Expenditure in the First Three Quarters of 2026
+2026-10-20
+13.Industrial Capacity Utilization Rate in the Third Quarter of 2026
+2026-10-20
+14.National Economy was Generally Stable with New Achievement Made in High-Quality Develop...
+2026-10-19
+15.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
+2026-10-19</description>
+      <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
+    </item>
+    <item>
+      <title>Business Revenue of Enterprises above the Designated Size Engaged in Cultu...</title>
+      <link>https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965734.html</link>
+      <description>Published: 2026-10-31 09:30:00
+
+Business Revenue of Enterprises above the Designated Size Engaged in Culture and Related Industries in the First Three Quarters of 2026
+According to a survey of 83 thousand enterprises above the designated size engaged in culture and related industries (hereinafter referred to as “cultural enterprises”) nationwide, in the first three quarters of 2026, cultural enterprises achieved a business revenue of 10,821.0 billion yuan, up by 4.3%[1]year on year on a comparable basis (see Annotation II for details). Among them, the 16 industry sub-categories with distinct characteristics of new cultural forms[2] achieved a business revenue of 5,382.7 billion yuan, up by 8.9% year on year, 4.6 percentage points higher than that of all cultural enterprises above the designated size.
+By industry type, the business revenue of the culture-related manufacturing was 2,674.4 billion yuan, down by 0.2% year on year; that of the culture-related wholesale and retail was 1,576.9 billion yuan, down by 0.1%; that of the culture-related services was 6,569.7 billion yuan, up by 7.3%.
+By field, the business revenue of the core areas of culture[3] was 7,504.2 billion yuan, up by 5.1% year on year; that of culture-related fields was 3,316.8 billion yuan, up by 2.4%.
+By industry category, the business revenue of news and information services was 1,633.7 billion yuan, up by 7.3% year on year; that of content creation and production was 2,512.9 billion yuan, up by 4.1%; that of creative design services was 2,085.0 billion yuan, up by 8.8%; that of cultural communication channels was 1,078.0 billion yuan, down by 1.9%; that of cultural investment and operation was 41.2 billion yuan, up by 11.7%; that of cultural, entertainment and leisure services was 153.5 billion yuan, up by 0.3%; that of cultural auxiliary production and intermediary services was 1,167.3 billion yuan, up by 4.7%; that of cultural equipment production was 511.2 billion yuan, up by 5.3%; that of cultural consumption terminal production was 1,638.3 billion yuan, unchanged from the previous year.
+By region, cultural enterprises in the eastern region achieved a business revenue of 8,812.3 billion yuan, up by 5.0% year on year; that of the central region was 1,116.5 billion yuan, up by 1.5%; that of the western region was 804.4 billion yuan, up by 2.0%; that of the northeastern region was 87.7 billion yuan, down by 5.5%.
+In the first three quarters of 2026, cultural enterprises achieved total profits of 831.7 billion yuan, down by 7.3% year on year; the profit rate of business revenue was 7.69%, down by 0.96 percentage points year on year. At the end of the third quarter, the assets of cultural enterprises totaled 23,548.4 billion yuan, up by 6.0% year on year; the business revenue brought by per-hundred-yuan assets was 62.0 yuan, down by 1.6 yuan year on year.
+Indicators of Enterprises above the Designated Size Engaged in Culture and Related Industries in the First Three Quarters of 2026
+|  | Absolute Value (100 million yuan) | Growth Rate Y/Y (%) | Proportion (%) | 
+| I. Business revenue | 108210 | 4.3 | 100.0 | 
+| Of which: New cultural forms | 53827 | 8.9 | 49.7 | 
+| By industry type |  |  |  | 
+| Culture-related manufacturing | 26744 | -0.2 | 24.7 | 
+| Culture-related wholesale and retail | 15769 | -0.1 | 14.6 | 
+| Culture-related services | 65697 | 7.3 | 60.7 | 
+| By field |  |  |  | 
+| Core areas of culture | 75042 | 5.1 | 69.3 | 
+| Culture-related fields | 33168 | 2.4 | 30.7 | 
+| By industry category |  |  |  | 
+| News and information services | 16337 | 7.3 | 15.1 | 
+| Content creation and production | 25129 | 4.1 | 23.2 | 
+| Creative design services | 20850 | 8.8 | 19.3 | 
+| Cultural communication channels | 10780 | -1.9 | 10.0 | 
+| Cultural investment and operation | 412 | 11.7 | 0.4 | 
+| Cultural, entertainment and leisure services | 1535 | 0.3 | 1.4 | 
+| Cultural auxiliary production and intermediary services | 11673 | 4.7 | 10.8 | 
+| Cultural equipment production | 5112 | 5.3 | 4.7 | 
+| Cultural consumption terminal production | 16383 | 0.0 | 15.1 | 
+| By region |  |  |  | 
+| Eastern | 88123 | 5.0 | 81.4 | 
+| Central | 11165 | 1.5 | 10.3 | 
+| Western | 8044 | 2.0 | 7.4 | 
+| Northeastern | 877 | -5.5 | 0.8 | 
+| II. Total profits | 8317 | -7.3 | — | 
+| III. Total assets (end-of-period) | 235484 | 6.0 | — | 
+| Notes: 1. Growth rates in the table are nominal growth rates unadjusted for price factors. 2. Due to rounding, some sub-items in the table may not add up to the total. |  |  |  | 
+Notes:
+[1] Unless otherwise specified, growth rates in the table are nominal growth rates unadjusted for price factors.
+[2] The 16 industry sub-categories with distinct characteristics of new forms are: radio and television integrated broadcast control, Internet search services, other Internet information services, digital publishing, other cultural and art industries, digital content services for animation and games, Internet game services, multimedia, game animation and digital publishing software development, value-added telecommunication cultural services, other cultural digital content services, Internet advertising services, Internet cultural and entertainment platform, copyright and culture software services, intelligent UAV manufacturing for entertainment, intelligent wearable cultural equipment manufacturing, and other intelligent cultural consumption equipment manufacturing.
+[3] Core areas of culture include six industries: news and information services, content creation and production, creative design services, cultural communication channels, cultural investment and operation, and cultural, entertainment and leisure services. Culture-related fields include three industries: cultural auxiliary production and intermediary services, cultural equipment production, and cultural consumption terminal production.
+Annotations:
+I. Notes on Indicators
+Culture and related industries refer to the collection of production activities that provide cultural products and culture-related products for the public. According to the Classification of Culture and Related Industries (2018), culture and related industries include nine categories: news and information services, content creation and production, creative design services, cultural communication channels, cultural investment and operation, cultural, entertainment and leisure services, cultural auxiliary production and intermediary services, cultural equipment production, and cultural consumption terminal production.
+Business revenue refers to the inflow of economic benefits from production and operating activities of enterprises, such as selling goods, providing labor services and transferring the right-of-use assets during the reporting period. Business revenue includes “revenue from principal business” and “revenue from other business”.
+Total profit refers to the surplus earned by an enterprise during the reporting period through its production and operating activities after deducting various expenses from the total revenue. It reflects the total amount of profit or loss realized by an enterprise during the reporting period.
+Total assets refer to all resources owned or controlled by an enterprise through past transactions or events that are expected to generate economic profits, measured at the end of the reporting period.
+Profit rate of business revenue=total profit ÷ business revenue×100%, unit: %.
+Business revenue brought by per-hundred-yuan assets=business revenue ÷ average assets ÷ cumulative number of months×12×100, unit: yuan.
+II. Statistical Coverage
+The scope of statistics on enterprises above the designated size engaged in culture and related industries covers the industries defined in the Classification of Cultural and Related Industries (2018): industrial enterprises with an annual principal business revenue of 20 million yuan or above, wholesale enterprises with an annual principal business revenue of 20 million yuan or above or retail enterprises with an annual principal business revenue of 5 million yuan or above, service enterprises with an annual business revenue of 10 million yuan or above, of which the sectors of transport, storage and post, information transmission, software and information technology services, and water conservancy, environment and public facilities management shall have an annual business revenue of 20 million yuan or above, and resident services, repair and other services, and culture, sports and entertainment shall have an annual business revenue of 5 million yuan or above.
+As the coverage of enterprises above the designated size engaged in culture and related industries changes every year, to ensure the comparability between the data of the current year and those of the previous year, the year-on-year growth rates of business revenue of enterprises above the designated size engaged in culture and related industries and other indicators are calculated using the same statistical coverage as the current period, which is different from the coverage of the data published last year. The main reason is that each year, some enterprises are included in the survey after having reached the designated size, and others exit the survey due to their smaller size. There are also influences from enterprises that are newly established and put into production, bankrupt, and have their business licenses cancelled (revoked).
+III. Survey Method
+The identification of legal entities of culture and related industries above the designated size is conducted on a quarterly basis, and the data are aggregated based on information obtained from comprehensive surveys of industrial enterprises above the designated size, wholesale and retail enterprises above the designated size, and service enterprises above the designated size through the national statistical online direct reporting platform.
+IV. Division of the Eastern, Central, Western, and Northeastern Regions
+The eastern region includes 10 provinces (municipalities): Beijing, Tianjin, Hebei, Shanghai, Jiangsu, Zhejiang, Fujian, Shandong, Guangdong and Hainan; the central region includes 6 provinces: Shanxi, Anhui, Jiangxi, Henan, Hubei and Hunan; the western region includes 12 provinces (autonomous regions and municipalities): Inner Mongolia, Guangxi, Chongqing, Sichuan, Guizhou, Yunnan, Xizang, Shaanxi, Gansu, Qinghai, Ningxia and Xinjiang; the northeastern region includes 3 provinces: Liaoning, Jilin and Heilongjiang.</description>
+      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965734.html</guid>
+    </item>
     <item>
       <title>Profits of Industrial Enterprises above the Designated Size from January t...</title>
       <link>https://www.stats.gov.cn/english/PressRelease/202610/t20261028_1965704.html</link>
@@ -122,58 +344,6 @@ The Industrial Classification for National Economic Activities (GB/T 4754-2017) 
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202610/t20261028_1965704.html</guid>
     </item>
     <item>
-      <title>Latest Releases</title>
-      <link>http://www.stats.gov.cn/english/PressRelease/</link>
-      <description>Published: 2026-10-28
-
-Chinese(GB)
-RSS
-Organizational Chart
-Data
-Communiqués
-Legal Framework
-Classifications &amp; Methods
-Latest Releases
-International Cooperation
-Understanding Statistics
-Agency
-Release Calendar
-Home
-&gt;
-Latest Releases
-1.Profits of Industrial Enterprises above the Designated Size from January to September i...
-2026-10-28
-2.Market Prices of Important Means of Production in Circulation,October 11-20, 2026
-2026-10-24
-3.China Innovation Index Grows by 6.4% Year on Year in 2025
-2026-10-24
-4.Preliminary Accounting Results of GDP for the Third Quarter of 2026
-2026-10-21
-5.Industrial Production Operation in September 2026
-2026-10-20
-6.Investment in Fixed Assets from January to September 2026
-2026-10-20
-7.Investment in Real Estate Development from January to September 2026
-2026-10-20
-8.Total Retail Sales of Consumer Goods from January to September 2026
-2026-10-20
-9.Energy Production in September 2026
-2026-10-20
-10.Households’ Income and Consumption Expenditure in the First Three Quarters of 2026
-2026-10-20
-11.Industrial Capacity Utilization Rate in the Third Quarter of 2026
-2026-10-20
-12.National Economy was Generally Stable with New Achievement Made in High-Quality Develop...
-2026-10-19
-13.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
-2026-10-19
-14.Statistical Communiqué on National Expenditures on Science and Technology in 2025
-2026-10-17
-15.Consumer Price Index in September 2026
-2026-10-15</description>
-      <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
-    </item>
-    <item>
       <title>International Cooperation</title>
       <link>http://www.stats.gov.cn/english/InternationalCooperation/</link>
       <description>Published: 2026-10-27
@@ -224,135 +394,6 @@ International Cooperation
 15.Kang Yi Met with Márcio Pochmann， President of IBGE， and the Two Sides Singed a Memo...
 2024-10-14</description>
       <guid isPermaLink="false">http://www.stats.gov.cn/english/InternationalCooperation/</guid>
-    </item>
-    <item>
-      <title>China Innovation Index Grows by 6.4% Year on Year in 2025</title>
-      <link>https://www.stats.gov.cn/english/PressRelease/202610/t20261026_1965691.html</link>
-      <description>Published: 2026-10-24 09:30:00
-
-China Innovation Index Grows by 6.4% Year on Year in 2025
-According to the calculation of the research group of the Department of Social, Science and Technology, and Cultural Statistics of the National Bureau of Statistics on China Innovation Index, the innovation index of China was 185.5 in 2025 (take 2015 as 100), an increase of 6.4% over the previous year[1]. By field, the innovation environment index, innovation input index, innovation output index and innovation effectiveness index were 199.9, 172.2, 233.0 and 137.0, respectively, increasing by 7.5%, 5.9%, 8.0%, and 2.9% over the previous year. The results indicated that China Innovation Index maintained steady growth in 2025. The innovation environment continued to improve, new drivers of growth gained momentum and strength, and scientific and technological innovation capabilities continued to grow, providing solid support for high-quality economic development.
-I. Innovation Environment Index. In 2025, China’s innovation environment index was 199.9, an increase of 7.5% over the previous year. By sub-index, all five sub-indices in this field achieved growth. Among them, the index of the proportion of enterprises enjoying additional tax deduction and exemption and the index of the proportion of science and engineering graduates in the relevant age cohort maintained relatively rapid growth, increasing by 19.1% and 8.7% respectively over the previous year; the per capita GDP index increased by 5.2% over the previous year; the index of the proportion of fiscal funding allocated to science and technology and the index of the number of people with a college degree or above per 10,000 employed persons increased by 3.4% and 1.9% respectively over the previous year.
-II. Innovation Input Index. In 2025, China’s innovation input index was 172.2, an increase of 5.9% over the previous year. By sub-index, all four sub-indices in this field achieved growth. Among them, the index of the proportion of enterprise R&amp;D funds in business revenue recorded relatively rapid growth, increasing by 9.2% over the previous year; the index of the full-time equivalent of R&amp;D personnel per 10,000 people, the index of the proportion of R&amp;D funds in GDP and the index of per capita funding for basic researchers increased by 6.8%, 4.0%, and 3.5% respectively over the previous year.
-III. Innovation Output Index. In 2025, China’s innovation output index was 233.0, an increase of 8.0% over the previous year. By sub-index, all four sub-indices in this field achieved growth. Among them, the index of the number of high-value invention patents owned per 10,000 R&amp;D personnel increased by 12.1% over the previous year, maintaining a double-digit growth for four consecutive years; the index of the proportion of enterprises with registered trademarks increased by 8.7% over the previous year; the index of the number of scientific and technological papers per 10,000 people and the index of the average contract value for technology market transactions increased by 5.7% and 5.5% respectively over the previous year.
-IV. Innovation Effectiveness Index. In 2025, China’s innovation effectiveness index was 137.0, an increase of 2.9% over the previous year. By sub-index, among the five sub-indices in this field, four increased and one remained flat. Among them, the overall labor productivity index increased by 6.1% over the previous year; the index of the proportion of new product sales revenue in business revenue and the index of the proportion of added value from the “three new”[2] economy in GDP increased by 4.5% and 2.1%, respectively, over the previous year; the index of the proportion of high-tech product export value in goods export value increased by 1.9% over the previous year; the index of the proportion of added value from patent-intensive industries in GDP remained flat over the previous year.
-China Innovation Index and Sub-Indices, 2015-2025
-(take 2015 as 100)
-China Innovation Index
-(take 2015 as 100)
-|  | 2015 | 2022 | 2023 | 2024 | 2025 | 
-| China Innovation Index | 100 | 155.9 | 165.5 | 174.4 | 185.5 | 
-| I. Innovation Environment Index | 100 | 160.6 | 177.3 | 186.0 | 199.9 | 
-| 1. Index of the number of people with a college degree or above per 10,000 employed persons | 100 | 128.2 | 136.7 | 141.5 | 144.1 | 
-| 2. Per capita GDP index | 100 | 145.1 | 153.2 | 160.9 | 169.3 | 
-| 3. Index of the proportion of science and engineering graduates in the relevant age cohort | 100 | 161.7 | 186.0 | 206.1 | 224.2 | 
-| 4. Index of the proportion of fiscal funding allocated to science and technology | 100 | 107.2 | 109.7 | 111.4 | 115.2 | 
-| 5. Index of the proportion of enterprises enjoying additional tax deduction and exemption | 100 | 332.4 | 412.2 | 427.9 | 509.4 | 
-| II. Innovation Input Index | 100 | 146.7 | 154.7 | 162.6 | 172.2 | 
-| 1. Index of the full-time equivalent of R&amp;D personnel per 10,000 people | 100 | 165.6 | 189.0 | 197.8 | 211.3 | 
-| 2. Index of the proportion of R&amp;D funds in GDP | 100 | 123.7 | 127.8 | 133.6 | 138.9 | 
-| 3. Index of per capita funding for basic researchers | 100 | 140.5 | 138.9 | 148.1 | 153.2 | 
-| 4. Index of the proportion of enterprise R&amp;D funds in business revenue | 100 | 161.0 | 170.9 | 179.0 | 195.5 | 
-| III. Innovation Output Index | 100 | 187.5 | 199.7 | 215.8 | 233.0 | 
-| 1. Index of the number of scientific and technological papers per 10,000 people | 100 | 128.3 | 129.8 | 137.3 | 145.2 | 
-| 2. Index of the number of high-value invention patents owned per 10,000 R&amp;D personnel | 100 | 227.7 | 263.3 | 296.2 | 332.2 | 
-| 3. Index of the proportion of enterprises with registered trademarks | 100 | 219.3 | 229.6 | 248.9 | 270.5 | 
-| 4. Index of the average contract value for technology market transactions | 100 | 193.2 | 202.9 | 214.7 | 226.5 | 
-| IV. Innovation Effectiveness Index | 100 | 129.1 | 130.5 | 133.1 | 137.0 | 
-| 1. Index of the proportion of new product sales revenue in business revenue | 100 | 181.0 | 184.6 | 186.9 | 195.3 | 
-| 2. Index of the proportion of high-tech product export value in goods export value | 100 | 92.7 | 86.5 | 85.6 | 87.2 | 
-| 3. Index of the proportion of added value from patent-intensive industries in GDP | 100 | 117.7 | 120.7 | 123.9 | 123.9 | 
-| 4. Index of the proportion of added value from the “three new” economy in GDP | 100 | 118.9 | 121.4 | 124.4 | 127.0 | 
-| 5. Overall labor productivity index | 100 | 152.8 | 161.7 | 169.6 | 179.9 | 
-Note: Based on the final verified data of gross domestic product (GDP), the data from 2022 to 2024 were revised accordingly.
-Notes:
-[1] The results of China Innovation Index have been revised accordingly based on the final verified data of GDP.
-[2] The “three new” economy refers to the collection of economic activities centered on new industries, new business forms, and new business models.
-Annex:
-Brief Explanation of China Innovation Index System and Index Compilation Method
-I. China Innovation Index System
-China Innovation Index system is divided into three levels. The first level is the overall development of innovation in China, which is reflected by the calculation of the total innovation index; the second level reflects the development of innovation in four subfields, including innovation environment, innovation input, innovation output, and innovation effectiveness, reflected by the calculation of their respective sub-indices; the third level is the specific development status of various aspects of innovation capabilities, which is reflected by the 18 sub-indices selected from the above-mentioned four subfields (see the appendix table for the index system). A brief explanation is as follows:
-i. Innovation Environment
-The field primarily reflects the support conditions necessary for driving innovative development, including essential resources such as human and financial resources, as well as the policy guidance and support required for fostering innovation.
-1. Number of people with a college degree or above per 10,000 employed persons
-It refers to the average number of employees possessing a certain level of educational qualifications. This index is used to reflect the comprehensive quality of the labor force in China.
-2. Per capita GDP
-It refers to the per capita gross domestic product (GDP, at constant prices). This is the most representative indicator of a country’s economic strength, which reflects the interdependence and mutual promotion between economic growth and innovation capability development.
-3. Proportion of science and engineering graduates in the relevant age cohort
-This index reflects the status of potential human resources for innovation in China. Science and engineering graduates refer to the number of graduates of science, engineering, agriculture and medicine at or above the undergraduate level, and the relevant age cohort refers to the population aged 20 to 34 in China.
-4. Proportion of fiscal funding allocated to science and technology
-The government’s fiscal funding allocated to science and technology plays a leading and guiding role in the innovation input and innovation activities of the whole society. This index reflects the government’s direct input in innovation as well as the planning and guidance for key, important and frontier fields.
-5. Proportion of enterprises enjoying additional tax deduction and exemption
-The policy allowing additional pre-tax deductions for R&amp;D expenses is one of the most direct and effective measures to encourage enterprises to increase their input in research and development. This index reflects the implementation of relevant government policies and, to some extent, the environment for enterprise innovation. The data coverage of this indicator is limited to industrial enterprises above the designated size.
-ii. Innovation Input
-This field mainly reflects the scale and intensity of human and financial resource input for innovation, and input in crucial areas. R&amp;D is the most important link in realizing innovation, and the R&amp;D input indicators reflect the innovation input.
-1. Full-time equivalent of R&amp;D personnel per 10,000 people
-It refers to the average full-time equivalent of R&amp;D personnel calculated based on the total resident population. This index reflects the input scale and intensity of human resources for independent innovation. R&amp;D personnel includes R&amp;D personnel of enterprises, scientific research institutions, and higher education institutions, representing the combined R&amp;D human resource input from various innovation entities across society. The full-time equivalent of R&amp;D personnel refers to the number of R&amp;D personnel converted into full-time equivalents based on their actual workload.
-2. Proportion of R&amp;D funds in GDP
-This index, also known as R&amp;D input intensity, is the core index that is commonly used worldwide and reflects the level of national or regional scientific and technological input, and is also an important index in China’s relevant scientific and technological innovation planning.
-3. Per capita funding for basic researchers
-It refers to the average expenditure on basic research per full-time equivalent of basic research personnel. Basic research is the foundation of scientific and technological development, and it represents a country’s original innovation capability to a certain extent. The index system uses this index to reflect the national efforts to strengthen the original innovation capability.
-4. Proportion of enterprise R&amp;D funds in business revenue
-Enterprises are the main entities of innovation activities, while industrial enterprises play a leading role in enterprise innovation activities. This index reflects the input intensity of the main entities of innovation activities. The data coverage of this indicator is limited to industrial enterprises above the designated size.
-iii. Innovation Output
-This field reflects the intermediate innovation output through papers, patents, trademarks, and technology markets.
-1. Number of scientific and technological papers per 10,000 people
-Scientific and technological papers refer to the academic papers produced by scientific and technological projects initiated by enterprises and institutions and published in officially registered journals. Scientific and technological papers are one of the important forms of achievements produced in the process of innovation activities. This index reflects the output level and efficiency of R&amp;D activities.
-2. Number of high-value invention patents owned per 10,000 R&amp;D personnel
-It refers to the number of high-value and valid invention patents, averaged over R&amp;D personnel. Patents are another important form of intermediate output of innovation activities. High-value invention patents refer to those that are in line with the development direction of national key industries, and those with high quality or high value. The specific scope of high-value patents is defined by the China National Intellectual Property Administration, reflecting a transformation toward high-quality patent development. This index, as part of the monitoring of the relevant planning, is an important measure of the output and efficiency of R&amp;D activities.
-3. Proportion of enterprises with registered trademarks
-An enterprise with a registered trademark refers to an enterprise that is the primary registrant of a trademark that has been approved and registered by domestic or international trademark authorities and is currently valid. This index reflects the enterprise’s ownership of its own brand to some extent. The data coverage of this indicator is limited to industrial enterprises above the designated size.
-4. Average contract value for technology market transactions
-It refers to the average transaction amount in the technology market, calculated by the number of contract projects in the technology market. This index reflects the quality and efficiency of technology transfer and commercialization of scientific and technological achievements. The transaction amount in the technology market refers to the total amount of the contract projects in the national technology market.
-iv. Innovation Effectiveness
-The field reflects the impact of innovation on socio-economic development through aspects such as economic growth, economic transformation, adjustments in product structure, and international competitiveness in science and technology across industries.
-1. Proportion of new product sales revenue in business revenue
-Sales revenue of new products is an indicator of enterprises’ innovation outcomes, reflecting their success in bringing new products to market. It reflects the impact of innovation on the adjustment of product structure. The data coverage of this indicator is limited to industrial enterprises above the designated size.
-2. Proportion of high-tech product export value in goods export value
-There is an interactive relationship between the high-tech industry and innovation. This index reflects the impact of innovation on the international competitiveness of the industry through the changes in high-tech product export.
-3. Proportion of added value from patent-intensive industries in GDP
-Patent-intensive industries reflect the close integration of intellectual property rights, scientific and technological innovation, and the industrial economy. They are a strong support and important development direction for high-quality development. The proportion of their added value in GDP demonstrates the contribution of innovation to economic development in guiding the industrial restructuring and upgrading.
-4. Proportion of added value from the “three new” economy in GDP
-“Three new” economy plays a crucial role in promoting high-quality development. Its added value in GDP demonstrates the contribution of innovation to economic development from the perspective of economic transition and development and economic vitality enhancement driven by the emerging economy.
-5. Overall labor productivity
-It refers to the ratio of gross domestic product (GDP, at constant prices) to employed persons in a certain period of time. Innovation is an important factor affecting labor productivity, and improving labor productivity is one of the purposes of innovation. This index reflects the role of innovation in promoting economic development.
-II. Evaluation Method of China Innovation Index
-i. Select the Base Year
-On the basis of a comprehensive assessment of the availability, consistency, and continuity of indicators, 2015 is selected as the base year.
-ii. Determine the Index Weight
-The “level-by-level equal weight method” is adopted to distribute the weights, whereby the weight of each subfield is set at 1/4; within a certain subfield, the weight of each index is calculated as 1/n of the total weight for that field (where n represents the number of indices within that field); the final weight for each index is determined as 1/4n. See the appendix table for the weight of each index.
-iii. Calculate the Index Growth Rate
-When calculating the development speed with a fixed base, the conventional approach is to calculate the growth rate of each index and take a weighted average. This index continues to adopt the method used in the original index, whereby the average value of an indicator over two years is used as the reference value for calculating its growth rate. The range of growth rate of each index is controlled within the range of [-200, 200] to enhance the stability of data and reduce the distortion of the whole index system due to excessive fluctuation of values of certain indices. The calculation formula is as follows:
-, where i is the serial number of indices, t is the year, and t&gt;=2016.
-iv. Compose Indices of Subfields and the Total Index
-1. Calculate the weighted growth rate of the indices in each field:
-, where i is the serial number of indices, t is the year,Wi is the weight of each index within its respective field, Vit is the calculated growth rate of each index, k is the number of indices within this field, and t&gt;=2016.
-2. Calculate sub-indices of cumulative development in each field with a fixed base:
-, where t is the year, t&gt;=2015, and E2015=100.
-3. Calculate the total index of the cumulative development with a fixed base:
-, where t is the year and is the weight of each field in the total index.
-Appendix Table: China Innovation Index System
-| Item | Indicators | Unit | Weight※ | 
-| Innovation Environment (1/4) | 1.1 Number of people with a college degree or above per 10,000 employed persons | persons / 10,000 persons | 1/5 | 
-|  | 1.2. Per capita GDP | yuan / person | 1/5 | 
-|  | 1.3 Proportion of science and engineering graduates in the relevant age cohort | % | 1/5 | 
-|  | 1.4 Proportion of fiscal funding allocated to science and technology | % | 1/5 | 
-|  | 1.5 Proportion of enterprises enjoying additional tax deduction and exemption | % | 1/5 | 
-| Innovation Input (1/4) | 2.1 Full-time equivalent of R&amp;D personnel per 10,000 people | person-years / 10,000 persons | 1/4 | 
-|  | 2.2 Proportion of R&amp;D funds in GDP | % | 1/4 | 
-|  | 2.3 Per Capita funding for basic researchers | 10,000 yuan / person-years | 1/4 | 
-|  | 2.4. Proportion of enterprise R&amp;D funds in business revenue | % | 1/4 | 
-| Innovation Output (1/4) | 3.1 Number of scientific and technological papers per 10,000 people | Papers / 10,000 persons | 1/4 | 
-|  | 3.2. Number of high-value invention patents owned per 10,000 R&amp;D personnel | patents / 10,000 persons | 1/4 | 
-|  | 3.3 Proportion of enterprises with registered trademarks | % | 1/4 | 
-|  | 3.4 Average contract value for technology market transactions | 10,000 yuan / contract | 1/4 | 
-| Innovation Effectiveness (1/4) | 4.1 Proportion of new product sales revenue in business revenue | % | 1/5 | 
-|  | 4.2 Proportion of high-tech product export value in goods export value | % | 1/5 | 
-|  | 4.3 Proportion of added value from patent-intensive industries in GDP | % | 1/5 | 
-|  | 4.4 Proportion of added value from the “three new” economy in GDP | % | 1/5 | 
-|  | 4.5 Overall labor productivity | yuan / person | 1/5 | 
-| ※Note: The weight of each subfield is 1/4, and the weight of an index within the specific subfield is 1/n (where n is the number of indices in that subfield). |  |  |  |</description>
-      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202610/t20261026_1965691.html</guid>
     </item>
     <item>
       <title>Market Prices of Important Means of Production in Circulation,October 11-2...</title>
@@ -501,139 +542,6 @@ Attached Table: Specifications of Market Price Monitoring Products of Important 
 | 49 | Pulp | Imported Coniferous Pulp | Tensile Index≥85.0N·m/g, Burst Index≥6.5KPa·m2/g, Tearing Index≥9.0mN·m2/g | 
 | 50 | Corrugated Paper | AA Grade, 120g | 120±5g/m2 |</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202610/t20261023_1965682.html</guid>
-    </item>
-    <item>
-      <title>Preliminary Accounting Results of GDP for the Third Quarter of 2026</title>
-      <link>https://www.stats.gov.cn/english/PressRelease/202610/t20261021_1965671.html</link>
-      <description>Published: 2026-10-21 09:30:00
-
-Preliminary Accounting Results of GDP for the Third Quarter of 2026
-Based on relevant basic data and accounting methods for gross domestic product (GDP), the results of the preliminary accounting of China’s GDP in the third quarter of 2026 are as follows.
-Table 1 Preliminary Accounting Results of GDP for the Third Quarter of 2026
-|  | Absolute Value (100 million yuan) |  | Growth Rate Y/Y (%) |  | 
-|  | Q3 | First Three Quarters of 2026 | Q3 | First Three Quarters of 2026 | 
-| GDP | 375367 | 1071071 | 4.5 | 4.6 | 
-| Primary industry | 27472 | 58994 | 3.6 | 3.7 | 
-| Secondary industry | 133349 | 383822 | 3.4 | 3.8 | 
-| Tertiary industry | 214546 | 628255 | 5.2 | 5.2 | 
-|  |  |  |  |  | 
-| Agriculture, forestry, animal husbandry and fishery | 29166 | 62967 | 3.8 | 3.9 | 
-| Industry | 113162 | 329386 | 5.2 | 5.3 | 
-| # Manufacturing | 93342 | 275672 | 5.9 | 5.6 | 
-| Construction | 21168 | 57211 | -4.4 | -4.1 | 
-| Wholesale and retail trades | 39044 | 111261 | 5.6 | 4.4 | 
-| Transport, storage and post | 17593 | 48923 | 5.9 | 5.1 | 
-| Hotels and catering services | 7458 | 19715 | 6.3 | 5.5 | 
-| Financial intermediation | 27449 | 82063 | 4.1 | 5.8 | 
-| Real estate | 19874 | 61239 | -0.4 | -0.2 | 
-| Information transmission, software and information technology services | 17187 | 58522 | 9.8 | 10.4 | 
-| Leasing and business services | 18156 | 49748 | 12.9 | 12.3 | 
-| Others | 65110 | 190036 | 3.6 | 3.8 | 
-| Notes: 1. Absolute values are calculated based on current prices, and growth rates are calculated based on constant prices; 2. The three industries are classified based on the Regulations on the Classification of the Three Industries revised in 2018 by the National Bureau of Statistics of China; 3. The Industrial Classification for National Economic Activities (GB/T 4754-2017) was used for the industrial classification of national economic activities; 4. For GDP totals in this table, some may not equal the sum of individual sectors (industries) due to rounding, and no mechanical adjustments have been made. |  |  |  |  | 
-Table 2 Year-on-Year Growth Rate of GDP
-| Unit: % |  |  |  |  | 
-| Year | Q1 | Q2 | Q3 | Q4 | 
-| 2021 | 18.9 | 8.1 | 5.5 | 4.5 | 
-| 2022 | 4.8 | 0.8 | 4.0 | 3.0 | 
-| 2023 | 4.7 | 6.5 | 5.0 | 5.3 | 
-| 2024 | 5.3 | 4.7 | 4.6 | 5.4 | 
-| 2025 | 5.4 | 5.2 | 4.8 | 4.5 | 
-| 2026 | 5.0 | 4.3 | 4.5 |  | 
-| Note: The year-on-year growth rate refers to the growth rate over the same period last year. |  |  |  |  | 
-Table 3 Quarter-on-Quarter Growth Rate of GDP
-| Unit: % |  |  |  |  | 
-| Year | Q1 | Q2 | Q3 | Q4 | 
-| 2021 | 0.0 | 2.7 | 0.5 | 1.2 | 
-| 2022 | 0.1 | -0.7 | 3.3 | 0.5 | 
-| 2023 | 1.6 | 1.3 | 1.6 | 0.8 | 
-| 2024 | 1.3 | 1.0 | 1.4 | 1.6 | 
-| 2025 | 1.1 | 1.2 | 1.1 | 1.1 | 
-| 2026 | 1.3 | 0.9 | 1.2 |  | 
-| Note: The quarter-on-quarter growth rate refers to the seasonally adjusted growth rate over the previous quarter. |  |  |  |  | 
-Refer to the National Bureau of Statistics (NBS) database (https://data.stats.gov.cn) for more accounting results.
-Annex:
-Notes on China’s Quarterly GDP Accounting
-1. Overview of quarterly GDP accounting
-1.1 Basic concept
-GDP is the final result of production activities of all resident units in a country over a certain period. It is the core indicator of national economic accounting and an important indicator of the economic situation and the development level of a country.
-There are three methods of GDP accounting, namely, the production-based method, the income-based method, and the expenditure-based method. The three methods reflect the results of production activities of the national economy from different perspectives. The production-based method is a method of obtaining value added by removing the value of intermediate goods and services that are inputs to the production process from the value of goods and services created in the production process. The formula for calculating the value added in each sector of the national economy by the production-based method is as follows: value added = total output - intermediate inputs. The value added in each sector of the national economy by the production-based method is summed up to obtain GDP by the production-based method. The income-based method accounts for the results of production activities from the perspective of the income generated by the production process. According to this method, value added consists of four components: compensation of workers, net taxes on production, depreciation of fixed assets, and business surplus. The formula is as follows: value added = compensation of workers + net taxes on production + depreciation of fixed assets + business surplus. The sum of the value added of each sector of the national economy by the income-based method is equal to the GDP by the income-based method. The expenditure-based method calculates GDP from the perspective of the end use of the results of production activities. The end use consists of final consumption expenditure, gross capital formation, and net exports of goods and services.
-The quarterly GDP released by the NBS is the result of accounting by the production-based method.
-1.2 Scope of accounting
-1.2.1 Scope of production
-The scope of production for GDP accounting includes the following four components: first, the production of goods or services that producers supply or intend to supply to other units; second, the subsistence production of all goods used by producers for their final consumption or for fixed capital formation; third, the subsistence production of knowledge-carrying goods carried out by producers for their final consumption or for fixed capital formation, excluding similar activities carried out by the household sector; fourth, the subsistence production of housing services provided by owner-occupied dwellings, and of household and personal services provided by paid domestic service workers. The scope of production does not include unpaid household and personal services, natural activities not controlled by certain units (e.g., wild, uncultivated forests, natural growth of wild fruits or berries, natural growth of fish populations in the high seas), etc.
-1.2.2 Scope of subjects of production activities
-The scope of subjects of GDP production activities includes all resident units with economic interest centers within the economic territory of China. The quarterly GDP data in this report are national data accounted by the NBS, and do not include GDP data for the Hong Kong Special Administrative Region, Macao Special Administrative Region, and Taiwan Province.
-1.3 Accounting units
-GDP accounting mainly takes legal entities as the accounting unit. In accounting, legal entities are classified into different sectors based on the main activities they are engaged in, and the value added of each sector is calculated separately, which is then summarized to obtain GDP.
-1.4 Accounting frequency
-GDP accounting is conducted on a quarterly basis. China used cumulative accounting for quarterly GDP from the first quarter of 1992 to the second quarter of 2015, i.e., GDP data were calculated for the first quarter, the first to second quarters, the first to third quarters, and the first to fourth quarters of each year, respectively, and the preliminary accounting results of GDP for the first to fourth quarters were those of annual GDP. Since the third quarter of 2015, the quarterly accounting method has been used, that is, the GDP data of the first quarter, the second quarter, the third quarter, and the fourth quarter of each year are calculated respectively, and the cumulative data are obtained by adding the quarterly data.
-Since the first quarter of 2011, the NBS has been officially releasing the quarter-on-quarter growth rate of GDP in each quarter.
-1.5 Legal basis and regulations
-GDP accounting strictly complies with the provisions of the Statistics Law of the People’s Republic of China. Currently, the GDP of China is measured according to the requirements of China’s System of National Accounts (2016), which adopts the basic accounting principles, contents, and methods of the United Nations System of National Accounts (2008).
-1.6 Confidentiality
-According to the provisions of Article 11, Chapter I, of the Statistics Law of the People’s Republic of China, statistical organizations and statisticians shall maintain the confidentiality of state secrets, work secrets, commercial secrets, personal privacy, and personal information that they learn about in the course of their statistical work, and shall not disclose or illegally provide them to others.
-National accountants shall maintain strict confidentiality of unpublished specialized statistical data and administrative record data used in conducting GDP accounting, as well as strict confidentiality of current GDP data until the GDP accounting data are released.
-1.7 User requirements
-Domestic users of quarterly GDP data are mainly government departments, research organizations, universities and colleges, industry associations, the media, and the general public. In addition, the NBS regularly provides the quarterly GDP data of China to international organizations such as the United Nations, the International Monetary Fund, the Organization for Economic Cooperation and Development, and the Asian Development Bank.
-2. Quarterly GDP accounting methods
-2.1 Classification system
-In quarterly GDP accounting, the industry classification is based on the Industrial Classification for National Economic Activities and the Classification of Three Industries. Two classification approaches are used.
-The first classification is based on the Industrial Classification for National Economic Activities (GB/T 4754-2017) issued by the Standardization Administration of China in 2017. Two levels of classification are used in practice.
-The first level of classification is based on the categories in the industrial classification for national economic activities and is divided into 11 industries, including agriculture, forestry, animal husbandry and fishery, industry, construction, wholesale and retail trades, transport, storage and post, hotels and catering services, financial intermediation, real estate, information transmission, software and information technology services, leasing and business services, and other industries. Specifically, the industry consists of three sectors: mining, manufacturing, and production and supply of electricity, heat power, gas and water. Other industries include seven categories of sectors, including scientific research and technical services, water conservancy, environment and public facilities management, residential services, repair, and other services, education, health and social service, culture, sports and entertainment, public administration, social security, and social organizations.
-The second level of classification builds on the first level of classification by refining some of the categories of the industrial classification for national economic activities into broad industry categories.
-The second classification is based on the Regulations on the Classification of the Three Industries revised by the NBS in 2018, and divides industries into the primary, secondary, and tertiary industries. The primary industry refers to agriculture, forestry, animal husbandry, and fishery (excluding agriculture, forestry, animal husbandry and fishery specialties and auxiliary activities); the secondary industry refers to mining (excluding mining specialties and auxiliary activities), manufacturing (excluding fabricated metal products, machinery and equipment repair), production and supply of electricity, heat power, gas and water, and construction; the tertiary industry, i.e., the service industry, refers to industries other than the primary and secondary industries (excluding international organizations).
-2.2 Source of data
-In calculating quarterly GDP, all applicable data derived from economic statistics surveys available at the time of accounting are used in the GDP accounting. The source of data mainly consists of two parts:
-First, national statistical survey information, which refers to a variety of statistical information obtained from statistical surveys conducted by the national statistical system, such as statistical surveys on agriculture, forestry, animal husbandry and fishery, industry, construction, wholesale and retail trades, hotels and catering services, real estate, and services by enterprises above the designated size, as well as statistics on population, labor and wages, prices, and so on.
-Second, the administrative records and information of the administrative departments, which mainly include relevant data from the Ministry of Finance of the People’s Republic of China, the People’s Bank of China, the State Taxation Administration of China, and the China Securities Regulatory Commission. These data include local and foreign currency credit income and expenditure of financial institutions of the People’s Bank of China, and tax information of the State Taxation Administration of China on different industries.
-2.3 Accounting methods
-2.3.1 Accounting method using value added at current prices
-Depending on the source of data, quarterly value added at current prices is accounted by using the value-added rate method, extrapolation of relevant value indicators, and extrapolation of current prices through constant prices.
-2.3.1.1 Growth rate-based extrapolation of relevant value indicators
-The method of growth rate-based extrapolation of relevant value indicators is to use the growth rate of current prices of relevant value indicators to extrapolate the growth rate of value added at current prices, and then multiply current-price value added of the same period of the previous year by the extrapolated growth rate of value added at current prices to arrive at the value added at current prices of the current period, which is calculated as follows:
-Value added at current prices = Value added at current prices of the same period of the previous year × (1 + Growth rate of value added at current prices)
-Among them, the growth rate of value added at current prices is determined based on the current-price growth rate of relevant value indicators in the current period, as well as the quantitative relationship between the current-price growth rates of value added and the current-price growth rates of relevant value indicators in previous years.
-2.3.1.2 Extrapolation of current prices through constant prices
-First, the value added at constant prices in the current period is obtained by the extrapolation of volume indices, and then the value added at current prices is calculated according to the relevant price index. The calculation formula is:
-Value added at current prices﹦Value added at constant prices × Price index
-2.3.2 Accounting method of value added at constant prices
-The value added at constant prices is derived by converting the value added calculated at current prices into the value calculated at a fixed period (base period), to eliminate the influence of price change factors and make the values in different periods comparable. The value added at constant prices is calculated by the fixed base period method. At present, the base period is changed every five years, and the base period of value added at constant prices from 2026 to 2030 is 2025.
-The accounting of quarterly value added at constant prices is mainly based on the price index deflation method and extrapolation of volume indices.
-2.3.2.1 Price index deflation method
-The value added at constant prices is calculated by deflating the value added at current prices with the relevant price indices. The calculation formula is:
-Value added at constant prices of a certain sector = Value added at current prices of the sector ÷ Price index
-2.3.2.2 Extrapolation of volume indices
-The growth rate of value added at constant prices is extrapolated by using the growth rate of relevant volume indices, and then the value added at constant prices of the current period is calculated by using the value added at constant prices of the same period in the previous year and the extrapolated growth rate of value added at constant prices. The calculation formula is:
-Value added at constant prices of a certain sector = Value added at constant prices of the sector of the same period in the previous year × (1 + Growth rate of value added at constant prices of the sector)
-Among them, the growth rate of value added at constant prices is determined according to the growth rate of relevant volume indices in the current period and the quantitative relationship between the growth rate of value added at constant prices and the growth rate of relevant volume indices in previous years.
-2.4 Seasonal adjustment
-The quarter-on-quarter growth rate of GDP is the result of comparing the quarterly value added with the value-added data in the previous quarter. In the calculation, the effect of seasonal factors on the time series has to be removed, and the time series is seasonally adjusted using the NBS version of the Seasonal Adjustment Software (NBS-SA). NBS-SA is developed based on the internationally used seasonal adjustment software, taking into account China-specific seasonal factors. The software adds a new module to deal with these factors, effectively eliminating factors, including moveable holidays such as the Chinese New Year, Dragon Boat Festival, and Mid-Autumn Festival, the shift in the number of working days per week from 6 days to 5 days, changes caused by holiday shifts and rescheduling adjustments, etc.
-3. Revision of quarterly GDP data
-3.1 Necessity of revision
-Preliminary accounting of quarterly GDP is highly time-sensitive and is generally released about 15 days after the end of the quarter. At this point, not all of the basic data needed for GDP accounting is available, so the preliminary quarterly GDP accounting is derived using specialized statistical progress information and extrapolation of relevant indicators. Subsequently, as the available basic information continues to increase and improve, GDP data will be revised using more complete basic information, such as annual reports of specialized statistics, industry financial information, and fiscal accounts, so that the data can accurately reflect the actual situation of economic development.
-3.2 Revision procedures
-According to the latest reform of GDP accounting and data release policies of the NBS, China’s quarterly GDP accounting is divided into two steps: preliminary accounting and final verification. Usually, after the annual GDP is finally verified, the quarterly data should be revised, which is called a routine revision. After the national economic census is carried out, if new basic data that have a great influence on GDP data are found, or if the historical annual GDP data are revised after the calculation method and classification standards have changed, the historical quarterly GDP data should be revised accordingly, which is called a comprehensive revision.
-3.3 Revision methods
-3.3.1 Revision of data for the current quarter
-At present, the revision of the quarterly GDP data in China adopts the proportional connection method, that is, the method of adjusting quarterly data by using the difference between the annual benchmark value and the sum of the four quarters in the year. The basic practice of the proportional connection method is: first, the value added at current prices and constant prices of various industries in the national economy are connected respectively; then, GDP and the value added of the three industries are the sum of the value added of the industries after connection. The connection method for GDP at constant prices and the value added of three industries at constant prices is the same as that at current prices.
-3.3.2 Revision of quarter-on-quarter data
-As the object of seasonal adjustment is time series data, any changes in quarterly data in the time series will affect the results of seasonal adjustment. Adding the data of the latest quarter to the time series will also cause the quarter-on-quarter data of previous quarters to change more or less, which is the result of the model’s automatic correction. According to the principle of seasonal adjustment, in general, the data will be greatly affected in the period close to the latest data, and less affected in the period far away from the latest data. For the convenience of users, the revised quarter-on-quarter data of the previous quarters will also be released on the website of the NBS when the quarter-on-quarter data of the current period is released.
-4. Quarterly GDP data quality evaluation
-4.1 Evaluation of basic data
-Relevant departments will examine the quality of specialized statistical data and administrative record data used in GDP accounting to ensure that the data reasonably reflect the actual situation of economic development. When the GDP accounting department receives these basic data, it will check the completeness and accuracy of the data again to ensure that these data meet the concept and requirements of GDP accounting.
-4.2 Evaluation of accounting methods
-In GDP accounting, the GDP accounting department will revise the quarterly GDP accounting methods according to the evolving economic reality of China and the constantly improving national economic accounting standards, to ensure the rationality of the methods.
-4.3 Evaluation of accounting results
-After the quarterly GDP accounting results are obtained, consistency checks are conducted on the data of GDP components, the GDP data, the data of related specialties and departments, as well as other macroeconomic indicators, so as to ensure that the GDP data are consistent and aligned with other major statistics. A system is being established to evaluate the basic statistical data of various specialties and departments with national economic accounting as the core framework.
-4.4 Comparability of data
-China’s System of National Accounts (2016) adopted the basic accounting principles, contents, and methods of the United Nations System of National Accounts (2008), so that the GDP data is internationally comparable.
-Historical quarterly GDP data have been revised following the national economic census or changes in calculation methods and classification standards, so that the quarterly GDP time series since the first quarter of 1992 is comparable.
-5. Quarterly GDP data release
-5.1 Time of release
-The results of the preliminary accounting of quarterly GDP are generally released around 15 days after the end of the quarter, and final quarterly GDP verifications are generally released in January of the next year. For the release of key statistical indicators, the NBS will specify the release date in the Regular Press Release Calendar of NBS issued at the beginning of the year, and the GDP data will be released according to the prescribed schedule.
-5.2 Methods of release
-The results of the preliminary accounting of quarterly GDP are published in the quarterly press conference on the operation of the national economy, on the website of the NBS (www.stats.gov.cn), and in the China Monthly Economic Indicators. Final quarterly GDP verifications are published in the database of the NBS (http://data.stats.gov.cn/) and the China Monthly Economic Indicators. The time series of quarterly GDP data since the first quarter of 1992 can be found in the database of the NBS (http://data.stats.gov.cn/).</description>
-      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202610/t20261021_1965671.html</guid>
     </item>
     <item>
       <title>National Economy was Generally Stable with New Achievement Made in High-Quality Development in the First Three Quarters</title>

@@ -1,0 +1,71 @@
+TITLE:
+Business Revenue of Enterprises above the Designated Size Engaged in Cultu...
+
+PUBLISHED:
+2026-10-31 09:30:00
+
+SOURCE:
+National Bureau Statistics English
+
+CATEGORY:
+Economic
+
+URL:
+https://www.stats.gov.cn/english/PressRelease/202611/t20261103_1965734.html
+
+ARTICLE TEXT:
+Business Revenue of Enterprises above the Designated Size Engaged in Culture and Related Industries in the First Three Quarters of 2026
+According to a survey of 83 thousand enterprises above the designated size engaged in culture and related industries (hereinafter referred to as “cultural enterprises”) nationwide, in the first three quarters of 2026, cultural enterprises achieved a business revenue of 10,821.0 billion yuan, up by 4.3%[1]year on year on a comparable basis (see Annotation II for details). Among them, the 16 industry sub-categories with distinct characteristics of new cultural forms[2] achieved a business revenue of 5,382.7 billion yuan, up by 8.9% year on year, 4.6 percentage points higher than that of all cultural enterprises above the designated size.
+By industry type, the business revenue of the culture-related manufacturing was 2,674.4 billion yuan, down by 0.2% year on year; that of the culture-related wholesale and retail was 1,576.9 billion yuan, down by 0.1%; that of the culture-related services was 6,569.7 billion yuan, up by 7.3%.
+By field, the business revenue of the core areas of culture[3] was 7,504.2 billion yuan, up by 5.1% year on year; that of culture-related fields was 3,316.8 billion yuan, up by 2.4%.
+By industry category, the business revenue of news and information services was 1,633.7 billion yuan, up by 7.3% year on year; that of content creation and production was 2,512.9 billion yuan, up by 4.1%; that of creative design services was 2,085.0 billion yuan, up by 8.8%; that of cultural communication channels was 1,078.0 billion yuan, down by 1.9%; that of cultural investment and operation was 41.2 billion yuan, up by 11.7%; that of cultural, entertainment and leisure services was 153.5 billion yuan, up by 0.3%; that of cultural auxiliary production and intermediary services was 1,167.3 billion yuan, up by 4.7%; that of cultural equipment production was 511.2 billion yuan, up by 5.3%; that of cultural consumption terminal production was 1,638.3 billion yuan, unchanged from the previous year.
+By region, cultural enterprises in the eastern region achieved a business revenue of 8,812.3 billion yuan, up by 5.0% year on year; that of the central region was 1,116.5 billion yuan, up by 1.5%; that of the western region was 804.4 billion yuan, up by 2.0%; that of the northeastern region was 87.7 billion yuan, down by 5.5%.
+In the first three quarters of 2026, cultural enterprises achieved total profits of 831.7 billion yuan, down by 7.3% year on year; the profit rate of business revenue was 7.69%, down by 0.96 percentage points year on year. At the end of the third quarter, the assets of cultural enterprises totaled 23,548.4 billion yuan, up by 6.0% year on year; the business revenue brought by per-hundred-yuan assets was 62.0 yuan, down by 1.6 yuan year on year.
+Indicators of Enterprises above the Designated Size Engaged in Culture and Related Industries in the First Three Quarters of 2026
+|  | Absolute Value (100 million yuan) | Growth Rate Y/Y (%) | Proportion (%) | 
+| I. Business revenue | 108210 | 4.3 | 100.0 | 
+| Of which: New cultural forms | 53827 | 8.9 | 49.7 | 
+| By industry type |  |  |  | 
+| Culture-related manufacturing | 26744 | -0.2 | 24.7 | 
+| Culture-related wholesale and retail | 15769 | -0.1 | 14.6 | 
+| Culture-related services | 65697 | 7.3 | 60.7 | 
+| By field |  |  |  | 
+| Core areas of culture | 75042 | 5.1 | 69.3 | 
+| Culture-related fields | 33168 | 2.4 | 30.7 | 
+| By industry category |  |  |  | 
+| News and information services | 16337 | 7.3 | 15.1 | 
+| Content creation and production | 25129 | 4.1 | 23.2 | 
+| Creative design services | 20850 | 8.8 | 19.3 | 
+| Cultural communication channels | 10780 | -1.9 | 10.0 | 
+| Cultural investment and operation | 412 | 11.7 | 0.4 | 
+| Cultural, entertainment and leisure services | 1535 | 0.3 | 1.4 | 
+| Cultural auxiliary production and intermediary services | 11673 | 4.7 | 10.8 | 
+| Cultural equipment production | 5112 | 5.3 | 4.7 | 
+| Cultural consumption terminal production | 16383 | 0.0 | 15.1 | 
+| By region |  |  |  | 
+| Eastern | 88123 | 5.0 | 81.4 | 
+| Central | 11165 | 1.5 | 10.3 | 
+| Western | 8044 | 2.0 | 7.4 | 
+| Northeastern | 877 | -5.5 | 0.8 | 
+| II. Total profits | 8317 | -7.3 | — | 
+| III. Total assets (end-of-period) | 235484 | 6.0 | — | 
+| Notes: 1. Growth rates in the table are nominal growth rates unadjusted for price factors. 2. Due to rounding, some sub-items in the table may not add up to the total. |  |  |  | 
+Notes:
+[1] Unless otherwise specified, growth rates in the table are nominal growth rates unadjusted for price factors.
+[2] The 16 industry sub-categories with distinct characteristics of new forms are: radio and television integrated broadcast control, Internet search services, other Internet information services, digital publishing, other cultural and art industries, digital content services for animation and games, Internet game services, multimedia, game animation and digital publishing software development, value-added telecommunication cultural services, other cultural digital content services, Internet advertising services, Internet cultural and entertainment platform, copyright and culture software services, intelligent UAV manufacturing for entertainment, intelligent wearable cultural equipment manufacturing, and other intelligent cultural consumption equipment manufacturing.
+[3] Core areas of culture include six industries: news and information services, content creation and production, creative design services, cultural communication channels, cultural investment and operation, and cultural, entertainment and leisure services. Culture-related fields include three industries: cultural auxiliary production and intermediary services, cultural equipment production, and cultural consumption terminal production.
+Annotations:
+I. Notes on Indicators
+Culture and related industries refer to the collection of production activities that provide cultural products and culture-related products for the public. According to the Classification of Culture and Related Industries (2018), culture and related industries include nine categories: news and information services, content creation and production, creative design services, cultural communication channels, cultural investment and operation, cultural, entertainment and leisure services, cultural auxiliary production and intermediary services, cultural equipment production, and cultural consumption terminal production.
+Business revenue refers to the inflow of economic benefits from production and operating activities of enterprises, such as selling goods, providing labor services and transferring the right-of-use assets during the reporting period. Business revenue includes “revenue from principal business” and “revenue from other business”.
+Total profit refers to the surplus earned by an enterprise during the reporting period through its production and operating activities after deducting various expenses from the total revenue. It reflects the total amount of profit or loss realized by an enterprise during the reporting period.
+Total assets refer to all resources owned or controlled by an enterprise through past transactions or events that are expected to generate economic profits, measured at the end of the reporting period.
+Profit rate of business revenue=total profit ÷ business revenue×100%, unit: %.
+Business revenue brought by per-hundred-yuan assets=business revenue ÷ average assets ÷ cumulative number of months×12×100, unit: yuan.
+II. Statistical Coverage
+The scope of statistics on enterprises above the designated size engaged in culture and related industries covers the industries defined in the Classification of Cultural and Related Industries (2018): industrial enterprises with an annual principal business revenue of 20 million yuan or above, wholesale enterprises with an annual principal business revenue of 20 million yuan or above or retail enterprises with an annual principal business revenue of 5 million yuan or above, service enterprises with an annual business revenue of 10 million yuan or above, of which the sectors of transport, storage and post, information transmission, software and information technology services, and water conservancy, environment and public facilities management shall have an annual business revenue of 20 million yuan or above, and resident services, repair and other services, and culture, sports and entertainment shall have an annual business revenue of 5 million yuan or above.
+As the coverage of enterprises above the designated size engaged in culture and related industries changes every year, to ensure the comparability between the data of the current year and those of the previous year, the year-on-year growth rates of business revenue of enterprises above the designated size engaged in culture and related industries and other indicators are calculated using the same statistical coverage as the current period, which is different from the coverage of the data published last year. The main reason is that each year, some enterprises are included in the survey after having reached the designated size, and others exit the survey due to their smaller size. There are also influences from enterprises that are newly established and put into production, bankrupt, and have their business licenses cancelled (revoked).
+III. Survey Method
+The identification of legal entities of culture and related industries above the designated size is conducted on a quarterly basis, and the data are aggregated based on information obtained from comprehensive surveys of industrial enterprises above the designated size, wholesale and retail enterprises above the designated size, and service enterprises above the designated size through the national statistical online direct reporting platform.
+IV. Division of the Eastern, Central, Western, and Northeastern Regions
+The eastern region includes 10 provinces (municipalities): Beijing, Tianjin, Hebei, Shanghai, Jiangsu, Zhejiang, Fujian, Shandong, Guangdong and Hainan; the central region includes 6 provinces: Shanxi, Anhui, Jiangxi, Henan, Hubei and Hunan; the western region includes 12 provinces (autonomous regions and municipalities): Inner Mongolia, Guangxi, Chongqing, Sichuan, Guizhou, Yunnan, Xizang, Shaanxi, Gansu, Qinghai, Ningxia and Xinjiang; the northeastern region includes 3 provinces: Liaoning, Jilin and Heilongjiang.
