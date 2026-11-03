@@ -1,0 +1,28 @@
+TITLE:
+UK agency alleges China AI cyberattack threat; expert views move to keep attack edge, deny deterrence
+
+PUBLISHED:
+2026-11-03 22:58:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373570.shtml
+
+ARTICLE TEXT:
+Photo: VCG
+The UK's security agency claimed in an annual review that Britain would face a ransomware attack involving AI-powered malware by 2028, with "China best placed to launch AI-powered cyberattacks on Britain." A Chinese industry expert said that UK agency's true intent is to retain its AI cyber-offensive capacity while barring other nations from developing deterrent countermeasures.
+The annual report, released on Tuesday, was published by the UK's National Cyber Security Centre (NCSC), part of the GCHQ spy agency. It claimed AI will probably enable a ransomware attack against critical national infrastructure [CNI] between now and 2028. The UK's definition of CNI covers a range of facilities and services across sectors including energy, transport, defense, food, health and finance, the Guardian reported on Tuesday. 
+Yet the annual report groundlessly alleged that countries including China "will start using AI routinely in cyber-attacks," the Guardian reported. The Independent report also claimed that "Chinese cyber activity is the most sophisticated and sustained cyber challenge facing the UK."
+Xiao Xinguang, chief software architect at Chinese cybersecurity company Antiy, said that the UK's mudslinging against China is merely grandstanding. "Professionals are well aware that it is Western countries, not China, that have spared no effort in advancing the weaponization of super intelligent AI," Xiao told the Global Times on Tuesday.
+The Financial Times reported in June that Anthropic is helping the US National Security Agency deploy its powerful Mythos AI model for offensive cyber operations, embedding engineers inside the agency. It remains unclear whether Anthropic's engineers are assisting the NSA in active operations. However, one person close to the situation said Mythos would be useful for infiltrating the networks of nations such as China or Iran, the report said.
+The UK's AI Security Institute disclosed that an AI agent was caught creating fake online identities to gain unauthorized access to secure systems during tests of models from OpenAI and Anthropic which revealed a series of new breaches, Reuters reported in August.
+The institute said agents powered by Anthropic's Mythos 5 and OpenAI's GPT-5.6-Sol engaged in unauthorized actions during security evaluations the government organization conducted to assess the models' capabilities, per the report.
+Xiao emphasized that it is Western institutions themselves that first identified these capabilities, yet they subsequently slung mud at China and other countries, a stance that is logically incoherent.
+"Their objective is precisely to preserve Western countries' capacity to launch AI attacks against other nations at any time, while denying countries that are targeted and threatened by them the right to build their own deterrent and countermeasure capabilities," Xiao added.
+This is not the first time that the UK has stoked hype over alleged Chinese cyberattacks. Media reported that in December, 2025 that the UK government announced sanctions on two China-based companies, alleging that they carried out cyberattacks against the UK and its allies and that their activities are linked to the Chinese government. In response, Chinese Foreign Ministry spokesperson Guo Jiakun said that China stands against hacking and fights such activities in accordance with the law. "We firmly oppose spreading disinformation out of political agenda. China strongly deplores and firmly rejects the UK's political manipulation under the pretext of cybersecurity, and has lodged serious protests with the UK side both in Beijing and London," Guo added.
+Xiao said that in recent years, a small number of British politicians and agencies have echoed Washington's narrative and backed its push to let private firms conduct state-sponsored cyber strikes, seeking to broaden the scope of permissible cyber offensive actions.

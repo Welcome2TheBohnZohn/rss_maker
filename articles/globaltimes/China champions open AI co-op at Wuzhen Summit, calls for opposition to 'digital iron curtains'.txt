@@ -1,0 +1,56 @@
+TITLE:
+China champions open AI co-op at Wuzhen Summit, calls for opposition to 'digital iron curtains'
+
+PUBLISHED:
+2026-11-03 22:17:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373565.shtml
+
+ARTICLE TEXT:
+The 2026 World Internet Conference Wuzhen Summit in Wuzhen, East China's Zhejiang Province opens on November 3, 2026. About 1,800 participants, including government officials, representatives of international organizations, experts and scholars, attended the opening ceremony. Photo: VCG
+China will respect the legitimate cybersecurity concerns of all other countries and work together with them to address security challenges, while opposing the creation of a "digital iron curtain," Chinese Premier Li Qiang said on Tuesday.
+Li made the remarks in a keynote speech delivered at the opening ceremony of the 2026 World Internet Conference Wuzhen Summit in Wuzhen, East China's Zhejiang Province, on Tuesday morning, the Xinhua News Agency reported. 
+Calling for joint efforts to build a community with a shared future in cyberspace, Li said China will continue to pursue innovation through openness, promote technology transfer and knowledge sharing, and work with other countries to foster an open, inclusive and dynamic digital innovation ecosystem.
+The remarks came as government officials, technology executives, experts and other representatives from around the world gathered at the summit, which places artificial intelligence (AI) and open-source cooperation at the center of discussions. 
+Several international participants at the WIC, which is running from Monday to Thursday, shared with the Global Times that they were impressed by China's advances in AI and digital infrastructure, while calling for greater international cooperation to ensure that emerging technologies benefit more countries and communities.
+The WIC's theme of open source and shared benefits reflects the summit's focus on the opportunities and challenges arising from the rapid development of AI, including technological innovation, security governance and international cooperation, Chinese industry analysts said. 
+Global AI cooperation
+This year's summit features an "AI Wuzhen Dialogue," bringing together executives from leading global technology companies and open-source AI model developers, as well as AI scientists, to discuss the development of a global open-source AI ecosystem.
+There are 27 sub-forums covering a wide range of topics, including cyberspace cooperation under the Global Governance Initiative, theories and policies in the digital intelligence era, robotics and embodied intelligence.
+The summit has also attracted broad international participation in its technology and innovation programs.
+The collection of outstanding cases related to building a community with a shared future in cyberspace received more than 360 submissions from over 80 countries and regions, including 22 who are participating for the first time, according to WIC's website. Eleven cases were ultimately selected.
+Meanwhile, the WIC Awards for Pioneering Science and Technology attracted more than 430 technological achievements from 43 countries and regions. International submissions increased by 21 percent from the previous year, and 20 projects received awards, China News Service reported.
+International participants said at the WIC on Tuesday that the gathering provided an opportunity to learn about China's technological advances and explore new areas of cooperation.
+This was the first time Debora Comparin, co-chair for TIDA (Trust and Identity for Humans and Agentic AI) at the International Telecommunication Union has participated in the summit. She told the Global Times that she was particularly interested in China's AI ecosystem and its progress in agentic AI.
+"I'm looking forward to learning more about China's AI ecosystem and its companies, especially in my field, agentic AI," Comparin said.
+"I think China is very advanced in AI, including agentic AI. Its advantages are linked to its supply chain and value chain. China has capabilities ranging from chip manufacturing to model training, which puts it in a fairly unique position," Comparin said.
+Terry Sweetser, chair of the APNIC Routing Security Special Interest Group, who is visiting China for the first time, said he was impressed by the country's modern infrastructure and the scale of the conference.
+"Scale is a major advantage. China can bring people, resources and expertise together very quickly to tackle a problem," Sweetser told the Global Times.
+Sweetser highlighted China's advances in internet infrastructure and routing security, citing the adoption of Resource Public Key Infrastructure and the large-scale deployment of telecommunications infrastructure.
+Ousman Bajinka, senior lecturer at the University of The Gambia, told the Global Times that the summit is taking place at an important moment in technological development.
+"This is the right event at the right time," said Bajinka, noting that AI and the internet could jointly advance sectors ranging from agriculture and food production to medicine.
+Bajinka also said that other countries could benefit from China's technological advances and learn from its approach to development.
+Returning to the World Internet Conference Wuzhen Summit for the 11th time, John Hoffman, chairman and director of GSMA Ltd, highlighted the growing importance of connectivity and openness as the world moves from the internet of things to the internet of agents.
+The summit's technological showcases have attracted much coverage from foreign media. The Emirates News Agency reported on Monday that the Light of Internet Expo, a flagship event of the Wuzhen Summit, featured more than 1,000 cutting-edge technology products from 671 companies across 54 countries and regions.
+Openness, shared benefits
+As AI advances rapidly, ensuring that its benefits reach people worldwide rather than widen the digital divide has become an important topic at this year's Wuzhen Summit.
+At a regular press conference on Tuesday, Chinese Foreign Ministry spokesperson Mao Ning stressed that the ultimate purpose of internet development must be to promote people's all-round development, with greater emphasis on a people-centered value orientation.
+"Internet-related technologies should enhance people's capabilities, expand their choices, affirm human worth, and improve their well-being, rather than make people subordinate to technology, still less allow technology to exacerbate divisions in human development," Mao said.
+The remarks were in response to a question about the 2026 World Internet Conference Wuzhen Summit and China's views on risks in the AI era, including the abuse of technology, the digital divide and the overstretched concept of security.
+Mao said China will continue to pursue open innovation, promote technology transfer and knowledge sharing, and work with all to build an open, inclusive and dynamic global ecosystem for digital innovation. China will also respect the legitimate cybersecurity concerns of all countries, work with all to confront security challenges, and oppose erecting "digital iron curtains."
+This emphasis on openness was echoed by international participants at the summit, who highlighted the potential for cooperation on open-source technologies, common standards and practical applications of AI, even amid technological competition.
+Constructive cooperation between China and the US is essential for the global development of AI, particularly in open source and standardization, Comparin said, noting that "China and the US are both leading countries in AI, and absolutely need constructive cooperation."
+Lilan Dayananda, a social-tech entrepreneur from Sri Lanka attending the summit, also highlighted the potential for cooperation between China and developing economies.
+He said Sri Lanka had well-trained software engineers, creating opportunities for Chinese companies to employ local developers, while Chinese software and AI solutions could be applied in Sri Lanka.
+Dayananda stressed that technological competition and international cooperation are not mutually exclusive.
+"I like the phrase 'positive competition.' Competition is important because it helps prevent monopolies in technology," the Sri Lankan businessman said.
+Discussions at the Wuzhen Summit underscore the growing importance of ensuring that advances in AI translate into broader development opportunities, rather than deepening existing technological divides, Xiang Ligang, a veteran industry analyst, told the Global Times.
+China's rapid advances in AI, particularly its expanding open-source ecosystem, are helping lower technological barriers and create new opportunities for developing countries, Xiang said.
+"China's emphasis on openness, technology sharing and international cooperation reflects its commitment to making AI development more inclusive, rather than allowing its benefits to be concentrated in a handful of countries or companies," Xiang said.
