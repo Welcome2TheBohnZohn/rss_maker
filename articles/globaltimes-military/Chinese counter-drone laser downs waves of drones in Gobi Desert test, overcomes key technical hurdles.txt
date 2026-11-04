@@ -1,0 +1,32 @@
+TITLE:
+Chinese counter-drone laser downs waves of drones in Gobi Desert test, overcomes key technical hurdles
+
+PUBLISHED:
+2026-11-04 22:20:00
+
+SOURCE:
+Global Times Military
+
+CATEGORY:
+Military
+
+URL:
+https://www.globaltimes.cn/page/202611/1373649.shtml
+
+ARTICLE TEXT:
+Photo: Science and Technology Daily
+In a desert in Northwest China, waves of suicide drones flying at low altitude from multiple directions suddenly burst into flames, lose control and crash before reaching their target. This scene isn't from a sci-fi film, but from a recent field test of the "Guangjian" series of laser powered counter-drone systems developed by the AVIC Manufacturing Technology Institute.
+"Over the years, we have focused on key technologies that constrain the performance of counter-drone laser systems and made sustained efforts to overcome them, tackling challenges in optical fiber drawing, heat dissipation and temperature control, and precision targeting," Zhou Shuiliang, a lab director at the institute, was quoted as saying in a report released by the Science and Technology Daily on Wednesday.
+The progress highlights the potential of laser weapons as a means of countering the growing threat posed by drones.
+"Laser weapons are a type of directed-energy weapon that can engage low, slow, and small aerial targets, such as drones, at relatively low cost. They can serve as a supplement to short-range air and missile defense systems," military affairs expert Song Zhongping told the Global Times on Wednesday.
+"Unlike conventional interception methods such as missiles, laser beams travel at nearly 300,000 kilometers per second. At typical air defense engagement distances, the time they take to reach a target is virtually negligible, giving laser weapons the advantage in rapid response," Song said.
+However, shooting down a drone with a laser weapon is not simply a matter of pointing a beam at it. Song explained that the system relies on a complete early-warning and fire-control system to detect, track and lock onto a target before concentrating laser fire on it.
+"Although a laser beam travels extremely fast, it must remain focused on a target long enough to inflict sufficient damage on its exterior, internal circuitry or critical components to destroy it," he said. "The types of targets that can be engaged, as well as the damage inflicted, vary with the weapon's power."
+This helps explain why the challenges facing the Guangjian development team went beyond simply making the laser more powerful. According to Zhou, laser energy must be transmitted and amplified through specialty optical fibers. These fibers are doped with special rare-earth elements and have a structure different from that of conventional optical fibers, making consistent manufacturing particularly demanding.
+Previously, technicians had to rely on experience to manually adjust multiple parameters during the fiber-drawing process, with even slight fluctuations potentially affecting fiber quality. 
+The team subsequently introduced an intelligent, multivariable control system that uses algorithms to coordinate adjustments to production parameters, improving both drawing efficiency and product yield, according to the Science and Technology Daily.
+Improving the fibers brought another challenge into focus: heat. As laser systems become more powerful and compact, heat can build up rapidly in a limited space. Without effective cooling, the equipment may struggle to operate reliably for extended periods. Bai Zhen, a member of the research team, told the Daily that the team had developed a phase-change cooling material that used paraffin as its base.
+In simple terms, the material absorbs a large amount of heat as it melts, acting like a compact heat absorber for the laser system, Bai explained. After adjusting the material formula and packaging design, the team carried out a test during which the laser operated continuously for 30 minutes while maintaining stable temperatures.
+Improvements in heat management are important for ensuring that lasers can operate reliably over extended periods, a key factor in their practical use against drones.
+In Song's view, the main advantages of laser weapons are their rapid response and relatively low cost per interception, making them particularly suitable for dealing with low-cost aerial threats such as drones.
+During the test, multiple waves of suicide drones approached a target at low altitude from different directions, simulating a complex aerial threat. As they closed in, they were hit by lasers, causing them to catch fire and then crash before reaching their target, thereby demonstrating the system's ability to intercept incoming threats under challenging conditions.

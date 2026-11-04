@@ -1,0 +1,46 @@
+TITLE:
+World Internet Conference Wuzhen Summit highlights China's open-source AI push
+
+PUBLISHED:
+2026-11-04
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261104/d33eab53524144b4a8efbd47c724aa9a/c.html
+
+ARTICLE TEXT:
+*Open source has become a defining feature of China's AI development. China's national-level AI open-source communities have attracted over 11 million users, while Chinese open-source large models have been downloaded more than 10 billion times globally.
+*Experts believe that open source is a key pathway to pooling intelligence and furthering digital inclusion. Practice shows that open source has lowered R&D costs for small and medium-sized enterprises, with particular value for less-used languages and developing countries.
+HANGZHOU, Nov. 4 (Xinhua) -- At the physical workspace of ModelScope, China's largest AI open-source community, a single developer can do the work of a team.
+Li Guanghui is among the 249 solo entrepreneurs at this workspace in Hangzhou, capital city of east China's Zhejiang Province, 95 percent of whom are working on AI projects. A former developer at a major tech firm, he relocated to Hangzhou from Guangzhou in south China's Guangdong Province.
+With AI assistance, he built a hotel-booking mini program entirely on his own, completing in eight months a project that would typically take a team of five to ten people a year to finish.
+Li's experience reflects a broader trend being discussed at the ongoing 2026 World Internet Conference Wuzhen Summit in Zhejiang's ancient water town of Wuzhen, highlighting how China's open-source push for an inclusive AI future is gaining momentum.
+The summit has drawn about 1,800 delegates from 138 countries and regions to discuss topics including open source and openness, joint contribution and shared benefits.
+"ModelScope now serves more than 33 million developers from 239 countries and regions," said Joe Tsai, co-founder and chairman of Alibaba Group, a Chinese tech giant that founded and operates ModelScope. "Through mutual inspiration, they are building a vibrant global ecosystem."
+Open source has become a defining feature of China's AI development. China's national-level AI open-source communities have attracted over 11 million users, while Chinese open-source large models have been downloaded more than 10 billion times globally.
+"Open source and openness are the foundation of the internet. Openness generates the massive data that fuels large models," said Ya-Qin Zhang, a foreign academician of the Chinese Academy of Engineering. "Represented by Qwen and DeepSeek, China's open-source efforts are actively contributing to the global ecosystem."
+Three years ago, Alibaba launched an open-source AI strategy. To date, its Qwen series has released more than 470 open-source models, featuring over 4 billion cumulative downloads and more than 330,000 derivative models worldwide.
+"AI can only become universal via open source, and only through universality can we create a sustainable and inclusive era of intelligence," said Tsai.
+He added that Chinese AI companies have converged on open source because it reflects China's innovation spirit: looking beyond self-interest, advancing shared well-being, and creating greater value through mutual achievement.
+"Why open source? The answer is simple: to bring artificial general intelligence closer, faster," said Gao Xi, a research engineer at China's AI startup DeepSeek. "Those who embrace open source benefit themselves."
+Experts believe that open source is a key pathway to pooling intelligence and furthering digital inclusion. Practice shows that open source has lowered R&D costs for small and medium-sized enterprises, with particular value for less-used languages and developing countries.
+In Uganda, a non-profit organization built a local language model based on Qwen's open-source model, covering 68 African languages and helping more Africans break language barriers. Similar efforts using Chinese open-source AI models are emerging across Africa in sectors such as legal services, agriculture, education and insurance.
+"Based on open-source models, AI is no longer the exclusive domain of a few tech powers, but a cause that all can participate in," Tsai said. "Developers from emerging economies no longer need to start from scratch."
+John Hoffman, chairman and director of the Global System for Mobile Communications Association (GSMA) Ltd., praised China's push for open technologies. "No openness, no scale; no cooperation, no inclusion," he told Xinhua, adding that openness gave the industry scale, lower costs and a connected world.
+"Openness is a simple word, but it carries a powerful message about how we develop technology, share knowledge and shape our common future in cyberspace," said Nii Narku Quaynor, chairman of Ghana Dot Com, also known as the "father of the internet in Africa."
+Open-source AI is, notably, entering public services. China's Mazu intelligent weather early-warning system has been deployed in eight countries, including Pakistan, Ethiopia and Sri Lanka, with cloud trials underway in more than 50 countries as of October 2026.
+At the Wuzhen summit's exhibition area, a robot powered by Robbyant's LingBot embodied AI models picks up medicines in a simulated pharmacy. This solution, unveiled in July, is already in use at several pharmacies in Shanghai in east China.
+"China's open source efforts are moving from screens into the physical world," said Zhu Xing, CEO of Robbyant, an embodied AI company under Ant Group, noting that Robbyant's open-source models are increasingly used by overseas researchers as testbeds and starting points for new work.
+"Pharmacies carry medicines in many forms, bags, boxes, bottles and even transparent packages, placed densely in aisles only around 80 centimeters wide," said Duan Xiaoyue, a market operation specialist at Robbyant.
+Duan told Xinhua that this puts higher demands on the model's perception and motion planning. In real stores, the system also needs more robust dynamic obstacle avoidance when navigating around elderly customers, wheelchair users, children and pets.
+The company's LingBot embodied AI models, meanwhile, have been downloaded more than 2.2 million times within nine months, helping lower the entry cost for robotics developers.
+"Open source is not just about making code visible, but about replacing monopoly with collaboration and breaking boundaries through sharing," said Ni Xingjun, senior vice president of Ant Group and chairman of Ant Group's Technology Strategy Committee.
+Participants at the summit have also called for broader engagement and responsible development.
+Quaynor highlighted three dimensions of openness: open documents, open standards and meaningful participation, particularly from Africa and the Global South.
+Zhang advocated that companies investing in AI should allocate part of their AI budgets to AI governance research and urged jointly developing interoperability standards for AI agents and international safety evaluation platforms to ensure open-source benefits remain controllable and sustainable.
+"We hope open source can become basic public infrastructure in the digital world, where every participant, regardless of location or seniority, can contribute and benefit on an equal basis," Ni added. (Reporting by Ji Hang, Chen Xiang, Sun Tiexiang, Shang Yiying, Zhang Xuan, Wei Yijun, Zheng Keyi and Yin Xiaosheng; Video reporter: Liu Mingxiang; Video editors: Zhao Xiaoqing, Li Ziwei and Hong Liang.) ■

@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:38:47 +0000</lastBuildDate>
+    <item>
+      <title>Chinese counter-drone laser downs waves of drones in Gobi Desert test, overcomes key technical hurdles</title>
+      <link>https://www.globaltimes.cn/page/202611/1373649.shtml</link>
+      <description>Published: 2026-11-04 22:20:00
+
+Photo: Science and Technology Daily
+In a desert in Northwest China, waves of suicide drones flying at low altitude from multiple directions suddenly burst into flames, lose control and crash before reaching their target. This scene isn't from a sci-fi film, but from a recent field test of the "Guangjian" series of laser powered counter-drone systems developed by the AVIC Manufacturing Technology Institute.
+"Over the years, we have focused on key technologies that constrain the performance of counter-drone laser systems and made sustained efforts to overcome them, tackling challenges in optical fiber drawing, heat dissipation and temperature control, and precision targeting," Zhou Shuiliang, a lab director at the institute, was quoted as saying in a report released by the Science and Technology Daily on Wednesday.
+The progress highlights the potential of laser weapons as a means of countering the growing threat posed by drones.
+"Laser weapons are a type of directed-energy weapon that can engage low, slow, and small aerial targets, such as drones, at relatively low cost. They can serve as a supplement to short-range air and missile defense systems," military affairs expert Song Zhongping told the Global Times on Wednesday.
+"Unlike conventional interception methods such as missiles, laser beams travel at nearly 300,000 kilometers per second. At typical air defense engagement distances, the time they take to reach a target is virtually negligible, giving laser weapons the advantage in rapid response," Song said.
+However, shooting down a drone with a laser weapon is not simply a matter of pointing a beam at it. Song explained that the system relies on a complete early-warning and fire-control system to detect, track and lock onto a target before concentrating laser fire on it.
+"Although a laser beam travels extremely fast, it must remain focused on a target long enough to inflict sufficient damage on its exterior, internal circuitry or critical components to destroy it," he said. "The types of targets that can be engaged, as well as the damage inflicted, vary with the weapon's power."
+This helps explain why the challenges facing the Guangjian development team went beyond simply making the laser more powerful. According to Zhou, laser energy must be transmitted and amplified through specialty optical fibers. These fibers are doped with special rare-earth elements and have a structure different from that of conventional optical fibers, making consistent manufacturing particularly demanding.
+Previously, technicians had to rely on experience to manually adjust multiple parameters during the fiber-drawing process, with even slight fluctuations potentially affecting fiber quality. 
+The team subsequently introduced an intelligent, multivariable control system that uses algorithms to coordinate adjustments to production parameters, improving both drawing efficiency and product yield, according to the Science and Technology Daily.
+Improving the fibers brought another challenge into focus: heat. As laser systems become more powerful and compact, heat can build up rapidly in a limited space. Without effective cooling, the equipment may struggle to operate reliably for extended periods. Bai Zhen, a member of the research team, told the Daily that the team had developed a phase-change cooling material that used paraffin as its base.
+In simple terms, the material absorbs a large amount of heat as it melts, acting like a compact heat absorber for the laser system, Bai explained. After adjusting the material formula and packaging design, the team carried out a test during which the laser operated continuously for 30 minutes while maintaining stable temperatures.
+Improvements in heat management are important for ensuring that lasers can operate reliably over extended periods, a key factor in their practical use against drones.
+In Song's view, the main advantages of laser weapons are their rapid response and relatively low cost per interception, making them particularly suitable for dealing with low-cost aerial threats such as drones.
+During the test, multiple waves of suicide drones approached a target at low altitude from different directions, simulating a complex aerial threat. As they closed in, they were hit by lasers, causing them to catch fire and then crash before reaching their target, thereby demonstrating the system's ability to intercept incoming threats under challenging conditions.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1373649.shtml</guid>
+    </item>
     <item>
       <title>Japan claims it spotted Chinese WZ-7 drone passing through Miyako Strait; Chinese expert says flights normal</title>
       <link>https://www.globaltimes.cn/page/202611/1373566.shtml</link>
@@ -202,39 +225,6 @@ If GJ‑21 is deployed aboard the Type 076 amphibious assault ship, coordination
 The Sichuan, bearing hull number 51, is the first Type 076 amphibious assault ship independently designed, developed and built by China. Launched and named on December 27, 2024, it incorporates a fully automated landing guidance system, a new integrated power system, and electromagnetic catapult and arresting technology. It can carry fixed-wing drones, helicopters and amphibious equipment, according to Xinhua.
 Since its first sea trial in November 2025, the Sichuan has steadily conducted sea trials as scheduled, successfully completing equipment and system checks and tests of overall operational stability, per Xinhua.</description>
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1373320.shtml</guid>
-    </item>
-    <item>
-      <title>China's 1st carrier-borne armed recon stealth drone notches takeoff, landing</title>
-      <link>https://www.globaltimes.cn/page/202610/1373312.shtml</link>
-      <description>Published: 2026-10-30 17:10:00
-
-China's first Type 076 amphibious assault ship, the Sichuan, is underway on Nov. 15, 2025. The Sichuan returned to the shipyard in Shanghai at around 5 p.m. Sunday after completing its maiden sea trial. (Photo by Zhang Liang/Xinhua)
-China’s GJ-21 reconnaissance and strike stealth drone recently completed its first successful takeoff and landing aboard the Sichuan, the country’s first Type 076 amphibious assault ship, marking a breakthrough in the Chinese Navy’s ability to operate fixed-wing stealth drones from large maritime  
-A Chinese military affairs expert told the Global Times that this is a global first, bringing the PLA one step closer to an era of drone carriers. The Type 076 amphibious assault ship has thus become the world’s first catapult-enabled drone carrier. 
-The GJ-21 is the Chinese military’s first carrier-borne stealth drone integrating reconnaissance and strike capabilities. Its successful takeoff and landing demonstrate the Chinese Navy’s capability to launch and recover fixed-wing stealth drones from large maritime combat platforms, according to Xinhua. 
-The 
-Sichuan
-, bearing hull number 51, is the first Type 076 amphibious assault ship independently designed, developed and built by China. Launched and named on December 27, 2024, it incorporates a fully automated landing guidance system, a new integrated power system, and electromagnetic catapult and arresting technology. It can carry fixed-wing drones, helicopters and amphibious equipment, according to Xinhua. 
-Since its first sea trial in November 2025, the Sichuan has steadily conducted sea trials as scheduled, successfully completing equipment and system checks and tests of overall operational stability, per Xinhua. 
-Core strength  
-The GJ‑21 is the world’s first large stealth strike and reconnaissance drone capable of operating from amphibious assault ships. This test marks the world’s first catapult launch of a large stealth strike and reconnaissance drone from an amphibious assault ship, Chinese military affairs expert Zhang Xuefeng, told the Global Times on Friday.  
-Zhang outlined GJ‑21’s key strengths. First, it boasts outstanding stealth performance. Adopting a flying‑wing configuration and an S‑shaped top‑mounted air intake, the aircraft eliminates strong radar reflection sources and delivers excellent all‑aspect stealth capability. Its stealth performance is even superior to that of in‑service stealth fighters.  
-Suited for striking heavily defended targets, it can serve as a vanguard asset to carry out “door‑kicking” suppression missions, according to Zhang.  
-Moreover, GJ‑21 has a substantial combat radius. The flying‑wing design boosts subsonic cruise efficiency. Though its airframe is far smaller than the J‑35 and J‑20, its combat radius is comparable, said Zhang. 
-GJ‑21 is also low‑cost and reusable. Unlike hypersonic missiles, it can be recovered and redeployed multiple times. It can also deploy small, low‑cost glide guided bombs. Under high‑tempo operations, it offers greater fire‑delivery efficiency with better cost control. 
-If GJ‑21 is deployed aboard the Type 076 amphibious assault ship, coordination between the Type 076 and aircraft carrier will markedly enhance the carrier strike group’s anti‑surface and land‑attack capabilities. Furthermore, it can team up with manned fighters for high‑risk, complex missions such as suppression of enemy air defenses. Manned fighters can clear an aerial corridor while GJ‑21 pushes forward to neutralize hostile ground targets and air defense systems, according to Zhang.   
-The airborne unmanned warfare formation attends a military parade in Beijing, capital of China, Sept. 3, 2025. China on Wednesday held a grand gathering to commemorate the 80th anniversary of the victory in the Chinese People's War of Resistance against Japanese Aggression and the World Anti-Fascist War. (Xinhua/Deng Hua)
-The 
-Sichuan
-, bearing hull number 51, is the first Type 076 amphibious assault ship independently designed, developed and built by China. Launched and named on December 27, 2024, it incorporates a fully automated landing guidance system, a new integrated power system, and electromagnetic catapult and arresting technology. It can carry fixed-wing drones, helicopters and amphibious equipment, according to Xinhua.Closer to era of drone carriers 
-The latest information suggests that the Type 076 amphibious assault ship has carried out technical verification related to catapult-capable drone carriers to a certain extent. The vessel will continue compatibility tests for multiple types of UAVs in follow-up work, Chinese military affairs expert Song Zhongping told the Global Times on Friday.  
-“As a large UAV, the GJ-21 has a takeoff weight of more than ten tons. It cannot take off on its own from a conventional ship deck and must rely on a catapult system like the one on the Type 076. Meanwhile, the Type 076 amphibious assault ship is also fitted with an arresting system to support stable and reliable arrested landings of the GJ-21,” Song said.  
-The completion of GJ-21 takeoffs and landings aboard the Type 076 means the ship has achieved the basic combat capability of a catapult-capable drone carrier, a global first, according to Song.  
-Song noted that the US X-47B carrier-based drone program was designed for aircraft carriers, yet multiple technical constraints led to its cancellation. By contrast, the GJ-21 program has advanced steadily with an efficient development timeline and boasts broad application prospects ahead. 
-“Besides operating from the Type 076 amphibious assault ship, the GJ-21 may also be deployed on China’s electromagnetic catapult aircraft carrier in the future. The Type 076 could serve as a testbed for cutting-edge technologies. It can operate independently as a drone carrier and build technical know-how for China’s third aircraft carrier to host manned-unmanned teaming, expanding the operational modes of carrier strike groups,” said Song.  
-The PLA Navy’s exploration of carrier-based drone operations using the Type 076 proves that this new equipment combination is viable. This technical path carries substantial practical value, and the Type 076 has thus become the world’s first catapult-capable drone carrier. 
- “The vessel could also temporarily accommodate manned fighter jets later to test catapult launch and arrested landing procedures for manned aircraft,” predicted the expert.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202610/1373312.shtml</guid>
     </item>
   </channel>
 </rss>

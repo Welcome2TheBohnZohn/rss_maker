@@ -2,7 +2,7 @@ TITLE:
 Live: Protests sweep Europe
 
 PUBLISHED:
-2026-11-04
+2026-11-05
 
 SOURCE:
 China Daily English
@@ -17,6 +17,18 @@ ARTICLE TEXT:
 European law enforcement agencies have vowed to throw the full weight of the law at cost-of-living protesters after demonstrations across the continent spread and turned violent.
 Calls for gatherings on social media prompted police to step up security in several cities.
 Public services, the cost of living and housing affordability remained key concerns in many of the protests.
+Cities across the Czech Republic saw mass protests on Tuesday because of government plans to alter the funding of the country's public broadcasting network.
+The government, headed by Prime Minister Andrej Babis, recently introduced a parliamentary bill that seeks to cancel the monthly fee of 205 Czech koruna ($9.48) paid by each household to fund the public broadcasting service, bringing an abrupt end to the debate over the issue, and causing a rushed vote.
+Jakub Szanto, a reporter for the Czech TV channel, told Agence-France Presse the attempt to force the bill through without a proper debate was a "radical step", and added "we firmly hope the government will understand that when something's working, you don't have to change it".
+In an unprecedented move, workers at public radio and television services joined the protest, with only repeated programs and shorter news bulletins broadcast, and a message on screen saying: "We are doing everything we can to ensure that we can continue to provide a public service in its full scope and quality in the future."
+Critics of the government's proposal, which would result in a funding cut of around 15 percent, say it is an attempt to limit the independence of the trusted public broadcasting service.
+"This proposal, if passed, will give the government coalition tools to politically influence the content of both public media," said strike committee member Jan Molacek.
+Babis, however, insists there is no political agenda and it is purely down to a matter of financing. "None of what the people are protesting against ... is true," he said.
+OSLO -- About 40,000 high school students across Denmark walked out of classes Wednesday to protest government plans to cut student grants, organizers said.
+The Danish student organization DGS said students at 57 high schools suspended classes, according to Danish news agency Ritzau.
+In Copenhagen, protesters gathered at City Hall Square before marching to Christiansborg, the seat of parliament, carrying banners calling for student support to be preserved. DGS and 20 other education and political youth organizations organized the demonstration.
+The government's proposal would remove grants for students living with their parents whose combined parental income exceeds a specified threshold, and reduce payments for some others. The proposed cuts form part of its budget negotiations.
+Christina Egelund, minister for Science, Higher Education and Digital Affairs, said she understood students demonstrating for their views, but defended the need to make spending choices amid growing demands for defense and security funding. The grant proposal remained under negotiation, she said.
 PRAGUE -- Thousands of protesters, including university students and artists, took to the streets in Prague and other cities on Tuesday as Czech public television and radio workers held a one-day strike against a government plan to cut financing and move funding to the state budget.
 Workers and demonstrators called the plan an attempt to hurt the broadcasters' independence and viability, and they demanded that the government scrap the planned reform. The strike also led to broadcast curbs.
 The strike escalates a fight over the future of the broadcasters that a 2025 Reuters Institute survey found were among the country's most followed and most trusted news sources. The government's bill passed a preliminary vote last month and now awaits further debate in parliament.
@@ -33,7 +45,7 @@ A 15 percent financing cut proposed as part of the change would reduce public te
 Babis reiterated on Monday that the government was merely meeting a promise to lighten the financial burden on the public.
 "There is no fight over democracy. Nobody wants to take over the public media or bring them under state control," he said, adding that changes to the bill could be made in further debate.
 Molacek said a funding change was not impossible but needed to be based on a thorough debate and backed by legal safeguards against meddling.
-Agencies
+Reuters
 PARIS - French high school student protests resumed on Monday on a much smaller scale than in past weeks as pupils returned from a two-week break, with youngsters trying to blockade a few high schools in Paris, Marseille and Rennes, French media reported.
 By 0830 GMT some 41 high schools — about 1percent of those nationwide — were blockaded, the Education Ministry said.
 Hundreds of France's more than 3,000 high schools were blockaded in the weeks prior to the break. The protests, which began in the Paris suburbs in September, have spread across France and broadened beyond education to focus on the cost of living, drawing in trade unionists and activists and sometimes turning violent.
@@ -56,6 +68,7 @@ Reuters footage showed city workers cleaning the square with water hoses, scrubb
 On Oct 30, the campers' main representatives said they were dissolving their organising committees as their original demand had been met after the government passed several housing measures.
 Instead, they planned to focus on a general strike over housing rights and cost of living called for Nov 11.
 According to the government, a large number of the people still sleeping there were homeless or belonged to other vulnerable groups.
+Agencies
 The clampdown follows weeks of unrest that began in France as student opposition to education underfunding. The rallies morphed into continentwide mobilizations against cost-of-living increases, a lack of affordable housing, pension privatization, poor public services and several other issues.
 After protesters in France allegedly hurled incendiaries at police on Saturday, prosecutors there say they have launched an attempted murder investigation and intend to put those responsible behind bars.
 Minister of the Interior Laurent Nunez backed the move, saying anyone who throws an incendiary device at a police officer has carried out "what I call a murder attempt".
@@ -199,11 +212,3 @@ In Turin, demonstrators protesting mainly against increased military spending an
 Following demonstrations that escalated into riots and looting last weekend, particularly in Milan, Italian Interior Minister Matteo Piantedosi ordered additional police forces to be deployed across the country. The reinforcement was focused particularly on major cities where the largest rallies were expected.
 Italian Prime Minister Giorgia Meloni condemned the violence in a social media post on Saturday evening, stressing the need to protect both peaceful demonstrators and the wider public.
 "Everyone's safety must be guaranteed: those who wish to demonstrate peacefully, those who work, and those who want to live in their cities without fear," she said. "We must leave no room for those who seek nothing but confrontation and violence."
-LISBON -- Thousands of people marched in Lisbon, Porto and Coimbra on Saturday in the latest round of housing rights protests that have now been ongoing for nearly three weeks, as civic movements maintained pressure on the government to adopt emergency measures to address the housing crisis.
-In Lisbon, demonstrators gathered along Avenida da Liberdade behind a flatbed truck playing music, with police closing traffic as the crowd swelled.
-Banners read "Housing is a right, homes are for living" and "Let through those who want a home to live in."
-In Porto, hundreds gathered at Praca da Batalha before marching through the city center toward Praca D. Joao I, the focal point of the movement since it began two weeks ago.
-Organizers distributed leaflets explaining the reasons for the protest and a "protester's guide" urging protesters to stay calm and providing guidance on how to act in the event of confrontation with authorities.
-The movement is demanding that the government abandon its new rent law and adopt a package of measures including a ban on evictions without alternative housing, a prohibition on real estate fund purchases of residential property, an increase in public housing stock, rent caps and the recovery of vacant properties for housing purposes.
-The protests have been marked by two incidents of police intervention. On Oct 15, the Porto encampment reported a pre-dawn police operation that injured 39 participants, two seriously, and one officer.
-In Lisbon, authorities dismantled an encampment at Rossio square on Oct 20 and detained 55 protesters, who are due to appear before a judge on Oct 27.
