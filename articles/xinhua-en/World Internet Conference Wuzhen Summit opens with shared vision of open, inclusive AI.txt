@@ -1,0 +1,32 @@
+TITLE:
+World Internet Conference Wuzhen Summit opens with shared vision of open, inclusive AI
+
+PUBLISHED:
+2026-11-04
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261104/b869cc8f28dc4422ad0212946fc09e2c/c.html
+
+ARTICLE TEXT:
+HANGZHOU, Nov. 4 (Xinhua) -- As open-source technologies took center stage at the 2026 World Internet Conference (WIC) Wuzhen Summit that opened on Tuesday, guests called for open collaboration on artificial intelligence (AI) and shared innovation in cyberspace.
+Held in Wuzhen, east China's Zhejiang Province, the summit gathered about 1,800 delegates from 138 countries and regions, under the theme "Open Source and Openness, Joint Contribution and Shared Benefits -- Jointly Building a Community with a Shared Future in Cyberspace."
+Addressing the opening ceremony of the summit, Chinese Premier Li Qiang called for joint efforts to build a community with a shared future in cyberspace.
+"China will continue to pursue open innovation, promote technology transfer and knowledge sharing, and work with all to build an open, inclusive and dynamic global ecosystem for digital innovation," Li said.
+In her remarks during the ceremony, Yolanda Diaz Perez, Spanish second deputy prime minister and minister for labor and social economy, said the Wuzhen Summit "showcases a way of common governance" and that "AI should serve and deliver well-being for human beings."
+"What we want is open-source and inclusive AI," she said. "Everyone should have access to the benefits brought by AI."
+"Together, we can ensure that the next era of technological transformation serves all humanity," Li Junhua, United Nations under-secretary-general for economic and social affairs, told attendees. He also called for turning openness from principle into practice and tangible results.
+First held in 2014, the Wuzhen Summit brings together government officials, representatives of international organizations, technology executives and researchers to discuss the development and governance of the internet.
+Openness in action is on display at the Open Source Ecosystem Experience Pavilion, which opened Sunday in Wuzhen, featuring AI open-source achievements, including DeepSeek, Alibaba's Qwen and Zhejiang Lab's 021 Science Foundation Model, alongside AI-related pilot verification cases.
+Open-source AI has a measurable economic impact. It has the potential to narrow the income gap between developed and developing economies, with open-source models serving as the key driver, according to Justin Yifu Lin, dean of the Institute of New Structural Economics at Peking University, earlier in September.
+That potential is already translating into practice. In Uganda, former Google scientist Ernest Mwebaze used Alibaba's open-source model Qwen to develop Sunflower, an AI system giving farmers weather and farming advice in local languages. Mwebaze chose Qwen for its better Ugandan-language handling, lower cost and easier customization.
+That collaborative spirit was shared by industry leaders at the summit. Calling for a future "open by default, trusted by design, and inclusive by nature," John Hoffman, chairman and director of the GSMA Ltd., highlighted a vision for open collaboration.
+"Openness is strength, not weakness," observed Nii Narku Quaynor, chairman of Ghana Dot Com, a Ghanaian IT company.
+The summit is also serving as a platform to recognize top-tier global research. A total of 20 projects from around the world were honored with the WIC 2026 Awards for Pioneering Science and Technology in recognition of their breakthroughs in frontier digital technologies on Monday.
+In a sign of a more collaborative ecosystem, international submissions for the award grew 21 percent year on year, with 18 countries and regions participating for the first time, and the review committee of the award received over 430 submissions from 43 countries and regions this year, according to the WIC.
+Openness and shared innovation will remain the central theme as the summit runs through Thursday. The WIC was established as an international organization headquartered in Beijing in 2022. ■

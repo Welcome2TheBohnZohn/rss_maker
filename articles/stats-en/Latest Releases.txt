@@ -2,7 +2,7 @@ TITLE:
 Latest Releases
 
 PUBLISHED:
-2026-11-01
+2026-11-04
 
 SOURCE:
 National Bureau Statistics English
@@ -29,33 +29,33 @@ Release Calendar
 Home
 >
 Latest Releases
-1.Purchasing Managers’ Index for October 2026
+1.Market Prices of Important Means of Production in Circulation,October 21-31, 2026
+2026-11-04
+2.Purchasing Managers’ Index for October 2026
 2026-11-01
-2.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
+3.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
 2026-10-31
-3.Profits of Industrial Enterprises above the Designated Size from January to September i...
+4.Profits of Industrial Enterprises above the Designated Size from January to September i...
 2026-10-28
-4.Market Prices of Important Means of Production in Circulation,October 11-20, 2026
+5.Market Prices of Important Means of Production in Circulation,October 11-20, 2026
 2026-10-24
-5.China Innovation Index Grows by 6.4% Year on Year in 2025
+6.China Innovation Index Grows by 6.4% Year on Year in 2025
 2026-10-24
-6.Preliminary Accounting Results of GDP for the Third Quarter of 2026
+7.Preliminary Accounting Results of GDP for the Third Quarter of 2026
 2026-10-21
-7.Industrial Production Operation in September 2026
+8.Industrial Production Operation in September 2026
 2026-10-20
-8.Investment in Fixed Assets from January to September 2026
+9.Investment in Fixed Assets from January to September 2026
 2026-10-20
-9.Investment in Real Estate Development from January to September 2026
+10.Investment in Real Estate Development from January to September 2026
 2026-10-20
-10.Total Retail Sales of Consumer Goods from January to September 2026
+11.Total Retail Sales of Consumer Goods from January to September 2026
 2026-10-20
-11.Energy Production in September 2026
+12.Energy Production in September 2026
 2026-10-20
-12.Households’ Income and Consumption Expenditure in the First Three Quarters of 2026
+13.Households’ Income and Consumption Expenditure in the First Three Quarters of 2026
 2026-10-20
-13.Industrial Capacity Utilization Rate in the Third Quarter of 2026
+14.Industrial Capacity Utilization Rate in the Third Quarter of 2026
 2026-10-20
-14.National Economy was Generally Stable with New Achievement Made in High-Quality Develop...
-2026-10-19
-15.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
+15.National Economy was Generally Stable with New Achievement Made in High-Quality Develop...
 2026-10-19
