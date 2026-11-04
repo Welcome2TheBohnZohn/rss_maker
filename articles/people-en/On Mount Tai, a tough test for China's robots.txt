@@ -1,0 +1,43 @@
+TITLE:
+On Mount Tai, a tough test for China's robots
+
+PUBLISHED:
+2026-11-04
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1104/c90000-20515845.html
+
+ARTICLE TEXT:
+On Mount Tai, a tough test for China's robots
+A robot competes in a climbing competition on Mount Tai in Taian, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Taian on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Zhu Zheng)
+JINAN, Nov. 4 (Xinhua) -- Carrying eggs, instant noodles and bottled water on their backs, robotic dogs began climbing Mount Tai in east China's Shandong Province on Monday, setting off at two-minute intervals on a challenging 3.9-kilometer route involving more than 3,100 steps.
+The route took them along steep slopes and uneven stone steps, some barely wide enough for half an adult foot.
+The climb was part of a robot competition that brought together companies, universities and research teams from across China. For their developers, the mountain offered a chance to test technologies in a demanding real-world setting and explore their potential applications in everyday life.
+The competition assessed not only climbing speed, but also the ability to transport cargo safely. Items included fragile goods, such as eggs and watermelons, as well as irregularly shaped objects, such as thermos flasks. Damage to delicate cargo would cost points.
+"Eggs are fragile. We have to consider how to carry them steadily up the mountain while minimizing breakage," said Li Jinxiang, a marketing manager at GENISOM AI, one of the participating manufacturers.
+The task was familiar on Mount Tai, where human porters have long carried supplies up steep stone steps for tourists.
+Robotic dogs have already begun taking on some of that work, hauling supplies uphill and garbage downhill. But the terrain remains difficult even for machines built to negotiate rough ground.
+Chen Xiyun, marketing manager at Unitree Robotics, said the mountain's steps varied widely in height and width. Rain made them slippery, while steep slopes and crowds of tourists added to the challenge.
+Such conditions, he said, made Mount Tai an ideal testing ground for robots intended for practical use.
+A robot competes in a climbing competition on Mount Tai in Taian, east China's Shandong Province, Nov. 2, 2026. The first world robot Mount Tai climbing competition was held in Taian on Monday, bringing together nearly 90 teams on Mount Tai's historic hiking trails. (Xinhua/Xu Suhui)
+While robotic dogs are being tested for carrying heavy loads, wearable robots are finding another use: helping people walk.
+The competition also included an exoskeleton-assisted climbing event to assess how well wearable devices could reduce the physical effort of climbing the mountain.
+Similar technology is finding applications in rehabilitation, outdoor recreation and fitness.
+MileBot, a robotics company in east China's Anhui Province, has developed a walking-assistance exoskeleton weighing just 1.8 kilograms, and about 2 kilograms with its battery.
+The company initially manufactured medical devices, and its exoskeleton products have been used in several hospitals for lower-limb rehabilitation. It has since expanded into industrial robotics and wearable smart devices.
+Dai Hui, the company's regional manager for east China, said the device could recognize different walking patterns, including the shorter steps taken by some older people, and adjust its assistance accordingly.
+It can also provide assistance to either leg, a feature Dai said could help improve walking patterns in people with partial paralysis following a stroke.
+Another setting adds resistance, making walking on level ground feel more like climbing uphill. Dai said the mode was intended for physical training.
+China is seeking to expand such applications under its 15th Five-Year Plan (2026-2030). But the competition on Mount Tai also showed the challenges that remain.
+Some robotic dogs stumbled or bumped into walls. Several humanoid robots lost their balance, with some falling shortly after setting off. Others still depended heavily on human operators.
+Liu Wenqiang, vice president of China Center for Information Industry Development, said testing robots in real environments helped manufacturers collect data to improve their products.
+The data collected on Mount Tai could also help developers prepare robots for other tasks.
+Wang Yani, a brand strategy executive at Universal Ubiquitous AI Co., Ltd., said the data could support future applications in power facility inspections, security patrols and emergency rescue operations.
+"We hope robots can help people with work that is dirty, tiring and physically demanding," she said.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
