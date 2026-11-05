@@ -2,7 +2,7 @@ TITLE:
 Live: Protests sweep Europe
 
 PUBLISHED:
-2026-11-05
+2026-11-06
 
 SOURCE:
 China Daily English
@@ -17,6 +17,67 @@ ARTICLE TEXT:
 European law enforcement agencies have vowed to throw the full weight of the law at cost-of-living protesters after demonstrations across the continent spread and turned violent.
 Calls for gatherings on social media prompted police to step up security in several cities.
 Public services, the cost of living and housing affordability remained key concerns in many of the protests.
+A weekend cyberattack on refrigeration systems at French blood storage facilities attempted to raise temperatures to potentially dangerous levels, authorities disclosed on Wednesday.
+Three cold storage sites operated by the French Blood Establishment, or EFS, in the Burgundy-Franche-Comte region of east-central France, were affected after hackers breached systems run by Coolworld, a Dutch refrigeration and remote monitoring provider.
+The attack was first reported on Wednesday by Le Canard Enchaine, a French weekly newspaper, which said temperature settings on units storing plasma and blood samples were reprogrammed from around -30 C to 110 C — well above boiling point.
+Officials stressed these were target settings entered into the system, not actual temperatures reached inside storage rooms. Workers averted disaster after a night-shift technician spotted the anomaly and moved quickly to transfer or secure affected products.
+EFS President Frederic Pacoud said the attack could have resulted in the loss of plasma destined for patients, but a warning system ensured "there was no compromise to the safety of blood products".
+No health consequences or product losses were reported, and distribution operations continued uninterrupted, an EFS statement said.
+"Monitoring and alarm systems quickly detected the anomalies, allowing employees to take action to ensure that no blood products or samples were compromised," it added.
+Authorities have since disabled remote access to the compromised units. The Health Ministry credited monitoring and alarm systems with protecting blood supplies from damage.
+On Wednesday, Coolworld acknowledged the incident, saying it had "responded promptly by implementing the appropriate measures". The company attributed the security flaw to third-party software.
+"The vulnerability currently being reported in the media concerns a component supplied by a third-party provider and not directly controlled by Coolworld," it said.
+Operations across five countries — France, Germany, Ireland, the Netherlands, and the United Kingdom — fall under Coolworld's remit.
+Investigators from France's national cybersecurity agency and Health Ministry are probing the breach, but said no suspects have been identified.
+Similar intrusions struck refrigeration infrastructure elsewhere across Europe last month. Freezers and refrigerators were compromised at supermarkets and independent stores across France, Belgium, and the Netherlands in mid-October, spoiling large quantities of food.
+Ahold Delhaize, the Dutch retail giant hit in that wave, warned Wednesday the damage could cut fourth-quarter sales by up to $281 million and reduce operating income by more than $112 million.
+"While most of the disruption was contained within two weeks, work continues to fully restore our normal operations," the retailer's CEO Frans Muller said. In the United States, Pentagon officials are investigating cyberattacks in August that hit food storage coolers at several military bases, destroying an undisclosed amount of supplies.
+PARIS -- Around 600,000 people took part in demonstrations across France on Thursday, French television channel BFM TV reported, citing an initial estimate by the French Interior Ministry.
+However, the General Confederation of Labour (CGT) estimated that nearly 1.6 million people took part in Thursday's demonstrations nationwide, including 350,000 in Paris, according to BFM TV.
+According to figures released by the French Ministry of National Education, 16 percent of teachers were on strike on Thursday. Meanwhile, nearly 33 percent of higher education institutions were disrupted by the movement as of midday, affecting 60 of the country's 184 institutions.
+Nearly 10 percent of employees in the French state civil service took part in Thursday's strike over salaries and purchasing power, according to figures released by the Ministry of Public Action and Accounts.
+Transport services were generally maintained, French Transport Minister Philippe Tabarot said in a post on social media platform X, adding that as of 2 pm (1300 GMT), nine out of 10 high-speed TGV trains were operating, along with about two-thirds of regional trains.
+The latest mobilization followed several rounds of protests in France since September, initially led by students demanding better educational conditions before spreading to the streets and drawing in other groups.
+On Oct 17, around 550,000 people took part in demonstrations across France, bringing together farmers, climate activists, trade unions and students. Their demands covered fuel prices, the cost of living, education and public services.
+PARIS -- The Eiffel Tower was closed to visitors on Thursday due to a nationwide strike in France, as demonstrations also took place across the country.
+"Due to the nationwide strike, the Eiffel Tower is closed today," the landmark's official website announced.
+By 1 pm local time (1200 GMT), 270,000 demonstrators had been reported at 180 demonstrations across France, excluding Paris, French television channel BFM TV reported, citing sources close to the interior minister.
+According to figures released by the French Ministry of National Education, 15.81 percent of teachers were on strike on Thursday, BFM TV reported. Meanwhile, nearly 33 percent of higher education institutions were disrupted by the movement as of midday, affecting 60 of the country's 184 institutions.
+BELGRADE - Serbian authorities detained nine active police officers and one former officer on Wednesday for allegedly using excessive force against detainees during anti-corruption protests last year in Belgrade, the country's Interior Ministry said.
+Anti-corruption protests swept across Serbia, a candidate for European Union membership, in 2025 and 2026 after 16 people died when a concrete canopy on a renovated railway station in the city of Novi Sad collapsed on Nov 1, 2024.
+The protests ultimately resulted in the ouster of the populist Serbian Progressive Party (SNS), which is loyal to ex-President Aleksandar Vucic, in an Oct 25 snap parliamentary election by the leaderless Student List.
+The ministry said in a statement that the suspects, who served in an elite unit, tortured and intimidated several persons detained in the garage of the government compound in downtown Belgrade on Aug 14-15, 2025.
+"By the use of force and threats, (they) inflicted great pain and severe suffering on a larger number of ... persons, intending to obtain information from them and intimidating and unlawfully punishing them," the statement said.
+The ministry provided only the initials of the officers and former officer who were detained. The news marked the first major arrests in connection with violence against the protesters who took to the streets over the past two years.
+Police used tear gas, crowd-control vehicles and stun grenades to disperse crowds during the protests.
+Dozens of students and activists who took part in the protests accused police of excessive use of force that resulted in injuries and psychological trauma.
+Serbian students, activists, opposition politicians and rights watchdogs have accused Vucic and the SNS of political violence, pressure against media, ties to organised crime and rampant corruption. Vucic and his allies deny the accusations.
+Reuters
+LYON/PARIS - French riot police fired tear gas and charged a group of protesters in the French city of Lyon on Thursday as demonstrations took place across the country in a renewed challenge to President Emmanuel Macron after weeks of unrest.
+Some of the protesters were seen shouting anti-police slogans and some were dressed all in black, with face coverings.
+The Interior Ministry said police in Lyon had been confronted by several hundred hardcore protesters and that the violence had been contained although tensions remained high.
+The nationwide protests and a strike by public workers, called by trade unions and backed by student groups, come after demonstrations over living costs, public services and education triggered the worst civil unrest France has seen in years.
+The unrest comes only five months before a presidential election which could pit far-right candidate Marine Le Pen against hard-left rival Jean-Luc Melenchon in a second-round run-off. Macron, who is serving his second term and is unpopular, cannot run again.
+SCHOOL ABLAZE AFTER FIREWORKS ARE HURLED
+The Interior Ministry said people throwing fireworks had caused a fire at a high school near the city of Toulouse in the southwest on Thursday morning, forcing pupils and staff to evacuate the building while firefighters doused the flames.
+"This criminal behaviour is an absolute scandal," said Education Minister Edouard Geffray on X.
+French high school students and other demonstrators had earlier faced off against riot police in Paris as they blocked a street with rubbish bins on Thursday morning.
+While the demonstrations in Lyon and other cities including Marseille and Nantes began in the morning, the main protest in Paris was only scheduled to start at 2 pm (1300 GMT), from Place de la Republique.
+The Eiffel Tower was shut on Thursday because of the strike.
+"The government tried to block the demonstrations. The demonstrations are bigger than ever," Sophie Binet, head of the CGT trade union, told reporters. She estimated that some 250,000 people were demonstrating across France.
+"High school students, pensioners, students, workers, all together. Unity wins," read one banner at the protest in Lyon.
+POLICE DEPLOY IN LARGE NUMBERS
+"Our pay has not kept up with inflation," said Mehdi Dumontroty, a 45-year-old firefighter who was joining the protest in Paris.
+"What happened this summer proves that we were right when we said we needed more resources to deal with the crisis that we faced," he said, referring to wildfires caused earlier this year by intense heat waves.
+Authorities had sought to lower tensions after riots and looting on Oct 17 caught security forces off guard, leaving damaged shops and public buildings across the country and fuelling criticism of Macron's handling of the crisis.
+Around 70,000 police were on duty nationwide, a comparable figure to recent weekends. The French government has defended police tactics while saying any abuses would be investigated.
+The strike contributed to a reduction in France's nuclear output early on Thursday. However, no major problems were reported on the transport network.
+The Education Ministry said just over 15 percent of French teaching staff had joined the strike.
+A group of people, some wearing helmets, attacked a student assembly at the University of Athens campus on Wednesday, injuring three people, Greece's medical emergency service and the semi-state Athens News Agency said.
+The three were treated at an Athens hospital for injuries which were not critical, the emergency service said.
+Police were investigating the incident. It was not immediately clear who carried out the attack or why. No arrests were immediately reported.
+The Greek Education Ministry condemned the violence, saying it "insulted the academic community and undermined freedom of expression."
+Thousands of students and teachers took to the streets across Greece last month, demanding higher state funding for education, better facilities and less-crowded classrooms, echoing protesters in other European countries. Student groups have planned further demonstrations this month.
 Cities across the Czech Republic saw mass protests on Tuesday because of government plans to alter the funding of the country's public broadcasting network.
 The government, headed by Prime Minister Andrej Babis, recently introduced a parliamentary bill that seeks to cancel the monthly fee of 205 Czech koruna ($9.48) paid by each household to fund the public broadcasting service, bringing an abrupt end to the debate over the issue, and causing a rushed vote.
 Jakub Szanto, a reporter for the Czech TV channel, told Agence-France Presse the attempt to force the bill through without a proper debate was a "radical step", and added "we firmly hope the government will understand that when something's working, you don't have to change it".
@@ -45,7 +106,6 @@ A 15 percent financing cut proposed as part of the change would reduce public te
 Babis reiterated on Monday that the government was merely meeting a promise to lighten the financial burden on the public.
 "There is no fight over democracy. Nobody wants to take over the public media or bring them under state control," he said, adding that changes to the bill could be made in further debate.
 Molacek said a funding change was not impossible but needed to be based on a thorough debate and backed by legal safeguards against meddling.
-Reuters
 PARIS - French high school student protests resumed on Monday on a much smaller scale than in past weeks as pupils returned from a two-week break, with youngsters trying to blockade a few high schools in Paris, Marseille and Rennes, French media reported.
 By 0830 GMT some 41 high schools — about 1percent of those nationwide — were blockaded, the Education Ministry said.
 Hundreds of France's more than 3,000 high schools were blockaded in the weeks prior to the break. The protests, which began in the Paris suburbs in September, have spread across France and broadened beyond education to focus on the cost of living, drawing in trade unionists and activists and sometimes turning violent.
@@ -145,70 +205,3 @@ The confrontation followed months of disputes over judicial appointments. Poland
 The remaining five took their oaths at parliamentary ceremonies, but Nawrocki and the tribunal's president refused to recognize their status, preventing them from taking up their judicial duties.
 On Friday evening, the tribunal's website announced that its president and vice president had been suspended for one month, with a newly elected judge whose status remains disputed assuming temporary leadership. The tribunal's leadership rejected the move, accusing those involved of illegally taking over its website and describing the action as a "coup."
 Nawrocki cut short his trip to Senegal and returned to Poland, where he held an emergency meeting with judicial officials late Friday. Shortly after midnight, he visited the Constitutional Tribunal and entered the court building.
-PARIS -- Around 320,000 people took part in a new round of protests across France on Saturday, according to French daily Le Monde which cited figures from the Interior Ministry.
-In Paris, the Interior Ministry put the number of demonstrators at 70,000 as of 5 pm local time (1600 GMT).
-However, youth unions and associations representing high school and university students put the nationwide turnout at nearly 500,000, including 200,000 in Paris.
-The protests disrupted public transport. Paris public transport operator RATP announced on its website that more than 40 metro stations had been closed on Saturday.
-Although most demonstrations proceeded peacefully, the dispersal of protesters led to tensions in several cities. In Paris, clashes broke out near Porte de Charenton, the authorized endpoint of the march, with protesters throwing projectiles at police who responded with tear gas, Le Monde reported.
-Saturday's protests marked the third round of large-scale demonstrations in France since Oct 17. Around 70,000 police officers and gendarmes were deployed nationwide to maintain security during the demonstrations.
-The French government has announced 1 billion euros ($1.1 billion) for university renovations and 4 billion euros in loans for local authorities to upgrade high schools, in a bid to defuse ongoing student protests across the country.
-Reactions have been mixed with university student leaders dismissing government ministers as "totally clueless" and vowing to press on with protests that have disrupted the country for a month.
-High school student representatives were more receptive but also pledged further demonstrations, reported The Times newspaper.
-Earlier this week, France's Prime Minister Sebastien Lecornu met leaders of the high school and university movements, while French President Emmanuel Macron traveled to Marseille, where shops were ransacked during looting on Oct 17.
-The outgoing president, who must step down next spring, said it was "not normal for the country to be at boiling point six months before a presidential election".
-Protests first erupted last month in high schools in eastern Paris suburbs, with students complaining about teacher shortages, crumbling buildings, overcrowded classrooms, and long school days.
-Demonstrators also said the education system discriminated against ethnic minority students from poorer neighborhoods.
-Unrest then spread to high schools across the country and merged with a separate wave of cost-of-living protests.
-In his meeting with school and university union representatives, Lecornu pledged 15,000 additional places in higher education, particularly in vocational courses, and promised reforms to a university admissions system that critics say disadvantages students from working-class areas.
-Responding to complaints about overloaded schedules, Lecornu promised that all high school students would be guaranteed at least one hour for lunch.
-Around 1 billion euros will be released to renovate about 50 universities by 2031, he said. Regional councils, which oversee high school buildings, would receive loans of up to 4 billion euros to upgrade facilities that students describe as leaky, freezing in winter, and sweltering in summer.
-Reforms to the university admissions system would begin next year, with a full replacement by 2028, the prime minister added.
-But Manon Moret, general secretary of the National Union of Students of France, said the government was "totally clueless" and pledged further protests and school blockades.
-Louis Letoublon, a high school union leader, said: "The government is afraid. We have got something, and we can take advantage of this situation to get more."
-Letoublon added that the government had "not satisfied us on everything, and we are going to carry on until they do".
-Unions are demanding 10 billion euros to improve the education system, but France's ability to spend is severely constrained while the country carries 3.6 trillion euros in debt and with economists warning the country risks needing a European Central Bank bailout if its annual deficit is not brought under control.
-LISBON -- Thousands of people gathered outside Portugal's parliament in Lisbon on Tuesday to protest a police operation to clear housing rights encampments in the early hours of Sunday. Businesses in the surrounding area closed at the request of municipal authorities, as parliament began debating the 2027 state budget.
-The Acampada de Lisboa movement joined the demonstration and called for a popular assembly to be held outside parliament.
-Municipal police asked nearby businesses to close for the afternoon, a request that most complied with. Several units of the Public Security Police (PSP), including intervention teams, were deployed to the area, along with emergency medical teams from INEM.
-The police operation, carried out in the early hours of Sunday, cleared encampments in both Lisbon and Porto following more than two hours of tension and repeated orders for protesters to vacate the squares. The protesters refused to leave, citing their constitutional right to demonstrate.
-Dozens of injuries and arrests on charges of disobedience were reported. Hospitals in Lisbon said they had treated 27 people for injuries, more than double the five cases initially reported by police.
-Opening the parliamentary debate on the budget, Prime Minister Luis Montenegro defended the police response, saying the PSP had acted proportionately and had been "particularly careful and competent" in restoring public order.
-Montenegro said he wanted to address the issue directly before turning to the details of the budget, as the police operation had come to dominate media coverage.
-The debate on the 2027 state budget is scheduled to run through Tuesday and Wednesday. Its passage at the first reading is assured, as the main opposition Socialist Party has pledged to abstain.
-PARIS — Clashes erupted across France on Saturday as protesters took to the streets, a week after marches that degenerated into violence and prompted a firm security backlash from President Emmanuel Macron.
-Police arrested more than 1,300 people in weekend protests across the country, the Interior Ministry said on Sunday, adding that 53 officers were hurt in clashes.
-Interior Minister Laurent Nunez said officers faced "an extremely elevated level of violence" from black-clad "ultra-left" extremists.
-Riot police squads fired tear gas at protesters in the capital as well as in Marseille, Lyon, Bordeaux, Lille, Toulouse, Montpellier and Nantes.
-Two people were "seriously" injured, Nunez said: one man in Toulouse, who reportedly had his fingers blown off, and another person in Clermont-Ferrand. He did not give details of either case.
-Authorities had deployed 70,000 security personnel across France for the new marches, called to protest the cost of living.
-The violence came a week after rioting that saw public buildings vandalized, hundreds of shops looted and 2,700 people arrested, casting a pall over the country six months before an election to choose Macron's successor.
-Nunez said Saturday's outcome was more "positive" than a week ago, with more police on the streets acting more rapidly, conducting more pre-demonstration checks and better protecting businesses.
-Saturday's demonstrations drew between 410,000 and 800,000 people across the country, according to different estimates by authorities and the organizing CGT union.
-Meanwhile in Italy, protests over rising living costs, military expansion and increased arms spending swept across several cities on Saturday, with clashes between demonstrators and police reported in multiple locations.
-In Rome, demonstrators set off from Piazza della Repubblica for an anti-war march, according to the ANSA news agency.
-Clashes erupted between protesters and police in the city center later in the evening, prompting police to use water cannons and tear gas in an attempt to disperse the crowds.
-AGENCIES-XINHUA
-Law enforcement agencies across Europe are braced for more trouble after cost-of-living protests turned violent again on the weekend, leading to more than 1,300 arrests in France, mass unrest in Spain, and turmoil in many other countries.
-The latest protests followed several weeks of disquiet across the continent that led to people taking to the streets in opposition to the fast-rising cost of living, underinvestment in schools, a lack of affordable housing, and, in the case of Spain on the weekend, a threatened state pension system. Some protesters have also cited corruption and their opposition to war as reasons for joining demonstrations.
-In France, largely peaceful marches ended late on Saturday with confrontations between relatively small groups of protesters and some of the around 70,000 police officers charged with keeping order. Officers fired tear gas and water cannon into the crowds in cities including Paris, Marseille, Lyon, and Bordeaux.
-France's Minister of the Interior Laurent Nunez told Agence France-Presse the trouble was largely attributable to "several thousand radical activists" who he said had "gathered at the rear of the march, including around 500 individuals identified as rioters".
-Jean-Luc Melenchon, who leads the La France Insoumise left-wing political party and who plans to stand in next year's presidential election, complained that French media has focused on the rioters in a bid to discredit the left, while largely ignoring the grievances of peaceful protesters.
-He said the riots broke out after the police had created "a setup deliberately designed to provoke chaos".
-Public officials said the rioting and looting across France on the weekend was on a smaller scale to unrest the country experienced the previous weekend. But despite that, France's Chambers of Commerce and Industry said the latest disorder had caused "hundreds of millions of euros" in damage.
-France's Interior Ministry estimated that 410,000 people took part in protests across the country on Saturday. Trade unions said the number was more like 800,000.
-After weeks of such unrest, hundreds of people have already been jailed across the country for acts of vandalism, arson, and looting.
-At the same time as the rioting in France, more than 120 people were arrested in Barcelona, Spain at a massive student-led protest. And in the Spanish capital Madrid, protesters took to the streets to demand the linkage of state pensions to the rate of inflation and to oppose the possible privatization of state pensions.
-There were also major demonstrations and riots in Albania's capital Tirana, where police used tear gas to disperse anti-government protesters. And there were clashes in Brussels, Belgium and Lisbon, Portugal, where protesters demanded access to affordable housing.
-In Milan, Italy hundreds of soldiers helped the police keep order as massive crowds of demonstrators complained about fast-rising fuel prices and the oppressive cost of living.
-earle@mail.chinadailyuk.com
-PARIS -- A total of 1,314 people were arrested, and 53 law enforcement officers were injured during a new round of protests across France on Saturday, French daily Le Parisien reported on Sunday, citing the Interior Ministry.
-In Paris, clashes led police to arrest 142 people, 126 of whom were placed in custody, according to the Paris police prefecture.
-Around 410,000 people took part in the protests across France on Saturday, while the Paris police prefecture estimated that 110,000 people had joined the demonstrations in the capital.
-On Oct 17, around 550,000 people took part in protests across France. A total of 2,397 people were arrested during the protests, which were marred by violence, according to figures released by the French Interior Ministry.
-ROME -- Protests over rising living costs, military expansion and increased arms spending swept across several Italian cities on Saturday, with clashes between demonstrators and police reported in multiple locations, according to Italian media.
-In Bologna, clashes broke out between some demonstrators and police on Saturday evening, the Italian newspaper Corriere della Sera reported. Emergency medical services received 17 calls for assistance, and six people were taken to hospital by ambulance.
-In Rome, demonstrators set off from Piazza della Repubblica on Saturday afternoon for an anti-war march, according to the ANSA news agency. Clashes erupted between protesters and police in the city center later in the evening, prompting police to use water cannons and tear gas in an attempt to disperse the crowds.
-In Turin, demonstrators protesting mainly against increased military spending and rising fuel prices clashed with police on Saturday evening. Some protesters threw fireworks and bottles at officers, who responded by firing tear gas.
-Following demonstrations that escalated into riots and looting last weekend, particularly in Milan, Italian Interior Minister Matteo Piantedosi ordered additional police forces to be deployed across the country. The reinforcement was focused particularly on major cities where the largest rallies were expected.
-Italian Prime Minister Giorgia Meloni condemned the violence in a social media post on Saturday evening, stressing the need to protect both peaceful demonstrators and the wider public.
-"Everyone's safety must be guaranteed: those who wish to demonstrate peacefully, those who work, and those who want to live in their cities without fear," she said. "We must leave no room for those who seek nothing but confrontation and violence."
