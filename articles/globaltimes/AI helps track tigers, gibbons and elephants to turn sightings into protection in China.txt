@@ -1,0 +1,53 @@
+TITLE:
+AI helps track tigers, gibbons and elephants to turn sightings into protection in China
+
+PUBLISHED:
+2026-11-06 23:21:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373822.shtml
+
+ARTICLE TEXT:
+A display showcases the AI-powered wildlife monitoring system used in Changchun, Northeast China's Jilin Province. Photo: Shan Jie/Global Times
+A wild Siberian tiger does not pose for an identification photograph. It may pass a forest camera sideways, turn its back or leave only its head in view. 
+For a computer trying to establish which tiger has appeared, those incomplete glimpses present a challenge. Unlike human faces, the markings of endangered wild animals come with relatively few examples from which an algorithm can learn, Hu Xinyu, a senior manager at Jishi Media, which provides technical support for Northeast China Tiger and Leopard National Park's wildlife monitoring system, told the Global Times.
+Yet these brief encounters are becoming increasingly useful. At Northeast China Tiger and Leopard National Park, connected cameras and AI-assisted analysis help staff link an animal's appearance to its previous sightings, follow its movements and identify possible risks near villages. 
+Across China, similar approaches are extending from forest images to rainforest sounds. The practical question is how to turn these records into knowledge that helps people protect wildlife.
+Recognizing the unseen 
+The first task is getting information out of the forest. 
+At Northeast China Tiger and Leopard National Park, a communications network operating in the 700 MHz frequency band connects cameras across mountainous terrain. Hu said footage can reach monitoring centers within about a minute of capture, allowing staff to examine activity without waiting for someone to retrieve a memory card.
+AI then helps sort the incoming material. But identifying a tiger in an image and deciding exactly which tiger it is are different tasks. 
+According to Hu, the system's species recognition accuracy exceeds 90 percent, while individual identification accuracy for some species, including Siberian tigers and Amur leopards, exceeds 80 percent. Researchers still need to review uncertain matches. 
+The distinction matters. Recognizing that a tiger has crossed a camera's field of view records its presence. Matching it to previous images allows researchers to assemble a history: where it travels, which areas it repeatedly visits and whether it appears with cubs. 
+The park's monitoring platform associates identification numbers with images recorded at different locations. Stripes and spots provide distinguishing features, while repeated observations help staff trace dispersing youngsters and breeding families. 
+For rare animals, however, collecting enough suitable examples remains difficult. An animal partly hidden by vegetation or photographed from an unfamiliar angle may offer few usable features. Hu said the team continues working with research institutions to improve identification. 
+In Hainan's tropical rainforests, researchers have been examining another identifying feature: the voice. 
+A gibbon moves through the forest in the Wuliang Mountains in Pu'er, Southwest China's Yunnan Province, on August 3, 2026. Photo: VCG
+Hainan gibbons spend much of their lives high in the trees, making direct observation difficult. Their calls offer a way to gather information when their bodies remain hidden. 
+A study published in Scientia Silvae Sinicae in 2023 tested whether neural networks could distinguish male Hainan gibbons using spectrograms, visual representations of their calls. Working with recordings from seven males, researchers reported classification accuracy of 95.04 percent for the better-performing model. The result demonstrated a method for distinguishing those individuals.
+The example shows why wildlife monitoring requires methods adapted to each species. A camera may capture a tiger's markings; a recorder may capture a gibbon that cannot be seen. Both still depend on carefully collected and checked reference data. 
+Experience with snow leopards also illustrates the continuing role of people. Researchers involved in a large-scale Sanjiangyuan survey described using AI to help remove empty camera images and classify animals. Identifying individual snow leopards still relied mainly on people comparing markings, with two observers checking their conclusions independently, according to the National Forestry and Grassland Administration.
+These systems reduce the burden of searching through records. But establishing what those records mean for a population requires further work, including field observations and ecological analysis.
+Turning data into protection 
+Knowing where an animal has appeared can also help people decide where to avoid it. 
+In Southwest China's Yunnan Province, Asian elephant monitoring combines infrared cameras, drones and AI image recognition to map elephant activity. It was reported that staff in Xishuangbanna were using these tools to produce activity heat maps, bringing observations from different locations together on a monitoring platform. 
+The information becomes useful through the people and communication channels connected to it. Yunnan's forestry and grassland authorities told the Global Times in a previous interview that professional elephant protection teams carry out routine monitoring and issue warnings to nearby communities through WeChat, text messages and smart broadcasting systems, reminding residents to avoid elephants.
+AI is also being used to support the captive breeding of Yangtze finless porpoises. In Wuhan, Central China's Hubei Province, researchers have introduced an intelligent behavior monitoring system to follow interactions between mothers and calves, adding detailed observations to the work of animal carers.
+The system analyzes video to recognize several important mother-calf swimming positions and surfacing behavior. Researchers can use the resulting records to track nursing frequency and duration, assembling observations into standardized growth records for young porpoises.
+Bawangling National Nature Reserve in South China's Hainan Province provides a forest habitat for Hainan gibbons. Photo: VCG
+Previously, monitoring required staff to work around the clock in four shifts. Fatigue during overnight observation could affect data quality. The new system helps researchers organize observations more systematically and devote more time to breeding research.
+The application offers another route from images to conservation: repeated observations of how a calf swims and feeds become records that researchers can review, compare and use in caring for the animal.
+At the tiger and leopard park, staff similarly use monitoring information to warn communities when large predators approach settlements. Recent activity records also help rangers plan their routes, giving animals space while maintaining patrols. 
+The forest images have another use beyond management. They provide material through which people far from wildlife habitats can learn about the animals living there. 
+During a visit to Jishi Media in Changchun, Northeast China's Jilin Province, production staff described a familiar difficulty in wildlife filmmaking: a camera may record a remarkable moment without capturing enough material to explain an animal's wider life. 
+A representative involved in ecological filmmaking told the Global Times that obtaining continuous footage of wild tigers, including feeding behavior, was difficult. The team draws on monitoring images and documentary materials, combining real footage with AI-generated sequences to present aspects of animal life that are hard to film. 
+The approach is being explored in the documentary project Huxiao Gongsheng (Living with Tigers), which uses AI-generated content to visualize scenes beyond the reach of conventional filming.
+For the production team, AI offers a way to explain animal behavior that is difficult to capture continuously in the wild. The representative said real monitoring footage and documentary materials provide the basis for the storytelling, while generated sequences help illustrate feeding behavior and food-chain relationships.
+The team hopes this combination will help audiences understand both the animals' lives and the protection work surrounding them. Stories about tigers entering villages, for example, can also explain how wildlife-damage insurance compensates farmers for livestock losses, showing what coexistence involves for people living near their habitats.
+Back in the forest, the tiger may still give the camera only a fleeting view. The work continues after it has disappeared from the frame.

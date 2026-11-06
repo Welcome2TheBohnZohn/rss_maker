@@ -1,0 +1,25 @@
+TITLE:
+China 'isn't buying' Nvidia chips. Why are some Americans so rattled?
+
+PUBLISHED:
+2026-11-06 19:50:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373811.shtml
+
+ARTICLE TEXT:
+Nvidia H200 chip Photo: VCG
+Reuters recently cited "people familiar with the matter" as saying that about 600,000 Nvidia H200 chips piled up in Hong Kong awaiting shipment to the Chinese mainland because they have not been approved for release by the Chinese side. Although neither the Chinese government nor the US government nor Nvidia has confirmed the report, it has already sent some Americans into a tizzy. Some US think tank experts said they find it "bit of a puzzle" why China is being so cautious about Nvidia, while certain media outlets claimed that China is "restricting itself."
+Judging from the reactions of some people in the US, it seems they have forgotten who was the first to impose sanctions. In 2022, Washington imposed export controls on advanced chips destined for China under the pretext of "national security," immediately placing Nvidia's most advanced chips on the list of products banned from sale to China. These restrictions have since been tightened layer upon layer. Today, not only have affiliates and overseas subsidiaries of restricted Chinese companies been brought under the controls, but alternative routes for accessing advanced computing power through overseas cloud rental arrangements have also come under pressure. 
+Some US politicians have even openly insisted that China must not be given any breathing room, arguing that even chips with reduced processing power should be kept out of its hands. So why is it that some Americans get rattled when China buys Nvidia chips, yet get equally rattled when China chooses not to buy them?
+Nvidia once held an overwhelmingly dominant position in China's AI chip market. However, successive rounds of US export controls have directly slashed its market share in China to around 30 percent of its previous level. Washington's decision to ease export licensing restrictions on H200 chips for China is essentially an attempt to find buyers for products that have already rolled off the production line but now lag two generations behind the most advanced chips. Yet the Chinese market has not rushed to buy them on the scale Washington anticipated. 
+With large quantities of chips stuck in the distribution pipeline, inventory and revenue pressures are naturally mounting for the companies concerned. US institutions that had hoped to use sales of crippled versions of chips to China to help bankroll domestic semiconductor reshoring efforts are understandably finding it difficult to remain calm.
+There is a deeper strategic calculation behind this thinking among some in the US: By selling China relatively outdated chips, the US hopes to keep Chinese companies locked into the existing technology ecosystem, slow the development and iteration of China's homegrown chips, and preserve a stable technological gap between the two countries. They apparently assumed that a slight loosening of restrictions would trigger a buying spree in China. But the Chinese market today is no longer at a stage where it must buy whatever the US decides to make available. 
+When procuring chips, companies must first consider long-term supply stability, the sustainability of technological roadmaps, and the security and controllability of supply chains. The actions taken by some in the US over the past several years have fundamentally changed the way Chinese companies make purchasing decisions. To expect them to disregard these risks and resume large-scale purchases is simply contrary to the most basic principles of commercial logic.
+Ultimately, it is not the Chinese market that is anxious now. The development of China's computing power industry in recent years has demonstrated that an independent technological path can provide sufficient computing capacity to sustain industrial growth. Rather than repeatedly urging China to buy American chips, some in the US would do well to acknowledge a basic reality: The global semiconductor landscape has changed. Any attempt to use export controls to lock other countries out of technological progress will ultimately come back to haunt those imposing the restrictions.

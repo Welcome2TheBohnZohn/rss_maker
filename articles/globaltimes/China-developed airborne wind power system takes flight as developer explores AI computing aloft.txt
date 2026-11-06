@@ -1,0 +1,31 @@
+TITLE:
+China-developed airborne wind power system takes flight as developer explores AI computing aloft
+
+PUBLISHED:
+2026-11-06 19:52:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373812.shtml
+
+ARTICLE TEXT:
+Linyi Yunchuan's S4000 Stratosphere Airborne Wind Energy System (SAWES) rises to the sky in Yueyang, Central China's Hunan Province, on November 6, 2026. Photo: Tao Mingyang/GT
+Chinese energy technology company Linyi Yunchuan launched its S4000 Stratosphere Airborne Wind Energy System (SAWES) in Yueyang, Central China's Hunan Province, on Friday to test a new approach to supplying green electricity near cities. The firm's CEO told the Global Times that the company is also exploring the deployment of AI computing hardware on the airborne platform.
+At the launch site of around 0.033 hectare in Yueyang, the 67-meter-long structure, resembling a giant airship, rose steadily into the sky. Cables stretched between the airborne platform and the ground, anchoring the system while providing a channel for electricity generated aloft to reach users below, the Global Times observed.
+The demonstration focused on deployment under real operating conditions near a city, following the system's completion of a full flight verification at an altitude of 4,000 meters in Northwest China in August, according to the company.
+Beyond sending electricity to the ground, the company is experimenting with taking computing equipment closer to its power source. Dun Tianrui, CEO of Linyi Yunchuan, told the Global Times that the S4000 has space reserved for graphics processing units (GPUs), and that related experiment have already been conducted.
+"The S4000 already has enough space reserved for computing GPUs, and we have carried out related experiments," Dun said. He estimated that deploying GPUs on an airborne platform could cost less than $10 per kilogram, compared with about $10,000 per kilogram for deployment in space.
+The idea is to supply the hardware directly with wind-generated electricity while using cold air at high altitudes to reduce cooling requirements. Dun said mounting computing boards on the platform could also reduce the need for conventional buildings and cabinets used to house computing equipment.
+The experiments have also revealed engineering challenges. Dun said low temperatures had damaged some components used to suspend the computing equipment, highlighting the need to adapt the hardware to the proposed airborne computing system's operating environment.
+For electricity generation, the SAWES uses a helium-filled platform to lift lightweight generating equipment into the sky. Wind passes through a duct and drives turbines, while a tether anchors the platform and carries electricity to the ground, according to the company.
+The S4000 measures 67 meters long, 40 meters wide and 23 meters high, with an effective airborne payload exceeding one ton and a designed service life of 20 years. The company says the approach requires less land and faces fewer terrain constraints than conventional installations.
+However, the purpose of taking a generator into the sky is ultimately to deliver usable electricity, Dun said, explaining why the company is moving its demonstrations closer to consumers. "The generator itself is not the goal. Providing people with a stable electricity supply is the goal."
+Even if generation costs fall, electricity supply still involves spending on grid construction, dispatch and storage, the executive noted. Deploying airborne wind systems closer to users could help make better use of the technology, while making grid connection and public observation more convenient.
+Friday's launch follows a series of tests involving progressively larger operating heights. The previous-generation S500 model first flew to 500 meters in Jingmen, Central China's Hubei Province, in October 2024, completing an initial verification of the operating principle, according to the company.
+The S1000 reached 1,000 meters in the Poyang Lake area of Gongqingcheng, East China's Jiangxi Province, in January 2025. The S1500 completed a test flight in Hami, Northwest China's Xinjiang Uygur Autonomous Region, in September that year.
+In January 2026, the S2000 flew to 2,000 meters and completed a grid-connection test in Yibin, Southwest China's Sichuan Province. The S4000's August verification subsequently covered ascent, hovering, electricity-generation testing and recovery under high-altitude conditions, according to the company.
