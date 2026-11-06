@@ -1,0 +1,41 @@
+TITLE:
+Chinese medical team explores AI solutions for radiology in Tanzania's Zanzibar
+
+PUBLISHED:
+2026-11-06 08:16:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373770.shtml
+
+ARTICLE TEXT:
+Wang Wei (C), a urological specialist of the 36th Chinese medical team in Zanzibar, poses for a photo with a local doctor and patient after the successful minimally invasive ureteral reconstruction surgery at Lumumba Hospital in Zanzibar, Tanzania, Oct. 27, 2026. (The 36th Chinese medical team in Zanzibar/Handout via Xinhua)
+When Chinese radiologist Ji Yugang began examining chest CT scans at Mnazi Mmoja Hospital in Tanzania's Zanzibar, he noticed a significant difference in working conditions compared with his hospital in China, where AI-assisted imaging tools had helped improve diagnostic efficiency.
+In China, AI-assisted imaging software helped him identify suspicious pulmonary nodules before he reviewed the results and made his final assessment. In Zanzibar, however, no such tools were available, so he manually examined hundreds of images from each patient.
+"During my first two days here, I found it quite difficult to adapt," Ji recalled. "Back in China, AI software helps us with the initial screening. Here, each CT scan contains about 300 images, and we have to go through them one by one."
+Unlike conventional X-rays, which typically produce only a few images of the examined area, CT scans can generate hundreds of detailed cross-sectional images, making the reading process considerably more demanding.
+Ji, a member of the 36th Chinese medical team in Zanzibar, said his hospital in China introduced AI-assisted medical imaging about eight to 10 years ago. The technology has since helped radiologists work more efficiently and spot abnormalities they might otherwise overlook.
+He said AI-assisted screening for pulmonary nodules was among the earliest and most established applications, while similar technologies are now also used to analyze blood vessels in coronary and head-and-neck CT examinations.
+A member from the 36th Chinese medical team in Tanzania's Zanzibar demonstrates handwashing techniques during a hand hygiene training session in Zanzibar, Tanzania, Oct. 15, 2026. (The 36th Chinese medical team in Tanzania's Zanzibar/Handout via Xinhua)
+Recognizing the potential benefits for Zanzibar, Ji began sharing China's experience with local radiologists, starting with pulmonary nodule detection, an area where he said the technology is relatively mature and local demand is particularly strong.
+The Chinese team has provided systematic training on the principles of AI-assisted imaging, its practical applications, interpreting AI-generated findings, and the importance of professional verification.
+"AI helps us with the initial screening and reduces the risk of missing suspicious lesions, but doctors still need to review the results and make the final diagnosis," Ji explained.
+Saria Awesu Omar, a local radiologist with three years of experience, welcomed the training, saying AI-assisted imaging could help address the heavy workload faced by medical professionals.
+"Surely, it is very, very important because it will reduce the time," Omar said, adding that the technology could help doctors examine more images daily and identify tiny lesions in the chest and abdomen.
+She said the cooperation would create more opportunities for local doctors to gain new skills and improve patient care.
+The 36th Chinese medical team arrived in Zanzibar on Sept. 16 with 24 members, including 15 stationed on Unguja Island and nine on Pemba Island. Its specialists work across multiple medical fields, providing clinical services, technical support, and professional training.
+Team leader Wang Wei said that beyond daily hospital work, Chinese doctors also conduct free medical consultations in rural communities and participate in mobile medical outreach programs.
+For complicated cases, the team can seek additional advice from specialists in Chinese hospitals through real-time remote consultations, allowing doctors in Zanzibar to benefit from expertise beyond the island.
+This photo taken with a mobile phone shows Li Li, a doctor from the 35th Chinese medical team in Zanzibar, changing dressings for Ashfaina Omari Ali in a ward in Zanzibar, Tanzania, on Aug. 4, 2026. (The 35th Chinese Medical Team in Zanzibar/Handout via Xinhua)
+The team is also exploring whether anonymized medical imaging data from Zanzibar could be securely transmitted to China for AI-assisted analysis and multidisciplinary expert review, with the findings subsequently returned to local doctors.
+Ji said the proposed approach could help compensate for the lack of AI imaging software in local hospitals, although several challenges remain before it can be implemented on a larger scale.
+"Network connectivity and patient data anonymization are among the difficulties we need to address," he said.
+Wang emphasized that local medical professionals would remain responsible for final diagnostic and treatment decisions, with AI and remote consultations serving as additional sources of support.
+For Omar, the cooperation represents not only an opportunity to learn new technologies but also a continuation of the friendship between the two countries.
+"The Chinese people are our friends. They help us in different ways, different sectors, not only in health," she said.
+For Ji, the experience has highlighted both the challenges Zanzibar's healthcare system faces and the potential for technology to help address them. While AI-assisted diagnosis is not yet routinely available at the hospital, training and exploring cross-border cooperation could offer a path to faster, more efficient medical imaging services.

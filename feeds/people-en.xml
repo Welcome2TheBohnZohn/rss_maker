@@ -7,71 +7,168 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 22:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:29:10 +0000</lastBuildDate>
     <item>
-      <title>China's top diplomat calls for new "golden decade" of Lancang-Mekong cooperation</title>
-      <link>https://en.people.cn/n3/2026/1105/c90000-20515859.html</link>
-      <description>Published: 2026-11-05
+      <title>What does the Wuzhen summit reveal about China-US AI cooperation amid intensifying competition?</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516396.html</link>
+      <description>Published: 2026-11-06
 
-China's top diplomat calls for new "golden decade" of Lancang-Mekong cooperation
-Chinese Foreign Minister Wang Yi, also a member of the Political Bureau of the Communist Party of China Central Committee, co-chairs the 11th Lancang-Mekong Cooperation (LMC) Foreign Ministers' Meeting with Thai Deputy Prime Minister and Foreign Minister Sihasak Phuangketkeow in Beijing, capital of China, Nov. 4, 2026. Cambodian Deputy Prime Minister and Foreign Minister Prak Sokhonn, Lao Deputy Prime Minister and Minister of Foreign Affairs Thongsavanh Phomvihane, Vietnamese Foreign Minister Le Hoai Trung and Myanmar's Minister for the Ministry of National Planning, Investment and Foreign Economic Relations, Aung Kyaw Hoe, attended the meeting here on Wednesday. (Xinhua/Tian Yu)
-BEIJING, Nov. 4 (Xinhua) -- Chinese Foreign Minister Wang Yi on Wednesday called on the six Lancang-Mekong countries to build on their fruitful cooperation in the past 10 years and jointly usher in a new "golden decade."
-Wang, also a member of the Political Bureau of the Communist Party of China Central Committee, made the remarks when co-chairing with Thai Deputy Prime Minister and Foreign Minister Sihasak Phuangketkeow the 11th Lancang-Mekong Cooperation (LMC) Foreign Ministers' Meeting in Beijing.
-The LMC mechanism was launched by the six countries in 2016. Its name derives from a river known as the Lancang in China and the Mekong after it flows out of the country and through Myanmar, Laos, Thailand, Cambodia and Vietnam.
-China stands ready to work with Mekong countries in the direction set by the leaders, take stronger measures and more coordinated steps, to continuously substantiate the Lancang-Mekong community with a shared future, Wang said.
-Wang called for efforts to keep Lancang-Mekong Cooperation at the forefront of regional cooperation, make it a benchmark for Global South solidarity, and contribute to building a community with a shared future for humanity.
-Lancang-Mekong countries should strengthen top-level design on core issues such as regional development and security, enhance the alignment of development strategies, promote trade and investment liberalization and facilitation, and deliver more "small and beautiful" livelihood demonstration projects to give people a greater sense of gain, he said.
-It is important to expand cooperation in emerging fields such as the digital economy, artificial intelligence, smart manufacturing and smart agriculture, he said, welcoming more Mekong countries to join the World Artificial Intelligence Cooperation Organization (WAICO).
-He urged Lancang-Mekong countries to oppose external interference and incitement of bloc confrontation, reject the creation of exclusive "small circles," and never allow the resurgence of militarism, adding that the countries should step up joint efforts to combat cross-border crimes.
-Wang suggested the countries promote the establishment of a Lancang-Mekong cross-border disaster early-warning cooperation mechanism and jointly enhance disaster prevention, mitigation and relief capabilities.
-Cambodian Deputy Prime Minister and Foreign Minister Prak Sokhonn, Lao Deputy Prime Minister and Minister of Foreign Affairs Thongsavanh Phomvihane, Vietnamese Foreign Minister Le Hoai Trung and Myanmar's Minister for the Ministry of National Planning, Investment and Foreign Economic Relations, Aung Kyaw Hoe, attended the meeting.
-All parties at the meeting spoke highly of the positive progress of the LMC over the past decade and appreciated China's important leading role in advancing their cooperation.
-Those present reaffirmed their commitment to good-neighborliness and friendship, mutual respect and mutual trust, deeper cooperation and win-win outcomes, and to jointly promoting sustainable development and prosperity in the region.
-They agreed to deepen cooperation in priority areas such as connectivity, water resources and environment, expand digital transformation, green innovation, and promote people-to-people and cultural exchanges.
-They also agreed to strengthen disaster governance, tighten security coordination, combat cross-border crimes and safeguard regional tranquility.
-All parties agreed to maintain close communication to ensure that the fifth LMC Leaders' Meeting is a complete success and delivers positive outcomes.
-Chinese Foreign Minister Wang Yi, also a member of the Political Bureau of the Communist Party of China Central Committee, co-chairs the 11th Lancang-Mekong Cooperation (LMC) Foreign Ministers' Meeting with Thai Deputy Prime Minister and Foreign Minister Sihasak Phuangketkeow in Beijing, capital of China, Nov. 4, 2026. Cambodian Deputy Prime Minister and Foreign Minister Prak Sokhonn, Lao Deputy Prime Minister and Minister of Foreign Affairs Thongsavanh Phomvihane, Vietnamese Foreign Minister Le Hoai Trung and Myanmar's Minister for the Ministry of National Planning, Investment and Foreign Economic Relations, Aung Kyaw Hoe, attended the meeting here on Wednesday. (Xinhua/Tian Yu)
+What does the Wuzhen summit reveal about China-US AI cooperation amid intensifying competition?
+On her first visit to the World Internet Conference (WIC) Wuzhen Summit, Debora Comparin wanted to know what Chinese developers were building and how their AI agents could work with systems developed elsewhere.
+"China and the US are both leading countries in AI, and we absolutely need constructive cooperation," Comparin, co-chair of the International Telecommunication Union Initiative on Trust and Identity for Humans and Agentic AI, told the Global Times on the sidelines of the opening ceremony.
+Just days before the summit, the US government ordered federal civilian agencies to remove DeepSeek products and services from their IT systems and exclude them from procurement. On the commercial side, Microsoft had already made the Chinese developer's R1 model available to customers through Azure AI Foundry.
+At the Light of Internet Expo in Wuzhen, Intel, Qualcomm and Microsoft are exhibiting alongside Chinese companies. As Chinese and US AI developers compete on price and performance and US restrictions close off parts of the market, where do companies on both sides still have an incentive to work together?
+A race on price and performance
+Stanford University's 2026 AI Index found that top US and Chinese models began trading places in performance rankings in early 2025. The leading US model held a 2.7 percent advantage in the Arena ratings as of March 2026, a snapshot of how closely the two sides had been competing.
+That contest is increasingly about what a model costs to use. In September 2026, DeepSeek cut API prices with the release of V4.1 Flash, a smaller model that also added visual understanding, according to DeepSeek's developer documentation. Around the same period, DeepSeek's higher-end V4 Pro was priced at $3.96 per million output tokens, according to the company's price list, while Anthropic listed its flagship Claude Opus 5.5 at $20 per million output tokens. The figures show the difference in what providers charged to generate text.
+US developers are competing for customers that need to control those bills, too. In March 2026, OpenAI introduced GPT-5.4 mini and nano, smaller models geared toward workloads including coding and rapid iteration. For companies processing large volumes of requests, choosing a lower-cost model for routine work can matter as much to the budget as choosing the most capable model for a difficult task.
+Government decisions can narrow those choices. An October 27 US Department of Energy notice said the US Department of Homeland Security had ordered the exclusion of DeepSeek products and services from federal civilian agency procurement and the removal of covered products and services from civilian agency IT systems, citing supply chain, data security and other risks.
+In a separate policy affecting the hardware needed to train and run models, the US Commerce Department said in January 2026 it would review licenses for certain advanced chip exports to China case by case, subject to conditions.
+Chen Jing, vice president of the Beijing-based Technology and Strategy Research Institute, said the US has advantages in advanced chips, foundation models and capital, while China draws on its large market, industrial system and range of applications. Competition can speed up innovation, he said, while chip export controls and investment scrutiny risk raising costs and fragmenting supply chains.
+Visitors tour the Light of Internet Expo at the World Internet Conference Wuzhen Summit in Wuzhen, East China's Zhejiang Province, on November 4, 2026. Photo: Tao Mingyang/GT
+Room for cooperation
+Comparin sees an opening in the technical rules that let AI agents built by different companies work together. Chinese and US firms can work with European partners on protocols and safeguards, she said, so agents can be deployed securely and interact across platforms.
+On the floor of the Light of Internet Expo in Wuzhen, US exhibitors' interest in the Chinese market was visible in the range of products they brought. Intel displayed enterprise AI workstations, compact AI systems and PCs built to run AI agents. According to materials Intel provided to the Global Times, the chipmaker is working with Chinese industry partners on uses such as visual quality inspection and safety checks.
+Intel's third-generation Core Ultra processor won a WIC award for pioneering science and technology. AMD China's Ryzen AI Max+ processor for systems that run AI agents and Microsoft China's Copilot Cowork, a productivity tool designed for real-world tasks, were also among the winners.
+China offers a large market as well as opportunities to develop and commercialize technology across different industries, Qualcomm China Chairman Meng Pu said at an AI industry conference in October, according to People's Daily-affiliated Jintai Information.
+One opening is in patents. On October 5, Qualcomm and Huawei announced a multi-year agreement covering cross-licenses in 5G, computing, AI and networking. Qualcomm also agreed to buy certain Huawei US patents, subject to the necessary regulatory approvals. For both companies, the agreement provides a framework for using each other's patented technologies in areas that support connected devices and AI applications.
+Shared gains through openness
+Model distribution offers another route to cooperation. In October, Amazon Web Services (AWS) announced that Zhipu AI's GLM-5.3 was generally available on Amazon Bedrock, the Global Times learned from Zhipu.
+Chinese models have reportedly also been used inside a US developer's own training process. In December 2025, Bloomberg reported, citing people familiar with the work, that Meta's team used Alibaba's Qwen alongside other models in training a system code-named Avocado. The reported use was part of model development, while the AWS and Microsoft announcements concerned products made available to customers.
+Chinese technology industry analyst Liu Dingding told the Global Times that international partnerships can help multinational companies commercialize technologies while supporting industrial upgrading by Chinese manufacturers.
+"Such complementary strengths offer opportunities for both sides to benefit from AI's expansion into more industries," Liu said.
+Distribution puts more models within reach. Common technical rules can make it easier for businesses to combine tools from different providers and to set limits on what agents can do when they interact. In October, the Linux Foundation's Agentic AI Foundation announced new projects including OpenAI's Open Responses, which addresses communication between applications and models, and Alibaba's OpenSandbox, which provides isolated environments for running agents.
+There is a role for governments as well. According to China's Ministry of Commerce, China and the US held their first dialogue on AI under the China-US economic and trade consultation mechanism at the recently held eighth round of economic and trade consultations in the US. During the latest round of economic and trade consultations, the two sides reached multiple points of consensus.
+Terry Sweetser, chair of the Asia Pacific Network Information Centre's (APNIC) Routing Security Special Interest Group, said much of the capital flowing into US AI companies was backing proprietary technology. He pointed to open models as a way to make AI more widely accessible.
+"An open-source approach could get more people talking about how to make that technology accessible worldwide," Sweetser told the Global Times, adding that some Chinese AI firms are already pursuing such an approach.
+Lilan Dayananda, a social-tech entrepreneur from Sri Lanka, told the Global Times that healthy competition between China and the US was important because competition could help prevent technological monopolies. At the same time, the two countries needed to recognize the synergies that could bring them together.
+"Going alone can do something, but going together has more impact," Dayananda said.
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c90000-20515859.html</guid>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516396.html</guid>
     </item>
     <item>
-      <title>China's import expo draws more Fortune Global 500 companies, industry leaders</title>
-      <link>https://en.people.cn/n3/2026/1105/c90000-20515852.html</link>
-      <description>Published: 2026-11-05
+      <title>Global media leaders call for closer dialogue, coordination amid security challenges</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516290.html</link>
+      <description>Published: 2026-11-06
 
-China's import expo draws more Fortune Global 500 companies, industry leaders
-This photo taken on Nov. 4, 2026 shows a view of the Hall 3 of the ninth China International Import Expo (CIIE) in Shanghai, east China. (Xinhua/Guo Lei)
-SHANGHAI, Nov. 4 (Xinhua) -- The numbers of overseas companies and industry heavyweights attending the 9th China International Import Expo (CIIE) are both set to reach record highs, underscoring the enduring appeal of the world's largest import-themed trade fair.
-The event is scheduled to open on Thursday in Shanghai, east China, with more than 300 Fortune Global 500 companies and industry leaders expected to participate, marking a record high. Additionally, more than 2,000 companies will be exhibiting here for the first time, according to organizers.
-This year's expo is expected to attract a record 4,142 overseas exhibitors from 148 countries and regions. In total, 162 countries, regions and international organizations will participate, according to the Ministry of Commerce.
-Since its launch in 2018, the trade fair has maintained strong appeal for international companies of all sizes, which have used the platform as a launchpad for new products in China and a fast track to enter the world's second-largest consumer market.
-Danish pharmaceutical giant Novo Nordisk, which has participated in all the previous eight editions of the expo, will showcase new medicines during this year's event, including Kyinsu, a once-weekly injection for type 2 diabetes.
-"The CIIE has become an important part of our work in China," said Mike Doustdar, president and CEO of Novo Nordisk. "This is our ninth consecutive year taking part, and many medicines we first presented at the expo have since launched here."
-This year, over 480 exhibits are set to make their global, Asian or China debuts -- another record for the event.
-Canada-headquartered athletic apparel brand lululemon will participate in the trade fair for the third consecutive year, with China now serving as its second-largest market globally.
-"The CIIE is far more than a platform to showcase products," said San Yan Ng, regional president of lululemon China and APAC. "It also gives us the opportunity to engage in deeper dialogue and build stronger connections with Chinese guests, partners, government stakeholders and friends from all sectors."
-The CIIE is a prominent example of China's efforts to open its market wider and facilitate entry of quality products from around the world. China expects the expanded imports will boost domestic demands and support its industrial upgrading.
-The nation's imports reached 16.7 trillion yuan (about 2.48 trillion U.S. dollars) in the first nine months of this year, up 22.3 percent, the fastest growth since 2021.
+Global media leaders call for closer dialogue, coordination amid security challenges
+BEIJING, Nov. 5 (Xinhua) -- Chinese and foreign media representatives attending the 7th World Media Summit in Beijing on Thursday called for stronger dialogue and cooperation to address global security challenges and promote common development.
+A forum on powering intelligent media was held on the sidelines of the summit, bringing together participants to discuss how media can leverage advanced technologies, build consensus and contribute to global security and shared development.
+Ren Weidong, deputy editor-in-chief of Xinhua News Agency, said in his address that media outlets should not be bystanders or onlookers in the face of global security challenges, but should strive to shoulder their responsibilities.
+Media should serve as guardians of factual reporting, adopters of advanced technologies, disseminators of diverse voices and promoters of exchanges and cooperation, helping pool collective wisdom to safeguard global security and promote sustainable development, Ren said.
+Abdul Hakim, president director of Indonesia's Antara News Agency, said opportunities created by advances in energy infrastructure and computing capacity should benefit developing countries, and digital transformation should enable more people outside major cities to gain access to credible information.
+People should embrace innovation while upholding principles, and news production should be accurate, fair and honest, he said.
+Participants of the forum also called for stronger cooperation in sharing technological achievements and building professional capabilities, promoting the development of artificial intelligence in a safer, fairer and more inclusive direction.
+The 7th World Media Summit, co-hosted by Xinhua News Agency and the People's Government of Beijing Municipality, is to be held from Nov. 5 to 9 in Beijing.
+Under the theme "Media in the Intelligent Age: From Consensus to Action", the summit brings together nearly 500 delegates from nearly 330 mainstream media outlets, think tanks, government departments and international organizations from 112 countries and regions around the world.
+The mechanism of the World Media Summit was initiated in 2009 and is an important global platform for high-end media exchange and cooperation.
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c90000-20515852.html</guid>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516290.html</guid>
     </item>
     <item>
-      <title>China voices concern over EU's new fees on low-value imports</title>
-      <link>https://en.people.cn/n3/2026/1105/c90000-20516279.html</link>
-      <description>Published: 2026-11-05
+      <title>China to extend anti-dumping, anti-subsidy tariffs on US NPA imports for five years</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516294.html</link>
+      <description>Published: 2026-11-06
 
-Home&gt;&gt;
-		
-China voices concern over EU's new fees on low-value imports
- (Xinhua) 16:48, November 05, 2026
-BEIJING, Nov. 5 (Xinhua) -- China is highly concerned about the European Union's (EU) new rule of imposing a 2-euro handling fee on low-value imports as of Nov. 1, following a 3-euro customs duty introduced in July this year, the Ministry of Commerce said on Thursday.
-Ministry spokesperson Huang Ling noted at a regular press conference that cross-border e-commerce, as a new business form and model of international trade, provides diversified choices for global enterprises and consumers.
-China hopes the EU will assess the impact of relevant policies in a prudent manner and create favorable conditions for China-EU cooperation in e-commerce and other fields, Huang said.
-(Web editor: Zhang Kaiwei, Liang Jun)
-		About People's Daily Online |  Join Us | Contact Us
-		
+China to extend anti-dumping, anti-subsidy tariffs on US NPA imports for five years
+BEIJING, Nov. 5 (Xinhua) -- China will extend anti-dumping and anti-subsidy duties on imports of n-Propanol (NPA) from the United States for a further five years starting Friday, the commerce ministry said Thursday.
+NPA is an industrial chemical used mainly as a solvent and as an intermediate in chemical manufacturing.
+Under the extended measures, anti-dumping duties range from 254.4 percent to 267.4 percent, while the anti-subsidy duties range from 34.2 percent to 37.7 percent, according to two ministry notices.
+The decision follows two expiry reviews covering separate anti-dumping and anti-subsidy measures. The ministry found that dumping and subsidisation involving U.S. NPA imports could continue or recur if the duties were lifted, potentially causing damage to China's domestic industry to persist or recur.
+China first imposed the duties in November 2020 for a five-year period. It launched expiry reviews in November 2025 at the request of domestic producers.
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c90000-20516279.html</guid>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516294.html</guid>
+    </item>
+    <item>
+      <title>Report highlights China's role in global marine biological diversity governance</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516286.html</link>
+      <description>Published: 2026-11-06
+
+Report highlights China's role in global marine biological diversity governance
+This photo taken on Oct. 15, 2026 shows coral pictured through the porthole of the manned deep-sea submersible Jiaolong. (Xinhua/Li Xin)
+BEIJING, Nov. 5 (Xinhua) -- China has shared its expertise and taken practical steps in support of the conservation and sustainable use of marine biological diversity, said a report released Thursday.
+The country, by helping bridge differences between developed and developing countries, has advanced the conclusion of a landmark agreement in global ocean governance, namely the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas beyond National Jurisdiction, which entered into force early this year, according to the report released by the China Institute for Marine Affairs under the Ministry of Natural Resources.
+In designing and refining relevant legal arrangements, China has advocated a benefit-sharing mechanism encompassing both monetary and non-monetary benefits to safeguard the legitimate rights and interests of developing countries, and supported an integrated approach to biodiversity conservation and the sustainable use of marine resources, said the report.
+China has promoted greater procedural transparency, and advocated a country-driven and needs-based approach and diversified cooperation forms to strengthen developing countries' implementation capacity.
+As one of the first signatories and Parties to the Agreement, China has taken practical steps to support its full and effective implementation.
+The report noted that China has made its research platforms accessible to international partners and shared scientific results with them through scientific research expeditions conducted using its deep-sea submersibles such as Jiaolong and Fendouzhe, as well as research vessels like Shenhai Yihao.
+China has preserved nearly 60,000 samples of marine microbial resources and established repositories and databases, and offered specialized services to facilitate access to samples and data, the report said.
+China has supported developing countries in environmental impact assessment. It has also signed marine cooperation agreements with more than 50 countries and international organizations, jointly established over 40 marine research centers and laboratories, and implemented numerous small-scale, high-impact marine conservation projects, strengthening the ocean-related capabilities of the Global South, the report revealed.
+By applying to host the Secretariat of the Agreement in the coastal city of Xiamen in east China's Fujian Province, the country has undertaken further international responsibilities in an effort to address the absence of headquarters of United Nations ocean-related bodies in Asia, according to the report.
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516286.html</guid>
+    </item>
+    <item>
+      <title>China Pavilion showcases forward-looking vision at 9th CIIE</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516386.html</link>
+      <description>Published: 2026-11-06
+
+China Pavilion showcases forward-looking vision at 9th CIIE
+People visit the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Chen Haoming)
+SHANGHAI, Nov. 5 (Xinhua) -- The China International Import Expo (CIIE), the world's first national-level exhibition dedicated to imports, opened in east China's Shanghai on Thursday.
+Themed on "New Advances for a Bright, Win-win Future," the China Pavilion presents a forward-looking perspective, global vision and openness in line with the 15th Five-Year Plan (2026-2030) blueprint.
+Visitors from Seychelles communicate with a robot at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Guo Lei)
+A visitor tries an intelligent personal health assessment system at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Photo by Qiu Shaoyu/Xinhua)
+People visit the Country Exhibition area during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Wang Nuo)
+Staff members in traditional Chinese costumes pose for a photo at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Han Xiaoyu)
+Visitors learn about the cruise ship Adora Magic City at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Cheng Tingting)
+A humanoid robot makes tea at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Cao Mengyao)
+People visit the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Xing Guangli)
+Visitors watch a humanoid robot making tea at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Liu Ying)
+A staff member receives an interview next to a model of an exported Chinese tunnel boring machine at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Liu Lingyi)
+People visit the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Du Xiaoyi)
+A staff member (L) introduces cultural and creative products at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Han Xiaoyu)
+A visitor tries simulated driving of high-speed railway train at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Wu Rong)
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516386.html</guid>
+    </item>
+    <item>
+      <title>Super buyer China opens door to shared prosperity at import expo</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516284.html</link>
+      <description>Published: 2026-11-06
+
+Super buyer China opens door to shared prosperity at import expo
+This photo taken on Oct. 26, 2026 shows a view of the south square of the National Exhibition and Convention Center (Shanghai), the main venue for the ninth China International Import Expo (CIIE), in east China's Shanghai. (Xinhua/Fang Zhe)
+SHANGHAI, Nov. 5 (Xinhua) -- Amid rising protectionism and waning faith in free trade, China is staging two major international trade expos back-to-back, signaling its steadfast commitment to continuous opening up.
+The ninth China International Import Expo (CIIE), the world's largest import-themed expo, opened in Shanghai in east China on Thursday, just a day after the export-focused Canton Fair concluded in south China's Guangzhou, shifting the spotlight to China's increasingly prominent role as a global super buyer.
+Running from Nov. 5 to 10, this year's CIIE has attracted 4,142 overseas exhibitors. With Canada and Sri Lanka as guest countries of honor, the ninth edition of the expo features more than 300 Fortune Global 500 companies and industry leaders.
+Across the bustling expo floor in Shanghai, sprawling over a total area of 440,000 square meters, exhibits range from cutting-edge technologies, such as a 6G terminal prototype and a high-precision turn-mill machine, to everyday consumer goods, including food, cosmetics and clothing, ready to test their potential in China's supersized market.
+This photo taken on Nov. 4, 2026 shows the exhibition area of Intelligent Industry and Information Technology of the ninth China International Import Expo (CIIE) in east China's Shanghai. (Xinhua/Guo Lei)
+MAGNETIC CIIE
+In 2018, as China's per capita GDP approached the 10,000-USD mark, the country launched the CIIE, a trade fair dedicated to imports, as a gateway for businesses to tap into the world's second-largest consumer market.
+Over the years, many innovative drugs exhibited at the CIIE have seen their market entry into China accelerated. Exotic food exhibits, meanwhile, have since enjoyed the media spotlight and found their way onto Chinese dining tables.
+According to Shanghai Customs, since the inaugural CIIE, more than 100 varieties of fruit from over 40 countries have gained access to the Chinese market. Once exotic fruits, from Malaysian durians to Peruvian blueberries, are now a common sight on Chinese supermarket shelves.
+For many exhibitors, the tangible benefits of past participation keep them coming back year after year.
+This year, nearly 200 businesses and institutions are returning for their ninth consecutive CIIE. One such "full-attendance" exhibitor, U.S. materials science giant Dow, values CIIE as a platform to "showcase its capabilities, understand market needs and expand value-chain partnerships," Puay Koon Chia, Dow Asia Pacific president, told Xinhua.
+Opportunities created by the platform have also reached many small businesses that have traditionally struggled to enter unfamiliar foreign markets.
+A staff member organizes alpaca wool products at a booth of the Consumer Goods exhibition area of the ninth China International Import Expo (CIIE) in east China's Shanghai, Nov. 4, 2026. (Xinhua/Du Xiaoyi)
+Ali Faiz, a carpet dealer from Afghanistan, first attended the CIIE in 2020 with just 20 or so carpets. Since then, orders from China have helped improve the livelihoods of more than 1,500 carpet-weaving families in his home country.
+To help exhibitors navigate market opportunities, this year's CIIE has built on existing initiatives, such as buyer-seller matchmaking events, the Hongqiao International Economic Forum, and a range of dialogues and cultural activities. It has also introduced new features, including a dedicated exhibition section for time-honored national brands from around the world.
+SUPER BUYER CHINA
+The CIIE's magnetic pull stems from China's growing role as a global super buyer, underpinned by its 1.4-billion population, its people's rising purchasing power and their growing appetite for a better quality of life.
+China has remained the world's second-largest import market for 17 consecutive years, with its total imports exceeding 90 trillion yuan (about 13.4 trillion U.S. dollars) during the 14th Five-Year Plan period (2021-2025). The pace is picking up. China's imports reached 16.7 trillion yuan in the first nine months of 2026, up 22.3 percent, the fastest growth since 2021.
+This photo taken on Nov. 4, 2026 shows the Dedicated Showcase for National Brands Worldwide at the Food and Agricultural Products exhibition area of the ninth China International Import Expo (CIIE), in east China's Shanghai. (Xinhua/Wang Xiang)
+Beyond a supersized market, more sophisticated consumer demand in China is creating fresh opportunities for global businesses. From healthier diets and beauty products to outdoor sports and leisure experiences, China's growing middle-income population is embracing new lifestyles and driving demand for a wider range of goods and services.
+A newcomer to the CIIE, outdoor apparel brand Arc'teryx has gained momentum in China in recent years. John Yin, senior vice president-general manager of Arc'teryx Greater China, cited the country's thriving outdoor sports culture as among the underlying drives for the company's "longstanding commitment to China's market."
+A classic example of an emerging lifestyle in China reshaping global trade is the import of coffee beans. Long known for its tea-drinking traditions, China has emerged as one of the world's fastest-growing coffee markets. As coffee culture spreads from major cities to smaller towns, surging demand is driving imports of coffee beans from growing regions around the globe.
+For African coffee exporters, from Ethiopia to Mauritius, the CIIE offers a gateway to this swiftly expanding market. Adding to their optimism is China's zero-tariff treatment of imports from all 53 African countries with which it has diplomatic relations, which took effect on May 1.
+This year's CIIE features an upgraded Asia-Africa products zone designed to help African countries capitalize on the zero-tariff policy, while expanding free exhibition space for the least developed countries by 17 percent.
+Beyond the expo, China's commitment to opening its market wider is also reflected in its policy blueprint. Promoting balanced growth in imports and exports has been written into the outline of the 15th Five-Year Plan (2026-2030). Meanwhile, this year's government work report calls for boosting imports to promote balanced trade.
+This goal also aligns with a shift in domestic economic priorities that sees consumption taking on a greater role as a stabilizing anchor and key driver of growth. China this year laid out its first five-year plan dedicated to expanding consumption, setting a goal of raising total retail sales of consumer goods to around 60 trillion yuan by 2030.
+According to Sourabh Gupta, a senior fellow at the Institute for China-America Studies, the CIIE sends two important messages: China's commitment to a more balanced, higher-quality growth model driven primarily by domestic demand, and its willingness to become as impressive an importer as it is an exporter, thereby contributing to global economic rebalancing.
+"TEST GROUND AND A GYM"
+Exhibitors at the CIIE, including those with a long-standing presence in the country, increasingly see China as more than just a consumer market. It is also a testing ground for innovation and a launchpad for products that aspire to reach consumers worldwide.
+This photo taken on Nov. 4, 2026 shows a booth of the Automobile and Smart Mobility exhibition area of the ninth China International Import Expo (CIIE) in east China's Shanghai. (Xinhua/Han Xiaoyu)
+"China is both a test ground and a gym, a place where we test new ideas, challenge ourselves and continuously strengthen our innovation capabilities," Jay Wu, Michelin China vice president, director of government relations and strategy, told Xinhua. He noted that new trends and technologies in sectors ranging from electric vehicles to autonomous driving often emerge in China ahead of other markets.
+Unveiling a tire made with 75 percent renewable and recycled materials at the CIIE, the French tire manufacturer described its evolving approach to China as a shift from "In China, for China" to "With China, for the World."
+This shift reflects a broader trend among multinational companies. At a press conference in October, a Chinese National Bureau of Statistics official said more foreign firms are embracing "China Opportunity 2.0" by integrating more deeply into the country's industrial and innovation chains.
+The trend extends beyond industrial manufacturing to consumer goods, where increasingly sophisticated Chinese consumers are helping shape global innovation.
+Stéphane de La Faverie, president and CEO of the Estée Lauder Companies, noted in his videotaped message to the CIIE that as China continues to set the pace for beauty innovation, the country is not only an important market, but also "a source of talent, insight and inspiration."
+Maziar Mike Doustdar, president and CEO of Novo Nordisk, echoed his view. "China is becoming an increasingly important source of innovation. We are excited to bring China-originated innovation into our growing pipeline and explore its potential to benefit patients worldwide."
+For the Danish pharmaceutical giant, which has participated in every edition of the CIIE, China's rapidly evolving pharmaceutical innovation landscape and expanding healthcare market have reinforced its confidence in investing in the country.
+As Doustdar put it: "Investing in China is investing in the future."
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516284.html</guid>
     </item>
     <item>
       <title>Commentary: China bolsters confidence in building a shared green future</title>
@@ -96,44 +193,6 @@ This year, China has issued a raft of green development-related action plans, in
 These continued endeavors fully demonstrate that China is maintaining the intensity of its efforts via clear strategic goals and stable policy arrangements, which are set to generate new momentum for expanding green development cooperation and building a beautiful future.
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
       <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c90000-20515851.html</guid>
-    </item>
-    <item>
-      <title>9th China International Import Expo opens in Shanghai</title>
-      <link>https://en.people.cn/n3/2026/1105/c90000-20516026.html</link>
-      <description>Published: 2026-11-05
-
-9th China International Import Expo opens in Shanghai
-This photo taken on Nov. 5, 2026 shows a scene during the opening ceremony of the ninth edition of the China International Import Expo (CIIE) and the Hongqiao International Economic Forum in Shanghai, east China. The ninth edition of the CIIE opened on Thursday in Shanghai. (Xinhua/Fang Zhe)
-SHANGHAI, Nov. 5 (Xinhua) -- The ninth edition of the China International Import Expo (CIIE), the world's first national-level exhibition dedicated to imports, opened on Thursday in Shanghai in east China.
-Chinese Vice Premier Ding Xuexiang delivered a keynote speech at the opening ceremony.
-Running from Nov. 5 to 10, this year's CIIE has attracted 4,142 overseas exhibitors, including more than 300 Fortune Global 500 companies and industry leaders. Over 480 exhibits are set to make their global, Asian or China debuts at the 2026 event, the highest number in its history.
-Total exhibition area exceeds 440,000 square meters this year. U.S. exhibitors occupy more than 50,000 square meters, leading for the eighth consecutive year, while companies from Germany, the United Kingdom and France also rank among the top participants.
-This year's CIIE retains its six major exhibition areas and an innovation incubation section, covering areas such as intelligent industry and information technology, consumer goods, food and agricultural products, automobiles and smart mobility, medical devices and healthcare products, and trade in services.
-The innovation incubation section features 633 technology and innovation projects from nearly 40 countries and regions, up almost 20 percent from the previous edition.
-The Hongqiao International Economic Forum, also taking place in Shanghai alongside the CIIE, on Thursday released the World Openness Report 2026, and unveiled its first Export-to-China Capacity Development Report.
-Announced in 2017 and held annually since 2018, the CIIE serves to give overseas businesses greater access to the vast and growing Chinese market.
-The past eight editions have drawn more than 180 countries, regions and international organizations and seen over 3,400 new products, technologies and services make their debuts, while cumulative intended deals have exceeded 580 billion U.S. dollars.
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c90000-20516026.html</guid>
-    </item>
-    <item>
-      <title>140th Canton Fair concludes in Guangzhou</title>
-      <link>https://en.people.cn/n3/2026/1105/c90000-20515899.html</link>
-      <description>Published: 2026-11-05
-
-140th Canton Fair concludes in Guangzhou
-This photo taken on Nov. 3, 2026 shows a view of the venue of the 140th China Import and Export Fair in Guangzhou, south China's Guangdong Province. The 140th China Import and Export Fair, also known as the Canton Fair, concluded here on Wednesday. As of November 3, the fair has attracted 352,000 overseas buyers from 219 countries and regions, a 12.2 percent increase from last year and a new high, according to the China Foreign Trade Centre (CFTC), the organizer of the fair. (Xinhua/Deng Hua)
-A staff member of a glove products company livestreams during the 140th China Import and Export Fair in Guangzhou, south China's Guangdong Province, Nov. 3, 2026. The 140th China Import and Export Fair, also known as the Canton Fair, concluded here on Wednesday. As of November 3, the fair has attracted 352,000 overseas buyers from 219 countries and regions, a 12.2 percent increase from last year and a new high, according to the China Foreign Trade Centre (CFTC), the organizer of the fair. (Xinhua/Deng Hua)
-An overseas buyer (L) talks with a baby stroller exhibitor during the 140th China Import and Export Fair in Guangzhou, south China's Guangdong Province, Nov. 3, 2026. The 140th China Import and Export Fair, also known as the Canton Fair, concluded here on Wednesday. As of November 3, the fair has attracted 352,000 overseas buyers from 219 countries and regions, a 12.2 percent increase from last year and a new high, according to the China Foreign Trade Centre (CFTC), the organizer of the fair. (Xinhua/Deng Hua)
-An overseas buyer (L) talks with a shoes exhibitor during the 140th China Import and Export Fair in Guangzhou, south China's Guangdong Province, Nov. 3, 2026. The 140th China Import and Export Fair, also known as the Canton Fair, concluded here on Wednesday. As of November 3, the fair has attracted 352,000 overseas buyers from 219 countries and regions, a 12.2 percent increase from last year and a new high, according to the China Foreign Trade Centre (CFTC), the organizer of the fair. (Xinhua/Deng Hua)
-Overseas buyers talk with a ride-on toy exhibitor during the 140th China Import and Export Fair in Guangzhou, south China's Guangdong Province, Nov. 3, 2026. The 140th China Import and Export Fair, also known as the Canton Fair, concluded here on Wednesday. As of November 3, the fair has attracted 352,000 overseas buyers from 219 countries and regions, a 12.2 percent increase from last year and a new high, according to the China Foreign Trade Centre (CFTC), the organizer of the fair. (Xinhua/Deng Hua)
-An overseas buyer (R) talks with a luggage exhibitor during the 140th China Import and Export Fair in Guangzhou, south China's Guangdong Province, Nov. 3, 2026. The 140th China Import and Export Fair, also known as the Canton Fair, concluded here on Wednesday. As of November 3, the fair has attracted 352,000 overseas buyers from 219 countries and regions, a 12.2 percent increase from last year and a new high, according to the China Foreign Trade Centre (CFTC), the organizer of the fair. (Xinhua/Deng Hua)
-An overseas buyer (below) experiences a physiotherapy machine during the 140th China Import and Export Fair in Guangzhou, south China's Guangdong Province, Nov. 3, 2026. The 140th China Import and Export Fair, also known as the Canton Fair, concluded here on Wednesday. As of November 3, the fair has attracted 352,000 overseas buyers from 219 countries and regions, a 12.2 percent increase from last year and a new high, according to the China Foreign Trade Centre (CFTC), the organizer of the fair. (Xinhua/Deng Hua)
-An overseas buyer (front, R) talks with an apparel exhibitor during the 140th China Import and Export Fair in Guangzhou, south China's Guangdong Province, Nov. 3, 2026. The 140th China Import and Export Fair, also known as the Canton Fair, concluded here on Wednesday. As of November 3, the fair has attracted 352,000 overseas buyers from 219 countries and regions, a 12.2 percent increase from last year and a new high, according to the China Foreign Trade Centre (CFTC), the organizer of the fair. (Xinhua/Deng Hua)
-An overseas buyer (R) talks with an apparel exhibitor during the 140th China Import and Export Fair in Guangzhou, south China's Guangdong Province, Nov. 3, 2026. The 140th China Import and Export Fair, also known as the Canton Fair, concluded here on Wednesday. As of November 3, the fair has attracted 352,000 overseas buyers from 219 countries and regions, a 12.2 percent increase from last year and a new high, according to the China Foreign Trade Centre (CFTC), the organizer of the fair. (Xinhua/Deng Hua)
-This photo taken on Nov. 3, 2026 shows a booth of a garment enterprise at the 140th China Import and Export Fair in Guangzhou, south China's Guangdong Province. The 140th China Import and Export Fair, also known as the Canton Fair, concluded here on Wednesday. As of November 3, the fair has attracted 352,000 overseas buyers from 219 countries and regions, a 12.2 percent increase from last year and a new high, according to the China Foreign Trade Centre (CFTC), the organizer of the fair. (Xinhua/Deng Hua)
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c90000-20515899.html</guid>
     </item>
     <item>
       <title>World Internet Conference Wuzhen Summit highlights China's open-source AI push</title>
@@ -256,46 +315,6 @@ Linking mountains and seas and creating opportunities, the city keeps goods movi
 Representatives of Malaysian students in China pose for a group photo with Chinese students at the Experimental School in the Qinzhou Port Economic and Technological Development Zone in Qinzhou, south China's Guangxi Zhuang autonomous region. (Photo/Lu Yingming)
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
       <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c90000-20515872.html</guid>
-    </item>
-    <item>
-      <title>Embracing the trend of openness and pooling strength for win-win cooperation</title>
-      <link>https://en.people.cn/n3/2026/1105/c90000-20516276.html</link>
-      <description>Published: 2026-11-05
-
-Embracing the trend of openness and pooling strength for win-win cooperation
-An exhibitor poses for a photo at the venue for the 9th China International Import Expo (CIIE) on Nov. 3, 2026. (Photo/Wang Chu)
-The 9th China International Import Expo (CIIE) opens in Shanghai on Nov. 5 and will run through Nov. 10.
-This year's exhibition space exceeds 370,000 square meters for the first time, drawing participants from 162 countries, regions, and international organizations. More than 4,100 overseas companies are participating, and over 480 products are expected to make their debut at the expo, hitting a record high.
-At a time when unilateralism and protectionism continue to disrupt the international economic and trade order, the CIIE, now in its ninth consecutive year, has become an irreplaceable international public good in the global economic and trade system.
-A closer look at the exhibition layout of the 9th CIIE reveals six major exhibition areas and an Innovation Incubation Special Section, each with its own highlights.
-Pavilions dedicated to medical equipment and health care products, consumer goods, and food and agricultural products have all been expanded. More than 2,000 companies are participating in the event for the first time.
-Among the newcomers are the U.S.-based Project Management Institute and Germany's Caparol, a leading producer of architectural coatings.
-For the first time, the CIIE will feature a global consumer brands showcase to help expand and upgrade consumption of quality products.
-"The CIIE stands as a clear demonstration of China's commitment to expand opening up," said Carl Fey, professor of strategy at BI Norwegian Business School. As he has observed, China's opening up is geared toward pursuing shared development with the rest of the world, and the CIIE highlights China's key role in global trade.
-Over the years, the range of exhibits at the CIIE has expanded from consumer goods and components to high-end equipment, core technologies, and quality services.
-This evolution reflects the deeper integration of global industrial and supply chains. Today, exhibitors, including industry giants, emerging players, small and medium-sized enterprises, and specialized businesses, can all connect with market demand more precisely and explore growth opportunities across the entire industrial chain.
-The CIIE is increasingly attracting international buyers. Ahead of this year's event, trade delegations from Shanghai, Guangdong, and other regions secured a number of major buyers with strong purchasing power, well-established brands, and substantial demand.
-Photo shows the Intelligent Industry and Information Technology exhibition area at the venue for the 9th China International Import Expo (CIIE), Nov. 3, 2026. (Photo/Wang Chu)
-Dedicated matchmaking events were held in Egypt, Germany, the UK, and other countries, bringing negotiations closer to China's trading partners. During the expo, a buyers' corridor will help connect quality products and services directly with the Chinese market.
-In the first three quarters of 2026, China's imports reached 16.74 trillion yuan (about $2.5 trillion), representing a 22.3 percent year-on-year increase. September alone saw monthly imports surpass 2 trillion yuan for the first time.
-The CIIE offers a window into China's vast domestic market, where growing demand is creating more opportunities for business around the world.
-The expo is also becoming an increasingly attractive platform for foreign investors.
-Through the CIIE, exhibitors including ZEISS Group, Schneider Electric and AstraZeneca have established R&amp;D centers, regional headquarters and advanced manufacturing bases in China.
-As global companies unveil debut products, many are simultaneously accelerating plans to deepen local R&amp;D, increase investment, and consolidate regional operations.
-Over the past three years, the number of foreign-invested enterprises in China has grown steadily. Between January and April 2026 alone, more than 3,000 foreign-invested firms announced additional capital commitments.
-The CIIE continues to witness how exhibits become marketable products and exhibitors become investors, and more global companies deepen their presence in China and create benefits for the world.
-Beyond commerce, the expo is strengthening cultural and people-to-people ties. More than a marketplace for goods and services, it serves as a cross-cultural forum. The distinctive Country Exhibition area hosts performances and exhibitions that offer visitors a rich tapestry of global traditions.
-This year introduces several firsts: the Premium Collection will feature intangible cultural heritage workshops, the Gourmet Festival will launch a global tasting zone, and the Arts Carnival will collaborate with China Fashion Week. These initiatives foster mutual understanding and enrich economic partnerships with stronger societal connections.
-A staff member debugs a humanoid robot at the venue for the 9th China International Import Expo (CIIE). (Photo/Wang Chu)
-The CIIE provides a broader multilateral platform for open cooperation. In step with the trend of economic globalization, it has established an authoritative platform for high-level dialogue and multilateral economic and trade cooperation.
-For the first time, more than 300 Fortune Global 500 companies and industry leaders are participating. Nearly 200 firms and institutions have attended all nine editions, while five countries, including Moldova and Romania, as well as the United Nations Development Programme, are joining for the first time, demonstrating the strong appeal of openness and cooperation.
-China advances high-level opening up with the aim of expanding the pie of cooperation with the rest of the world. Its stories of opening up have sent a message to the world that China is not only the world's factory but also a global market. It is not only a "super seller" but also a "super buyer."
-The two-way engagement does not marginalize other stakeholders; rather, it creates tangible benefits for neighboring economies and fosters regional prosperity.
-At this year's expo, pavilions dedicated to Asian and African products will be expanded, featuring higher-quality displays and enhanced programming. These enhancements aim to help African countries with diplomatic ties to China leverage tariff-free access and encourage more Global South countries to fully utilize the CIIE.
-Stephen Jackson, United Nations Resident Coordinator in China, noted that the CIIE offers developing economies a practical pathway to integrate more deeply into global value chains and share the benefits of trade.
-China will harness the momentum of opening up and pool strength for win-win cooperation. It will firmly uphold multilateralism and continue to make the CIIE a success, helping steer economic globalization toward greater openness, inclusiveness, balance and shared benefits.
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c90000-20516276.html</guid>
     </item>
   </channel>
 </rss>
