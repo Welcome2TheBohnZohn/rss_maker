@@ -7,64 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 03:29:10 +0000</lastBuildDate>
-    <item>
-      <title>What does the Wuzhen summit reveal about China-US AI cooperation amid intensifying competition?</title>
-      <link>https://en.people.cn/n3/2026/1106/c90000-20516396.html</link>
-      <description>Published: 2026-11-06
-
-What does the Wuzhen summit reveal about China-US AI cooperation amid intensifying competition?
-On her first visit to the World Internet Conference (WIC) Wuzhen Summit, Debora Comparin wanted to know what Chinese developers were building and how their AI agents could work with systems developed elsewhere.
-"China and the US are both leading countries in AI, and we absolutely need constructive cooperation," Comparin, co-chair of the International Telecommunication Union Initiative on Trust and Identity for Humans and Agentic AI, told the Global Times on the sidelines of the opening ceremony.
-Just days before the summit, the US government ordered federal civilian agencies to remove DeepSeek products and services from their IT systems and exclude them from procurement. On the commercial side, Microsoft had already made the Chinese developer's R1 model available to customers through Azure AI Foundry.
-At the Light of Internet Expo in Wuzhen, Intel, Qualcomm and Microsoft are exhibiting alongside Chinese companies. As Chinese and US AI developers compete on price and performance and US restrictions close off parts of the market, where do companies on both sides still have an incentive to work together?
-A race on price and performance
-Stanford University's 2026 AI Index found that top US and Chinese models began trading places in performance rankings in early 2025. The leading US model held a 2.7 percent advantage in the Arena ratings as of March 2026, a snapshot of how closely the two sides had been competing.
-That contest is increasingly about what a model costs to use. In September 2026, DeepSeek cut API prices with the release of V4.1 Flash, a smaller model that also added visual understanding, according to DeepSeek's developer documentation. Around the same period, DeepSeek's higher-end V4 Pro was priced at $3.96 per million output tokens, according to the company's price list, while Anthropic listed its flagship Claude Opus 5.5 at $20 per million output tokens. The figures show the difference in what providers charged to generate text.
-US developers are competing for customers that need to control those bills, too. In March 2026, OpenAI introduced GPT-5.4 mini and nano, smaller models geared toward workloads including coding and rapid iteration. For companies processing large volumes of requests, choosing a lower-cost model for routine work can matter as much to the budget as choosing the most capable model for a difficult task.
-Government decisions can narrow those choices. An October 27 US Department of Energy notice said the US Department of Homeland Security had ordered the exclusion of DeepSeek products and services from federal civilian agency procurement and the removal of covered products and services from civilian agency IT systems, citing supply chain, data security and other risks.
-In a separate policy affecting the hardware needed to train and run models, the US Commerce Department said in January 2026 it would review licenses for certain advanced chip exports to China case by case, subject to conditions.
-Chen Jing, vice president of the Beijing-based Technology and Strategy Research Institute, said the US has advantages in advanced chips, foundation models and capital, while China draws on its large market, industrial system and range of applications. Competition can speed up innovation, he said, while chip export controls and investment scrutiny risk raising costs and fragmenting supply chains.
-Visitors tour the Light of Internet Expo at the World Internet Conference Wuzhen Summit in Wuzhen, East China's Zhejiang Province, on November 4, 2026. Photo: Tao Mingyang/GT
-Room for cooperation
-Comparin sees an opening in the technical rules that let AI agents built by different companies work together. Chinese and US firms can work with European partners on protocols and safeguards, she said, so agents can be deployed securely and interact across platforms.
-On the floor of the Light of Internet Expo in Wuzhen, US exhibitors' interest in the Chinese market was visible in the range of products they brought. Intel displayed enterprise AI workstations, compact AI systems and PCs built to run AI agents. According to materials Intel provided to the Global Times, the chipmaker is working with Chinese industry partners on uses such as visual quality inspection and safety checks.
-Intel's third-generation Core Ultra processor won a WIC award for pioneering science and technology. AMD China's Ryzen AI Max+ processor for systems that run AI agents and Microsoft China's Copilot Cowork, a productivity tool designed for real-world tasks, were also among the winners.
-China offers a large market as well as opportunities to develop and commercialize technology across different industries, Qualcomm China Chairman Meng Pu said at an AI industry conference in October, according to People's Daily-affiliated Jintai Information.
-One opening is in patents. On October 5, Qualcomm and Huawei announced a multi-year agreement covering cross-licenses in 5G, computing, AI and networking. Qualcomm also agreed to buy certain Huawei US patents, subject to the necessary regulatory approvals. For both companies, the agreement provides a framework for using each other's patented technologies in areas that support connected devices and AI applications.
-Shared gains through openness
-Model distribution offers another route to cooperation. In October, Amazon Web Services (AWS) announced that Zhipu AI's GLM-5.3 was generally available on Amazon Bedrock, the Global Times learned from Zhipu.
-Chinese models have reportedly also been used inside a US developer's own training process. In December 2025, Bloomberg reported, citing people familiar with the work, that Meta's team used Alibaba's Qwen alongside other models in training a system code-named Avocado. The reported use was part of model development, while the AWS and Microsoft announcements concerned products made available to customers.
-Chinese technology industry analyst Liu Dingding told the Global Times that international partnerships can help multinational companies commercialize technologies while supporting industrial upgrading by Chinese manufacturers.
-"Such complementary strengths offer opportunities for both sides to benefit from AI's expansion into more industries," Liu said.
-Distribution puts more models within reach. Common technical rules can make it easier for businesses to combine tools from different providers and to set limits on what agents can do when they interact. In October, the Linux Foundation's Agentic AI Foundation announced new projects including OpenAI's Open Responses, which addresses communication between applications and models, and Alibaba's OpenSandbox, which provides isolated environments for running agents.
-There is a role for governments as well. According to China's Ministry of Commerce, China and the US held their first dialogue on AI under the China-US economic and trade consultation mechanism at the recently held eighth round of economic and trade consultations in the US. During the latest round of economic and trade consultations, the two sides reached multiple points of consensus.
-Terry Sweetser, chair of the Asia Pacific Network Information Centre's (APNIC) Routing Security Special Interest Group, said much of the capital flowing into US AI companies was backing proprietary technology. He pointed to open models as a way to make AI more widely accessible.
-"An open-source approach could get more people talking about how to make that technology accessible worldwide," Sweetser told the Global Times, adding that some Chinese AI firms are already pursuing such an approach.
-Lilan Dayananda, a social-tech entrepreneur from Sri Lanka, told the Global Times that healthy competition between China and the US was important because competition could help prevent technological monopolies. At the same time, the two countries needed to recognize the synergies that could bring them together.
-"Going alone can do something, but going together has more impact," Dayananda said.
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516396.html</guid>
-    </item>
-    <item>
-      <title>Global media leaders call for closer dialogue, coordination amid security challenges</title>
-      <link>https://en.people.cn/n3/2026/1106/c90000-20516290.html</link>
-      <description>Published: 2026-11-06
-
-Global media leaders call for closer dialogue, coordination amid security challenges
-BEIJING, Nov. 5 (Xinhua) -- Chinese and foreign media representatives attending the 7th World Media Summit in Beijing on Thursday called for stronger dialogue and cooperation to address global security challenges and promote common development.
-A forum on powering intelligent media was held on the sidelines of the summit, bringing together participants to discuss how media can leverage advanced technologies, build consensus and contribute to global security and shared development.
-Ren Weidong, deputy editor-in-chief of Xinhua News Agency, said in his address that media outlets should not be bystanders or onlookers in the face of global security challenges, but should strive to shoulder their responsibilities.
-Media should serve as guardians of factual reporting, adopters of advanced technologies, disseminators of diverse voices and promoters of exchanges and cooperation, helping pool collective wisdom to safeguard global security and promote sustainable development, Ren said.
-Abdul Hakim, president director of Indonesia's Antara News Agency, said opportunities created by advances in energy infrastructure and computing capacity should benefit developing countries, and digital transformation should enable more people outside major cities to gain access to credible information.
-People should embrace innovation while upholding principles, and news production should be accurate, fair and honest, he said.
-Participants of the forum also called for stronger cooperation in sharing technological achievements and building professional capabilities, promoting the development of artificial intelligence in a safer, fairer and more inclusive direction.
-The 7th World Media Summit, co-hosted by Xinhua News Agency and the People's Government of Beijing Municipality, is to be held from Nov. 5 to 9 in Beijing.
-Under the theme "Media in the Intelligent Age: From Consensus to Action", the summit brings together nearly 500 delegates from nearly 330 mainstream media outlets, think tanks, government departments and international organizations from 112 countries and regions around the world.
-The mechanism of the World Media Summit was initiated in 2009 and is an important global platform for high-end media exchange and cooperation.
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516290.html</guid>
-    </item>
+    <lastBuildDate>Fri, 06 Nov 2026 13:00:40 +0000</lastBuildDate>
     <item>
       <title>China to extend anti-dumping, anti-subsidy tariffs on US NPA imports for five years</title>
       <link>https://en.people.cn/n3/2026/1106/c90000-20516294.html</link>
@@ -97,30 +40,6 @@ China has supported developing countries in environmental impact assessment. It 
 By applying to host the Secretariat of the Agreement in the coastal city of Xiamen in east China's Fujian Province, the country has undertaken further international responsibilities in an effort to address the absence of headquarters of United Nations ocean-related bodies in Asia, according to the report.
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
       <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516286.html</guid>
-    </item>
-    <item>
-      <title>China Pavilion showcases forward-looking vision at 9th CIIE</title>
-      <link>https://en.people.cn/n3/2026/1106/c90000-20516386.html</link>
-      <description>Published: 2026-11-06
-
-China Pavilion showcases forward-looking vision at 9th CIIE
-People visit the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Chen Haoming)
-SHANGHAI, Nov. 5 (Xinhua) -- The China International Import Expo (CIIE), the world's first national-level exhibition dedicated to imports, opened in east China's Shanghai on Thursday.
-Themed on "New Advances for a Bright, Win-win Future," the China Pavilion presents a forward-looking perspective, global vision and openness in line with the 15th Five-Year Plan (2026-2030) blueprint.
-Visitors from Seychelles communicate with a robot at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Guo Lei)
-A visitor tries an intelligent personal health assessment system at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Photo by Qiu Shaoyu/Xinhua)
-People visit the Country Exhibition area during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Wang Nuo)
-Staff members in traditional Chinese costumes pose for a photo at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Han Xiaoyu)
-Visitors learn about the cruise ship Adora Magic City at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Cheng Tingting)
-A humanoid robot makes tea at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Cao Mengyao)
-People visit the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Xing Guangli)
-Visitors watch a humanoid robot making tea at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Liu Ying)
-A staff member receives an interview next to a model of an exported Chinese tunnel boring machine at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Liu Lingyi)
-People visit the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Du Xiaoyi)
-A staff member (L) introduces cultural and creative products at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Han Xiaoyu)
-A visitor tries simulated driving of high-speed railway train at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Wu Rong)
-Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516386.html</guid>
     </item>
     <item>
       <title>Super buyer China opens door to shared prosperity at import expo</title>
@@ -171,150 +90,154 @@ Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
       <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516284.html</guid>
     </item>
     <item>
-      <title>Commentary: China bolsters confidence in building a shared green future</title>
-      <link>https://en.people.cn/n3/2026/1105/c90000-20515851.html</link>
-      <description>Published: 2026-11-05
+      <title>Chinese president appoints new ambassadors</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516608.html</link>
+      <description>Published: 2026-11-06
 
-Commentary: China bolsters confidence in building a shared green future
-A drone photo taken on Jan. 13, 2026 shows the construction site of a 20-megawatt offshore wind turbine unit in the coastal waters of southeast China's Fujian Province. (Xinhua/Lin Shanchuan)
-BEIJING, Nov. 4 (Xinhua) -- In a world troubled by faltering climate policies, rising protectionism and energy security challenges, humanity, more than ever before, needs action-oriented implementation of the Paris Agreement.
-Since the entry into force of this milestone agreement a decade ago, China has made unwavering decarbonization endeavors and become an indispensable stabilizer and important contributor in advancing the global green transition process, bolstering confidence in a shared green future.
-This stabilizing role stems from China's efforts in managing its own affairs well, especially its clean energy buildout. China contributed nearly three-quarters of newly installed wind power capacity globally in 2025, International Renewable Energy Agency (IRENA) data showed. It is estimated that global photovoltaic installations added since 2019 avoided about 1.5 billion tonnes of carbon dioxide emissions in 2025, with roughly half of this contribution coming from China.
-China's green transition momentum has been continuing. In 2025, China's carbon intensity further dropped by five percent from 2024 levels, and its power generation from renewable energy exceeded the total electricity consumption of the 27 EU member states. In July 2026, China's installed solar capacity, for the first time in its history, overtook coal-fired capacity, making solar its largest power source by installed capacity.
-China's achievements in pursuing green development represent an important contribution to global climate governance. Unquestionably, China has played a leading role in the global transition toward green and low-carbon development.
-The green transition requires not only resolve but, more importantly, affordable costs, accessible technologies and products suitable for widespread adoption. In this regard, China's contribution is tangible.
-According to IRENA, global wind and solar power costs have fallen by more than 60 percent and 80 percent, respectively, over the past decade, with much of this attributed to China's innovation, manufacturing and engineering endeavors.
-China has consistently worked to advance green cooperation, leveraging its technologies and investment in doing so.
-In South Africa, the Chinese-built Redstone solar plant helps ease electricity shortages. In the United Arab Emirates, meanwhile, a zero-energy cooling system using Chinese technology sharply reduces the energy consumption of buildings.
-According to a report by the Finland-based Center for Research on Energy and Clean Air, clean technology products exported by China in 2025 are expected to avoid approximately 6.9 billion tonnes of carbon dioxide emissions during their operating lifetimes.
-Supported by strengths in battery technology, intelligent systems and supply-chain efficiency, Chinese new energy vehicle companies have built manufacturing and research facilities overseas, boosting global green transition and industrial upgrades in many developing countries.
-It is worth noting that no country can accomplish all transition-related tasks by relying solely on its own efforts. Countries need multilateralism and partnerships to effectively address the myriad challenges facing climate governance.
-This year, China has issued a raft of green development-related action plans, including those on carbon peaking and the establishment of a new power system, outlining concrete tasks and measures.
-These continued endeavors fully demonstrate that China is maintaining the intensity of its efforts via clear strategic goals and stable policy arrangements, which are set to generate new momentum for expanding green development cooperation and building a beautiful future.
+Home&gt;&gt;
+		
+Chinese president appoints new ambassadors
+ (Xinhua) 15:20, November 06, 2026
+BEIJING, Nov. 6 (Xinhua) -- Chinese President Xi Jinping has appointed the following ambassadors in accordance with a decision of the Standing Committee of the National People's Congress, China's top legislature, an official statement said on Friday.
+Zhou Jingxing was appointed ambassador to Norway, replacing Hou Yue.
+Zhou Qian was appointed ambassador to the Czech Republic, replacing Feng Biao.
+Hou Yue was appointed ambassador to Italy and San Marino, replacing Jia Guide.
+Yao Fei was appointed ambassador to Kiribati, replacing Zhou Limin.
+Chen Haiping was appointed ambassador to Fiji, replacing Zhou Jian.
+Zhao Xing was appointed ambassador to New Zealand and the Cook Islands, as well as ambassador to the Island of Niue, replacing Wang Xiaolong.
+(Web editor: Zhang Kaiwei, Liang Jun)
+		About People's Daily Online |  Join Us | Contact Us
+		
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c90000-20515851.html</guid>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516608.html</guid>
     </item>
     <item>
-      <title>World Internet Conference Wuzhen Summit highlights China's open-source AI push</title>
-      <link>https://en.people.cn/n3/2026/1105/c90000-20515884.html</link>
-      <description>Published: 2026-11-05
+      <title>Xi meets Austrian chancellor</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516721.html</link>
+      <description>Published: 2026-11-06
 
-World Internet Conference Wuzhen Summit highlights China's open-source AI push
-HANGZHOU, Nov. 4 (Xinhua) -- At the physical workspace of ModelScope, China's largest AI open-source community, a single developer can do the work of a team.
-Li Guanghui is among the 249 solo entrepreneurs at this workspace in Hangzhou, capital city of east China's Zhejiang Province, 95 percent of whom are working on AI projects. A former developer at a major tech firm, he relocated to Hangzhou from Guangzhou in south China's Guangdong Province.
-With AI assistance, he built a hotel-booking mini program entirely on his own, completing in eight months a project that would typically take a team of five to ten people a year to finish.
-Li's experience reflects a broader trend being discussed at the ongoing 2026 World Internet Conference Wuzhen Summit in Zhejiang's ancient water town of Wuzhen, highlighting how China's open-source push for an inclusive AI future is gaining momentum.
-The summit has drawn about 1,800 delegates from 138 countries and regions to discuss topics including open source and openness, joint contribution and shared benefits.
-This photo taken on Nov. 3, 2026 shows a scene at the opening ceremony of the 2026 World Internet Conference (WIC) Wuzhen Summit in Wuzhen, east China's Zhejiang Province. (Xinhua/Zhang Yuwei)
-"ModelScope now serves more than 33 million developers from 239 countries and regions," said Joe Tsai, co-founder and chairman of Alibaba Group, a Chinese tech giant that founded and operates ModelScope. "Through mutual inspiration, they are building a vibrant global ecosystem."
-Open source has become a defining feature of China's AI development. China's national-level AI open-source communities have attracted over 11 million users, while Chinese open-source large models have been downloaded more than 10 billion times globally.
-"Open source and openness are the foundation of the internet. Openness generates the massive data that fuels large models," said Ya-Qin Zhang, a foreign academician of the Chinese Academy of Engineering. "Represented by Qwen and DeepSeek, China's open-source efforts are actively contributing to the global ecosystem."
-People visit the Open Source Ecosystem Experience Pavilion, a supporting project for the 2026 World Internet Conference Wuzhen Summit, in Wuzhen, east China's Zhejiang Province, Nov. 3, 2026. (Xinhua/Zhang Yuwei)
-Three years ago, Alibaba launched an open-source AI strategy. To date, its Qwen series has released more than 470 open-source models, featuring over 4 billion cumulative downloads and more than 330,000 derivative models worldwide.
-"AI can only become universal via open source, and only through universality can we create a sustainable and inclusive era of intelligence," said Tsai.
-He added that Chinese AI companies have converged on open source because it reflects China's innovation spirit: looking beyond self-interest, advancing shared well-being, and creating greater value through mutual achievement.
-"Why open source? The answer is simple: to bring artificial general intelligence closer, faster," said Gao Xi, a research engineer at China's AI startup DeepSeek. "Those who embrace open source benefit themselves."
-A person uses DeepSeek app on a mobile phone on Feb. 17, 2025. (Xinhua/Huang Zongzhi)
-Experts believe that open source is a key pathway to pooling intelligence and furthering digital inclusion. Practice shows that open source has lowered R&amp;D costs for small and medium-sized enterprises, with particular value for less-used languages and developing countries.
-In Uganda, a non-profit organization built a local language model based on Qwen's open-source model, covering 68 African languages and helping more Africans break language barriers. Similar efforts using Chinese open-source AI models are emerging across Africa in sectors such as legal services, agriculture, education and insurance.
-"Based on open-source models, AI is no longer the exclusive domain of a few tech powers, but a cause that all can participate in," Tsai said. "Developers from emerging economies no longer need to start from scratch."
-People visit the Open Source Ecosystem Experience Pavilion, a supporting project for the 2026 World Internet Conference Wuzhen Summit, in Wuzhen, east China's Zhejiang Province, Nov. 3, 2026. (Xinhua/Zhang Yuwei)
-John Hoffman, chairman and director of the Global System for Mobile Communications Association (GSMA) Ltd., praised China's push for open technologies. "No openness, no scale; no cooperation, no inclusion," he told Xinhua, adding that openness gave the industry scale, lower costs and a connected world.
-"Openness is a simple word, but it carries a powerful message about how we develop technology, share knowledge and shape our common future in cyberspace," said Nii Narku Quaynor, chairman of Ghana Dot Com, also known as the "father of the internet in Africa."
-A visitor takes photos of a MAZU-FengYun satellite AI box during the 2026 World AI Conference and High-Level Meeting on Global AI Governance in Shanghai, east China, July 19, 2026. (Xinhua/Chen Haoming)
-Open-source AI is, notably, entering public services. China's Mazu intelligent weather early-warning system has been deployed in eight countries, including Pakistan, Ethiopia and Sri Lanka, with cloud trials underway in more than 50 countries as of October 2026.
-At the Wuzhen summit's exhibition area, a robot powered by Robbyant's LingBot embodied AI models picks up medicines in a simulated pharmacy. This solution, unveiled in July, is already in use at several pharmacies in Shanghai in east China.
-A visitor watches a robot powered by Robbyant's LingBot embodied AI models during the 2026 World AI Conference and High-Level Meeting on Global AI Governance in Shanghai, east China, July 19, 2026. (Xinhua/Chen Haoming)
-"China's open source efforts are moving from screens into the physical world," said Zhu Xing, CEO of Robbyant, an embodied AI company under Ant Group, noting that Robbyant's open-source models are increasingly used by overseas researchers as testbeds and starting points for new work.
-"Pharmacies carry medicines in many forms, bags, boxes, bottles and even transparent packages, placed densely in aisles only around 80 centimeters wide," said Duan Xiaoyue, a market operation specialist at Robbyant.
-Duan told Xinhua that this puts higher demands on the model's perception and motion planning. In real stores, the system also needs more robust dynamic obstacle avoidance when navigating around elderly customers, wheelchair users, children and pets.
-A staff member demonstrates a humanoid robot imitating the fine movements of human hands at the 2026 World Internet Conference (2026 WIC) Light of Internet Expo in Wuzhen, east China's Zhejiang Province, Nov. 2, 2026. (Xinhua/Huang Zongzhi)
-The company's LingBot embodied AI models, meanwhile, have been downloaded more than 2.2 million times within nine months, helping lower the entry cost for robotics developers.
-"Open source is not just about making code visible, but about replacing monopoly with collaboration and breaking boundaries through sharing," said Ni Xingjun, senior vice president of Ant Group and chairman of Ant Group's Technology Strategy Committee.
-Participants at the summit have also called for broader engagement and responsible development.
-Guests talk before the opening ceremony of the 2026 World Internet Conference (WIC) Wuzhen Summit in Wuzhen, east China's Zhejiang Province, Nov. 3, 2026. (Xinhua/Liu Yun)
-Quaynor highlighted three dimensions of openness: open documents, open standards and meaningful participation, particularly from Africa and the Global South.
-Zhang advocated that companies investing in AI should allocate part of their AI budgets to AI governance research and urged jointly developing interoperability standards for AI agents and international safety evaluation platforms to ensure open-source benefits remain controllable and sustainable.
-"We hope open source can become basic public infrastructure in the digital world, where every participant, regardless of location or seniority, can contribute and benefit on an equal basis," Ni added.
+Home&gt;&gt;
+		
+Xi meets Austrian chancellor
+ (Xinhua) 16:36, November 06, 2026
+BEIJING, Nov. 6 (Xinhua) -- Chinese President Xi Jinping met with Austrian Chancellor Christian Stocker in Beijing on Friday.
+(Web editor: Zhang Kaiwei, Liang Jun)
+		About People's Daily Online |  Join Us | Contact Us
+		
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c90000-20515884.html</guid>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516721.html</guid>
     </item>
     <item>
-      <title>Foreign companies strengthen their footprint in Shenzhen</title>
-      <link>https://en.people.cn/n3/2026/1105/c98649-20515955.html</link>
-      <description>Published: 2026-11-05
+      <title>Hainan's new offshore duty-free policy logs 5 bln USD sales in first year</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516325.html</link>
+      <description>Published: 2026-11-06
 
-Foreign companies strengthen their footprint in Shenzhen
-Photo shows a night view of the Houhai area in Shenzhen, south China's Guangdong province. (Photo/Leng Wen)
-At Qianhai in Shenzhen, south China's Guangdong province, the bonded maintenance center of German health tech company Siemens Healthineers provides global after-sales support for magnetic resonance imaging (MRI) equipment.
-Simultaneously, next-generation digital elevator technology from Finnish manufacturer KONE is quickly reaching markets across the Guangdong-Hong Kong-Macao Greater Bay Area. Foreign banks and financial institutions from the UK, Singapore, and elsewhere are establishing operations in the Qianhai Shenzhen-Hong Kong International Financial City.
-With its high degree of openness and strong economic vitality, Shenzhen continues to strengthen its appeal as a global investment destination.
-Throughout the 14th Five-Year Plan period (2021-2025), Shenzhen registered 44,000 new foreign-invested enterprises, and the volume of foreign investment actually utilized in the city surpassed 300 billion yuan (about $45.05 billion). More than 340 Fortune Global 500 companies have invested in the city.
-The latest figures show that Shenzhen's actual utilization of foreign investment exceeded 44 billion yuan in the first nine months of this year, up more than 60 percent year on year.
-"When I first came here more than a decade ago, workers were still lining the production lines," said Zhang Hongliang, vice president of operations for Flex's Industrial Products business in Asia-Pacific, beside an automated production line at Flextronics Electronics Technology (Shenzhen) Co., Ltd.
-Photo shows an intelligent manufacturing workshop at the Shenzhen factory of French auto parts maker Valeo. (Photo courtesy of Bao'an district, Shenzhen)
-Today, the facility is the company's only pilot "future factory" in Asia. Automated equipment, integrated digital systems, and AI algorithms drive its production lines, doubling productivity per employee.
-In the early years of reform and opening-up, Shenzhen's flexible policies as a special economic zone and convenient port access attracted large numbers of foreign manufacturers. In 1987, Flex, a technology company founded in Silicon Valley in the U.S., established its first factory in the Chinese mainland in Shekou, Shenzhen. The company has continued to expand its investment in the city ever since.
-"Shenzhen's highly efficient supply chains, robust digital ecosystem, and proactive government support for technological upgrades have laid a solid foundation for the company's transition to intelligent manufacturing," Zhang said. The achievements made in Shenzhen are now being rapidly replicated across Flex's manufacturing facilities worldwide.
-As Shenzhen steps up efforts to build a world-class automotive hub, French auto parts maker Valeo is becoming increasingly integrated into the local automotive industry chain, advancing technological upgrades and optimizing production in intelligent driving and smart cockpit systems.
-"China is no longer just the world's largest automotive market. It has also become a global 'fitness center' for the automotive industry and a demanding testing ground," said Zhou Song, president of Valeo China.
-Around 30 percent of the value of intelligent connected vehicles comes from the information technology industry, which aligns closely with Shenzhen's industrial foundation and innovation ecosystem, Zhou added.
-Citizens and visitors enjoy a stroll along the waterfront promenade at Shenzhen Bay Park in Shenzhen, south China's Guangdong province. (Photo/Ran Guangjun)
-At Siemens Healthineers' Shenzhen base, more than a dozen MRI systems stand in rows as they undergo final testing before being shipped to Australia, Japan, Thailand and other markets. By the end of 2025, the facility had delivered more than 10,000 MRI and angiography equipment to over 120 countries and regions.
-Siemens Healthineers established its Shenzhen operations in 2002. Back then, China's medical device industry was still in its early stages. An MRI system involves thousands of components, and a local supply chain was yet to be established.
-"We have remained committed to localizing our operations and helped develop more than 300 local suppliers. Locally sourced components now account for 80 percent of our finished products," said Ma Tianshi, general manager of Siemens Shenzhen Magnetic Resonance Ltd.
-"We remain committed to investing in Shenzhen and deepening our presence in China, strengthening our intelligent manufacturing capabilities to serve both the Chinese and global markets," said Ma.
-As more foreign companies establish and expand their operations in Shenzhen, the city is evolving from a manufacturing base into an important center for global innovation.
-In the first half of this year, foreign investment in actual use in Shenzhen's high-tech industries accounted for more than 70 percent of the city's total utilized foreign investment. The city is now home to more than 200 foreign-funded R&amp;D centers, employing over 30,000 researchers.
-In March this year, KONE officially opened its southern China headquarters in Qianhai.
-"KONE's presence in China has evolved from sales and manufacturing to R&amp;D and, more recently, innovation," said Xie Jijun, senior vice president of KONE Greater China. The company is now introducing digital, green and energy-efficient technologies in the Chinese market before taking them global.
-The rapid growth of emerging and future industries in Shenzhen is also drawing international financial institutions to the city.
-HSBC Bank (China) Co., Ltd. has set up a team in Shenzhen to provide financial services for technology and innovation companies. The team focuses on cross-border fintech innovation in the Greater Bay Area and has launched a range of innovative products that leverage digital technology and are tailored to the needs of technology and innovation companies.
-"This reflects our confidence in Shenzhen's technology and innovation companies and its emerging industries, as well as our commitment to supporting their growth," said Li Qile, general manager for the Greater Bay Area at HSBC Bank (China) Co., Ltd.
-Shenzhen has consistently worked to attract and utilize high-quality foreign investment while further opening up its economy. In December 2025, the city introduced measures to further attract and utilize foreign investment, strengthening policy support for opening up key sectors, improving the business environment and facilitating investment.
-Going forward, Shenzhen will actively advance institutional opening-up and develop itself into a high-level international trade hub, said an official from the Investment Promotion Bureau of Shenzhen Municipality.
+Hainan's new offshore duty-free policy logs 5 bln USD sales in first year
+Customers select goods at a duty-free shop in Sanya, south China's Hainan Province, Oct. 2, 2026. (Xinhua/Guo Cheng)
+HAIKOU, Nov. 5 (Xinhua) -- Duty-free shopping by local residents of south China's Hainan Province has evolved from occasional purchases into regular daily consumption, data released by Haikou Customs show.
+From November 2025 to October 2026, offshore duty-free shopping in Hainan hit 33.45 billion yuan (about 4.98 billion U.S. dollars), with 4.88 million shoppers purchasing 27.64 million items, a year-on-year growth of 13.8 percent, 8.6 percent and 2.4 percent respectively.
+China adjusted its offshore duty-free shopping policy for travelers departing Hainan, effective from Nov. 1, 2025, expanding the duty-free goods categories to 47. Six types of domestic products, including silk scarves, ceramics and tea, are also eligible for sale via offshore duty-free channels.
+Sales of newly added categories under the policy reached 210 million yuan, while domestic goods sold through duty-free channels registered 240 million yuan over the period.
+The revised policy allows Hainan residents with an offshore travel record within a calendar year to purchase unlimited "buy-and-take" duty-free goods in the same year. Haikou Customs recorded 410 million yuan in "buy-and-take" purchases by the island residents in the period.
+A total of 24,000 outbound travelers made duty-free purchases worth 160 million yuan in the 12 months, facilitated by Hainan's visa-free entry arrangements and expanding international air routes.
+Under Hainan's visa-free entry policy, eligible travelers from 61 countries may enter Hainan through its open ports without a visa and stay within the province for a maximum of 30 days.
+The Hainan Free Trade Port officially launched island-wide special customs operations in December last year. According to plans, China aims to build Hainan into a globally influential tourism and consumption destination by 2035.
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c98649-20515955.html</guid>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516325.html</guid>
     </item>
     <item>
-      <title>Qinzhou: Bridging rivers and seas, opening to the world</title>
-      <link>https://en.people.cn/n3/2026/1105/c90000-20515872.html</link>
-      <description>Published: 2026-11-05
+      <title>China's 2nd domestically built large cruise ship delivered in Shanghai</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516569.html</link>
+      <description>Published: 2026-11-06
 
-Qinzhou: Bridging rivers and seas, opening to the world
-Photo shows an aerial view of Longmen Bridge in Qinzhou, south China's Guangxi Zhuang autonomous region. (Photo/Chu Naiqin)
-Situated on the Beibu Gulf coast in south China's Guangxi Zhuang autonomous region, Qinzhou has served as a maritime gateway since ancient times, linking inland waterways with the open sea.
-Today, propelled by the expansion of the Beibu Gulf International Gateway Port, the New International Land-Sea Trade Corridor, and the China-Malaysia Qinzhou Industrial Park, the city is forging a dynamic new path toward deeper maritime engagement and global integration.
-A modern maritime hub: Streamlining connectivity and multimodal transport
-At the automated container terminal of Beibu Gulf Port, cargo operations run continuously around the clock.
-Nearby, at a bulk cargo berth, the vessel Dubai Nature -- carrying imported soybeans -- has just docked. On deck, Bangladeshi crew member Rajib oversees mooring operations. Watching giant vessels pass one after another along the channel, he said: "The port is spacious. Operations run in an orderly manner, and the staff are friendly and responsible. It has left a deep impression on me."
-Qinzhou Port currently has 96 operational berths, including berths capable of accommodating vessels of up to 300,000 tonnes. It operates 92 container shipping routes, connecting with more than 200 ports in over 100 countries and regions worldwide.
-In June this year, Moiz Farooq, executive editor of Pakistan Economic Network, visited Qinzhou. At the Smart Port Innovation Center of Beibu Gulf, he watched demonstrations of smart port operations, including the precise dispatching of autonomous container trucks.
-"Qinzhou has world-class port facilities, and landmark projects such as the Pinglu Canal give it outstanding advantages in developing foreign trade," Farooq said.
-"I hope to see more Pakistani companies come to Qinzhou and explore cooperation opportunities in areas such as logistics, port development, maritime trade, and the digital economy."
-Photo shows an aerial view of the Madao hub on the Pinglu Canal in Lingshan county, Qinzhou, south China's Guangxi Zhuang autonomous region. (Photo courtesy of Pinglu Canal Group)
-On September 16, the landmark Pinglu Canal opened for navigation. "The waterway establishes a new link between the inland waterway network and the sea, effectively shortening transport distances and reducing costs. It will also spur industrial clustering and port-related economic development in Qinzhou, enhancing regional competitiveness," said Philippe Gourbesville, president of the International Association for Hydro-Environment Engineering and Research, after visiting the canal.
-Fostering industrial growth and streamlining business services
-To support business development, Qinzhou has set up dedicated service teams at both municipal and county levels to assist enterprises in the real economy. Staff members regularly visit businesses and follow up on concerns raised through online platforms, providing ongoing support to help businesses resolve operational difficulties.
-Han Seong Woo, a South Korean manager at Guangxi Lingshan Delin Toys Co., Ltd. in Lingshan county, Qinzhou, once encountered difficulties with identity verification when applying to change his company's business address.
-Recognizing the complexity, staff members promptly coordinated across departments and guided him through the necessary steps. What he anticipated would be a lengthy bureaucratic process was resolved efficiently.
-Thanks to multiple opening-up platforms, including the China-Malaysia Qinzhou Industrial Park and the Qinzhou Port area of the China (Guangxi) Pilot Free Trade Zone, Qinzhou is now home to 211 foreign-invested enterprises. Foreign-funded projects in light industry, aquatic products and port-related industries are steadily being implemented, injecting fresh impetus into local development.
-"Qinzhou offers not only a highly supportive business environment but also a rich historical and cultural heritage. Lingshan county, for example, is home to ancient buildings such as those in the ancient Dalu Village," Han said.
-"As Qinzhou continues to open up, it will attract more South Koreans to work and invest here, further strengthening economic, trade and cultural ties between South Korea and China," he added.
-Bridging cultures through education and people-to-people exchange
-Inside a classroom at Beibu Gulf University in Qinzhou, students practice conversational Thai under the guidance of instructor Orawee Wei. Standing beside their desks, she uses expressive gestures to help learners master intonation and rhythm.
-"After living in Qinzhou for many years, I have come to regard this place as my second home," she said.
-Over recent years, schools in Qinzhou have established sister-school partnerships with their counterparts in Malaysia and other ASEAN countries, organizing a range of people-to-people exchange activities, including cultural and tourism exchange activities and study programs for young people.
-Wei, who grew up in a family of teachers in Nakhon Sawan province, Thailand, joined Beibu Gulf University in 2020.
-"When I first arrived, only 80 students were studying Thai. Today, that number has grown to more than 200, with an increasing number of young Chinese people eager to learn the language," she said.
-Journalists from ASEAN countries visit the Qinzhou automated container terminal of Beibu Gulf Port in Qinzhou, south China's Guangxi Zhuang autonomous region. (Photo/Liang Sheng)
-Wei teaches specialized courses such as Business Thai and Practical Thai for International Trade. She has seen five cohorts of her students graduate.
-"My students are actively involved in Thailand-China economic and trade exchanges. They work as accompanying interpreters, business secretaries and foreign trade accountants for Thai and Chinese companies, helping strengthen economic and trade ties between Qinzhou and ASEAN," she said.
-From an ancient port once bustling with sailing ships to a modern gateway now traversed by giant vessels, Qinzhou has become a key hub of the New International Land-Sea Trade Corridor.
-Linking mountains and seas and creating opportunities, the city keeps goods moving, businesses thriving and people connected, offering a vivid example of cooperation and exchanges between China and the rest of the world.
-Representatives of Malaysian students in China pose for a group photo with Chinese students at the Experimental School in the Qinzhou Port Economic and Technological Development Zone in Qinzhou, south China's Guangxi Zhuang autonomous region. (Photo/Lu Yingming)
+China's 2nd domestically built large cruise ship delivered in Shanghai
+This photo taken on Nov. 6, 2026 shows the cruise ship Adora Flora City at Shanghai Waigaoqiao Shipbuilding Co., Ltd., a subsidiary of China State Shipbuilding Corporation Limited (CSSC), in Shanghai, east China.
+China's second domestically built large cruise ship, Adora Flora City, was delivered in Shanghai on Friday.
+The cruise ship, which features distinctive Chinese-style characteristics, is scheduled to launch its inaugural season from the Nansha International Cruise Home Port in Guangzhou, capital of Guangdong Province in south China.
+Compared with China's first domestically built large cruise ship, Adora Magic City, the new ship's gross tonnage has increased by 6,400 tonnes to 141,900 tonnes, and its total length has increased by 17.4 meters to 341 meters. It has 2,130 guest cabins and can accommodate 5,232 passengers at full capacity.
+After delivery, Adora Flora City will conduct trial voyages and carry out various preparatory tasks before its scheduled maiden voyage. It is due to arrive at the Nansha International Cruise Home Port on Nov. 12, with its inaugural season set to begin on Nov. 22. (Xinhua/Ding Ting)
+This photo taken on Nov. 6, 2026 shows the cruise ship Adora Flora City at Shanghai Waigaoqiao Shipbuilding Co., Ltd., a subsidiary of China State Shipbuilding Corporation Limited (CSSC), in Shanghai, east China.
+China's second domestically built large cruise ship, Adora Flora City, was delivered in Shanghai on Friday.
+The cruise ship, which features distinctive Chinese-style characteristics, is scheduled to launch its inaugural season from the Nansha International Cruise Home Port in Guangzhou, capital of Guangdong Province in south China.
+Compared with China's first domestically built large cruise ship, Adora Magic City, the new ship's gross tonnage has increased by 6,400 tonnes to 141,900 tonnes, and its total length has increased by 17.4 meters to 341 meters. It has 2,130 guest cabins and can accommodate 5,232 passengers at full capacity.
+After delivery, Adora Flora City will conduct trial voyages and carry out various preparatory tasks before its scheduled maiden voyage. It is due to arrive at the Nansha International Cruise Home Port on Nov. 12, with its inaugural season set to begin on Nov. 22. (Xinhua/Ding Ting)
+This photo taken on Nov. 6, 2026 shows the cruise ship Adora Flora City at Shanghai Waigaoqiao Shipbuilding Co., Ltd., a subsidiary of China State Shipbuilding Corporation Limited (CSSC), in Shanghai, east China.
+China's second domestically built large cruise ship, Adora Flora City, was delivered in Shanghai on Friday.
+The cruise ship, which features distinctive Chinese-style characteristics, is scheduled to launch its inaugural season from the Nansha International Cruise Home Port in Guangzhou, capital of Guangdong Province in south China.
+Compared with China's first domestically built large cruise ship, Adora Magic City, the new ship's gross tonnage has increased by 6,400 tonnes to 141,900 tonnes, and its total length has increased by 17.4 meters to 341 meters. It has 2,130 guest cabins and can accommodate 5,232 passengers at full capacity.
+After delivery, Adora Flora City will conduct trial voyages and carry out various preparatory tasks before its scheduled maiden voyage. It is due to arrive at the Nansha International Cruise Home Port on Nov. 12, with its inaugural season set to begin on Nov. 22. (Xinhua/Ding Ting)
+This photo taken on Nov. 6, 2026 shows the cruise ship Adora Flora City at Shanghai Waigaoqiao Shipbuilding Co., Ltd., a subsidiary of China State Shipbuilding Corporation Limited (CSSC), in Shanghai, east China.
+China's second domestically built large cruise ship, Adora Flora City, was delivered in Shanghai on Friday.
+The cruise ship, which features distinctive Chinese-style characteristics, is scheduled to launch its inaugural season from the Nansha International Cruise Home Port in Guangzhou, capital of Guangdong Province in south China.
+Compared with China's first domestically built large cruise ship, Adora Magic City, the new ship's gross tonnage has increased by 6,400 tonnes to 141,900 tonnes, and its total length has increased by 17.4 meters to 341 meters. It has 2,130 guest cabins and can accommodate 5,232 passengers at full capacity.
+After delivery, Adora Flora City will conduct trial voyages and carry out various preparatory tasks before its scheduled maiden voyage. It is due to arrive at the Nansha International Cruise Home Port on Nov. 12, with its inaugural season set to begin on Nov. 22. (Xinhua/Ding Ting)
 Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
-      <guid isPermaLink="false">https://en.people.cn/n3/2026/1105/c90000-20515872.html</guid>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516569.html</guid>
+    </item>
+    <item>
+      <title>Global cities seek new partnerships in China's Ningbo</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516534.html</link>
+      <description>Published: 2026-11-06
+
+Global cities seek new partnerships in China's Ningbo
+Participants attend a session of the 2026 Global Mayors Dialogue at Ningbo-Zhoushan Port's Meishan terminal in Ningbo, east China's Zhejiang Province, Nov. 3, 2026. (Xinhua/Sui Lixi)
+NINGBO, Nov. 6 (Xinhua) -- As driverless trucks carried containers along preset routes and gantry cranes worked overhead at Ningbo-Zhoushan Port's Meishan terminal, Romulus Agbedjekou was thinking of a harbor thousands of kilometers away in Benin.
+"This is one of the most modern ports in the world," said Agbedjekou, special representative of the mayor of Cotonou and chair of the city's economic affairs commission. Impressed by the automated equipment at the East China Sea port in Zhejiang Province, he said he hopes to replicate some of the practices at his country's Autonomous Port of Cotonou.
+His interest reflects a practical focus of the 2026 Global Mayors Dialogue, which brought mayors and representatives from 20 cities in 15 countries to Ningbo in Zhejiang from Nov. 2 to 5. They came with different priorities, from making ports more efficient to helping smaller companies use new technology.
+Fourteen cooperation projects were signed during the gathering, covering trade, technology, education, tourism and exchanges between local governments.
+Ahmed Wazeery, secretary-general of Suez Governorate, Egypt, talked about his nation's Suez Canal Economic Zone, with six ports and four industrial areas, and the China-Egypt TEDA Suez Economic and Trade Cooperation Zone, where investment has exceeded 6.7 billion U.S. dollars.
+Wazeery saw opportunities to expand cooperation with Ningbo beyond industry and manufacturing, particularly in education, cultural industries and high-tech industrial parks.
+In a different setting on Wednesday, an embodied AI robot holding a pen drew a crowd at a smart factory operated by PIA Automation. The machine wrote steadily on paper as visiting officials leaned in to watch or raised their phones to record it.
+Enrico Ricci, representing the mayor of Florence, Italy, was impressed by the robot's movements and ability to interact. Florence, he said, is also looking for ways to connect advanced digital technologies with small businesses and startups, and hopes to exchange more ideas with Ningbo.
+Participants attend a session of the 2026 Global Mayors Dialogue at PIA Automation in Ningbo, east China's Zhejiang Province, Nov. 4, 2026. (Xinhua/Sui Lixi)
+Ningbo already has extensive international business links. Mayor Shen Mingquan said the eastern Chinese city trades with more than 220 countries and regions. More than 5,000 Ningbo-based enterprises have invested overseas, while nearly 10,000 foreign-invested firms operate in the city.
+New Zealand's Auckland Mayor Wayne Brown stressed the importance of personal connections in trade. "Trade today is becoming more city to city, and it's people to people connections which contribute to this trade," he said.
+He recalled exchanges between Ningbo and the city of Waitakere, now part of Auckland, that predated their 1998 sister-city agreement. Waitakere's then-mayor, Bob Harvey, had made several visits to Ningbo, helping promote exchanges in education and sports.
+Brown said Auckland is also exploring ways to use technological innovation to drive business growth and hopes to learn from its Chinese partners.
+Among the new arrangements announced in Ningbo were friendly exchange ties between the city's Yinzhou District and Saint-Étienne-du-Rouvray in France, and between Yuyao City (under the administration of Ningbo) and Errachidia in Morocco.
+Delegates also issued the Ningbo Consensus on Collaborative Development, calling for open trade, industrial cooperation and closer people-to-people exchanges.
+For Joachim Moyse, mayor of Saint-Étienne-du-Rouvray, such cooperation ultimately comes down to the relationships cities build with one another. He described his task as building bridges between people.
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516534.html</guid>
+    </item>
+    <item>
+      <title>China Pavilion showcases forward-looking vision at 9th CIIE</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516386.html</link>
+      <description>Published: 2026-11-06
+
+China Pavilion showcases forward-looking vision at 9th CIIE
+People visit the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Chen Haoming)
+SHANGHAI, Nov. 5 (Xinhua) -- The China International Import Expo (CIIE), the world's first national-level exhibition dedicated to imports, opened in east China's Shanghai on Thursday.
+Themed on "New Advances for a Bright, Win-win Future," the China Pavilion presents a forward-looking perspective, global vision and openness in line with the 15th Five-Year Plan (2026-2030) blueprint.
+Visitors from Seychelles communicate with a robot at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Guo Lei)
+A visitor tries an intelligent personal health assessment system at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Photo by Qiu Shaoyu/Xinhua)
+People visit the Country Exhibition area during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Wang Nuo)
+Staff members in traditional Chinese costumes pose for a photo at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Han Xiaoyu)
+Visitors learn about the cruise ship Adora Magic City at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Cheng Tingting)
+A humanoid robot makes tea at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Cao Mengyao)
+People visit the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Xing Guangli)
+Visitors watch a humanoid robot making tea at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Liu Ying)
+A staff member receives an interview next to a model of an exported Chinese tunnel boring machine at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Liu Lingyi)
+People visit the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Du Xiaoyi)
+A staff member (L) introduces cultural and creative products at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Han Xiaoyu)
+A visitor tries simulated driving of high-speed railway train at the China Pavilion during the ninth edition of the China International Import Expo (CIIE) at the National Exhibition and Convention Center (Shanghai) in east China's Shanghai, Nov. 5, 2026. (Xinhua/Wu Rong)
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516386.html</guid>
+    </item>
+    <item>
+      <title>Xi replies to young Australian students</title>
+      <link>https://en.people.cn/n3/2026/1106/c90000-20516514.html</link>
+      <description>Published: 2026-11-06
+
+Xi replies to young Australian students
+BEIJING, Nov. 6 (Xinhua) -- Chinese President Xi Jinping recently replied to 110 young Australian students who had written to him, encouraging them to remain committed to promoting the China-Australia friendship.
+In his letter dated Oct. 28, Xi said he was pleased to learn that the students recently visited China to take part in the Sino-Australian Collegiate Rowing and Dragon Boat Friendship Challenge, where they competed alongside Chinese university students, engaged in in-depth exchanges, forged friendships that transcended borders, and created wonderful memories together.
+China and Australia share a longstanding tradition of friendly exchanges, Xi noted, adding that the future of bilateral relations lies with the younger generation.
+He voiced hope that the Australian students can continue to actively contribute to the cause of friendship between the two countries, serve as torchbearers of the friendship and cooperation between the two countries, and carry forward this friendship from generation to generation.
+Recently, 110 young Australian students from the University of Sydney and other universities jointly wrote to Xi and Australian Prime Minister Anthony Albanese, sharing their experiences of the China trip.
+They expressed admiration for China's long-lasting history and rich culture, as well as its scientific and technological innovation capabilities. They also voiced their eagerness to help carry forward the bilateral friendship and foster greater mutual understanding.
+Copyright © 2026 People's Daily Online. All Rights Reserved.</description>
+      <guid isPermaLink="false">https://en.people.cn/n3/2026/1106/c90000-20516514.html</guid>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,45 @@
+TITLE:
+China's digital drive delivers inclusive gains to people
+
+PUBLISHED:
+2026-11-06
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261106/b6082f68f8174b6ebb7ff0ebc7b9dd68/c.html
+
+ARTICLE TEXT:
+HANGZHOU, Nov. 6 (Xinhua) -- For one minute on the main stage of the 2026 World Internet Conference (WIC) Wuzhen Summit in east China, a young man played a gentle piano piece that few realized was performed via a neurally controlled bionic hand, the fruit of a decade of research and development.
+The performer, surnamed Shi, lost his right hand in an accident at age 12. This year, he was fitted with the bionic hand developed by brain-computer interface (BCI) company BrainCo.
+"The hand enables independent finger movement through intuitive, low-latency control for precise two-handed piano play," said Shi, whose robotic hand features a human-like covering, at the summit held Nov. 2-5.
+BCI TECH RESTORES MOBILITY
+Over the past decade, BrainCo's team has worked with people with limb disabilities, studying their neural data, and "finally developed the sensors and algorithms that made it work," said Han Bicheng, founder and CEO of BrainCo, at the summit's main forum in Wuzhen, Zhejiang Province.
+The company's products allow people to write, draw and play the piano, and enable people to walk, run and even go rock climbing and surfing, said Han, noting that the company has helped over 10,000 people with limb disabilities across China regain their daily lives.
+Traditional BCI gear was "too complex and expensive" for daily use given faint brain signals, prompting Han to explore reimagining the tech -- the idea behind BrainCo.
+Han's start-up mirrors China's BCI industry, where companies are drawing on the country's robust communications networks, cloud computing and smart manufacturing systems to address challenges.
+RoboCT, another Zhejiang-based company, offers BCI products such as exoskeletons to people with disabilities.
+"While other robots handle what people don't want to do, exoskeletons empower us to do what we want to do but can't," said Zhang Jiyu, RoboCT's co-founder and chief operations officer.
+Compared with traditional passive device-assisted methods, rehabilitation speeds up significantly when the brain actively sends signals to drive muscles and bones via BCI tech, said Hong Xuanyu, the company's head of BCI products.
+Beyond cutting-edge technologies, the summit, which drew about 1,800 delegates from 138 countries and regions, also showed how digital transformation is reaching ordinary households, turning hopes into everyday realities.
+WATER TOWN'S WISHES COME TRUE
+In 2014, when the WIC was launched in Wuzhen, Xinhua reporters there asked locals one question: "What do you hope the Internet will bring you?" Some sought more business, some home convenience, others a more connected world. These scenes and comments are exhibited in a photo exhibition of this year's summit, with many of those wishes coming true.
+"I hope I can choose, order and have fresh vegetables delivered online," wrote Guo Yueming in 2014, who still runs her homestay in the canal town.
+Back then, she left before 5 a.m. every day to buy fresh ingredients, spending more than an hour on the road and much of the morning washing and preparing them. Now, she places an order on her phone before 10 p.m., and fresh produce arrives at her door by 10 the next morning.
+"With Internet platforms, guests feel more at ease, and we have less to worry about," said Guo, who can check room availability at a glance on her phone. Visitors, by scanning QR codes on the linens, can see the full laundry journey, number of wash cycles and even pH levels, an indicator of hygiene.
+At Wuzhen's Xizha Scenic Zone, visitors take turns snapping photos beneath a five-meter circular bamboo tray bearing the name "Wuzhen," framing themselves and the two Chinese characters in the same shot.
+Few may realize the piece was created by Qian Xinming, a local bamboo-weaving artisan. More than a decade ago, he sat on a bamboo stool outside his small shop in Xizha, splitting bamboo strips and weaving patterns. Passersby glanced in, snapped a photo and moved on, with few stopping to ask about prices or the craft itself.
+"I want to connect with bamboo-weaving enthusiasts around the world through the Internet," Qian wrote in 2014.
+Traditional bamboo-weaving culture needs to be shared with the help of new tools, or the craft "would remain trapped here," Qian recalled.
+Qian's son now uses AI and digital tools to document, preserve and promote bamboo weaving. Their new works have reached dozens of countries and regions.
+"Artisans, connected by the Internet, can turn traditional patterns into works that speak to contemporary taste and carry them beyond China," said Qian.
+AI DEVELOPMENT SHOULD AMPLIFY HUMAN VALUE
+"Today, we don't just discuss the future. We can see it," said John Hoffman, chairman and director of the Global System for Mobile Communications Association Ltd., who dubbed WIC "a small policy conversation" back in 2014.
+China is demonstrating "how advanced connectivity can become a universal utility like electricity and water," said Hoffman. "The opportunity is to translate this technology and leadership into inclusive prosperity, ensuring that no one is left behind."
+"The core of AI development should be to amplify human value and empower people," said Xi Dan, senior vice president of China's tech giant Tencent, noting that the company's inclusive AI initiatives have reached seniors, children in rural areas and women.
+"We aim to make BCI a daily interface for everyone over the next five to 10 years," said Han, who envisions, for instance, helping children with autism speak again and anyone struggling with insomnia get a good night's sleep.
+"We believe that the more open the underlying network, the warmer the technology, and the deeper the digital foundation, the more dignity ordinary lives can enjoy," said Han. ■
