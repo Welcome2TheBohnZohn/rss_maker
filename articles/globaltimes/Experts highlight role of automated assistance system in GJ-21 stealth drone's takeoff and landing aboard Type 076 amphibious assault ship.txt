@@ -1,0 +1,34 @@
+TITLE:
+Experts highlight role of automated assistance system in GJ-21 stealth drone's takeoff and landing aboard Type 076 amphibious assault ship
+
+PUBLISHED:
+2026-11-07 21:11:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373852.shtml
+
+ARTICLE TEXT:
+A simulated animation of a GJ-21 armed reconnaissance stealth drone on board a Type 076 amphibious assault ship. Photo: Screenshot from CCTV News
+China's first amphibious assault ship equipped with electromagnetic catapults, the Type 076 
+Sichuan
+, has made further progress in recent days, with the GJ-21 stealth drone completing its first takeoff and landing operations aboard the vessel.  An expert highlighted the significance of automated assistance systems in a report released on Saturday.
+Another expert noted that, with its unmanned design, the GJ-21 faces no human physical limitations during takeoff and landing and could potentially be adapted for use not only on the Type 076 amphibious assault ship but also on aircraft carriers in the future, including conventionally powered ones.
+The GJ-21 stealth unmanned aerial vehicle features a tailless flying-wing design with a blended wing-body configuration. It is equipped with an internal weapons bay and internal fuel storage, according to CCTV News.
+The platform designed to operate it, the 
+Sichuan
+, is the first hull of the Type 076 amphibious assault ship, which is designed, developed and built independently by China. It has a full-load displacement of more than 40,000 tons. 
+Wei Dongxu, a Chinese military affairs commentator, said that the carrier-based aircraft landings are technically challenging because an aircraft carrier itself is moving at sea. Pilots must constantly adjust the aircraft's altitude, flight angle and speed, while ensuring that its tailhook catches an arresting cable on the carrier's flight deck, according to CCTV News.
+However, the GJ-21 is uncrewed and operates as an intelligent combat platform. Therefore, it is highly likely that the GJ-21 and the Type 076 amphibious assault ship Sichuan will rely on intelligent and automated assistance systems, Wei added.
+"For example, through signals, the GJ-21 could autonomously sense the Sichuan's navigation conditions to a certain extent, adjust itself and adapt accordingly, ultimately completing the entire landing sequence efficiently, quickly and precisely," Wei continued, CCTV reported.
+As the aircraft is unmanned, there is no need to account for the physical stress that pilots would experience during takeoff and landing, Wang Yunfei, a Chinese military affairs expert, told the Global Times. Compared with manned aircraft of a smaller size and weight, it can take off and land more quickly, with less stringent requirements for climb and descent angles, and conduct more sorties, he added. 
+On the other hand, Wang noted that UAVs place higher demands on flight control and command systems. During takeoff and landing, they may encounter wind updrafts or downdrafts. Unlike manned aircraft, where pilots can make immediate adjustments, UAVs rely heavily on onboard AI and remote-control systems. The successful takeoff and landing of the GJ-21 on board the Type 076 amphibious assault ship showed that China has reached the world's highest level in terms of drone adaptability on aircraft carrier.
+Wang also noted that aircraft carriers by conventional means could also adopt this automated takeoff and landing assistance system in the future. "If it works successfully on the Type 076 amphibious assault ship, it should theoretically be possible to adapt it for other aircraft carriers," he said.
+Once the system has been tested on the 
+Sichuan
+ and sufficient test data has been collected, it could potentially be introduced on other carriers equipped with electromagnetic catapults, he added. "This would expand the range of aircraft operating from our carriers and further enhance their unmanned combat capabilities."
