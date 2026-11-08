@@ -1,0 +1,29 @@
+TITLE:
+MSS warns of national security risks, citing lessons from massive data leaks at Japanese firms
+
+PUBLISHED:
+2026-11-08 12:25:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373867.shtml
+
+ARTICLE TEXT:
+Photo: VCG
+Referring to a recent spate of large-scale user data breaches involving Japanese companies, China's Ministry of State Security (MSS) warned on Sunday that massive data leaks, including information related to people's daily lives, could be exploited by foreign spy and intelligence agencies for user profiling and behavioral analysis, threatening national security. 
+According to the MSS, Japan has suffered a spate of large-scale data breaches recently, with more than 115 million records reportedly compromised in the six weeks from September to mid-October. The incidents included the theft of over 22 million customer records from a major software company and the exposure of millions of restaurant membership records. A recent survey found that nearly 30 percent of major Japanese companies said they had experienced actual or suspected data leaks.
+The MSS warned that the greater the degree of digitalization, the more important it is to remain vigilant against data security risks. A review of a series of data breaches exposed in recent years shows that large-scale data leaks reflect underlying security weaknesses, and that despite varying attack methods, recent incidents have exposed strikingly similar security vulnerabilities. 
+Data breaches threaten national security. In today's complex cyberspace, once massive amounts of data related to people's daily lives and behavioral patterns are leaked, they could be exploited by foreign espionage and intelligence agencies for user profiling, behavioral analysis and targeted infiltration. Such leaks could evolve into more profound cybersecurity threats, endangering national security and social stability, the MSS said. 
+According to the MSS, poor data management is a key vulnerability. Most companies involved in the breaches have long collected user information indiscriminately and retained it beyond necessary periods, resulting in large accumulations of data that become high-risk "data troves." Meanwhile, outdated systems, delayed security patches and lax backend access controls further heighten the risks. 
+Weak employee security awareness is another major vulnerability, with human errors such as sending emails to the wrong recipients, failing to verify information requests and using weak passwords making it easier for attackers to gain access. 
+The MSS cited an example in which an employee of a company, mistakenly believing that an email had come from a business partner and that the matter was urgent, hastily provided sensitive information without first verifying the request by phone. The ministry said such attacks are repeatedly successful precisely because of employees' weak internal security awareness, allowing "human negligence" to become the "biggest vulnerability." 
+Supply chain security is another major vulnerability, with data breaches often stemming from inadequate safeguards and lax management at outsourced service providers and third-party platforms rather than direct attacks on companies' own systems. Supply chain attacks have become a key vector for cyber intrusions, the MSS said. 
+The MSS said data breaches pose multiple risks. First, data breaches threaten individual rights and security, as leaked personal information, including names, addresses, phone numbers and travel records, can be exploited for targeted scams, harassment and identity theft, putting privacy and financial security at risk. 
+Large-scale leaks of business and service data can trigger customer disputes, regulatory penalties and public backlash, undermining public trust and damaging corporate reputations, industry image and service credibility.
+Therefore, the MSS urged individuals and organizations to strengthen data security by tightening data management, raising security awareness among employees and strictly controlling supply chain risks. 
+Global Times

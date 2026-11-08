@@ -1,0 +1,27 @@
+TITLE:
+China completes world's 1st 1,000-km bidirectional transmission test with hollow-core fiber
+
+PUBLISHED:
+2026-11-08 13:27:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373868.shtml
+
+ARTICLE TEXT:
+China completes world’s 1st 1,000-kilometer-long bidirectional real-time transmission verification with hollow-core fiber. Photo: Screenshot from CCTV News
+China has completed the world’s first bidirectional real-time transmission verification over a 1,000-kilometer-long hollow-core fiber link, marking a new breakthrough in key technologies for next-generation communication networks, China’s Central Television (CCTV) reported on Sunday.
+The vast majority of optical fibers in use today are solid-core fibers, in which signals travel through a silica glass core. In contrast, hollow-core fibers transmit signals primarily through an air-filled channel. This trial has verified the practical performance of hollow-core fiber in long-distance scenarios. In the future, it is expected to replace solid-core fibers across a broader range of applications and scenarios, providing critical technical support for China’s next-generation communication networks and computing power networks.
+According to CCTV News, the experiment, conducted over a 1,007.48-kilometer-long fiber link, achieved for the first time the simultaneous bidirectional transmission of 64 Tbps signals in each direction. This capacity is equivalent to supporting the upload and download of 160 4K movies per second at 50 GB each. One-way transmission of the signal over 1,000 kilometers takes only 3.43 milliseconds, setting a new record for real-time transmission distance using hollow-core fiber.
+According to the report, the technology doubles the transmission capacity and increases the transmission distance by 60 percent compared with the best-performing solid-core fibers currently available. Relative to previous hollow-core fiber transmission trials of the same type, the transmission distance in this verification has been extended by a factor of 50.
+Huo Xiaoli, chief expert of next-generation information and communication at China Telecom, said in the report that compared with traditional solid-core fiber, hollow-core fiber transmits signals through gas, which can reduce latency by 30 percent. 
+The success of this experiment confirms that hollow-core fiber can, while reusing existing transmission equipment, deliver long-distance, high-capacity, low-latency transmission capabilities, thereby reserving key technology for the construction of computing power networks, Huo noted.
+Wang Ruichun, chief scientist of Yangtze Optical Fibre and Cable, said that the technology will better serve the national computing power strategy. Training and inference of large models require coordinated networking across data centers, and the speed and bandwidth of data transmission between data centers will directly affect the efficiency of AI training and inference, Wang said.
+“In AI data centers, the requirements for latency are extremely stringent, and the rate of optical connectivity and optical transmission is also very important. It can improve computing efficiency and significantly reduce investment costs in GPUs or storage chips,” Wang noted.
+Currently, the technology has already been applied in the world’s first cross-border commercial hollow-core fiber financial dedicated line between Shenzhen, South China’s Guangdong Province and Hong Kong. More than 10 commercial and pilot projects have also been deployed in Asia, Europe and other regions, CCTV reported.
+Global Times
