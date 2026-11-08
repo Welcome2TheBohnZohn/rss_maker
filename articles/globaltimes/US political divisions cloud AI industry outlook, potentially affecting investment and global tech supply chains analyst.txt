@@ -1,0 +1,30 @@
+TITLE:
+US political divisions cloud AI industry outlook, potentially affecting investment and global tech supply chains: analyst
+
+PUBLISHED:
+2026-11-08 22:48:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373908.shtml
+
+ARTICLE TEXT:
+The New York Stock Exchange (NYSE) in New York, US, on Friday, November 6, 2026. Photo: VCG
+The US artificial intelligence (AI) industry is facing growing political uncertainty following the Democrats' victory in the midterm elections, as lawmakers prepare to intensify scrutiny of technology giants and push for new regulations, raising questions over the outlook for AI investment and potential effects on technology supply chains.
+The developments reflect how deepening political divisions in the US are increasingly spilling into the technology sector, with the two parties competing to shape the direction of AI development and regulation, an analyst told the Global Times. 
+While the US remains a global leader in AI, growing policy differences between the two parties could create uncertainty over the direction of AI development and regulation, the analyst said, noting that this could affect long-term investment decisions and industry development, with potential ripple effects across global supply chains and financial markets.
+Democratic Representative Jamie Raskin of Maryland and Illinois Governor JB Pritzker have called for an investigation into the Department of Government Efficiency (DOGE), previously led by Elon Musk, Fox News reported on Saturday.
+Raskin said he had no specific investigation plan but expected at least one committee to investigate DOGE's activities. Pritzker also supported investigating DOGE but expressed reservations about focusing an investigation specifically on Musk, according to Fox News.
+The potential investigations could target some of America's largest corporations, with Apple, Meta and companies led by Elon Musk among the early targets for congressional investigations, according to The Washington Post on Friday, citing two people familiar with the matter.
+Meanwhile, Democrats are planning to unleash a flood of new legislation targeting artificial intelligence systems and data-center development when they take control of the US Congress in January, lawmakers, congressional aides and advocates said, Reuters reported. The plans would mark a sharp shift from the approach taken by the Republican-led Congress, the report said.
+The debate comes amid public opposition to the expansion of AI data centers across the US. Data Center Watch, a project of AI security consultancy 10a Labs, found that 32 of the 34 winning gubernatorial candidates in races called by the Associated Press supported stronger regulation or restrictions on data centers, AP reported on Friday. The report also cited concerns over electricity prices and water supplies.
+The controversy highlights a broader challenge facing the US AI industry, where rapid technological expansion is increasingly intertwined with political disputes over corporate influence, regulatory authority and the distribution of economic benefits, Xiang Ligang, a veteran industry analyst, told the Global Times on Sunday, noting that while concerns over energy consumption and public resources warrant appropriate regulatory responses, the risk is that competing political interests could overshadow long-term industrial considerations, leaving businesses uncertain about the direction of future policies.
+Reuters reported on Thursday that the tech-heavy Nasdaq Composite Index recorded its steepest one-day decline since April 2025, falling 5.5 percent amid investor fears of increased scrutiny of AI, particularly data center construction, following the Democrats' sweeping victory in the US midterm elections. Investors were concerned that the election results could "stall AI infrastructure expansion and force a reckoning for smaller firms whose capacity to raise funds has already been limited by higher interest rates and tighter financial conditions," according to the report.
+The potential impact of such uncertainty could extend well beyond the US market, experts said. American technology companies are major sources of global demand for semiconductors, servers, power equipment and cloud computing services, Bao Jianyun, dean and professor of the Department of International Politics at the School of International Studies at Renmin University of China, told the Global Times on Sunday. "Any significant changes in the pace of AI infrastructure investment could therefore affect suppliers and investors across international technology markets," Bao said.
+The proposed regulations face significant political hurdles. Any legislation would face steep odds while US President Donald Trump remains in the White House, as he has repeatedly dismissed calls to write mandatory rules for AI technology, Reuters reported on Friday. Meanwhile, Democratic lawmakers and outside advocates said control of congressional committees would give the party a platform to advance proposals, compel testimony from industry leaders and build support for action if AI systems cause real-world harm. 
+While the US retains significant advantages in AI research and computing infrastructure, prolonged political disputes over the industry's direction could weaken policy consistency and increase uncertainty for businesses, Bao said, warning that the consequences for investment decisions and supply chains could extend well beyond the US market.
