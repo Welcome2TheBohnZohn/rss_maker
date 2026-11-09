@@ -1,0 +1,33 @@
+TITLE:
+PrimeBOT's 10,000th personal robot rolls off production line as large-scale manufacturing of consumer embodied AI accelerates
+
+PUBLISHED:
+2026-11-08 20:33:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373887.shtml
+
+ARTICLE TEXT:
+Humanoid robots by PrimeBOT Photo: VCG
+Chinese robotics company PrimeBOT said on Sunday that its 10,000th personal robot has rolled off the production line, a milestone in the company's push toward large-scale mass production of consumer-grade embodied artificial intelligence (AI) products. 
+Analysts said that this marks another step forward in the company's large-scale production, supply chain integration and delivery capabilities, helping personal robots move from early-stage mass-production validation to a new phase of scaled manufacturing and laying the foundation for broader market adoption of consumer embodied AI products. 
+The milestone comes just 14 days after PrimeBOT announced the 5,000th unit had been completed on October 25, meaning the company doubled its cumulative output from 5,000 to 10,000 units in two weeks, according to a statement the company sent to the Global Times on Sunday.
+According to Liu Dongfang, the president of the Q Business Unit (the division responsible for PrimeBOT's robotics line), the scaling up of production underscores the company's progress in building a more mature industrial system. "Behind these numbers is a systematic verification of our manufacturing process, quality management system and supply chain coordination capabilities," he said.
+Industry observers said that the move from prototype validation and small-batch trial production to the 10,000-unit level is an inflection point for Chinese-made consumer robotics. A robot is no longer just a laboratory concept, but a product that begins to demonstrate the ability to be manufactured consistently, delivered reliably and integrated into real-world scenarios such as homes, retail services and education.
+The 10,000-unit milestone is significant not only for PrimeBOT but also for China's broader personal robotics sector, Wang Peng, an associate researcher at the Beijing Academy of Social Sciences, told the Global Times on Sunday.
+Wang added that for personal robots, this indicates the technology is beginning to move beyond the lab and into environments such as households, retail and educational settings, where consistent performance and reliable user experience are essential.
+PrimeBOT began handing over its first Q1 and T1 personal robots on October 1 in seven Chinese cities including Shanghai, Shenzhen and Hangzhou. Both start at 19,999 yuan ($2,995.43), according to domestic media reports.
+The company's rapid production ramp-up comes amid rising competition in China's humanoid robotics market, where firms are racing to combine AI, mobility and interactive capabilities into products that can function as companions, assistants and service platforms.
+Hangzhou-based Unitree Robotics has produced about 10,000 to 20,000 G1 humanoid robots since the model's launch in May 2024, the company's founder Wang Xingxing said. He said that he expects commercial services to adopt robots faster than households or industrial users.
+Chinese humanoid robot producers are widening their lead over global rivals, accounting for more than 97 percent of worldwide shipments in the first half of 2026, according to market research firm Smart Analytics Global (SAG).
+SAG said that Chinese robotics company AgiBot overtook Unitree Robotics for the first time to become the world's largest humanoid robot supplier by shipments. AgiBot shipped about 8,400 units, capturing 44 percent of the global market, while Unitree delivered about 5,900 units.
+China has developed more than 400 complete humanoid robot products, accounting for more than half of the world's total, highlighting the country's rapidly expanding presence in the robotics sector, official data showed. In the first half of the year, China-developed quadruped robots accounted for nearly 70 percent of global sales, according to data from the Ministry of Industry and Information Technology
+China also expects its production of humanoid robots to surpass 100,000 units this year, as the country accelerates efforts to bring AI from laboratories into factories.
+"That growth is increasingly propelled by deep integration with generative AI, factory automation and logistics operators," Wang said.
+Analysts said that strong government support, abundant funding and China's broad manufacturing ecosystem are accelerating this transition, helping robotics vendors move from prototypes toward larger-scale commercial deployment.

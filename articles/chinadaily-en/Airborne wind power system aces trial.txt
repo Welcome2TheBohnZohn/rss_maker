@@ -1,0 +1,32 @@
+TITLE:
+Airborne wind power system aces trial
+
+PUBLISHED:
+2026-11-09
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202611/09/WS6af1079fe4b03ebf8519b2a2.html
+
+ARTICLE TEXT:
+The world's first 4,000-meter-class airborne wind power generation system successfully completed its test flight recently in Yueyang, Hunan province.
+The launch marked the system's first trial in an urban scenario, proving its future potential to harness wind power and supply it to densely populated areas to meet people's power demands.
+Measuring 67 meters long, 40 meters wide and 23 meters high, with a maximum ascent altitude of 4,000 meters, the system delivers output voltage ranging from 10 to 35 kilovolts and boasts a designed service life of 20 years, according to the developer, Beijing SAWES TO ONE Technology.
+Named the Stratosphere Airborne Wind Energy System, it uses a helium-filled airborne platform to carry lightweight power generation modules several kilometers aloft. It harnesses steady high-altitude winds for continuous power generation, and the electricity produced is transmitted back to the ground via tether cables.
+"The urban test flight assesses whether the system can operate safely and reliably when flown near residents and crowds. Cities are core power consumption areas, and ultimately, we aim to deploy this power supply system in more densely populated regions," said Dun Tianrui, founder and CEO of the company.
+The Yueyang launch involved multidimensional verification tests, including attitude stability control under complex airflow and performance testing in complex magnetic field environments.
+High-altitude wind energy, an untapped frontier of new energy yet to be developed on a large scale, boasts advantages such as higher wind speeds, steady wind directions and high wind energy density. It occupies no land space and can reduce grid construction costs of ultra-high voltage transmission channels for new energy, Dun said.
+The 15th Five-Year Plan (2026-30) for renewable energy development outlined how research will be carried out on efficient and reliable wind power generation equipment technologies to achieve breakthroughs in manufacturing technologies for key equipment such as highly reliable, low-cost blades, ultra-high towers and innovative floating foundations, and to explore high-altitude wind power and other new wind energy utilization technologies.
+"Instead of merely serving unmanned zones and other power supply scenarios, the system is designed for direct integration into the main power grid in cities," Dun said.
+Relying on its self-power generation capacity and easy deployment, the system can also deliver clean power to areas with limited power access and high electricity costs, such as remote mountainous regions, islands, mining areas and industrial parks.
+The company will continue to upgrade and iterate its performance to tap wind energy resources at higher altitudes, according to Dun.
+Cai Rong, a researcher at the Aerospace Information Research Institute, Chinese Academy of Sciences, told China Central Television News that the test flight in an urban scenario mainly aims to verify the reliability of the complete airborne system. It also assesses the feasibility and integrity of engineering delivery under real-world operating conditions around cities, as well as the capability for rapid on-site deployment.
+The test gave strong impetus to the transition of high-altitude wind power equipment from technical validation to industrial application, he said.
+The system also drew widespread admiration from foreign guests attending the third China-Africa Energy Cooperation Project Promotion Conference in Yueyang earlier this month.
+"This city can use technology and AI to produce cheap electricity and energy for the people here. As an African country, we trust the Chinese enterprises, so they are welcome to come to our country," said Abubaker Bensaud, a Libyan embassy representative in China.
+Contact the writers at chenmeiling@chinadaily.com.cn
