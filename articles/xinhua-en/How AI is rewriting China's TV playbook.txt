@@ -1,0 +1,42 @@
+TITLE:
+How AI is rewriting China's TV playbook
+
+PUBLISHED:
+2026-11-09
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261109/e47e7ce9ff0842779680a617e60440bb/c.html
+
+ARTICLE TEXT:
+by Xinhua writers Zhang Yunlong and Bai Ying
+BEIJING, Nov. 9 (Xinhua) -- A 30-episode mythological drama with a live-action look can now be produced in just months using artificial intelligence (AI), compared with the years conventional production methods would require.
+Made entirely with AI-generated imagery and performances, the TV series "Beyond Wukong," China's first AI-generated long-form drama, offers a glimpse into a broader transformation in China's TV industry. AI is evolving from an auxiliary tool into a core driver of production, according to a recent industry report.
+The 2026 China TV drama (online drama) development report, released by the National Radio and Television Administration, identifies six major trends in the sector, including changes in production structures, creative approaches, technology, business models, institutional support and international distribution.
+AI is increasingly being applied at multiple stages of production, rather than being used solely to create standalone AI-generated works, the report says. At the script-development stage, AI can assist with script generation and creative development. During pre-production and production, it can help with location scouting and reduce costs associated with background performers. In post-production, applications include rough-cut editing, noise reduction, color correction, image restoration, and correction of visual errors.
+Major streaming platforms are also developing tools to support AI-assisted production. iQIYI's NadouPro platform, launched in April, has attracted more than 20,000 active creators and supported over 100 film and television projects within two months, according to the report.
+Tencent Video expanded its WorkRally platform in June, with new versions for professional film and television production and high-quality animation, extending its capabilities to the full production process for live-action dramas and animated works. Mango TV's Lumecreate platform integrates more than 40 image and video generation models and over 80 functions.
+"Beyond Wukong" shows how Lumecreate can support long-form drama production. Adapted from "Later Journey to the West," a novel written during the Ming and Qing dynasties as a sequel to the classic "Journey to the West," the drama follows Sun Xiaosheng, a young stone-born monkey, as he investigates the mysterious petrification of Mount Huaguo's elders before joining a monk and his disciples on a new journey westward.
+The series premiered on Mango TV at 6 p.m. on Aug. 31 this year, before airing at 8 p.m. in a prime-time drama slot on Hunan Satellite TV, with each episode running about 40 minutes. According to Hunan Satellite TV, the series ranked first in real-time ratings among provincial satellite channels during its time slot on the debut day. So far, 10 of the planned 30 episodes have been released, with the rest scheduled for release this winter.
+Ren Xu, general manager of Mango TV's AIGC innovation content center, said the series' production cost was about one-eighth to one-tenth that of a comparable S-level (top-tier) live-action drama of the same genre.
+But the process was not simply about generating images automatically. "Humans lead. AI executes," Ren told Xinhua in an interview. Directors, screenwriters and art professionals remained involved throughout production, checking visual quality and correcting artificial-looking images and other distortions by adjusting art direction and algorithms.
+Ren said Lumecreate had largely addressed the challenge of maintaining visual consistency. For "Beyond Wukong," the team built 340 character assets and 285 scene assets, standardizing character designs and scene styles in the system for reuse in the remaining episodes and a potential second season.
+Emotional and performance continuity, however, remains more difficult, as current AI systems still struggle to interpret complex subtext and subtle emotional shifts.
+To address this, the team broke down longer shots into shorter segments, with directors and art professionals providing precise instructions on the emotions to be conveyed. Editors ensured the sequences flowed smoothly and logically.
+"Technology solves the problem of visual consistency, while our creators are responsible for ensuring convincing performances and narrative coherence," Ren said.
+AI is also reshaping production teams and the skills they need. Ren said AI had sharply reduced demand for some traditional hands-on production roles, such as set construction, lighting and camera operation, while creating new roles, such as AI directors and AIGC coordinators.
+"Creators increasingly need to understand AI tools and technical processes alongside their established skills," she said. Mango TV has organized multiple hands-on AI training sessions across the company, and employees have signed up enthusiastically.
+In an article published on the WeChat account of the China Press Publication Radio and Television Journal, Yang Weiran, deputy head of the art committee at Xiaoxiang Pictures, said the series had demonstrated the commercial viability of AI-generated long-form content on mainstream screens, citing its audience ratings, online buzz and positive capital market response.
+However, AI adoption is not uniform across the film and TV industries.
+Speaking to Xinhua at a special screening of "Three Kingdoms: The Beginning" in July, Yu Zhou, president of animation studio Light Chaser Animation, said the studio had not used AI-generated imagery in the animated feature.
+The AI-assisted tools available at the time had not yet met the studio's expectations for consistent output quality, Yu said, adding that his studio remained open to adopting the technology once it met its standards.
+While some studios remain cautious, AI is also being tested in theatrical film production. "Sanxingdui: Future Past," billed as China's first AI-generated theatrical feature, opened on Oct. 23. Set in a future where a super-AI system triggers a global catastrophe, the film follows an archaeologist who discovers that inscriptions on Sanxingdui bronzes may hold the key to averting the crisis.
+The film had grossed just 1.79 million yuan (about 266,000 U.S. dollars) as of Monday, according to ticketing platform Maoyan. Chen Xuguang, director of Peking University's Institute of Film, Television and Theater, said it featured grand visuals, had a strong audiovisual impact and showed considerable imagination, although its performances lacked subtlety.
+"Regardless of its box office performance," he added, "the film deserved recognition for being a pioneer."
+These developments point to a broader challenge for the screen industry: AI's ability to generate long-form audiovisual content does not necessarily translate into compelling storytelling, consistent visual quality or sustained audience engagement.
+AI can accelerate production and reduce costs, but the quality of the finished work still depends on human creative judgment. ■
