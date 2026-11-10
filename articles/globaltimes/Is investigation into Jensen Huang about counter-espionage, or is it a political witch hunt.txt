@@ -1,0 +1,30 @@
+TITLE:
+Is investigation into Jensen Huang about counter-espionage, or is it a political witch hunt?
+
+PUBLISHED:
+2026-11-09 15:50:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1373943.shtml
+
+ARTICLE TEXT:
+Jensen Huang. Photo: VCG
+One woman, one affair, and a national security narrative that the American media have spun with more imagination than evidence. That was all it took to thrust one of US' most powerful tech CEOs into the middle of a "spy" controversy. On Sunday, Nvidia CEO Jensen Huang admitted to an extramarital affair - but whether this marks the end of the media storm or just the beginning remains to be seen.
+It started with an accusation from The New York Times. Beginning with its October 29 article and continuing in a series of follow-ups, the newspaper claimed that a woman who had held an executive role at a Singapore-based data center company was suspected of working for China's military and top spy agency. According to the reports, she had developed a "close relationship" with Huang and allegedly helped China obtain advanced AI chips subject to US export controls.
+Western media quickly jumped on the story. Suddenly, it had all the ingredients of a political spy thriller: Chinese intelligence agencies, cutting-edge AI chips, alleged corporate infiltration, an intimate personal relationship, and the head of one of the US' most vital tech companies.
+It's quite a story, complete with all the twists and suspense of a Hollywood thriller. But so far, the public has seen no hard evidence to back up the central allegations. The key claims in the media reports rely heavily on anonymous sources and materials that the media could not verify.
+China's Foreign Ministry rejected the allegations on October 30, calling relevant report unsubstantiated and nothing but smears against China. The ministry reiterated the statement on Monday.
+The Ministry of Home Affairs of Singapore has also rejected a Wall Street Journal report citing sources who said Singapore officials had concerns about, and had investigated, a businesswoman linked to Singapore-based data center company Megaspeed. It stated that neither the Singapore Government nor its officials said this and there were no such investigations.
+Meanwhile, the political stakes in Washington keep rising. On Sunday, the NVIDIA Board announced an independent investigation in light of recent reporting that Huang has been the target of a foreign intelligence effort. However, it also stressed that the Board has no reason to believe that either national security or NVIDIA secrets were compromised. Additionally, three House chairmen want Huang to brief them privately on November 18.
+Who are these anonymous sources cited by the American media? Where is the hard, independently verifiable evidence? Why are these allegations surfacing now? And perhaps most importantly, who stands to benefit? For now, none of these questions has a clear answer. But one thing is becoming increasingly difficult to ignore: Huang is no longer simply weathering a media storm over his private life; he is facing a controversy with unmistakable political overtones.
+The episode is beginning to follow a familiar pattern of political targeting: US media outlets amplify the claims allegedly supplied by insiders and frame them as a national security threat; politicians pile on; and before any investigation has reached its conclusions, the court of public opinion has already begun passing judgment.
+One fact should not be overlooked. In an environment where US competition with China is increasingly politicized, Chinese heritage can turn ordinary business ties into objects of political suspicion. Huang is a US citizen. The company he leads is a pillar of the US' AI strength. Yet he has been swept into a media storm over alleged Chinese intelligence activity. This raises a pointed question: when an American entrepreneur's business network intersects with China, is he seen first as an American entrepreneur - or first as an ethnic Chinese person who must face extra scrutiny?
+There is another backdrop that cannot be ignored: political infighting. Political divisions in the US over AI development are widening. The current administration is pushing hard on AI investment and data-center construction. Some Democrats, however, want to slow that expansion, citing concerns over energy use, environmental impact, and the power of tech giants. Democratic Senator Elizabeth Warren has long pressed Huang to testify on Nvidia's China-related business and its approach to export controls. Those efforts were previously limited by procedural hurdles, including subpoena power. After Democrats regain control of both chambers of Congress, would the path to similar investigations and subpoenas become significantly smoother?
+A country's technological competitiveness ultimately rests on innovation, talent, and confidence in its own institutions. When the heads of the US' leading tech companies must, beyond normal commercial activity, continuously pass political loyalty tests that lack clear standards, it reveals a deeper anxiety in the US about the global AI race.
+Suspicion alone will not produce the next generation of GPUs. Over-politicizing scrutiny and the habit of framing business ties as security risks will not win the next round of AI competition. The truly strong are busy building what comes next. Only those growing more anxious go looking for enemies nearby.
