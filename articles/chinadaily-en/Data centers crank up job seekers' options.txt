@@ -1,0 +1,25 @@
+TITLE:
+Data centers crank up job seekers' options
+
+PUBLISHED:
+2026-11-11
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202611/11/WS6af39f4fe4b03ebf8519ba5a.html
+
+ARTICLE TEXT:
+With a flashlight, a set of keys, a two-way radio and an electrical meter in his backpack, shift leader Chen Gang made his rounds through the power distribution rooms and cooling areas of a massive data center in Ulaanqab, Inner Mongolia autonomous region.
+The facility, built and operated by GDS Holdings, hosts computing infrastructure for clients running heavy workloads including big-data batch processing, cloud storage and artificial intelligence.
+Chen checked instrument readings and indicator lights and made sure that switches were all in the right positions. As part of his duties, he also helps coordinate routine inspections and responses to equipment problems.
+His job is radically different from his last one serving guests at a hotel.
+Ulaanqab, once mainly known for potato farming, began developing its data processing industry more than a decade ago. It started with a strategic cooperation agreement on cloud computing with electronics giant Huawei in 2013. The Huawei Cloud Computing Data Center opened three years later.
+The city's cool climate, abundant wind and solar resources, and high-speed network connections to Beijing made it an ideal location for further data center investment.
+High-tech development gained further impetus in 2022, when the "East Data, West Computing" initiative was launched.
+The project aims to coordinate the computing capabilities of the country's eastern regions, where the need for computing is high, with inland western regions, where abundant renewable resources are optimal for the construction of data centers. Ulaanqab has since become a key location in the Inner Mongolian hub of an integrated national network.
+As of October, the city had signed agreements for 109 computing center projects. It reported an operating capacity of 190,000 PFLOPS — a measure of computer processing speed that equals 1 quadrillion floating-point operations per second and an indicator of how fast a computer can do heavy, precision math calculations.
