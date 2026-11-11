@@ -1,0 +1,32 @@
+TITLE:
+China updates standards for key robot component amid rising demand
+
+PUBLISHED:
+2026-11-11 21:06:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374095.shtml
+
+ARTICLE TEXT:
+Visitors observe a humanoid robot on display at the Shanghai International Intelligent Home Expo in Shanghai on September 28, 2026. Photo: VCG
+China has revised two national standards governing harmonic drive reducers, a key transmission component used in industrial and humanoid robots, in a move aimed at improving product quality and supporting the development of its domestic precision machinery industry, the Guangming Daily reported.
+The standards, GB/T 12601-2026, covering basic terminology for harmonic gear drives, and GB/T 14118-2026, covering harmonic drive reducers, were highlighted at a technical seminar and standards launch conference held recently in Shengzhou, East China's Zhejiang Province.
+The revisions mark the first major updates to the two standards in more than three decades, the report noted. They are scheduled to take effect on April 1, 2027, according to China's National Standard Information Public Service Platform.
+Harmonic drive reducers are precision transmission devices installed in robot joints. They use controlled elastic deformation of a flexible gear to transmit motion and torque, allowing robots to achieve precise movements in a compact space. They are widely used in industrial robots, collaborative robots and humanoid robots.
+Their importance is expected to grow as humanoid robots develop. According to industry estimates, a single humanoid robot may require multiple harmonic reducers across its joints, making the component an important part of the industry's supply chain.
+China's harmonic reducer market was valued at approximately 3.8 billion yuan ($570 million) in 2025 and is expected to reach 4.8 billion yuan in 2026, according to estimates by industry research firm Zhiyan Consulting.
+Demand in the robotics sector is also projected to expand rapidly. Shipments of harmonic reducers for robots in China are expected to increase from 1.4 million units in 2025 to 20.7 million units by 2030, representing a compound annual growth rate of 72.4 percent, according to estimates by China Insights Consultancy.
+The expansion, however, comes with mounting competitive pressure on domestic manufacturers. For years, Japan's Harmonic Drive Systems and other overseas suppliers held a strong position in the high-end market. 
+Chinese manufacturers have gradually expanded their presence through research and development, improvements in manufacturing processes and efforts to replace imported products.
+The progress has been significant, but competition is increasingly shifting from securing market share to improving product performance, reliability and cost efficiency.
+Against this backdrop, the two revised standards are expected to help address some of these challenges.
+The first, GB/T 12601-2026, establishes a unified set of terms used across the industry, helping researchers, manufacturers and testing institutions communicate and work with consistent definitions.
+The second, GB/T 14118-2026, sets out requirements for harmonic drive reducers, including product categories, quality requirements and testing procedures. In practical terms, it provides manufacturers and customers with a common benchmark for judging whether products meet the required standards.
+The revision also comes as China's broader robotics industry seeks to strengthen its domestic supply chain. 
+In 2023, the Ministry of Industry and Information Technology issued guidelines for the development of humanoid robots, identifying core components, including precision transmission systems, as important areas for technological progress.

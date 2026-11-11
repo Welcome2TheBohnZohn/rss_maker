@@ -1,0 +1,28 @@
+TITLE:
+GT Voice: What Washington risks by tightening tech curbs on China?
+
+PUBLISHED:
+2026-11-11 22:26:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374107.shtml
+
+ARTICLE TEXT:
+The photo taken from atop the Washington Monument on Nov. 17, 2025 shows the construction site where the East Wing of the White House was recently demolished, while construction crews prepare the area for the White House's new ballroom, in Washington, D.C., the United States. (Xinhua/Hu Yousong)
+Reuters reported on Tuesday, citing three people familiar with the matter, that Microsoft, other companies and trade groups have pressed Washington to halt plans to bar imports from China of new models of optical transceivers, a key component in artificial intelligence (AI) data centers. This little-noticed component is emerging as an unexpected test for the AI industry in the US.
+These discussions are taking place against a sensitive backdrop. Some are seizing on the controversy surrounding Nvidia CEO Jensen Huang to stir unfounded fears and suspicion about Chinese technology, apparently seeking to build momentum for another round of restrictions on China's tech sector. Viewing technology through an ever-expanding national security lens could ultimately undermine the AI development the US is seeking to accelerate.
+Optical transceivers may seem like a minor, separate issue, largely unrelated to the current debate. Yet the episode is telling a sign of what is at stake. Whenever US-China technology supply chains face the prospect of disruption, US tech companies are often among the first to feel the pressure.
+Why are Microsoft and other US companies so alarmed by reports that Washington may restrict these imports? The answer lies in the structure of the global supply chains. Chinese manufacturers occupy a substantial position in the global optical transceiver market. According to Counterpoint Research, Chinese optical module manufacturers account for nearly two-thirds of global unit supply and approximately 60 percent of global optical datacom transceiver revenue.
+Can the US afford to build its data centers without Chinese optical transceivers? These components enable data to travel at the speed of light over fiber-optic cables, making them essential to data center operations. John Miller, an executive vice president of policy and general counsel of the Information Technology Industry Council, told Reuters that such a ban "really threatens to arguably grind" data center rollouts to a halt.
+This exposes a fundamental contradiction. The US is seeking to contain China's technological development through tighter restrictions and, in some areas, supply chain "decoupling." Yet it also wants to accelerate its own technological progress, which increasingly relies on Chinese-sourced materials and components, as well as access to the Chinese market. These two goals are increasingly at odds.
+As China's technological capabilities advance, Chinese companies are gaining a stronger foothold in the supply chains for components and critical technologies. At the same time, the expansion of the Chinese market is creating opportunities for US companies. The technology industries of the two countries remain deeply intertwined, reflecting substantial scope for mutual benefits. 
+The more China advances technologically, the sharper the contradiction facing Washington becomes, and its efforts to contain China are increasingly at odds with its own need for technological development. The optical transceiver issue shows how acute this contradiction has already become. As Miller warned, a ban on Chinese suppliers could bring US data center rollouts to a halt. Washington may therefore be nearing the point at which further restrictions would directly obstruct its own AI development. That is why Microsoft and other US companies are so alarmed.
+Yet the growing tendency in US public discourse to hype the so-called China threat and broaden the scope of national security concerns risks further disrupting supply chains from which the US tech industry itself stands to benefit from. If that happens, AI development in the US will be among the first to pay the price. 
+The US should think twice. The optical transceiver should serve as a wake-up call, showing that there are limits to how far Washington can go in restricting Chinese technology before those restrictions begin to undermine its own interests.
+In the wake of the midterm elections, US data center development is facing mounting headwinds at home. Tightening restrictions on Chinese technology would only compound these obstacles. Efforts to curb China's technological progress may end up holding back US' own AI development.
