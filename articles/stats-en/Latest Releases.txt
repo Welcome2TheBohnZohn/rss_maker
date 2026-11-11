@@ -2,7 +2,7 @@ TITLE:
 Latest Releases
 
 PUBLISHED:
-2026-11-04
+2026-11-10
 
 SOURCE:
 National Bureau Statistics English
@@ -29,33 +29,33 @@ Release Calendar
 Home
 >
 Latest Releases
-1.Market Prices of Important Means of Production in Circulation,October 21-31, 2026
+1.Consumer Price Index in October 2026
+2026-11-10
+2.Industrial Producer Price Indexes in October 2026
+2026-11-10
+3.Market Prices of Important Means of Production in Circulation,October 21-31, 2026
 2026-11-04
-2.Purchasing Managers’ Index for October 2026
+4.Purchasing Managers’ Index for October 2026
 2026-11-01
-3.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
+5.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
 2026-10-31
-4.Profits of Industrial Enterprises above the Designated Size from January to September i...
+6.Profits of Industrial Enterprises above the Designated Size from January to September i...
 2026-10-28
-5.Market Prices of Important Means of Production in Circulation,October 11-20, 2026
+7.Market Prices of Important Means of Production in Circulation,October 11-20, 2026
 2026-10-24
-6.China Innovation Index Grows by 6.4% Year on Year in 2025
+8.China Innovation Index Grows by 6.4% Year on Year in 2025
 2026-10-24
-7.Preliminary Accounting Results of GDP for the Third Quarter of 2026
+9.Preliminary Accounting Results of GDP for the Third Quarter of 2026
 2026-10-21
-8.Industrial Production Operation in September 2026
+10.Industrial Production Operation in September 2026
 2026-10-20
-9.Investment in Fixed Assets from January to September 2026
+11.Investment in Fixed Assets from January to September 2026
 2026-10-20
-10.Investment in Real Estate Development from January to September 2026
+12.Investment in Real Estate Development from January to September 2026
 2026-10-20
-11.Total Retail Sales of Consumer Goods from January to September 2026
+13.Total Retail Sales of Consumer Goods from January to September 2026
 2026-10-20
-12.Energy Production in September 2026
+14.Energy Production in September 2026
 2026-10-20
-13.Households’ Income and Consumption Expenditure in the First Three Quarters of 2026
+15.Households’ Income and Consumption Expenditure in the First Three Quarters of 2026
 2026-10-20
-14.Industrial Capacity Utilization Rate in the Third Quarter of 2026
-2026-10-20
-15.National Economy was Generally Stable with New Achievement Made in High-Quality Develop...
-2026-10-19

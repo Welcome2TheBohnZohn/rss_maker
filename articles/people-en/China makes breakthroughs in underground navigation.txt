@@ -1,0 +1,39 @@
+TITLE:
+China makes breakthroughs in underground navigation
+
+PUBLISHED:
+2026-11-11
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1111/c98649-20518078.html
+
+ARTICLE TEXT:
+China makes breakthroughs in underground navigation
+Photo shows the State Key Laboratory of Integrated Space-Time Networks and Equipment Technology under the 54th Research Institute of China Electronics Technology Group Corporation (CETC54). (Photo/Zhang Yue)
+"I no longer have to drive around aimlessly looking for a parking space underground. With navigation, I can now see at a glance which parking spaces are available on each level," said Chen Chong, an engineer at the 54th Research Institute of China Electronics Technology Group Corporation (CETC54), at the underground parking lot of Xiong'an Science Park in Xiong'an New Area, north China's Hebei province.
+As Chen taps "park" on a navigation app called "Xingyuan," the total number of parking spaces, the number of available spaces, and their exact locations are displayed immediately. After he selects a space, the navigation route extends from above ground to underground, guiding him through the entrance, ramps, and junctions straight to his destination.
+Traditional navigation in underground parking lots has long faced three challenges: satellite signals cannot penetrate underground structures, ordinary smartphones cannot provide accurate positioning, and navigation guidance is not continuous.
+The technology behind the intelligent underground parking navigation service used by Chen is the "Xingyuan" BeiDou micro-base-station system for underground positioning and navigation, developed by a team at the State Key Laboratory of Integrated Space-Time Networks and Equipment Technology under CETC54.
+The high-precision positioning, navigation, and control technology for large underground spaces, developed by the team, marks a major original breakthrough by China in integrated space-time networks for underground environments.
+Yu Baoguo, director of the laboratory and head of the project, explained that by deploying BeiDou micro base stations in underground parking lots to transmit BeiDou signals, the team has overcome key technical challenges in intelligent network deployment and seamless positioning and navigation between aboveground and underground spaces, making it possible for ordinary smartphones to use positioning and navigation services underground.
+Underground spaces encompass not only familiar places such as parking lots, but also complex underground logistics corridors and utility tunnels. The "Xingyuan" system makes applications such as personnel inspections, group work management, and unmanned logistics possible.
+When inspection personnel enter hazardous areas, the system issues alerts. Unmanned transport vehicles can travel steadily and stop accurately in underground passages where satellite signals are unavailable.
+"Field tests of the independently developed underground positioning and navigation system show that it can achieve static positioning accuracy of better than 0.2 meters for people in underground spaces, and enable high-speed autonomous vehicles to navigate reliably with sub-meter accuracy," Chen said.
+At Menkeqing Coal Mine in Ordos, north China's Inner Mongolia autonomous region, a miner carries a smartphone designed for use in mines walks from the surface down into the mine. As he moves through intersecting tunnels, the system not only shows which tunnel he is in but also accurately identifies his underground level and elevation. Positioning remains continuous and stable even in areas crowded with metal equipment, such as working faces and pump rooms.
+When he needs to reach another work site, the miner can simply use his phone to request a ride. Based on his location, the system dispatches an unmanned shuttle vehicle, which autonomously follows a planned route through junctions and bends before arriving precisely at the designated locations for pick-up and drop-off.
+"Behind this is the integrated space-time network our team has deployed in underground coal mines. It enables the continuous display of personnel and vehicle positions in three-dimensional space, extending BeiDou positioning from the surface to underground areas. Mining vehicles are also equipped with precise autonomous navigation and control capabilities," said Du Shitong, the team's head of system integration technology.
+Du added that the system is also equipped with a digital management platform for coal mining operations, providing technical support for the intelligent transformation of the coal industry.
+Core chips are essential to underground positioning and navigation. Before the project was launched in 2022, China relied on imported core ultra-wideband (UWB) positioning chips. They were costly, supply chains were unstable, and core technologies and standards were controlled by foreign companies.
+To address this, the team pursued fundamental innovation in signal standards, developing its own HNav-UWB signal standard. This marks a fundamental shift from the traditional design approach, which prioritizes communications over positioning, to a new paradigm that gives priority to positioning, with communications playing a supporting role.
+"Comprehensive testing and verification show that, compared with internationally adopted standards, the new standard extends coverage by 28 percent, improves ranging accuracy by 6 percent and increases single-station capacity by more than 65 percent. Its core performance indicators outperform those of leading international standards across the board," said Yang Menghuan, who leads the design of the HNav-UWB signal standard.
+Based on the HNav-UWB standard, China has successfully developed the "Tanjie 100," the country's first domestically developed and independently controllable pulse-positioning chip.
+"The chip delivers ultra-high positioning accuracy comparable to that of BeiDou navigation above ground, fundamentally addressing the problems of positioning ambiguity and large errors associated with conventional underground positioning systems," said Zhao Jun, head of chip development.
+In the future, the development and utilization of underground spaces will enter a new stage characterized by large-scale, intelligent and systematic development, while demand for ubiquitous, high-precision space-time information services will continue to grow.
+"We will continue to focus on integrated space-time networks, further improve the performance of core technologies and equipment, and expand their applications. We will also promote the large-scale deployment of these technologies in more fields, including urban underground utility tunnels, subway tunnels, deep mines and underground civil air defense facilities, establishing 'Chinese standards' for the intelligent development of underground spaces worldwide and providing strong support for high-quality economic and social development," said Yu.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
