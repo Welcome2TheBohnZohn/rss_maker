@@ -1,0 +1,27 @@
+TITLE:
+GT Voice: AI jitters in US raise stakes in China for S.Korea chip firms
+
+PUBLISHED:
+2026-11-12 23:43:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374191.shtml
+
+ARTICLE TEXT:
+Production of semiconductor chip File photo: VCG
+South Korea's semiconductor exports are booming, but a new cloud is gathering over the industry - and it comes from the US. In a report published on Thursday, the Financial Times, under the headline "AI jitters erupt after Democrats threaten data center build-out," warned that the construction boom could be brought to a standstill following the Democrats' victories in the US midterm elections.
+The political headwinds facing US data centers could spill over into South Korea's semiconductor industry, at least in part. In January, The Korea Herald cited analysts as saying that most memory products shipped by South Korean companies to the US, including high bandwidth memory (HBM) and server DRAM, are used in artificial intelligence (AI) servers and data centers. This leaves South Korean memory chipmakers exposed to any slowdown in US data center development, which could put some of the demand underpinning their exports at risk.
+The US is an important market for South Korean semiconductors, even if it is not the largest. In July, Chosun Biz cited data from the Bank of Korea showing that the US ranked fourth among destinations for South Korean semiconductor exports in 2025, with shipments worth $19.02 billion, up from $13.626 billion three years earlier. Its share of South Korea's total semiconductor exports also edged up, from 9.6 percent to 10.3 percent.
+The question now is whether political resistance to data center construction in the US could put the brakes on the growth of its semiconductor demand - or even cause it to stall or decline. For South Korean chipmakers, this is a development that warrants close attention, as well as a clear assessment of what it could mean for their export prospects.
+Whatever the eventual impact on US semiconductor demand, the AI jitters unleashed by the midterm elections may be enough to prompt South Korean chipmakers to think ahead. If they seek to diversify their markets against the risk of slower growth in US demand, China is likely to be high on their lists. The Chinese mainland remained the largest destination for South Korean semiconductor exports in 2025, taking shipments worth $74.46 billion, or 40.3 percent of the total.
+This comes as South Korea presses ahead with plans to expand its semiconductor capacity. The Yonhap News Agency reported in September that the country plans to double its semiconductor production capacity within five years. Yet with the outlook for US AI investment becoming less certain, South Korean chipmakers may have to look increasingly to non-US markets to sustain their export growth, further increasing the importance of the Chinese market.
+If South Korean chipmakers turn increasingly to China, they could intensify competition and put greater pressure on Chinese domestic memory producers. But the picture is more complicated. Memory chip prices remain high, with some segments poised for further increases, pointing to the strength of underlying demand and the potential of the Chinese market.
+One factor that South Korean chipmakers should not underestimate is the rapid technological progress of China's memory producers. Once they overcome the remaining technical hurdles, China's extensive industrial supply chains and manufacturing capacity could allow them to scale up production quickly, turning technological advances into a formidable competitive advantage.
+For South Korean chipmakers to maintain or expand their presence in China, they will need to offer Chinese customers their most advanced products. Finding a way to overcome US restrictions that prevent advanced HBM exports to China is therefore essential to that effort.
+That task may become harder. The controversy surrounding Jensen Huang, who has resigned as Nvidia's CEO, has fueled fresh calls in Washington for tighter restrictions on China's access to advanced chips. But with semiconductors so vital to South Korea's economy, its chipmakers have every reason to press for greater room to sell their most advanced products in China. It is a market where competition is intensifying, but whose importance to South Korean suppliers is also growing. South Korea should assert its own economic interests.

@@ -1,0 +1,29 @@
+TITLE:
+Tokens join China's Double 11 for first time as real-world AI applications drive demand for computing power
+
+PUBLISHED:
+2026-11-12 20:07:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374165.shtml
+
+ARTICLE TEXT:
+Concept picture of Token Photo: VCG
+Tokens, the units used to meter and bill large-language model usage, became a new promotional category on Chinese e-commerce platforms for the first time during this year's Double 11 shopping festival, with Zhipu, MiniMax, and DeepSeek offering discounts of up to 50 percent on selected products on e-commerce platforms such as Alibaba-backed Taobao.
+The sale also attracted many shoppers.  Wang Ning, a 30-year-old worker in Beijing, spent 200 yuan (about $30) buying tokens on Taobao recently. He told the Global Times on Thursday that for him, the bigger shift is not just cheaper access, but what the shopping cart now stands for.
+"A few years ago, Double 11 meant stocking up on household goods. Now I'm stocking up on computing power the same way. That tells you how fast artificial intelligence has moved from a developer tool to something ordinary consumers just buy like a phone plan."
+Businesses are also reading the moment as a structural turn. Li Fanyiran, a data scientist working at Bilibili, told the Global Times on Thursday that his team began using large-language AI models for data labeling in 2023, and it has since folded AI agents into customer service, advertising placement and diagnostic analysis.
+"Seeing tokens on a Double 11 shelf is a signal the industry has crossed a line, and computing services are no longer just infrastructure sitting behind the scenes. They're now packaged, priced and sold like any other consumer product. That changes how companies think about AI: not as research and development, but as a measurable, buyable input."
+A Tmall representative said that sales in the platform's Token category rose 450 percent on October 20, the first day of its Double 11 sales campaign, compared to the previous day. Buyers mainly included individuals and small and medium-sized businesses with specific AI needs, such as households, users engaged in learning and research, and "one-person companies," the Economic Information Daily reported.
+The use of AI services in China has also continued to grow. According to the Large Model Token Service Performance Monitoring Report (2026), released by the China Academy of Information and Communications Technology earlier this month, China's average daily token consumption reached approximately 500 trillion in June 2026, nearly four times the level recorded in December 2025.
+Liu Dingding, a technology industry analyst, told the Global Times on Thursday that the move reflects a deeper reset in both retail and tech.
+"Double 11 used to reflect China's consumption power in physical goods. Putting tokens on the same shelf shows the center of gravity is moving, from selling things to selling intelligence. For the tech industry, it means the competition is no longer just who builds the better model, but who can turn that model into a service millions of ordinary people are willing to pay for."
+Taking the short-drama industry as an example, Liu said that AI-generated content can reduce some of the costs associated with locations, filming and personnel. For producers able to publish AI-generated content on online platforms and generate commercial returns, spending on tokens has become part of their production costs. Demand for paid computing power services is likely to grow as AI applications expand, he added.
+AI services also made their way into livestream shopping sessions hosted by major online influencers. On November 2, Chinese e-commerce livestream host Li Jiaqi launched a token promotion on Taobao. According to information released by Qianwen Office, nearly 100,000 monthly personal membership plans were sold within half an hour of the launch, representing a combined allowance of approximately 2 trillion tokens.
+Previously, token services were mainly purchased through AI model providers' official websites and developer platforms. On September 3, Tmall launched its token recharge center, initially connecting providers including Alibaba Cloud, Zhipu, Kimi and MiniMax, and offering both subscription-based and pay-as-you-go services. JD.com also introduced an AI software recharge section, adding large-language packages and AI application memberships to its online marketplace.
