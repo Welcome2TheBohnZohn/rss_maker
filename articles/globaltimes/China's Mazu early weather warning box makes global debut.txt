@@ -1,0 +1,27 @@
+TITLE:
+China's Mazu early weather warning box makes global debut
+
+PUBLISHED:
+2026-11-12 11:14:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374141.shtml
+
+ARTICLE TEXT:
+China intelligent meteorological solution MAZU is seen on display during the 2026 World Artificial Intelligence Conference in Shanghai. Photo: VCG
+China's Mazu all-in-one box, an intelligent meteorological early warning solution, was officially launched globally at the COP31 High-Level Forum on South-South Cooperation on Climate Change in Antalya, Turkey, the China Meteorological Administration (CMA) said in a WeChat post on Thursday.
+MAZU, short for multi-hazard, alert, zero-gap and universal, is an AI-driven meteorological early warning platform named after the Chinese guardian goddess of the sea.
+The box is a lightweight, integrated hardware-software early warning solution designed to run the Mazu platform locally. It integrates storage, intelligent computing, networking, display and computation.
+Compatible with Ethernet, 5G and satellite communications, it delivers capabilities including nowcasting, an overview dashboard, operational monitoring and on-site AI assistance, enabling developing countries to rapidly ingest local observational data, according to the release.
+The box can run operations independently on site or connect to cloud resources and integrate with existing operational systems for coordinated operations. It supports modular expansion and continuous upgrading, helping local agencies strengthen their early warning operational capabilities, said the release.
+Given wide climatic variations worldwide, the CMA has worked closely with national meteorological and hydrological agencies to adapt Mazu into a weather tool tuned to local conditions.
+On November 1, China officially delivered a Mazu all-in-one box to Sri Lanka, which is expected to enter operational service by the end of 2026. It features custom-built modules for aviation, maritime and other sectors, aiming to help the Southern Asian country shore up its multi-hazard meteorological early-warning capabilities, CMA said.
+China delivered a customized version of its homegrown AI-powered meteorological early warning system to Nepal on September 22 to help the country improve early warning and disaster response. The move came after the CMA gave Nepal's meteorological department a version of Mazu for cloud-based trial use on August 29, following a deadly mudslide at the Gyirong-Rasuwa border crossing on the China-Nepal border, the Xinhua News Agency reported.
+As of October 2026, the Mazu solution had been deployed in eight countries, including Pakistan, Ethiopia and Sri Lanka, and tested through cloud-based trials in more than 50 countries, according to CMA.
+Global Times
