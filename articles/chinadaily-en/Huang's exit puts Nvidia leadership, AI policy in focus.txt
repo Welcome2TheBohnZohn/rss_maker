@@ -1,0 +1,45 @@
+TITLE:
+Huang's exit puts Nvidia leadership, AI policy in focus
+
+PUBLISHED:
+2026-11-13
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202611/13/WS6af68292e4b03ebf8519c3c0.html
+
+ARTICLE TEXT:
+Jensen Huang abruptly stepped down as Nvidia's chief executive on Thursday, four days after admitting to an extramarital affair, leaving the chipmaker facing a leadership transition and raising questions about the direction of the AI industry and US chip export policy.
+Nvidia's board announced that Huang, the company's co-founder, had resigned as president, chief executive and a board member, effective immediately. Colette Kress, executive vice-president and chief financial officer, will serve as interim chief executive while the board considers internal and external candidates for a permanent replacement.
+The departure followed media reports alleging three extramarital affairs, including two involving Nvidia employees. The other woman, whom Huang admitted to having an affair with, was a Chinese businesswoman.
+Following the news, Nvidia shares fell as much as 14 percent before recovering most of their losses to close 4.3 percent lower at $166.19, leaving the company with a market value of $4.01 trillion.
+The leadership change has created uncertainty for a company central to the AI industry, but its immediate implications may be more limited than the initial market reaction suggested, Ker Gibbs, former president of the American Chamber of Commerce in Shanghai, told China Daily.
+"Jensen Huang played an important role in maintaining customer relationships, but demand for Nvidia's products remains strong, and his departure doesn't change that," said Gibbs, author of The Fragile Dragon: China's Strengths and the Limits to its Power.
+He said the stock was down about 30 percent from its October peak, although much of the decline preceded the scandal and reflected broader concerns about AI valuations.
+The reaction so far has largely been specific to Nvidia, Gibbs said, noting that the broader market and other chip stocks rose this week. The forces driving AI development are diverse and well-funded, he added, and do not depend on one company's leadership.
+The more consequential change could emerge in Washington, where Huang had been a prominent advocate against tight restrictions on chip sales to China.
+Lawmakers have called for investigations into whether national security was compromised. House Republicans were discussing possible congressional testimony with Huang sometime this month, The New York Times reported, although no appearance has been scheduled.
+US House Speaker Mike Johnson said there was a growing consensus in Congress on limiting semiconductor chip exports to China.
+Analysts at SemiAnalysis, a Silicon Valley AI research firm, said Huang's departure could accelerate that shift.
+"AI and chip restrictions on China are going to ramp now much faster with the biggest defender Jensen, gone," Dylan Patel and three other analysts wrote in a report.
+Patel, the firm's founder and chief executive, warned that poorly shaped restrictions could damage US interests by disrupting supply chains and weakening the development of open-source AI models, which Huang had championed.
+The report said major US technology companies depend on Chinese companies in their supply chains, while American startups benefit from research published by Chinese companies, students and independent researchers using those chips.
+"The US open source ecosystem and many startups rely on Chinese AI models. This is significantly impaired with Jensen gone and the China hawks winning," the analysts wrote.
+Regarding supply chain, Gibbs said, Nvidia's ties with Taiwan Semiconductor Manufacturing Co and other partners in Taiwan are deeply institutional and unlikely to be disrupted by a leadership change.
+Instead, he expects closer scrutiny of distributors and data center operators in Southeast Asia, alongside tighter enforcement against the diversion of chips to China.
+"For Nvidia specifically, the company has lost its most effective advocate for access to the Chinese market," Gibbs said. "Under interim leadership and intense scrutiny from the FBI and Congress, I would expect Nvidia to become far more cautious."
+That could mean less lobbying against export controls, tighter oversight of distributors and a lower public profile on China, he said.
+The regulatory pressure will also shape the challenges facing Kress and whoever succeeds her. Gibbs said he would watch next week's earnings and forward guidance for signs of customer hesitation, the selection of a permanent chief executive, the findings of investigations and any changes to export controls.
+"The biggest challenge for the interim CEO, and her eventual successor, will be rebuilding trust with regulators," he said.
+For startups, dependence on Nvidia rests primarily on its products and software ecosystem, which are continuing through the transition, Gibbs said. However, Nvidia could slow its strategic investments under interim leadership, while investors may scrutinize startups with exposure to China or Southeast Asian data center operators more closely.
+Huang's departure also removes a business leader with unusual access to the White House, potentially changing the balance of voices influencing US technology policy.
+High-profile executives have long provided an additional channel of communication between the US and China, Gibbs said, although their commercial responsibilities differ from those of officials charged with national security.
+"He was also an important voice that ran counter to the national security hawks. His absence will certainly shift that balance," he said.
+For companies operating across the two countries, the episode highlights the need for governance and institutional relationships that can withstand pressure, Gibbs said. Personal access can become a vulnerability when business spans countries engaged in strategic competition.
+Even so, he said Huang's departure would not necessarily undermine Nvidia's competitiveness.
+"He's been the sole face of the company externally, but there are a lot of smart and capable people who have a hand in running a company like Nvidia," Gibbs said. "It's hard to imagine Nvidia collapsing without him."
