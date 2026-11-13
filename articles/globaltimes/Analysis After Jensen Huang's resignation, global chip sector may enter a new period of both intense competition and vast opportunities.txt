@@ -1,0 +1,43 @@
+TITLE:
+Analysis: After Jensen Huang's resignation, global chip sector may enter a new period of both intense competition and vast opportunities
+
+PUBLISHED:
+2026-11-13 23:00:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374252.shtml
+
+ARTICLE TEXT:
+Jensen Huang. Photo: VCG
+The sudden departure of Jensen Huang, who led Nvidia for 33 years and is widely regarded as an iconic figure in the global artificial intelligence (AI) industry, has drawn widespread attention from the global technology community and financial markets. 
+What potential impact could his departure have on Nvidia's business strategy, the US AI industry ecosystem and the global competitive landscape for computing power? 
+In interviews with the Global Times, experts said that the global chip industry could enter a new period of intense competition - like the "Warring States period" in Chinese history, with some chipmakers poised to seize fresh opportunities to expand their footprint and secure spots in more customers' supply chains.
+Challenges for corporate governance
+Some analysts believe that Huang's departure could pose challenges to Nvidia's corporate governance and strategic continuity. 
+Liu Dian, an associate research fellow at the China Institute of Fudan University, told the Global Times that Huang's role at Nvidia went far beyond day-to-day management. For years, he had played a central role in shaping the company's technological direction, building its industry ecosystem, coordinating supply chains, and communicating with global customers and policymakers. 
+Such a highly centralized, founder-led leadership model would be difficult to fully replicate in a short period of time, Liu Dian said. "The real period to watch is not just the next few quarters of financial performance, but the execution of Nvidia's strategy over the next one to three years."
+According to Liu Dian, key questions include whether Nvidia can maintain its rapid pace of product development, continue coordinating with advanced packaging providers, memory suppliers, foundries and data center customers, and sustain its competitive advantages in the Compute Unified Device Architecture ecosystem and hardware-software integration.
+"Huang's departure does not mean Nvidia's technological leadership will immediately be shaken, but it does mean that capital markets will increasingly shift their focus from confidence in the founder's judgment to a closer examination of the company's governance structures, management team and cash flow," Liu Dian said.
+Liu Shaoshan, director of the Embodied AI Center at the Shenzhen Institute of Artificial Intelligence and Robotics for Society, shared a similar view. He said Huang's greatest contribution was not merely developing industry-leading GPUs, but, more importantly, building a comprehensive AI computing ecosystem through CUDA.
+"This technological barrier will not disappear with his departure, but his strategic leadership and ability to integrate industry resources will be difficult to replace. Nvidia will lose its central pillar of leadership," Liu Shaoshan said.
+Impact on US AI investment
+As a key player in driving the expansion of global AI infrastructure, Nvidia faces growing uncertainty over its future direction following Huang's departure, with the potential implications for the US AI industry also drawing attention from foreign media in recent days.
+Reuters reported that as Huang stepped down on Thursday, investors' biggest fears were as much about the future of the multitrillion-dollar company as its ability and willingness to continue bankrolling the AI boom. 
+On Thursday, Fortune magazine cited an analyst as saying that "NVIDIA's leadership crisis is a stress test for the AI boom." The report noted that Nvidia has become the "central bank" of the AI industry, providing financing to dozens of other companies. Given the importance of spending on AI and data centers to the broader US economy, the potential impact of Nvidia's leadership shake-up should not be underestimated.
+An Bo, a President's Chair Professor and Head of Division of Artificial Intelligence at the College of Computing and Data Science of Nanyang Technological University, told the Global Times that turmoil at Nvidia could amplify existing concerns over investment returns in the US AI industry, making financing more expensive and project approvals more cautious. This could, in turn, delay data center construction, chip purchases and model training plans.
+AI computing cloud providers and small and medium-sized AI model companies that rely on continuous financing would likely be the first to feel the impact, An Bo said. Major technology companies, however, still have cash flow, existing computing resources and long-term contracts to support their operations. As a result, the more likely consequences would be slower expansion, greater concentration of resources among a handful of tech giants, and a stronger emphasis on efficiency and commercial returns in investment decisions.
+Reuters also reported that the worry in the market is that the stakes are far higher and that if Nvidia — under a different leader — backs away from a strategy of financing data centers, then the AI boom itself loses momentum.
+The Washington Post reported on Thursday that recent actions by lawmakers suggest that more potentially damaging revelations about Nvidia could be in store as Huang is hauled before committees — and Democrats make the US administration's export control policies a central part of their tech oversight agenda next year.
+'Warring States period'
+Some industry insiders believe that Huang's departure could have ripple effects across the global AI industry, introducing new uncertainties into the competitive landscape.
+Liu Shaoshan said Huang's departure could prompt major technology companies to accelerate the development of their own chips and diversify their computing architectures. 
+"More importantly, the AI industry is shifting from large language model training toward large-scale inference and embodied AI. Future competition will gradually move beyond computing power alone to encompass computing architectures, software ecosystems and application costs. This development could usher in a 'Warring States period' for the chip industry," the expert said.
+Liu Shaoshan further noted that the "Warring States period" refers to a scenario in which multiple players compete for dominance in the chip industry. Established industry giants will begin to see their advantages challenged by new technologies and emerging demands, while different computing architectures will gain fresh opportunities to compete, he said, noting that domestic chip industries in some countries will also have new opportunities for development.
+For companies around the world, this could be one of the most important industrial opportunities of the next decade, Liu Shaoshan said. Future competition will no longer be simply about whose chips offer greater computing power, but about who can anticipate the direction of next-generation AI development earlier and build the computing architectures, software ecosystems and supply chains to support it, he said. Those that seize the opportunities presented by this wave of technological change could emerge as the next global chip giants.
+Meanwhile, An Bo said that some chipmakers will gain more opportunities to enter customers' supply chains.
