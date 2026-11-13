@@ -1,0 +1,31 @@
+TITLE:
+US uses French supermarket cyberattacks to smear Chinese AI, fueling broader tech containment push: analyst
+
+PUBLISHED:
+2026-11-13 18:17:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374239.shtml
+
+ARTICLE TEXT:
+A woman browses frozen food at a supermarket in France. Photo: VCG
+US Treasury Secretary Scott Bessent's attempt to link recent cyberattacks on French supermarket refrigerators to a Chinese artificial intelligence (AI) model, without presenting publicly available technical evidence, has raised questions over Washington's politicization of cybersecurity issues and its broader efforts to discredit Chinese technology, a Chinese expert said on Friday.
+Speaking at the Heritage Foundation on Thursday, Bessent claimed that a Chinese AI model had been used in cyberattacks targeting refrigeration systems at French supermarkets, Bloomberg reported.
+"I don't know who here saw the refrigerators and 150 grocery stores in France that got turned off," Bessent said. "That was a Chinese model." The US official also claimed that Chinese models "are dangerous because they don't have guardrails on" their versions of the AI tools, according to Bloomberg.
+Bessent's remarks, which offered no publicly available technical evidence linking the cyberattacks to Chinese AI, raise questions about the basis of the allegation, Hu Qimu, a professor at the Maritime Silk Road Institute of Huaqiao University, told the Global Times.
+Cybersecurity incidents are complex and should be examined through objective evidence and technical analysis, rather than being used to fuel politically driven accusations against Chinese technology, Hu said.
+Bessent's remarks came after French authorities on Monday accused Iran's Revolutionary Guard of responsibility for the October cyberattacks on commercial refrigeration systems across France. French officials warned that there would be consequences for Iran, Reuters reported.
+The incident had already attracted attention in China before Bessent made his remarks.
+On October 28, China's Ministry of State Security (MSS) published an article titled "What caused supermarket fresh food to spoil overnight?" highlighting the attacks on French supermarkets as an example of growing cybersecurity threats to interconnected physical infrastructure.
+According to the ministry, hackers reportedly exploited remote management interfaces to launch cyberattacks against the refrigeration systems of hundreds of large supermarkets across France. They remotely activated the forced-defrost function on refrigeration equipment and set the temperature to 50 C, destroying large quantities of fresh and frozen food products and causing losses that could reach millions of euros.
+The MSS warned that cyberattacks are no longer confined to stealing data in the virtual world, but can directly target physical systems and cause tangible damage. It also advised using strong passwords for all accounts, minimizing the exposure of industrial control devices to external networks and promptly disabling unnecessary remote access functions.
+The US has frequently imposed restrictions on Chinese technology companies on national security grounds in recent years, Hu said. By linking a cybersecurity incident in Europe to Chinese AI, Washington could further reinforce the so-called China technology threat narrative and create another pretext for suppressing China's AI development, the expert noted.
+In contrast to Washington's approach of politicizing AI security issues and overstretching the concept of national security, China has consistently emphasized balancing AI development with security and actively participated in global AI safety governance.
+For example, China has put forward the Global AI Governance Action Plan in 2025, calling on all parties to take concrete and effective actions in advancing global AI development and governance based on the objectives and principles of promoting AI for good and in service of humanity, respecting national sovereignty, aligning with development goals, ensuring safety and controllability, upholding fairness and inclusiveness, and fostering open cooperation.
+In the face of common security challenges posed by AI, countries should strengthen communication and cooperation, jointly prevent the misuse of technology and promote the safe and healthy development of AI, said Hu.
