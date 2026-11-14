@@ -2,7 +2,7 @@ TITLE:
 Latest Releases
 
 PUBLISHED:
-2026-11-10
+2026-11-14
 
 SOURCE:
 National Bureau Statistics English
@@ -29,33 +29,33 @@ Release Calendar
 Home
 >
 Latest Releases
-1.Consumer Price Index in October 2026
+1.Market Prices of Important Means of Production in Circulation,November 1-11, 2026
+2026-11-14
+2.Consumer Price Index in October 2026
 2026-11-10
-2.Industrial Producer Price Indexes in October 2026
+3.Industrial Producer Price Indexes in October 2026
 2026-11-10
-3.Market Prices of Important Means of Production in Circulation,October 21-31, 2026
+4.Market Prices of Important Means of Production in Circulation,October 21-31, 2026
 2026-11-04
-4.Purchasing Managers’ Index for October 2026
+5.Purchasing Managers’ Index for October 2026
 2026-11-01
-5.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
+6.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
 2026-10-31
-6.Profits of Industrial Enterprises above the Designated Size from January to September i...
+7.Profits of Industrial Enterprises above the Designated Size from January to September i...
 2026-10-28
-7.Market Prices of Important Means of Production in Circulation,October 11-20, 2026
+8.Market Prices of Important Means of Production in Circulation,October 11-20, 2026
 2026-10-24
-8.China Innovation Index Grows by 6.4% Year on Year in 2025
+9.China Innovation Index Grows by 6.4% Year on Year in 2025
 2026-10-24
-9.Preliminary Accounting Results of GDP for the Third Quarter of 2026
+10.Preliminary Accounting Results of GDP for the Third Quarter of 2026
 2026-10-21
-10.Industrial Production Operation in September 2026
+11.Industrial Production Operation in September 2026
 2026-10-20
-11.Investment in Fixed Assets from January to September 2026
+12.Investment in Fixed Assets from January to September 2026
 2026-10-20
-12.Investment in Real Estate Development from January to September 2026
+13.Investment in Real Estate Development from January to September 2026
 2026-10-20
-13.Total Retail Sales of Consumer Goods from January to September 2026
+14.Total Retail Sales of Consumer Goods from January to September 2026
 2026-10-20
-14.Energy Production in September 2026
-2026-10-20
-15.Households’ Income and Consumption Expenditure in the First Three Quarters of 2026
+15.Energy Production in September 2026
 2026-10-20

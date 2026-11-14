@@ -1,0 +1,33 @@
+TITLE:
+With less than a week left, AI assistants, multilingual translation terminals and driverless shuttles appear in Shenzhen to greet visitors
+
+PUBLISHED:
+2026-11-13 23:59:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374259.shtml
+
+ARTICLE TEXT:
+A humanoid robot greets visitors at a coffee kiosk in Shenzhen on October 11, 2026. Photo: VCG
+The 33rd APEC Economic Leaders' Meeting will be held in Shenzhen, South China's Guangdong Province, on November 18-19. With less than a week to go before the meeting opens, the city has entered what it calls "APEC time," as preparations are in full swing. From AI-powered airport services and autonomous driving to next-generation communications networks, Shenzhen is set to showcase how technological innovation is reshaping urban life and facilitating international exchanges.
+As a key transportation hub in the Guangdong-Hong Kong-Macao Greater Bay Area, Shenzhen Bao'an International Airport will serve as the first stop for many APEC delegates arriving in the city. In preparation for the event, the airport has launched a new AI-powered travel assistant, an intelligent agent capable of interacting with passengers in multiple languages and providing real-time answers to questions about entry procedures, transportation connections and other travel-related matters.
+Multilingual AI translation terminals have also been installed at the ground transportation center's information desk and the service center for international passengers, supporting real-time translation in 38 languages.
+The airport is also accelerating the development of smart services, including an international facial recognition boarding system. Incoming passengers can submit their entry information in advance using electronic QR codes. During immigration clearance, a dual-screen, dual-camera information collection device can complete the collection of passenger information in as little as one minute, further improving clearance efficiency.
+At an autonomous driving bus shelter near Luohu Port, Shenzhen's Level 4 autonomous driving route, the first to operate in a bustling downtown area, is offering another glimpse of the city's smart mobility ambitions.
+The minibuses are equipped with more than 20 sensors, including LiDAR and cameras, enabling 360-degree environmental perception and autonomous obstacle avoidance. Large central control screens inside the vehicles display real-time road conditions in digital form, according to the China National Radio (CNR).
+Self-driving vehicles are now available in multiple districts across Shenzhen. Passengers can unlock the vehicles with a passcode, while the vehicles can independently recognize traffic lights, change lanes and navigate complex intersections. An in-car AI assistant can also respond to voice commands, allowing passengers to choose music to listen to, activate a massage chair or change the temperature. 
+Communications infrastructure is also being upgraded to support the international event. At transportation hubs and border checkpoints, the deployment of ultra-high-bandwidth coordinated networking technology is designed to ensure uninterrupted connectivity as users move across different areas. Field tests have recorded peak downlink speeds of 1.5 gigabits per second, while maintaining stable speeds of 10 megabits per second even during peak periods involving tens of thousands of users. The technology has significantly improved network performance in high-density environments.
+Modern Diplomacy, an online platform covering international affairs, noted that Shenzhen was chosen to host this year's APEC meeting particularly given its reputation as China's Silicon Valley and a global hub for AI and embodied intelligence. The city will showcase its advanced industrial ecosystem in robotics, new vehicles, and the digital economy, aiming to connect markets and economies across the Asia-Pacific region.
+In the first three quarters of this year, Shenzhen's value-added output in high-tech manufacturing increased by 11.6 percent year-on-year, while that of advanced manufacturing rose by 11.9 percent. Output of major high-tech products also maintained rapid growth. Production of 3D printing equipment, industrial robots and lithium-ion batteries increased by 77.8 percent, 44.1 percent and 38.5 percent, respectively, according to data released by the Shenzhen municipal statistics bureau on October 23.
+Global Times 
+A staff member at a tech company in Shenzhen assembles a window-cleaning robot on November 9, 2026. Photo: VCG
+A driverless taxi operates in Shenzhen, South China's Guangdong Province, on October 12, 2026. Photo: VCG
+An international shopper tries out products in a store in Huaqiangbei on November 7, 2026. Photo: VCG
+Various AI smart devices are displayed in Shenzhen's Huaqiangbei electronics market on November 7, 2026. Photo: VCG
+A red quadruped robot patrols and performs on a colorful street in Shenzhen on November 6, 2026. Photo: VCG
