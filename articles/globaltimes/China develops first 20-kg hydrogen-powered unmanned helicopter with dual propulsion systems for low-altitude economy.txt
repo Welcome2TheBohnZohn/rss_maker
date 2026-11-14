@@ -1,0 +1,26 @@
+TITLE:
+China develops first 20-kg hydrogen-powered unmanned helicopter with dual propulsion systems for low-altitude economy
+
+PUBLISHED:
+2026-11-14 12:35:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374276.shtml
+
+ARTICLE TEXT:
+China's first 20-kilogram-class hydrogen-powered unmanned helicopter undergoes offshore flight testing. Photo: Screenshot from the Science and Technology Daily
+A Chinese research team has developed China's first 20-kilogram-class hydrogen-powered unmanned helicopter, while developing two propulsion systems: one powered solely by a pure hydrogen fuel cell and the other combining hydrogen-lithium hybrid technologies to provide greener propulsion for the low-altitude economy, the Science and Technology Daily reported on Friday. 
+The research team led by Mao Qing, associate professor at the School of Chemical Engineering, Dalian University of Technology, has so far developed two operational models. One of the models is powered by a hydrogen fuel cell system equipped with a 12-liter hydrogen cylinder rated at 35 megapascals (MPa), providing an endurance of up to three hours. The other model features a hydrogen-lithium hybrid system with a 5-liter, 35-MPa hydrogen tank, offering 1.5 hours of flight time. 
+Conventional lithium-battery-powered drones in the same weight class typically offer only about 30 minutes of flight time. With their high energy density, hydrogen fuel cells offer a promising solution to the limited flight endurance that has long hindered the wider application of electric aircraft, the Science and Technology Daily reported. 
+The team’s own propulsion system also helped extend the helicopter’s flight time. The team's air-cooled fuel cell system passed tests under varying temperatures, humidity levels and salt-spray conditions, demonstrating stable performance and strong environmental resilience, while the team's independently developed membrane electrode also supports longer drone flight times with greater weight and power margins. 
+At the whole-aircraft level, the team has developed an integrated control module combining power system monitoring, spectroscopic diagnostics and intelligent control, creating a closed-loop system that enables seamless integration of its independently developed fuel cells with the aircraft platform. 
+The drone series has successfully completed offshore cruise tests in strong winds, demonstrating stable flight and strong adaptability to challenging environments, with potential applications in urban inspections, offshore operations and mountain surveys. 
+This technological breakthrough integrates hydrogen energy and chemical engineering with aircraft engineering, establishing a critical pathway for the application of hydrogen-powered low-altitude equipment, bridging the gap between propulsion system development and complete aircraft integration.
+Mao said the team plans to further improve both aircraft variants, advance core fuel cell technologies and strengthen industry-academia-research collaboration to accelerate application and commercialization, and support the growth of China's new-energy low-altitude aviation sector. 
+Global Times

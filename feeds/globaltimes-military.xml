@@ -7,7 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 03:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:13:23 +0000</lastBuildDate>
+    <item>
+      <title>Developer of China's J-35 series fighter jets uses 3D printing to advance warplane structural development, building lighter, stronger aircraft</title>
+      <link>https://www.globaltimes.cn/page/202611/1374287.shtml</link>
+      <description>Published: 2026-11-14 15:00:00
+
+A J-35 stealth fighter jet is ready to take off from China's first electromagnetic catapult-equipped aircraft carrier, the Fujian (Hull 18). Three types of aircraft recently completed their inaugural electromagnetic catapult-assisted takeoff and arrested landing trainings on the aircraft carrier.(eng.chinamil.com.cn/Photo by Ju Zhenhua)
+As aviation equipment advances toward lighter, higher-performance and multifunctional designs, 3D printing is emerging as a key technology for overcoming traditional manufacturing constraints. A key laboratory at AVIC Shenyang Aircraft Design and Research Institute, the developer of China's J-35 series fighter jets, has made breakthroughs in the practical application of 3D printing in aircraft development, according to a WeChat post by the Aviation Industry Corporation of China (AVIC) on Saturday.
+In traditional aircraft structural development, design and manufacturing are often disconnected. This approach can lead to development delays, excessive weight and cost overruns, making it difficult to meet the growing demand for lightweight, high-efficiency, long-lasting, multifunctional and cost-effective aircraft structures that can be developed rapidly.
+The advances in 3D printing technology at the Key Laboratory of Aviation Science and Technology for Novel Aircraft Structures under AVIC's Shenyang Aircraft Design and Research Institute are helping overcome the constraints of conventional manufacturing, enabling greater design flexibility and more efficient aircraft structural development, according to the release.
+AVIC's Shenyang Aircraft Design and Research Institute, China's first aircraft design and research institute, has undertaken the development of more than 40 major aviation equipment models across five series, including the J-8, J-11, J-15, J-35 and unmanned aircraft, according to people.com.cn.
+"With no need for molds, rapid production capabilities and the ability to fabricate complex structures, 3D printing plays an important role in aircraft development. It enables the integration of design and manufacturing, as well as structure and function, giving designers greater freedom," Cui Can, deputy director of the laboratory, was quoted by the AVIC release as saying.
+Cui added that 3D printing serves as a key accelerator, particularly during the prototyping of new aircraft, allowing a wide range of innovative structural designs to be rapidly turned into physical components for testing and evaluation.
+3D printing technology is driving the manufacturing of large aircraft structures toward greater integration. In recent years, the laboratory has achieved breakthroughs in developing primary load-bearing aircraft structures, successfully producing an integrated structural component measuring more than five meters in length using 3D printing technology. Located in the aircraft's central fuselage, the component primarily serves to bear and transfer structural loads, according to AVIC.
+Installed inside an aircraft's air intake, the 3D-printed multifunctional annular heat exchanger integrates heat transfer, air extraction, load-bearing and maintenance functions. With the help of 3D printing technology, the research team also incorporated manufacturing requirements into the design process from the outset, developing complex internal flow channels that increase the heat transfer surface area while reducing the component's weight.
+Turning a successfully printed laboratory prototype into a component suitable for actual aircraft applications required overcoming major challenges in manufacturing and engineering validation.
+To address thermal stress, deformation and cracking during the printing of large components, the team developed an innovative process combining segmented component printing and additive fusion joining.
+To overcome difficulties in finishing the intricate internal channels of the annular heat exchanger, the researchers independently developed a specialized magnetic grinding device. By placing fine steel needles inside the flow channels and controlling their movement with an external magnetic field, the device enables the needles to slide, tumble and polish the internal surfaces without damaging the structure.
+Over more than two decades, the laboratory has pursued a path of innovation, progressing from technological exploration to engineering applications and from individual breakthroughs to the development of comprehensive technological capabilities. To date, it has successfully applied six additive manufacturing processes, 13 types of metal materials and 19 categories of 3D-printed structural components in aircraft development programs, said the release.
+The team has established a comprehensive technological development framework encompassing the incubation of novel structural concepts, breakthroughs in key technologies and engineering development. These efforts have helped overcome technical bottlenecks in aircraft development and advance innovation in aircraft structural technologies.
+The continued advancement and wider application of 3D printing technology have made innovative structural concepts a reality, including large-scale integrated structures, topology-optimized configurations, functionally graded composite structures and the integration of structural and functional capabilities. These advances are expected to enhance the overall performance and quality of airframe structures while supporting China's pursuit of self-reliance and strength in aviation science and technology.
+Global Times</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1374287.shtml</guid>
+    </item>
     <item>
       <title>Chinese and US defense establishments maintain coordination on dialogues at different levels: Chinese defense ministry</title>
       <link>https://www.globaltimes.cn/page/202611/1374229.shtml</link>
@@ -226,19 +249,6 @@ Once the system has been tested on the
 Sichuan
  and sufficient test data has been collected, it could potentially be introduced on other carriers equipped with electromagnetic catapults, he added. "This would expand the range of aircraft operating from our carriers and further enhance their unmanned combat capabilities."</description>
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1373852.shtml</guid>
-    </item>
-    <item>
-      <title>Successful takeoff &amp; landing of China's GJ-21 shipborne stealth drone marks milestone for new combat capabilities; China pursues defensive defense policy: spokesperson</title>
-      <link>https://www.globaltimes.cn/page/202611/1373796.shtml</link>
-      <description>Published: 2026-11-06 15:54:00
-
-Chen Xi, spokesperson of China's Ministry of National Defense
-The successful first takeoff and landing of the GJ-21 stealth drone on the amphibious assault ship Sichuan marks an important milestone in developing the PLA's new-domain and new-quality combat capabilities, Chen Xi, a spokesperson of the Ministry of National Defense, said on Friday, stressing that China pursues peaceful development and consistently follows a defensive national defense policy. 
-Chen made the remarks when asked to comment on reports which claimed China's first carrier-based stealth strike and reconnaissance drone has completed takeoff and landing trials aboard the Sichuan. Some media argue this will extend the PLA Navy's long-range operational reach and shift the maritime power balance in the Western Pacific.
-Guided by operational requirements and keeping pace with global military technological advances, we are accelerating the modernization of weaponry and equipment — purely to safeguard national sovereignty, security and development interests, Chen said. 
-China remains a force for peace, stability and progress in the world, Chen added.
-Global Times</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1373796.shtml</guid>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,36 @@
+TITLE:
+China's nuclear power sector moves toward smarter, greener development
+
+PUBLISHED:
+2026-11-14
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261114/5953bd22d99c42fb907a5cea9f5ee9aa/c.html
+
+ARTICLE TEXT:
+FUZHOU, Nov. 14 (Xinhua) -- At the command center of the Ningde nuclear power plant in east China, parameters streamed across a giant screen. A technician put on a smart AR helmet and completed a maintenance inspection in minutes, offering a glimpse of how digital tools are reshaping China's nuclear power industry.
+The helmet integrates voice interaction, temperature and vibration measurement, and high-intensity lighting. Using diffractive waveguide technology, it projects equipment drawings, work orders and operating procedures into the wearer's field of view.
+Voice commands are enough to confirm records, said Xiong Shaoyong, a technical specialist at the nuclear base.
+The system has raised data-entry efficiency by more than 50 percent and improved on-site work efficiency by over 25 percent, Xiong said.
+The base, the first nuclear power facility in Fujian, now has four units in commercial service. Its second phase, comprising two Hualong One units, is under construction.
+As digital tools reshape frontline maintenance, China's nuclear power industry is advancing a smarter, more efficient operating model, with digitalization and decarbonization serving as twin engines of high-quality development.
+At the Ningde base, digitalization is reshaping operations and construction. To address the challenges of densely packed equipment, confined spaces and the risks involved in manual inspections, the plant's operator has built a multi-layered unmanned inspection system and a digital twin platform integrating panoramic imaging, 3D modeling and multi-source data.
+On the construction site of the next two units, a smart management platform enables real-time monitoring of personnel positioning, tower crane operations and potential safety hazards.
+"Hualong One is a third-generation nuclear power technology with China's proprietary intellectual property," said a project official responsible for the Phase II project. "Its safety and performance indicators have reached the advanced level of international third-generation nuclear technology, and it has become a signature technology for China's nuclear power industry."
+Beyond intelligent operations, the base is pursuing green development. A nearly 200-mu (about 13.3-hectare) native white tea plantation grows along the hillsides within the base area, forming what the operator describes as an outstanding ecological demonstration site among nuclear power stations worldwide.
+Surrounding seawater quality and vegetation coverage have remained stable, while nearby villages have benefited from industrial tourism and other local development opportunities.
+According to Fujian Ningde Nuclear Power Co., the base's operator, the base had delivered a cumulative on-grid electricity volume of more than 340.24 billion kilowatt-hours by the end of 2025, saving significant amounts of standard coal and cutting carbon dioxide emissions.
+China had 59 commercial nuclear units in operation by the end of 2025, with a total installed capacity of 62.52 million kW, according to a newly released blue book by the China Nuclear Energy Association.
+In 2025, nuclear power generated 467.7 billion kWh, accounting for 4.82 percent of the country's total electricity generation and reducing carbon dioxide emissions by roughly 350 million tonnes.
+A stable and capable domestic supply chain remains central to the sector's development. China has achieved full localization of main nuclear power equipment and independent control of key components, with domestic manufacturers delivering 148 sets of main nuclear equipment in 2025.
+The industry has formed a complete life-cycle capability covering planning, construction, cold testing and commercial operation, and according to the nuclear energy blue book, it now has the capacity to build up to 50 nuclear units simultaneously.
+Technological upgrading is accelerating. China General Nuclear Power Corporation has introduced a new generation of intelligent industrial control systems, which provide fault warning, smart monitoring and decision support.
+Across the country, quadruped robots and autonomous drone systems are being deployed at nuclear power bases to inspect equipment in real time, while Hualong One reactors have entered serial construction.
+Wang Shoujun, president of the Chinese Nuclear Society, said that promoting the digital and intelligent transformation of China's nuclear industry is an inevitable trend for high-quality development.
+"AI will serve as a core driver for better quality, higher efficiency and enhanced safety throughout nuclear energy's lifecycle, and nuclear power can underpin the AI sector with stable zero-carbon power," Wang said. ■
