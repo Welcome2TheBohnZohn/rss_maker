@@ -1,0 +1,32 @@
+TITLE:
+US air traffic outage lays bare infrastructure underinvestment, structural flaws in country's political system: expert
+
+PUBLISHED:
+2026-11-15 17:38:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374319.shtml
+
+ARTICLE TEXT:
+Passengers wait at Ontario International Airport following flight delays in Ontario, California, the United States, on November 13, 2026. The US Federal Aviation Administration lifted a nationwide ground stop on Friday evening after hours of disruption affected thousands of flights across the country. Photo: Xinhua
+A massive, nearly five-hour shutdown of the US aviation system that has disrupted more than 20,000 flights since Friday may have been the fault of a single router installed by government contractor L3Harris, US government officials said Saturday, Reuters reported, calling the incident the latest and most dramatic sign of strain on a US air traffic control system.
+US Transportation Secretary Sean Duffy told a news conference on Saturday local time that a contractor for the Federal Aviation Administration (FAA) was working at a remote location to replace a copper line when an unknown issue overloaded the aging air traffic control system, forcing the FAA to keep planes on the ground nationwide, CBC News reported. 
+Speaking at a White House news conference Friday evening, Duffy blamed outdated routers and decades-old technology for Friday's nationwide FAA ground stop, urging Congress to approve $50 billion in emergency funding to rebuild the country's aging air traffic control system, Fox Business reported. 
+As of 6:45 pm, airlines on Saturday had canceled more than 6,150 US flights and delayed more than 7,300, according to FlightAware, an aviation website. That followed about 9,200 flights canceled and 7,500 delayed on Friday after the FAA ordered a nationwide ground stop because of disruptions to air traffic communications. FlightAware said more than 530 flights scheduled for Sunday were already canceled, per Reuters.
+The FAA issued a nationwide ground stop on Friday that halted nearly all departing flights for almost five hours. It was the longest nationwide halt to air travel since the September 11, 2001, attacks and one of the single worst US travel days ever, Reuters reported. 
+During a Saturday news conference explaining why the FAA instituted a nationwide ground stop for all flights Friday, Duffy claimed a technical issue may have occurred while federal telecommunications contractor L3Harris was doing work on an FAA telecommunications line, according to Fox Business. 
+Duffy continued to explain that while L3Harris was upgrading the network from copper lines to fiber-optic cables, the FAA's router at that location began experiencing a flood of data causing it to be overwhelmed — an issue that quickly spread to routers at other FAA air traffic control systems nationwide, Fox Business reported. 
+Duffy blamed Congress for failing to fund a new system that he said could prevent such outages and called for $50 billion US to modernize it.
+Earlier on Friday, before the outage, the White House and US Department of Transportation had urged Congress to approve $30.1 billion to upgrade the nation's aging airports and air traffic control infrastructure, according to CBC News. 
+According to Wang Hao, a professor at Fudan University's Center for American Studies, aging US infrastructure reflects not only underinvestment and slow technological upgrades but also deeper structural problems within the country's political system. 
+On the one hand, the division of responsibilities and authority among federal, state and local governments under the US federal system, coupled with deepening partisan polarization, makes it difficult to build a stable consensus on long-term infrastructure investment. On the other hand, the influence of interest groups on policymaking and regulatory processes has led some industries to favor protecting their existing interests rather than proactively shouldering the costs of safety upgrades and technological modernization, Wang told the Global Times on Sunday. 
+Hong Kong's Cathay Pacific Airways issued a statement on Saturday that due to the nationwide ground stop previously issued by the US FAA, all flights to and from the US were affected. Two Cathay Pacific flights departing from the US on November 13 local time (CX807 and CX879) were delayed as a result of the restrictions. The airline arranged hotel accommodation for affected passengers. 
+Zheng Hongfeng, CEO of industry information provider VariFlight, told the Global Times on Sunday that the incident temporarily grounded flights, but the disruption affected a relatively wide area. 
+According to Zheng, the disruption, which affected US nationwide flight operations for more than four hours, underscores the critical role of digital system security and reliability in national aviation operations, highlighting the need for increased investment in digital infrastructure as the industry enters the AI era. 
+The civil aviation industry is facing new operational challenges that require technological solutions. This is a new issue confronting aviation professionals worldwide, Zheng said.

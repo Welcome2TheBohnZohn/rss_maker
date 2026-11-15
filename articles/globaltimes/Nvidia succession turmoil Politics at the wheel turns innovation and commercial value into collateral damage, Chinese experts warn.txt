@@ -1,0 +1,34 @@
+TITLE:
+Nvidia succession turmoil: Politics at the wheel turns innovation and commercial value into collateral damage, Chinese experts warn
+
+PUBLISHED:
+2026-11-15 13:11:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374313.shtml
+
+ARTICLE TEXT:
+Nvidia Photo: VCG
+Nvidia's struggle to chart a succession path after the departure of founder and CEO Jensen Huang has exposed a deeper problem facing the US tech industry: As political pressures increasingly spill into corporate affairs, even the world's most successful technology companies could find it harder to safeguard management stability, strategic autonomy and the conditions needed for innovation, Chinese experts said.
+The uncertainty has spread from the boardroom to the stock market and the company's workforce. Nvidia shares have recorded six straight weeks of declines, their longest losing streak since October 2012, read a Reuters report.
+Meanwhile, a public petition calling for Huang's reinstatement had attracted more than 108,000 signatures by Saturday, according to a US-based news outlet Business Insider, reflecting growing support for the former CEO beyond the company's workforce.
+The leadership succession question took another turn after the Financial Times reported on Friday that Nvidia's board had approached Arm CEO Rene Haas as a potential candidate. Haas spent seven years at Nvidia, rising to vice president and general manager of its computing products business, before joining Arm in 2013. Nvidia's board subsequently said it was selecting a search firm and had not formally approached any potential candidates, adding that speculation about individual candidates was premature. CFO Colette Kress is currently serving as interim CEO, according to the company's official statement. 
+The developments highlight a fundamental challenge for Nvidia: How to replace a founder whose influence has extended far beyond executive management. Zhou Mi, a senior research fellow at the Chinese Academy of International Trade and Economic Cooperation, told the Global Times that Nvidia's development had largely revolved around Huang, leaving its corporate governance structure vulnerable to disruption should its central figure suddenly depart.
+The change has brought considerable uncertainty to the company's operations, business performance and investor expectations, Zhou said.
+Xiang Ligang, director-general of the Zhongguancun Modern Information Consumer Application Industry Technology Alliance, said Huang had led Nvidia for more than three decades, transforming it from a relatively small chipmaker into one of the world's most valuable technology companies. Particularly during the recent AI boom, Huang played an indispensable role in shaping the company's technology roadmap, strategic planning and long-term development.
+Nvidia had not established a clear successor capable of independently assuming Huang's role in long-term strategic decision-making, Xiang said. His departure therefore represents more than a routine executive reshuffle, potentially leaving the company temporarily without a clear strategic center. This helps explain why some employees are calling for Huang's return, he said.
+Yet the succession challenge also raises broader questions about the political environment in which US technology companies operate.
+Huang's departure came after a period of heightened media scrutiny in the US, with some Western media reports drawing connections between controversies surrounding his private life and politically charged allegations of alleged links to the "China spy." 
+Although Beijing has firmly rejected the "Chinese spy" narrative, stressing that China's sci-tech progress relies on independent innovation and open cooperation, and urged Washington to stop fabricating such narratives as a pretext for imposing technology restrictions, the smear campaign continues to cast a shadow over Nvidia's corporate governance and future development.
+Xiang said the circumstances and timing surrounding the controversies preceding Huang's departure deserved closer scrutiny. He noted that the issue could involve political and commercial interests beyond an ordinary corporate management dispute, although the possibility of political involvement should not be confused with an established finding.
+As one of the few companies to have translated surging AI demand into substantial revenue and profits, Nvidia occupies a pivotal position in the global AI supply chain. Its leadership uncertainty could therefore have repercussions well beyond the company itself.
+"The increasingly restrictive policy environment facing US technology companies had introduced additional uncertainty into their business decisions," Zhou said. With different voices in the US government advocating varying degrees of regulation and intervention, companies could find themselves having to assess political risks alongside market demand and technological feasibility, he added.
+This shift in decision-making priorities could undermine the foundations of technological innovation, Zhou said. When companies devote more attention to anticipating political developments and regulatory changes, their willingness to undertake risks and invest in uncertain technological breakthroughs may diminish. Policy uncertainty can also increase the potential costs and losses associated with innovation, while affecting corporate operations and the movement of talent, he noted.
+The implications also extend to global business cooperation. China remains an important market for the global semiconductor and AI industries, and the ability of companies such as Nvidia to pursue normal commercial cooperation across markets depends heavily on a stable and predictable policy environment. Business decisions should be guided by market demand, technological development and commercial interests - not political calculations.
+For Nvidia, its future leadership arrangements will ultimately be a corporate decision. But maintaining healthy and mutually beneficial business ties with China would also serve the company's long-term interests. More broadly, stable China-US economic and technological cooperation requires businesses to be able to make decisions on commercial grounds, without unnecessary political interference, Chinese experts noted.
