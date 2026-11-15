@@ -1,0 +1,22 @@
+TITLE:
+Chinese firm unveils world's first fully integrated analog chip for one-step matrix solving
+
+PUBLISHED:
+2026-11-15 20:46:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374333.shtml
+
+ARTICLE TEXT:
+Anatrix's AX100 analog computing chip Photo: Screenshot of the Science and Technology Daily's report
+Chinese chip developer Anatrix has unveiled the AX100, which it describes as the world's first fully integrated analog computing chip capable of solving matrix equations in a single step. The chip completed tape-out in October and solved a matrix equation in under 100 nanoseconds in tests, the Science and Technology Daily reported on Sunday.
+Matrix equations help AI models learn, robots adjust their movements and mobile base stations process signals. Conventional digital chips typically solve these equations through a series of calculations. The AX100 represents an equation as an electrical circuit and reads the answer once the circuit settles into equilibrium, Xiang Rui, the company's CEO, said in the report.
+Anatrix tested the chip in three areas. In AI experiments involving two models, the method tested with the chip cut the computing cost of updating model parameters by 92 percent and 56 percent, respectively. In embodied AI, tests showed faster motion control and route planning, which could help robots respond more quickly as their surroundings change. In wireless communications, the company's evaluation found that the chip could process more data with the same amount of energy than the digital chips and GPUs used for comparison on a specific signal-processing task.
+The AX100 brings research published by a Peking University team in Nature Electronics in October 2025 onto a chip in about a year. The company said the chip can be manufactured using mature production processes, offering a way to accelerate some computing tasks that currently run on digital chips using existing manufacturing technology, according to the report. 
+Global Times

@@ -1,0 +1,30 @@
+TITLE:
+GT Voice: US chip curb debate cannot stymie China's AI progress
+
+PUBLISHED:
+2026-11-15 22:13:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374345.shtml
+
+ARTICLE TEXT:
+Production of semiconductor chip File photo: VCG
+Semiconductor Manufacturing International Corp (SMIC), China's largest contract chipmaker, reported a 123.4 percent year-on-year increase in net profit attributable to shareholders in the third quarter of 2026. Its performance reflects a broader trend in China's semiconductor industry, where growing market demand is translating into stronger commercial returns. Even if Washington tightens chip export restrictions further, China's artificial intelligence (AI) industry now rests on a firmer industrial foundation than a few years ago.
+Jensen Huang's resignation as Nvidia's CEO has sparked intense debate in recent days over its implications for US technology policy. Some observers said that his exit could weaken the chip industry's influence in Washington. 
+Given that many American chip companies have argued that their products should be allowed into China on commercial grounds, Huang's resignation could leave those commercial interests with a less influential voice in Washington, giving greater sway to overblown national security arguments that are increasingly influencing US technology policy.
+The political tug-of-war over US chip exports to China has been intense in Washington, but its impact on China's AI development may prove increasingly limited. Years of tightening export controls have accelerated China's efforts to build an AI industry that can stand on its own, with far less reliance on American chips. The result is an industry increasingly capable of moving forward without access to American technology.
+This resilience is built in China thanks to many years' strenuous efforts by Chinese companies. 
+Huawei, Cambricon and other Chinese chipmakers are constantly expanding their presence in the market, while Chinese technology companies are adapting their AI models and computing systems to a growing range of homegrown processors. Together, these developments are giving China an increasingly self-sustaining AI computing ecosystem, making the industry less vulnerable to external restrictions and less dependent on access to US technology.
+An important part of this picture is China's AI boom, which is opening up new commercial opportunities for its technology industry, including Chinese chipmakers. As demand grows, companies across the semiconductor supply chain have a massive market to expand their businesses and invest in research, development and innovation. SMIC, for instance, spent $258.4 million on research and development in the third quarter alone.
+This creates a virtuous cycle: the expanding AI market gives domestic chipmakers greater space to grow, generating revenues and profits that can be ploughed back into R&D. Such investment strengthens China's semiconductor industry and, in turn, supports its broader AI development. The progress China's AI industry has made in recent years demonstrates the strength of this cycle, even as the US has tightened its chip restrictions.
+The harder Washington tightens its technology restrictions, the more complicated the consequences could bring to the US itself. Reuters reported on Friday that Southeast Asia's chip and data center industries expect greater US scrutiny as Washington considers extending export controls.
+Whether or not these reports translate into policy, the possibility of broader US controls could prompt more Asian economies to reassess their dependence on American technology and accelerate their efforts to diversify their supply chains. This could create new opportunities for Chinese chipmakers, as regional economies seek to broaden their source of chip supplies.
+And, there could be growing difficulties facing Nvidia and other US chipmakers in the years to come. The growing uncertainty surrounding American chip export controls is increasingly becoming a burden on the industry Washington seeks to "protect." It is also a predicament that post-Huang's Nvidia has to confront.
+The semiconductor industry is built on deeply intertwined supply chains. Further US export controls could affect chipmakers and technology sectors in Asia, including China, but US companies may be among the first to bear the cost. Whatever the noises Washington makes, China's AI industry will move forward and keep gathering pace.
+Global Times
