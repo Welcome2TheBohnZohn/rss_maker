@@ -1,0 +1,28 @@
+TITLE:
+World's first 300-MW artificial-cavern compressed air energy storage plant connected to grid in China
+
+PUBLISHED:
+2026-11-16 16:33:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374385.shtml
+
+ARTICLE TEXT:
+An aerial view of the world's first 300-megawatt artificial-cavern compressed air energy storage power station, Yuanchu No 1, in Northwest China's Gansu Province. Photo: CCTV News
+The world's first 300-megawatt artificial-cavern compressed air energy storage (CAES) power station has been connected to the grid in Northwest China's Gansu Province, marking a major step in bringing the technology from experimental testing to large-scale engineering applications, CCTV News reported on Monday, citing China Energy Engineering Corporation (China Energy).
+The project, known as Yuanchu No 1, provides a new engineering example for diversifying China's compressed air energy storage technologies.
+The station has four air-storage caverns excavated in rock formations about 110 meters underground. It is equipped with a 300-MW generating unit and has an energy storage capacity of 1,800 megawatt-hours. With a round-trip efficiency of 72 percent, the facility can generate electricity continuously for six hours on a single discharge and has a projected annual power output of 600 million kilowatt-hours.
+Compressed air energy storage works by converting electricity into energy stored in compressed air, which can later be converted back into electricity when needed.
+Artificially excavated hard-rock caverns offer an alternative to natural underground storage spaces such as salt caverns. Suitable rock formations are more widely distributed, allowing greater flexibility in site selection, although construction costs are relatively high, according to a report by China Electric Power News published on the website of the Chinese Academy of Sciences' Institute of Engineering Thermophysics.
+The report noted that suitable salt formations are concentrated in parts of central, eastern and southern China, while the country's northern regions, which have extensive wind and solar power installations and strong demand for large-scale energy storage, lack suitable geological conditions for salt cavern storage.
+The Gansu project reached a key testing milestone in September, when an initial air-injection test at its No. 4 underground storage cavern succeeded, with pressure reaching 12.63 mega-pascals, setting a record for compressed air storage in large artificial caverns, according to China Energy.
+The grid connection comes amid rapid growth in China's new energy storage sector. The country's installed new energy storage capacity reached 136 million kilowatts by the end of 2025, up 84 percent from a year earlier, according to the National Energy Administration (NEA).
+Lithium-ion batteries accounted for 96.1 percent of the total, while compressed air storage, flow batteries, flywheels and other technologies made up the remaining 3.9 percent. Energy storage projects with a duration of four hours or longer accounted for 27.6 percent of total installed capacity, up about 12 percentage points from the end of 2024, the NEA said.
+China is also seeking to diversify its energy storage technologies under its development plan for the 15th Five-Year Plan period (2026-2030). The plan, jointly issued by the National Development and Reform Commission and the NEA, sets a target of 300 million kilowatts of installed new energy storage capacity by 2030, with an average storage duration of about three hours.
+Global Times
