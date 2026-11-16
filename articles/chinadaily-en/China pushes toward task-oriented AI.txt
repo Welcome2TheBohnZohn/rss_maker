@@ -1,0 +1,25 @@
+TITLE:
+China pushes toward task-oriented AI
+
+PUBLISHED:
+2026-11-16
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202611/16/WS6afa4274e4b03ebf8519c7c0.html
+
+ARTICLE TEXT:
+China is accelerating efforts to turn advances in artificial intelligence into a vital driver of economic growth as technology companies and manufacturers use AI models to develop new products and improve productivity.
+Discussions at the 2026 World Internet Conference Wuzhen Summit highlighted three areas shaping this transition: the growing role of open-source models in expanding access to AI, the integration of AI into industrial operations, and the development of robots capable of performing physical tasks. Together, they not only point to opportunities for Chinese companies in software, manufacturing and services, but also underline the challenges of controlling costs, ensuring reliability and making the technology commercially viable.
+Held from Nov 2 to 5 in Wuzhen, Zhejiang province, the WIC Wuzhen Summit brought together technology executives, researchers and policymakers to discuss the development and governance of AI.
+Zhang Yaqin, founding dean of Tsinghua University's Institute for AI Industry Research, said AI is moving toward a new stage in which intelligent agents could perform tasks across industries, scientific research and biology. He also envisaged an internet in which AI agents interact with one another.
+China has a substantial industrial base to support this transition. The country's core AI industry was valued at more than 1.2 trillion yuan ($180 billion) in 2025, while the number of AI companies exceeded 6,600 as of June 2026, according to the China Academy of Information and Communications Technology, a research institute under the Ministry of Industry and Information Technology.
+Zhu Keli, founding director of the China Institute of New Economy, said competition in AI is expanding beyond model development to include industry-specific applications, data and business ecosystems.
+Companies are increasingly focused on computing efficiency and sustainable revenue, making access to customers, industry expertise and the ability to integrate AI into existing operations critical to commercial success.
+International cooperation is one way to bring these capabilities together. In a keynote speech at the opening ceremony of the summit on Nov 3, Premier Li Qiang highlighted the nation's commitment to working with other countries to build an open, inclusive and dynamic digital innovation ecosystem.
+Li said China will continue to embrace open innovation and promote technology transfer and knowledge sharing. He underlined the need to adhere to inclusive and balanced development of the internet to allow digital dividends to be shared.
