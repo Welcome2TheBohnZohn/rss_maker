@@ -1,0 +1,32 @@
+TITLE:
+Several Chinese tech firms report no disruption from Nvidia CEO's exit, cite compliant procurement channels and stable orders
+
+PUBLISHED:
+2026-11-16 23:05:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374419.shtml
+
+ARTICLE TEXT:
+The Nvidia logo is displayed on a smartphone, with the company's former CEO Jensen Huang in the background. Photo: VCG
+Several Chinese technology companies said on Monday that their operations remained unaffected by Nvidia CEO Jensen Huang's resignation, citing stable orders, established procurement channels and diversified chip partnerships. 
+The responses came as certain foreign media claimed that Huang's resignation could lead to more US restrictions on chip exports to China, leading to hype about potential disruptions to Chinese AI-related companies.
+Computing equipment purchases are made through established, compliant commercial channels rather than relying on any particular individual, Sharetronic Data Technology, a Shenzhen-listed provider of AI computing services, data storage equipment and smart devices, said on Monday.
+In response to an investor's question about potential impact from leadership changes at Nvidia, the company said its business was proceeding normally and that it would continue expanding its range of computing solutions, including developing options based on domestic computing technologies, to respond to changes in the supply chain.
+"The incident is not directly related to the company's current core business and has not affected its operations. The company's production and operations are currently proceeding normally," Zhuhai Bojay Electronics, a manufacturer of automated testing and assembly equipment serving industries including AI computing, consumer electronics and semiconductors, said in response to an investor's inquiry about impact from changes at Nvidia.
+Hongfucheng, a Shenzhen-listed maker of thermal management and electromagnetic shielding materials, also said that operations remain normal, with existing orders and deliveries proceeding as scheduled. 
+While noting that the matter concerned a third party's internal governance, which it was not in a position to comment on, the company said that "there are no material matters that should be disclosed but have not been disclosed." 
+The company further pointed out that thermal interface materials undergo lengthy and rigorous qualification processes, meaning existing certifications and mass-production records generally would not change immediately following management changes at a customer. However, changes in customer strategy could still affect purchasing decisions, supplier qualification requirements and order allocations.
+"To date, the resignation of NVIDIA's CEO has had no impact on the company's operations," said Desay SV Automotive, a Chinese automotive electronics supplier specializing in intelligent cockpit and assisted-driving systems. 
+The company noted that it worked with multiple chip suppliers, including Nvidia, Qualcomm and Horizon Robotics, to develop domain controller products for different vehicle models.
+Shares of several Chinese companies reportedly linked to Nvidia's supply chains fell sharply on Friday, with optical component maker Suzhou TFC Optical Communication and printed circuit board manufacturer Victory Giant Technology each dropping about 10 percent, according to the Securities Times. 
+Several other Chinese companies had previously said their business ties with Nvidia remained unchanged, while domestic computing firms reported no significant fluctuations in Nvidia chip prices.
+Huang's resignation came amid intense scrutiny over his extramarital affair with a Singapore-based business executive whom some US media reports and officials alleged had links to Chinese intelligence. The Chinese Foreign Ministry has dismissed the "Chinese spy" allegation as "purely unsubstantiated and directed at smearing China."
+China's sci-tech progress relies on independent innovation and open cooperation, Foreign Ministry spokesperson Mao Ning said on Thursday. "The US should stop fabricating the 'Chinese spy' narratives as a pretext for imposing technology restrictions," she said.
+Global Times
