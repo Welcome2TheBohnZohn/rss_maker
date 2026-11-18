@@ -1,0 +1,35 @@
+TITLE:
+PLA Army develops artillery calibration robot to improve firing accuracy on plateaus
+
+PUBLISHED:
+2026-11-18 21:56:00
+
+SOURCE:
+Global Times Military
+
+CATEGORY:
+Military
+
+URL:
+https://www.globaltimes.cn/page/202611/1374569.shtml
+
+ARTICLE TEXT:
+An artillery crew member assigned to an artillery unit of a brigade under the Chinese PLA Army uses a lanyard to fire the first round from a PLZ-89 self-propelled howitzer during a live-fire training exercise in early June, 2026. Photo: eng.chinamil.com.cn
+The PLA Daily on Wednesday reported on an intelligent artillery calibration robot developed by a regiment of the PLA Army. The innovation was driven by the urgent need at the grassroots level for faster and more accurate artillery calibration. After years of development and refinement, the system has significantly shortened firing preparation time while improving strike accuracy during plateau live-fire drills.
+According to the report, several years ago, after a new type of artillery piece was deployed to the regiment, a live-fire exercise on a plateau exposed problems with significant firing deviations and accuracy falling short of combat requirements. A comparative analysis found that the problems were caused by insufficient experience among some gunners and inadequate preparation for carrying out artillery calibration.
+To shorten calibration time and improve efficiency, Zhang Guozhu, a master sergeant second class of the regiment, proposed developing a rapid calibration system capable of operating in high-altitude environments. After more than 100 days of intensive work, the team developed an artillery sighting and calibration system for a specific type of self-propelled artillery, building on existing equipment already in service. The system received a national invention patent. 
+The system effectively reduces firing deviations in high-altitude environments and improves artillery accuracy. It later became one of the core technologies underpinning the intelligent artillery calibration robot.
+While the first-generation calibration system addressed the key challenge of accuracy, its calculations still relied on multiple existing devices, making the process time-consuming.
+Further improvements involved a complex development process, including entering more than 3,000 sets of real-world data covering extreme cold, strong winds and high-altitude conditions into the system under harsh weather conditions.
+In July 2025, Zhang and researchers from the equipment manufacturer continued their efforts to upgrade and optimize the technology, further developing the intelligent artillery calibration robot. The system can automatically conduct technical inspections of artillery under different climatic and altitude conditions, build a basic database for each artillery piece, and generate comprehensive intelligent inspection reports.
+During repeated plateau live-fire exercises, the robot helped service members achieve new levels of speed and accuracy, earning the nickname "robot squad leader."
+Song Zhongping, a military affairs expert, told the Global Times that high-altitude environments pose considerable challenges to artillery operations, with multiple factors affecting firing accuracy.
+First, the sharp decline in air density at high altitudes can cause shells to drift and travel farther, making their dispersion less predictable. Second, significant vertical temperature gradients mean that shells pass through air layers at different altitudes and temperatures, which can also affect their trajectories. In addition, terrain that obstructs firing lines and changes in the performance of equipment and ammunition in a cold plateau environment can further contribute to firing deviations, Song said.
+The challenges are even more pronounced for personnel. Oxygen deprivation at high altitudes reduces physical endurance and slows down tasks such as observation and equipment setup, undermining overall operational capabilities. These factors compound one another, Song said.
+The expert explained that calibration has become a major weak link affecting artillery performance in high-altitude combat, primarily because establishing and calibrating fire-control reference points is particularly difficult in mountainous terrain. On plains, crews can find large, flat areas for calibration, whereas mountainous plateaus offer few suitable locations. Meteorological calibration is equally challenging. Conducting atmospheric soundings across vast plateau areas is complicated, while making localized weather corrections is also difficult.
+Song added that the lower air resistance at high altitudes allows artillery shells to travel farther, which is an advantage in itself. However, making full use of this advantage requires addressing a key challenge: While the firing range increases, changes in air density also alter the shells' trajectories. Proper calibration can help overcome this problem, significantly enhancing artillery's actual combat capabilities on the plateau. This is precisely the kind of challenge the intelligent calibration system is designed to address.
+A sergeant from a company said in the PLA Daily report that live-fire shooting in strong winds had previously been a major test of a gun commander's mental fortitude. With the new system, however, artillery can sustain stable firing even in extreme weather, enabling inexperienced personnel to achieve results comparable to those of seasoned crew members.
+A senior sergeant first class from a company said in the report that artillery crews previously devoted much of their time and energy to calibration and calculations. The robot has freed them to focus more on tactical assessments and fire coordination, significantly accelerating their response tempo.
+With the introduction of the robot, Song said, its accuracy, reliability and safety are expected to improve further as the system is refined and its database continues to expand.
+Explaining what prompted the development, Zhang said that new weapons such as drones had demonstrated their capabilities in several regional conflicts, profoundly reshaping perceptions of modern warfare.
+Continuing to approach things with traditional thinking will make it difficult to win during today's modern, smart warfare. As such, the army should step up research, he said.

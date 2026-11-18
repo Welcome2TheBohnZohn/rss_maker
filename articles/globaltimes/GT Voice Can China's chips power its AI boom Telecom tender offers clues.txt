@@ -1,0 +1,28 @@
+TITLE:
+GT Voice: Can China's chips power its AI boom? Telecom tender offers clues
+
+PUBLISHED:
+2026-11-18 23:36:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374585.shtml
+
+ARTICLE TEXT:
+A technician conducts chip quality inspections in a factory in Yiwu, East China's Zhejiang Province, in March 2026. Photo: VCG
+Can China's homegrown technology stand up to the demands of its expanding artificial intelligence (AI) infrastructure? According to media outlet CWW, China Telecom issued a tender recently for equipment for its 2026 intelligent computing supernode clusters. The project offers a real-world test of how far China's AI computing capabilities have advanced.
+As China's AI industry expands, its telecom operators are stepping up investment in computing infrastructure, with supernodes becoming an increasingly important part of the country's intelligent computing architecture. China Telecom explained in a 2025 article that a supernode combines AI chips housed in multiple servers into a large computing unit through high-speed interconnects.
+International debate over whether US chips and technology are being used in China's AI development has intensified in recent weeks. Rather than give credence to unsubstantiated speculation, a more grounded assessment should focus on what is actually being deployed in China's AI infrastructure, which companies are supplying the equipment and technologies, and how well their products perform in real-world applications.
+China Telecom's procurement could offer a glimpse of what is actually happening on the ground in China's AI industry. According to CWW, the tender covers an estimated 5,248 intelligent computing servers, among other equipment. It calls for two server configurations and sets high technical thresholds for GPU computing power and other performance parameters, with the systems designed to handle computationally intensive workloads such as large-language model training and high-concurrency inference.
+The tender allows for up to five suppliers to win contracts. Whoever they are, the procurement process offers a window into a broader reality: China's AI infrastructure development is far from opaque. This is not unique to China Telecom. Many Chinese companies publicly disclose procurement notices and bidding procedures, giving outside observers ample information to understand how the country's AI infrastructure is being built.
+The information is there for anyone willing to look. Yet some overseas commentators seem determined to look the other way, continuing to speculate about China's so-called dependence on US chips, or even claiming that it has resorted to smuggling them. Such narratives reveal little about China's AI development, but far more about the arrogance of those advancing them and the political agendas they serve.
+So, can China's homegrown chips support the development of its AI industry? There is no shortage of real-world examples. At an intelligent computing center in Wuxi, East China's Jiangsu Province, 2,000 units of the Moore Threads MTT S5000 are now running close to full capacity. Designed for generative AI workloads, the MTT S5000 is a full-featured GPU accelerator for large-language model training, inference and high-performance computing, powered by Moore Threads' next-generation PH100 chip.
+China's AI industry is expanding at a remarkable pace, requiring enormous quantities of chips to power its growth. Does anyone seriously believe that an industry developing on this scale could be powered by "smuggled US chips?" The notion is not just implausible; it is frankly absurd. Anyone making such claims seems to have little understanding of the sheer scale of China's AI development.
+China's drive for technological self-reliance is making steady progress. The rapid expansion of its AI infrastructure and the development of domestic large-language models show that homegrown chips are increasingly capable of supporting the country's AI industry. 
+The most reliable way to assess China's technological capabilities is to look at what companies are actually buying, which suppliers are winning contracts and how their products perform in real-world applications. These facts offer far more insight than speculation abroad driven by political agendas.
+China's AI industry is still evolving, and so is its homegrown chip sector. China Telecom's latest tender points to the scale of demand emerging in the market. That demand means more orders, more revenue for research and development and stronger incentives for suppliers to improve their products. As China's AI industry grows, it is also creating the market conditions for its homegrown chipmakers to advance.
