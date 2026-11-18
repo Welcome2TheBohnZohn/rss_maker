@@ -1,0 +1,83 @@
+TITLE:
+Total Retail Sales of Consumer Goods from January to October 2026
+
+PUBLISHED:
+2026-11-17 10:00:00
+
+SOURCE:
+National Bureau Statistics English
+
+CATEGORY:
+Economic
+
+URL:
+https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965878.html
+
+ARTICLE TEXT:
+Total Retail Sales of Consumer Goods from January to October 2026
+From January to October 2026, the total retail sales of consumer goods reached 41,646.4 billion yuan, up by 1.0% year on year. Specifically, the retail sales of consumer goods excluding automobiles reached 38,381.1 billion yuan, up by 2.8%. In October, the total retail sales of consumer goods reached 4,646.3 billion yuan, up by 0.4% year on year. Specifically, the retail sales of consumer goods excluding automobiles reached 4,316.2 billion yuan, up by 2.5%.
+By location of business units, from January to October 2026, the retail sales of consumer goods in urban areas reached 35,991.8 billion yuan, up by 0.9% year on year; those in rural areas were 5,654.6 billion yuan, up by 2.2%. In October, the retail sales of consumer goods in urban areas reached 4,009.8 billion yuan, up by 0.2% year on year; those in rural areas were 636.5 billion yuan, up by 1.5%.
+By consumption pattern, from January to October 2026, retail sales of goods were 36,926.1 billion yuan, up by 0.9% year on year; the income of the catering industry was 4,720.3 billion yuan, up by 2.2%. In October, retail sales of goods were 4,122.8 billion yuan, up by 0.3% year on year; the income of the catering industry was 523.5 billion yuan, up by 0.7%.
+By retail format, from January to October 2026, the retail sales of convenience stores and supermarkets among retail enterprises (units) above the designated size increased by 5.1% and 3.5% year on year, respectively; those of specialty stores, department stores and brand-exclusive stores decreased by 2.2%, 3.5% and 11.0%, respectively.
+From January to October 2026, China’s online retail sales of goods and services reached 16,981.1 billion yuan, up by 3.7% year on year. Specifically, the online retail sales of goods were 10,727.4 billion yuan, up by 2.9%; among the online retail sales of goods, those of food, clothing, and daily necessities increased by 15.3%, 1.8%, and 0.1%, respectively. The online retail sales of services were 6,253.7 billion yuan, up by 5.0%.
+Total Retail Sales of Consumer Goods in October 2026
+| Indicator | October |  | January - October |  | 
+|  | Absolute Value (100 million yuan) | Growth Rate Y/Y (%) | Absolute Value (100 million yuan) | Growth Rate Y/Y (%) | 
+| Total retail sales of consumer goods | 46463 | 0.4 | 416464 | 1.0 | 
+| Of which: Retail sales of consumer goods excluding automobiles | 43162 | 2.5 | 383811 | 2.8 | 
+| Of which: Retail sales of enterprises (units) above the designated size | 16425 | -4.9 | 155937 | -1.9 | 
+| Of which: Online retail sales of goods | - | - | 107274 | 2.9 | 
+| By location |  |  |  |  | 
+| Urban | 40098 | 0.2 | 359918 | 0.9 | 
+| Rural | 6365 | 1.5 | 56546 | 2.2 | 
+| By consumption pattern |  |  |  |  | 
+| Income of the catering industry | 5235 | 0.7 | 47203 | 2.2 | 
+| Of which: Income of the catering industry by enterprises (units) above the designated size | 1459 | -2.9 | 14007 | 0.9 | 
+| Retail sales of goods | 41228 | 0.3 | 369261 | 0.9 | 
+| Of which: Retail sales of goods by enterprises (units) above the designated size | 14966 | -5.1 | 141930 | -2.1 | 
+| Of which: Grain, oil and food | 1954 | 0.5 | 19622 | 6.1 | 
+| Beverages | 264 | 0.3 | 2690 | 4.9 | 
+| Tobacco and liquor | 485 | 2.5 | 5547 | 11.7 | 
+| Clothes, shoes, hats and textiles | 1411 | -2.0 | 12133 | 3.8 | 
+| Cosmetics | 546 | 2.8 | 4025 | 5.6 | 
+| Gold, silver and jewelry | 255 | -28.7 | 2850 | -5.4 | 
+| Daily necessities | 742 | -0.4 | 7133 | 3.4 | 
+| Sports & recreational articles | 156 | 1.0 | 1384 | -2.9 | 
+| Household appliances and audio-video equipment | 884 | 2.5 | 8902 | -4.2 | 
+| Traditional Chinese and Western medicines | 617 | 3.7 | 6017 | 4.0 | 
+| Cultural and office appliances | 451 | 4.1 | 4107 | 6.0 | 
+| Furniture | 162 | -2.6 | 1451 | -4.5 | 
+| Telecommunication equipment | 1166 | 6.5 | 9183 | 16.5 | 
+| Petroleum and petroleum products | 1889 | 4.4 | 17723 | -4.6 | 
+| Motor vehicles | 3301 | -21.4 | 32653 | -15.5 | 
+| Building and decoration materials | 98 | -11.2 | 964 | -9.9 | 
+| Note: The growth rates in this table are not adjusted for price factors. |  |  |  |  | 
+Annotations:
+1. Notes on Indicators
+Total retail sales of consumer goods refer to the revenue of enterprises (units or self-employed individuals) from sales of non-production and non-business physical goods to individuals and social groups, as well as the income obtained from providing catering services.
+Online retail sales of goods and services refer to the total retail sales of goods and services through public online trading platforms (including self-built websites and third-party platforms).
+2. Statistical Coverage
+Legal entities, industrial activity units, and self-employed individuals engaged in goods retail activities or providing catering services. Specifically, enterprises (units) above the designated size refer to wholesale enterprises (units or self-employed individuals) with an annual main business revenue of 20 million yuan or above, retail enterprises (units or self-employed individuals) with an annual main business revenue of 5 million yuan or above, and enterprises (units or self-employed individuals) providing accommodation and catering services with an annual main business revenue of 2 million yuan or above.
+3. Survey Method
+A comprehensive survey is conducted for enterprises (units) above the designated size, while a sampling survey is carried out for enterprises (units) below the designated size.
+4. Statistical Standard
+As the coverage of enterprises above the designated size (units or self-employed individuals) engaged in wholesale and retail trades, accommodation, and the catering industry changes every year, to ensure comparability between the data of the current year and those of the previous year, the year-on-year growth rates of the retail sales of consumer goods and other indicators for enterprises above the designated size are calculated based on the same statistical coverage of enterprises (units or self-employed individuals) as in the current period, which is different from the coverage of data published last year. The main reason is that each year, some enterprises (units or self-employed individuals) are included in the survey after reaching the designated standard, while others are excluded from the survey due to their smaller scale and failure to meet the designated standard. There are also influences from enterprises (units or self-employed individuals) that are newly established, bankrupt, or have their business licenses canceled (revoked).
+As the coverage of key online platforms included in the statistics on online retail sales of goods and services changes every year, to ensure comparability between the data of the current year and those of the previous year, the year-on-year growth rate of online retail sales of goods and services is calculated based on the same statistical coverage of platforms as in the current period, which is different from the coverage of data published last year. The main reason is that every year, some platforms are included in the survey, while others are excluded due to failure to meet the requirements of statistical rules.
+5. Revision of Month-on-Month Data
+In accordance with the automatic correction results based on the seasonal adjustment model, the month-on-month growth rates of total retail sales of consumer goods since October 2025 have been revised. The revised results and the month-on-month data for October 2026 are as follows:
+| Year | Month | Growth Rate M/M (%) | 
+| 2025 | October | 0.11 | 
+|  | November | -0.14 | 
+|  | December | -0.08 | 
+| 2026 | January | 0.15 | 
+|  | February | 0.28 | 
+|  | March | 0.11 | 
+|  | April | -0.26 | 
+|  | May | -0.10 | 
+|  | June | 0.25 | 
+|  | July | 0.07 | 
+|  | August | -0.21 | 
+|  | September | 0.34 | 
+|  | October | 0.02 | 
+6. Explanation of Adjustments to Indicators
+To reflect the development of the online consumption market in a more comprehensive way, the statistical indicators for online consumption have been improved, with the coverage of the online service platforms expanded to strengthen the measurement of online services retail sales in line with the evolving momentum of online consumption. Accordingly, the original indicator “online retail sales” has been adjusted to “online retail sales of goods and services”, with the definition unchanged and the statistical coverage expanded. The indicator “online retail sales of physical goods” has been adjusted to “online retail sales of goods,” with the definition and statistical coverage unchanged, and the indicator “online retail sales of services” has been introduced as a new indicator. The online retail sales of goods and services are not comparable with the online retail sales.

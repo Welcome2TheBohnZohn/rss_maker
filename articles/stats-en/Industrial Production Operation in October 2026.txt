@@ -1,0 +1,126 @@
+TITLE:
+Industrial Production Operation in October 2026
+
+PUBLISHED:
+2026-11-17 10:00:00
+
+SOURCE:
+National Bureau Statistics English
+
+CATEGORY:
+Economic
+
+URL:
+https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965883.html
+
+ARTICLE TEXT:
+Industrial Production Operation in October 2026
+In October, the total value added of industrial enterprises above the designated size increased by 4.8% year on year in real terms (the growth rates of value added are the real growth rates after deducting price factors). On a month-on-month basis, in October, the total value added of industrial enterprises above the designated size increased by 0.21% over the previous month. From January to October, the total value added of industrial enterprises above the designated size increased by 5.3% year on year.
+In terms of three sectors, in October, the value added of the mining industry increased by 0.7% year on year, that of the manufacturing industry increased by 5.4%, and that of the production and supply of electricity, heat power, gas and water increased by 4.4%.
+In terms of economic types, in October, the value added of state-holding enterprises increased by 2.1% year on year; that of share-holding enterprises increased by 5.2%; that of enterprises funded by foreign investors and investors from Hong Kong, Macao, and Taiwan increased by 3.0%; and that of private enterprises increased by 3.2%.
+In terms of industries, in October, the value added of 28 out of 41 major industries continued to show year-on-year growth. Among them, the value added of the mining and washing of coal went down by 2.9%, that of the extraction of petroleum and natural gas up by 9.4%, that of the processing of food from agricultural and sideline products up by 4.0%, that of the manufacture of liquor, beverages and refined tea up by 4.9%, that of the textile industry up by 2.0%, that of the manufacture of raw chemical materials and chemical products up by 1.3%, that of the manufacture of non-metallic mineral products down by 2.3%, that of the smelting and pressing of ferrous metals down by 1.7%, that of the smelting and pressing of non-ferrous metals down by 4.4%, that of the manufacture of general-purpose machinery up by 8.5%, that of the manufacture of special-purpose machinery up by 11.5%, that of the manufacture of automobiles up by 0.9%, that of the manufacture of railway, ship, aerospace and other transport equipment up by 9.2%, that of the manufacture of electrical machinery and apparatus up by 8.1%, that of the manufacture of computers, communication equipment and other electronic equipment up by 19.4%, and that of the production and supply of electricity and heat power up by 4.2%.
+In terms of products, in October, the output of 254 out of 626 products produced by industrial enterprises above the designated size increased year on year. Among them, the output of rolled steel was 111.61 million tons, down by 5.1% year on year; that of cement was 143.75 million tons, down by 1.3%; that of ten kinds of non-ferrous metals was 6.85 million tons, down by 1.2%; that of ethylene was 3.56 million tons, up by 1.1%; that of motor vehicles was 3.045 million sets, down by 7.7%, including 2.027 million new energy vehicles, up by 17.1%; the electricity generation was 794.0 billion kWh, down by 2.1%; and the crude oil processing volume was 58.30 million tons, down by 8.1%.
+In October, the product sales ratio of industrial enterprises above the designated size was 96.5%, a year-on-year decrease of 0.4 percentage points; and the export delivery value realized by industrial enterprises above the designated size was 1,558.0 billion yuan, a nominal increase of 18.6% year on year.
+Industrial Production of Enterprises Above Designated Size in October 2026
+| Indicator | October |  | January-October |  | 
+|  | Absolute Value | Growth Rate Y/Y (%) | Absolute Value | Growth Rate Y/Y (%) | 
+| Value Added of Industrial Enterprises Above the Designated Size | … | 4.8 | … | 5.3 | 
+| By Sector |  |  |  |  | 
+| Mining | … | 0.7 | … | 1.9 | 
+| Manufacturing | … | 5.4 | … | 5.7 | 
+| Of which: High-technology Manufacturing | … | 17.6 | … | 14.6 | 
+| Production and Supply of Electricity, Heat Power, Gas and Water | … | 4.4 | … | 5.3 | 
+| By Economic Type |  |  |  |  | 
+| Of which: State-holding Enterprises | … | 2.1 | … | 3.6 | 
+| Of which: Share-holding Enterprises | … | 5.2 | … | 5.7 | 
+| Enterprises Funded by Foreign Investors and Investors from Hong Kong, Macao and Taiwan | … | 3.0 | … | 3.2 | 
+| Of which: Private Enterprises | … | 3.2 | … | 4.2 | 
+| Value Added of the Main Industries |  |  |  |  | 
+| Mining and Washing of Coal | … | -2.9 | … | -0.1 | 
+| Extraction of Petroleum and Natural Gas | … | 9.4 | … | 6.1 | 
+| Processing of Food from Agricultural and Sideline Products | … | 4.0 | … | 4.5 | 
+| Manufacture of Foods | … | 8.6 | … | 8.4 | 
+| Manufacture of Liquor, Beverages and Refined Tea | … | 4.9 | … | 3.0 | 
+| Textile Industry | … | 2.0 | … | 3.0 | 
+| Manufacture of Raw Chemical Materials and Chemical Products | … | 1.3 | … | 3.3 | 
+| Manufacture of Medicines | … | 5.9 | … | 5.3 | 
+| Manufacture of Rubber and Plastic Products | … | 1.2 | … | 5.4 | 
+| Manufacture of Non-metallic Mineral Products | … | -2.3 | … | -2.9 | 
+| Smelting and Pressing of Ferrous Metals | … | -1.7 | … | 1.4 | 
+| Smelting and Pressing of Non-ferrous Metals | … | -4.4 | … | -1.9 | 
+| Manufacture of Metal Products | … | 8.6 | … | 6.2 | 
+| Manufacture of General-purpose Machinery | … | 8.5 | … | 8.2 | 
+| Manufacture of Special-purpose Machinery | … | 11.5 | … | 9.7 | 
+| Manufacture of Automobiles | … | 0.9 | … | 6.5 | 
+| Manufacture of Railway, Ship, Aerospace and Other Transport Equipment | … | 9.2 | … | 12.3 | 
+| Manufacture of Electrical Machinery and Apparatus | … | 8.1 | … | 7.2 | 
+| Manufacture of Computers, Communication Equipment and Other Electronic Equipment | … | 19.4 | … | 16.2 | 
+| Production and Supply of Electricity and Heat Power | … | 4.2 | … | 5.7 | 
+| Output of Major Industrial Products of Enterprises Above the Designated Size |  |  |  |  | 
+| Cloth (100 million meters) | 26 | 2.4 | 247 | 3.1 | 
+| Sulfuric Acid (100%) (10,000 tons) | 789 | -8.6 | 8428 | -5.4 | 
+| Caustic Soda (100%) (10,000 tons) | 379 | -3.4 | 3857 | 1.0 | 
+| Ethylene (10,000 tons) | 356 | 1.1 | 3499 | 3.8 | 
+| Chemical Fiber (10,000 tons) | 699 | -2.9 | 6946 | 0.2 | 
+| Cement (10,000 tons) | 14375 | -1.3 | 127229 | -7.9 | 
+| Plate Glass (10,000 weight cases) | 6821 | -16.0 | 73158 | -7.9 | 
+| Pig Iron (10,000 tons) | 6307 | -4.1 | 69152 | -3.1 | 
+| Crude Steel (10,000 tons) | 7083 | -1.6 | 79561 | -2.8 | 
+| Rolled Steel (10,000 tons) | 11161 | -5.1 | 117348 | -2.6 | 
+| Ten Kinds of Non-ferrous Metals (10,000 tons) | 685 | -1.2 | 6913 | 2.0 | 
+| Of which: Primary Aluminum (Electrolytic Aluminum) (10,000 tons) | 385 | 1.8 | 3885 | 3.5 | 
+| Metal-cutting Machine Tools (10,000 units) | 8 | 19.0 | 74 | 10.4 | 
+| Industrial Robots (sets) | 82846 | 26.0 | 874141 | 32.3 | 
+| Service Robots (sets) | 1582483 | -4.9 | 17266156 | 7.1 | 
+| Motor Vehicles (10,000 sets) | 304.5 | -7.7 | 2641.2 | -4.1 | 
+| Of which: Saloon Cars (10,000 units) | 97.4 | -23.7 | 844.8 | -21.3 | 
+| SUV (10,000 units) | 157.4 | 4.9 | 1305.0 | 10.2 | 
+| Of which: New Energy Vehicles (10,000 units) | 202.7 | 17.1 | 1448.2 | 12.7 | 
+| Power Generation Equipment (10,000 kW) | 2776 | -6.1 | 29887 | -1.1 | 
+| Solar Cells (Photovoltaic Cells) (10,000 kW) | 7310 | -1.3 | 65117 | -12.6 | 
+| Micro Computer Equipment (10,000 units) | 1891 | -22.7 | 23152 | -15.5 | 
+| Mobile Telephones (10,000 sets) | 10353 | -26.9 | 109600 | -9.9 | 
+| Of which: Smartphones (10,000 sets) | 8345 | -28.9 | 90383 | -11.4 | 
+| Integrated Circuits (100 million pieces) | 532 | 21.9 | 4976 | 23.0 | 
+| Coal (10,000 tons) | 38494 | -5.8 | 382942 | -3.8 | 
+| Coke (10,000 tons) | 3924 | -6.2 | 41242 | -1.3 | 
+| Crude Oil (10,000 tons) | 1845 | 2.3 | 18304 | 1.1 | 
+| Crude Oil Processing Volume (10,000 tons) | 5830 | -8.1 | 57190 | -6.9 | 
+| Natural Gas (100 million cubic meters) | 222 | 0.8 | 2181 | 0.9 | 
+| Electricity Generation of Industrial Enterprises Above the Designated Size (100 million kWh) | 7940 | -2.1 | 82904 | 1.8 | 
+| Thermal Power (100 million kWh) | 4777 | -7.3 | 52128 | -0.1 | 
+| Hydropower (100 million kWh) | 1096 | -18.9 | 11434 | 1.1 | 
+| Nuclear Power (100 million kWh) | 454 | 17.5 | 4168 | 5.1 | 
+| Wind Power (100 million kWh) | 1019 | 33.7 | 9067 | 5.1 | 
+| Solar Power (100 million kWh) | 594 | 31.0 | 6105 | 14.3 | 
+| Product Sales Ratio (%) | 96.5 | -0.4 (percentage points) | 96.4 | 0.0 (percentage point) | 
+| Export Delivery Value (100 million yuan) | 15580 | 18.6 | 142786 | 11.6 | 
+Annotations:
+1. Notes on Indicators
+Growth rate of total value added of industrial enterprises: also known as the industrial growth rate, is used to reflect the degree of increase or decrease in industrial output over a given period. The indicator can be used to estimate the short-term trend of the industrial economy and the overall business climate. It is also an important reference and basis for the formulation and adjustment of economic policies and the implementation of macroeconomic adjustment and control.
+Product sales ratio: refers to the ratio of sales value to total industrial output value, which reflects the coordination between production and sales of industrial products.
+Export delivery value: refers to the value of exports by industrial enterprises (self-operated or entrusted), including those sold to Hong Kong, Macao and Taiwan, or handed over to foreign trade departments for export, as well as the value of products produced through processing with foreign-supplied samples and supplied materials, assembling with supplied parts, and compensation trade.
+Average daily output: the total output released by industrial enterprises above the designated size in the current month divided by the number of calendar days in the month.
+2. Statistical Coverage
+The statistical coverage of industrial enterprises above the designated size includes industrial enterprises with an annual main business revenue of 20 million yuan or above.
+As the coverage of industrial enterprises above the designated size changes every year, to ensure comparability between the data of the current year and those of the previous year, the year-on-year growth rates of product output and other indicators are calculated using the statistical coverage that is as consistent as possible with that of the current period and is different from the coverage of the data published last year. The main reasons are: (1) Statistical coverage changes over time. Each year, some enterprises are included in the survey after reaching the designated standard, while others are excluded from the survey due to their smaller scale. There are also influences from enterprises that are newly established and put into production, go bankrupt, and have their business licenses canceled (revoked). (2) Cross-regional duplicated counting exists in the output data of some enterprise groups (companies). Based on specific surveys, such duplications have been eliminated.
+3. Survey Method
+Statistics on industrial production of enterprises above the designated size are collected through a comprehensive monthly survey (with reporting exempted for January).
+4. Industrial Classification Standard
+The Industrial Classification for National Economic Activities (GB/T 4754-2017) was implemented.
+5. Revision of Month-on-Month Data
+According to the results of automatic correction based on the seasonal adjustment model, the month-on-month growth rates of the total value added of industrial enterprises above the designated size from October 2025 to September 2026 have been revised. The revised results and month-on-month data for October 2026 are as follows:
+| Year | Month | Growth Rate M/M (%) | 
+| 2025 | October | 0.22 | 
+|  | November | 0.40 | 
+|  | December | 0.45 | 
+| 2026 | January | 0.26 | 
+|  | February | 0.76 | 
+|  | March | 0.31 | 
+|  | April | 0.05 | 
+|  | May | 0.47 | 
+|  | June | 0.76 | 
+|  | July | 0.11 | 
+|  | August | 0.54 | 
+|  | September | 0.61 | 
+|  | October | 0.21 |

@@ -1,0 +1,104 @@
+TITLE:
+Investment in Fixed Assets from January to October 2026
+
+PUBLISHED:
+2026-11-17 10:00:00
+
+SOURCE:
+National Bureau Statistics English
+
+CATEGORY:
+Economic
+
+URL:
+https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965880.html
+
+ARTICLE TEXT:
+Investment in Fixed Assets from January to October 2026
+From January to October 2026, the national investment in fixed assets (excluding rural households) was 36,482.4 billion yuan, a year-on-year decrease of 8.1% (calculated on a comparable basis; see Annotation 7 for details). Specifically, the investment in intellectual property products increased by 9.2% year on year.
+By industry, the investment in the primary industry was 701.8 billion yuan, a year-on-year decrease of 6.1%; the investment in the secondary industry was 14,233.3 billion yuan, down 3.6%; and the investment in the tertiary industry was 21,547.3 billion yuan, down 10.9%.
+The industrial investment decreased by 3.6% year on year. Specifically, the investment in mining increased by 2.5%, the investment in manufacturing decreased by 2.9%, and the investment in production and supply of electricity, heat power, gas and water decreased by 7.7%.
+The investment in infrastructure (see Annotation 1 for details of statistical scope) decreased by 5.1% year on year. Specifically, the investment in information transmission increased by 32.0%, the investment in air transportation increased by 12.5%, and the investment in water transportation increased by 12.5%.
+By region, the investment in the eastern region decreased by 11.5% year on year, the investment in the central region decreased by 12.9%, the investment in the western region decreased by 9.2%, and the investment in the northeastern region decreased by 25.9%.
+By statistical category of registration, the investment in fixed assets of domestic-invested enterprises decreased by 7.9% year on year, the investment in fixed assets of enterprises funded by investors from Hong Kong, Macao, and Taiwan decreased by 8.4%, and the investment in fixed assets of foreign-invested enterprises decreased by 6.6%.
+From January to October 2026, non-governmental investment in fixed assets decreased by 11.4% year on year. On a month-on-month basis, the investment in fixed assets (excluding rural households) decreased by 2.93% in October.
+Investment in Fixed Assets (Excluding Rural Households) from January to October 2026
+| Indicator | Growth Rate Y/Y (%) | 
+| Investment in Fixed Assets (Excluding Rural Households) | -8.1 | 
+| Of which: State-holding | -4.0 | 
+| Of which: Non-governmental investment | -11.4 | 
+| By component |  | 
+| Construction and installation | -11.0 | 
+| Purchase of equipment and instruments | 8.9 | 
+| Other expenses | -13.2 | 
+| By industry |  | 
+| Primary industry | -6.1 | 
+| Secondary industry | -3.6 | 
+| Tertiary industry | -10.9 | 
+| By sector |  | 
+| Agriculture, forestry, animal husbandry and fishery | -6.2 | 
+| Mining | 2.5 | 
+| Manufacturing | -2.9 | 
+| Of which: Processing of food from agricultural and sideline products | -4.1 | 
+| Manufacture of foods | -10.7 | 
+| Textile industry | 2.8 | 
+| Manufacture of raw chemical materials and chemical products | -8.4 | 
+| Manufacture of medicines | -9.2 | 
+| Smelting and pressing of non-ferrous metals | -4.9 | 
+| Manufacture of metal products | -9.9 | 
+| Manufacture of general-purpose machinery | -1.2 | 
+| Manufacture of special-purpose machinery | -9.0 | 
+| Manufacture of automobiles | -7.9 | 
+| Manufacture of railway, ship, aerospace and other transport equipment | 14.1 | 
+| Manufacture of electrical machinery and apparatus | -0.1 | 
+| Manufacture of computers, communication equipment and other electronic equipment | 9.9 | 
+| Production and supply of electricity, heat power, gas and water | -7.7 | 
+| Transport, storage and postal services | 0.7 | 
+| Of which: Road transportation | -10.9 | 
+| Water conservancy, environment and public facilities management | -14.4 | 
+| Of which: Water conservancy management | -16.7 | 
+| Management of public facilities | -14.1 | 
+| Education | -15.7 | 
+| Health and social services | -14.1 | 
+| Culture, sports and entertainment | -18.5 | 
+| By statistical category of registration |  | 
+| Of which: Domestic-invested enterprises | -7.9 | 
+| Enterprises funded by investors from Hong Kong, Macao, and Taiwan | -8.4 | 
+| Foreign-invested enterprises | -6.6 | 
+| Note: The growth rates in this table are not adjusted for price factors. |  | 
+Annotations:
+1. Notes on Indicators
+Investment in fixed assets (excluding rural households): It is a general term representing the monetary value of the workload completed in a certain period concerning the construction and acquisition of fixed assets, as well as the related expenses.
+Investment in infrastructure: According to the current statistical rules, investment in infrastructure includes investment in fixed assets in the following industries: production and supply of electricity and heat power, production and supply of gas, production and supply of water, railway transportation, road transportation, water transportation, air transportation, pipeline transport, multi-modal transportation and forwarding agency, loading, unloading and delivery, postal services, telecommunications, radio, TV and satellite transmission services, internet and related services, water conservancy management, ecological conservation and environmental governance, and management of public facilities. The growth rate of investment in infrastructure is calculated on a comparable basis.
+State-holding enterprises: Absolute state-holding where the proportion of the paid-in capital (equity) owned by contributors with a state-owned economic component in the total paid-in capital (equity) of the enterprise is greater than 50%.
+Relative state-holding where the proportion of the paid-in capital (equity) owned by contributors with a state-owned economic component in the total paid-in capital (equity) of the enterprise is no greater than 50%, but is more than the proportion of contributors with any other economic component; or state-holding by agreement where the proportion of contributors with a state-owned economic component is no greater than that of contributors with other economic components, but the actual control of the enterprise is exercised by contributors with a state-owned economic component according to the agreement.
+For enterprises in which both parties each hold 50% and no absolute controlling party is specified, if one of the parties is a state-owned economic component, the enterprise shall be classified as state-holding.
+The investment projects of administrative and public institutions are classified as state-holding.
+Statistical category of registration: The classification is conducted in accordance with the Regulations on the Statistical Classification of Market Entities (Guotongzi [2023] No.14), jointly issued by the National Bureau of Statistics of China and the State Administration for Market Regulation.
+2. Statistical Coverage
+Investment in fixed asset projects with a total planned investment of 5 million yuan or more, as well as investment in all real estate development projects.
+3. Survey Method
+Statistics on investment in fixed assets are collected through a comprehensive monthly survey (with reporting exempted for January).
+4. Definition of Eastern, Central, Western and Northeastern Regions
+The eastern region includes 10 provinces (municipalities), namely, Beijing, Tianjin, Hebei, Shanghai, Jiangsu, Zhejiang, Fujian, Shandong, Guangdong, and Hainan; the central region includes 6 provinces, namely, Shanxi, Anhui, Jiangxi, Henan, Hubei, and Hunan; the western region includes 12 provinces (municipalities and autonomous regions), namely, Inner Mongolia, Guangxi, Chongqing, Sichuan, Guizhou, Yunnan, Xizang, Shaanxi, Gansu, Qinghai, Ningxia, and Xinjiang; the northeastern region includes 3 provinces, namely, Liaoning, Jilin and Heilongjiang.
+5. Industrial Classification Standard
+The Industrial Classification for National Economic Activities (GB/T 4754-2017) was implemented.
+6. Revision of Month-on-Month Data
+According to the results of automatic correction based on the seasonal adjustment model, the month-on-month growth rates of investment in fixed assets (excluding rural households) since October 2025 have been revised. The revised results and month-on-month data for October 2026 are as follows:
+| Year | Months | Growth Rate M/M (%) | 
+| 2025 | October | 1.09 | 
+|  | November | -1.65 | 
+|  | December | -2.87 | 
+| 2026 | January | 2.03 | 
+|  | February | 0.10 | 
+|  | March | -0.54 | 
+|  | April | -2.95 | 
+|  | May | -1.15 | 
+|  | June | -0.20 | 
+|  | July | -0.77 | 
+|  | August | -0.53 | 
+|  | September | 0.85 | 
+|  | October | -2.93 | 
+7. Explanation of Year-on-Year Growth Rate
+In accordance with the reform of investment statistical methods, statistical law enforcement inspections, and other regulations, the data on investment in fixed assets for the same period of the previous year have been revised, and the growth rates of investment in fixed assets are calculated on a comparable basis.
+Due to cross‑regional investment, there are limitations to the comparability between regional investment growth rates and the national investment growth rate.
