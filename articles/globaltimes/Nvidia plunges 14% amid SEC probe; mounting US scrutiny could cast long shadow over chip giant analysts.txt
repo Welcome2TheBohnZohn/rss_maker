@@ -1,0 +1,39 @@
+TITLE:
+Nvidia plunges 14% amid SEC probe; mounting US scrutiny could cast long shadow over chip giant: analysts
+
+PUBLISHED:
+2026-11-21 14:29:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374751.shtml
+
+ARTICLE TEXT:
+The Nvidia logo is displayed on a smartphone, with the company's former CEO Jensen Huang in the background. Photo: VCG
+Nvidia shares plunged again on Friday after reports of a US securities investigation into potential accounting issues rattled investors. Analysts warned that mounting regulatory pressure, driven partly by Washington's zero-sum mindset toward technology competition with China, could pose lasting risks to Nvidia's business and global competitiveness.
+The Wall Street Journal reported on Tuesday that the US Securities and Exchange Commission (SEC) was investigating Nvidia, without identifying the focus. Reuters reported on Friday, citing two people briefed on the matter, that SEC enforcement staff were examining potential accounting issues.
+Reuters said it could not determine when the SEC opened its inquiry or exactly what accounting issues it was examining. It noted that "investigations are not evidence of wrongdoing" and that many close without enforcement action.
+If confirmed, the probe would mark an expansion of regulatory scrutiny from export controls and national security concerns to Nvidia's financial reporting, potentially unsettling investor confidence in its financial transparency and earnings quality, according to market analysis.
+Nvidia shares closed down 14.01 percent at $125.53 on Friday, their steepest one-day fall since January 2025, capping their worst week since the 2008 financial crisis and a seventh straight weekly decline. The sell-off has wiped about $2.7 trillion off Nvidia's market value since its October peak, pushing the former world's most valuable company to fourth place behind Apple, Microsoft and Alphabet. 
+The rout came despite record quarterly revenue of $115.8 billion, up 103 percent year-on-year, and a forecast of roughly $130 billion for the current quarter, underscoring concerns over the sustainability of Nvidia's growth amid mounting uncertainty.
+The accounting investigation would add to Nvidia's regulatory burden, although any finding of wrongdoing must await formal investigation and legal proceedings, He Weiwen, a senior fellow at the Center for China and Globalization, told the Global Times on Saturday. 
+"Such investigations could take considerable time, leaving the company exposed to investor anxiety, selling pressure and further volatility," He said. "Even if no major wrongdoing is established, prolonged uncertainty could undermine confidence and disrupt business operations."
+The probe could also complicate Nvidia's leadership transition and raise corporate governance concerns, given that interim CEO Colette Kress previously oversaw the company's finances as chief financial officer, analysts said.
+The accounting inquiry adds to a widening web of investigations and regulatory scrutiny following the controversy involving former CEO Jensen Huang earlier this month, when he admitted having an affair.
+US authorities are investigating Singapore-based Megaspeed International over suspected violations of chip export controls, while Nvidia has established a board-level committee to oversee national security and export compliance.
+Washington has also extended its chip
+restrictions to Chinese companies' remote access
+ to advanced US semiconductors, prompting a sharp response from China. The Chinese Foreign Ministry condemned the move as "typical economic coercion and long-arm jurisdiction" and said China would take necessary measures to safeguard its legitimate rights and interests.
+Nvidia, meanwhile, said its limited H200 shipments to China were "legal and authorized" by US regulators after a licensing process lasting more than six months, with approvals subject to strict conditions and volume limits, according to the Associated Press.
+He Weiwen said Nvidia's troubles highlight the growing tension between Washington's national security priorities and US tech firms' commercial interests. “As technology competition with China becomes increasingly politicized, business decisions risk being driven by political considerations, potentially leaving companies to bear costs that could be difficult to reverse.”
+Huang's departure could further weaken Nvidia's ability to navigate these competing pressures, given his pivotal role in the company's rise as an AI powerhouse, extensive global business ties and longstanding advocacy for maintaining access to China's market, the expert added.
+President Donald Trump on Friday again backed Huang's potential return to Nvidia, calling him "one of the truly most brilliant minds in the world," although Nvidia's board has indicated it does not intend to reinstate him.
+On US chip export policy, Treasury Secretary Scott Bessent told CNBC on the same day that H200 chips remained the "threshold level" permitted for sale to China and that he "wouldn't anticipate any change in the policy."
+He Weiwen said that while Washington has left the door open to limited chip exports to China, broader restrictions could still deprive US chipmakers of access to one of the world's fastest-growing AI markets, cutting into sales and revenue while accelerating China's development of domestic alternatives. Over time, this could reduce China's reliance on US technology and erode American chipmakers' global competitiveness, he warned.
+China continues to make gains in semiconductor manufacturing and advanced computing. Semiconductor Manufacturing International Corp (SMIC), China's largest contract chipmaker, reported a 123.4 percent year-on-year surge in third-quarter net profit attributable to shareholders, with revenue reaching a record $3.19 billion. In supercomputing, China's LineShine retained the top spot in the latest TOP500 ranking released on November 16.
+Despite fierce competition in advanced chips, China and the US still have room to cooperate. He Weiwen said "both sides should explore opportunities in semiconductors, AI governance, technical standards and research, echoing broader calls for international cooperation to drive innovation and ensure the stable growth of the global AI industry.

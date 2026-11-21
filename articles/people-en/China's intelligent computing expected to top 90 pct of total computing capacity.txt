@@ -1,0 +1,23 @@
+TITLE:
+China's intelligent computing expected to top 90 pct of total computing capacity
+
+PUBLISHED:
+2026-11-21
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1121/c90000-20521796.html
+
+ARTICLE TEXT:
+China's intelligent computing expected to top 90 pct of total computing capacity
+CHANGSHA, Nov. 20 (Xinhua) -- The 2026 World Computing Conference, which opened Friday in central China's Hunan Province, unveiled 10 major trends in China's computing power development, including a growing share for intelligent computing and faster building of a nationwide integrated computing network.
+Liu Wenqiang, vice president of the China Center for Information Industry Development, a co-organizer of the conference, said that by 2030, China's intelligent computing capacity is expected to approach 10,000 EFLOPS, or more than 90 percent of the country's total, with inference computing accounting for 85 percent of the intelligent computing mix. EFLOPS refers to a unit measuring computing performance, with each unit representing 1 quintillion floating-point operations per second.
+According to Liu, China's progress in computing power development is reflected mainly in the continued expansion of overall scale, the ongoing optimization of regional distribution and a steady strengthening of self-reliance capacity.
+As of the end of September 2026, the country's intelligent computing capacity stood at 2,592 EFLOPS, up 146 percent year on year, with 52 intelligent computing facilities each with more than 10,000 AI chips. A framework of eight national computing hubs, 10 national data center clusters and three regions for coordinated development of computing and energy has taken shape.
+The 10 major trends also include evaluation of green computing shifting from energy efficiency to carbon efficiency, and space computing moving from validation to networking, with China expected to build a 1,000-satellite commercial space computing network by 2030.
+Copyright © 2026 People's Daily Online. All Rights Reserved.
