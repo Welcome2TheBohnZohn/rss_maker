@@ -1,0 +1,31 @@
+TITLE:
+GT Voice: Hyping supremacy of US chips is too narcissistic
+
+PUBLISHED:
+2026-11-22 23:12:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374822.shtml
+
+ARTICLE TEXT:
+Production of semiconductor chip File photo: VCG
+The Wall Street Journal recently portrayed Chinese AI companies as suffering "withdrawal" pains because of what it described as an "addiction" to Nvidia chips, claiming that US moves to cut off China's access to advanced computing power would deal "a blow to Beijing's artificial-intelligence ambitions." It seems that quite a few US media outlets are playing a game of distortion, giving far too much credit to American chip technology, and far too little to China's AI capabilities.
+This is less a reflection of China's AI industry than a political narrative designed to sway US public opinion. 
+By overstating the impact of chip restrictions, the narrative appears designed to give the anti-China hawks fresh ammunition for pushing tighter export controls. But the narrative is itself fundamentally flawed: it serves America's domestic political battles, rather than reflecting the realities of China's AI development.
+Some anti-China hawks are eager to convince the public that tighter US chip controls can cripple China's AI industry progress, and they need arguments to build support for further restrictions. Yet they have little hard evidence to substantiate such claims. Instead, they need rhetoric such as "Chinese addiction" to give their case greater traction. But China's semiconductor industry is no work of fiction to be written at will. It is following its own course, making steady progress through sustained efforts.
+The fact is that many US media commentaries are increasingly out of touch with the realities of China's technology industry. 
+In a media interview in December 2025, Liu Qingfeng, chairperson of iFlytek, said that without using domestic computing power to train large-language models, there would always be a major weakness that could not be overcome, along with a lack of security guarantees for long-term development. Liu said that his company had taken considerable resolve and made great efforts to train its own large-language models on domestic computing power, so as to avoid being held hostage by others.
+This points to a change in China's approach to technological self-reliance. Developing indigenous capabilities is no longer merely a reluctant response to US chip restrictions, but an active choice by Chinese companies as they look to the next stage of growth. 
+The objective is not simply to find alternatives when access to foreign technology is restricted, but to build a more secure foundation for the industry's future.
+Ironically, successive rounds of US chip restrictions have helped accelerate this process. China's AI industry is increasingly capable of pursuing greater security across its supply chain, and this is a choice it has both the means and the incentive to make. 
+Against this backdrop, the marginal impact of further US export controls on China's AI industry is diminishing rapidly. Whatever form the restrictions take, they are always ineffective at dictating the course of China's AI development.
+A striking contrast in tone has emerged. In parts of the US media environment, the language is one of "withdrawal" and "addiction." Chinese industry leaders, by contrast, speak of the need for security, the sustained effort required to build indigenous capabilities, and the practical demands of long-term development. This contrast exposes how detached the anti-China hawks have become from the realities of China's technology industry.
+Jensen Huang's resignation as Nvidia CEO appears to have further emboldened some anti-China hawks, who trumpeted for a tougher line against China, with some US media outlets adding to the chorus. Some commentaries have paid scant attention to the damage tighter export controls would inflict on the US chip industry itself. The restrictions will ultimately weaken those companies' position in the global markets. The US industry may ultimately have to swallow the bitter consequences.
+Whatever the US rhetoric, China's AI industry is moving forward. Some challenges are inevitable, but they are hardly the "withdrawal" pains portrayed by some US media organizations. The course of China's efforts to build its own chip and AI capabilities is clear. The more aggressively anti-China hawks push for restrictions, the faster China may move to strengthen those capabilities.
+The addiction that needs to be broken is not in China's AI industry. It is the political habit of the anti-China hawks of turning hostility toward China into political capital, and the blind faith among some US media commentators in America's technological supremacy. They ought to take a clear-eyed look at China's industrial progress, the complementary strengths of the two countries' AI industries, and the potential for both to benefit from cooperation.

@@ -1,0 +1,40 @@
+TITLE:
+Portable 'Wi-Fi' terminals help China's military units maintain battlefield connectivity on the move
+
+PUBLISHED:
+2026-11-22 21:11:00
+
+SOURCE:
+Global Times Military
+
+CATEGORY:
+Military
+
+URL:
+https://www.globaltimes.cn/page/202611/1374806.shtml
+
+ARTICLE TEXT:
+Photo: PLA Daily
+A lightweight communication terminal, weighing less than 3 kilograms, is helping Chinese military units maintain communication links - like a portable Wi-Fi -  as they maneuver between battlefield positions, offering a more flexible alternative to the time-consuming deployment of traditional communication cables, read a PLA Daily report on Sunday.
+The portable network and communications terminal, developed by a unit of the People's Liberation Army (PLA) Information Support Force, can be rapidly deployed to establish wireless connections between command terminals and frontline units, allowing information to be transmitted without waiting for communication cables to be laid again after a position change.
+In a recent joint training exercise, a PLA Air Force firepower unit received an order to relocate shortly after having completed a round of live-fire exercises. While a communications support team was preparing to carry conventional fiber-optic cables to the new position, an advance team reported that the portable terminal had already been set up, with the command communications link established.
+By the time the cable-laying team arrived, the firepower unit had completed a simulated strike and was preparing to move again, the PLA Daily reported.
+The development addresses a long-standing challenge in battlefield communications support. Under traditional arrangements, communications personnel had to retrieve and re-deploy cables whenever combat units changed positions, a process that required considerable manpower and time and could leave units temporarily without communications.
+Military commentator Song Zhongping told the Global Times on Sunday that mobile networking can significantly improve the speed and flexibility of communications support compared with conventional cable-based deployment.
+"Mobile networking, as the name suggests, means no longer having to lay extensive networks of cables as was traditionally done. The traditional approach consumes considerable manpower, material resources and financial resources, while its efficiency and ability to respond rapidly are limited," Song told the Global Times.
+By deploying mobile communications equipment, including base stations, military units can establish communications and command networks more quickly and move these capabilities to areas where they are needed, Song noted.
+"For a military force to respond rapidly, what needs to come first is not just logistics, but also command and communications," Song said. "Without that, it is impossible to achieve connectivity and interoperability across the entire force."
+According to the PLA Daily report, the portable terminals can be deployed at multiple locations to form a mobile networking cluster, rather than relying on a single communications node or fixed position.
+During another training exercise involving the seizure of key positions, an advance unit maneuvered through difficult terrain and areas with dense electromagnetic interference. Using multiple portable terminals, the unit established a mobile network while moving and filled gaps in communications coverage.
+When a reconnaissance team identified a simulated enemy firepower position, target information was transmitted through the mobile network to several dispersed firepower units. 
+The units then coordinated their simulated strikes based on a shared, real-time operational picture. The communications links remained operational throughout the exercise, the PLA Daily report said.
+Song said the use of multiple interconnected nodes can improve the resilience of battlefield communications by providing redundancy.
+"Communications on the battlefield cannot rely entirely on a single node. Multiple nodes are needed, with several portable mobile communications terminals deployed redundantly to ensure that the entire communications network remains secure and reliable," Song told the Global Times.
+However, the shift toward wireless networking also brings security challenges that cannot be overlooked.
+Song noted that wireless communications inevitably involve the transmission of radio signals, creating the possibility that communications could be intercepted or information disclosed. Encryption and other security safeguards are therefore essential to mobile military communications systems.
+"How to prevent information from being leaked is the core challenge facing mobile and network-based communications," he said.
+The PLA Daily report also stressed that the portable terminals are not intended to replace wired communications. 
+Instead, the unit is exploring a complementary model combining fixed and mobile systems: Wired networks are used at established positions, where reliability and resistance to interference are priorities, while portable equipment is deployed for temporary maneuvers and field operations, where rapid setup and filling coverage gaps are more important.
+The unit has also incorporated challenging conditions, including strong electromagnetic interference and difficult terrain, into routine training to test equipment performance and refine its networking methods.
+Looking ahead, Song said military communications systems would continue to evolve alongside advances in technology, with more sophisticated encryption methods and new forms of portable, distributed communications equipment potentially improving their security and reliability.
+"New technologies will continue to replace older ones, but the ultimate goal remains ensuring that communications are reliable and secure, with security always coming first," he said.
