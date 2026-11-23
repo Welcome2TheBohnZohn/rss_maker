@@ -1,0 +1,34 @@
+TITLE:
+China leverages AI to accelerate power sector's intelligent transformation
+
+PUBLISHED:
+2026-11-23
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261123/e25d22a155994ce69b152082f3d0233b/c.html
+
+ARTICLE TEXT:
+BEIJING, Nov. 23 (Xinhua) -- China is weaving artificial intelligence (AI) into the fabric of its power industry, reshaping the sector's entire operational workflow to advance its intelligent transformation.
+The efforts, revamping operations across generation, transmission, distribution and retail, seek to make power generation more controllable, create smarter grids, and ensure more precise supply-demand matching, according to industry insiders.
+BOOSTING POWER GENERATION EFFICIENCY
+In July, Yalong River Hydropower Development Company, Ltd. launched China's first AI-powered intelligent operating model for its 10-gigawatt integrated hydropower, wind and solar base in Sichuan Province, one of China's flagship integrated clean-energy complexes, with its total installed clean energy capacity slated to reach 78 gigawatts by 2035.
+The platform handles forecasting, dispatch, operational monitoring and market trading across the combined renewable portfolio, marking a breakthrough for AI deployment at large-scale clean energy hubs.
+Electricity is hard to store at large scale, requiring continuous real-time balancing between supply and demand. AI is addressing this longstanding operational challenge, delivering tighter control over generation, smarter grid scheduling and more accurate alignment of power supply and consumption.
+Within power generation, AI models deliver precise forecasts of wind, solar and hydrological resources, lifting the utilization rate of variable green power.
+"Previously, inflow analysis and operation planning involved meteorological data collection, data processing, forecast revision and plan validation," said Duan Tong, director of the hydrological information office at the company's central control center.
+The large AI model cuts this workflow from one to two hours to roughly 10 minutes, while raising inflow forecast accuracy by around 5 percent, said Duan.
+EXPANDING INTELLIGENT POWER DELIVERY
+AI is also transforming grid operations through virtual power plants, an emerging kind of digital coordination platform that pools flexible distributed load resources to deliver demand response.
+Powered by AI algorithms, these virtual assets allow the grid to absorb rising volumes of distributed energy resources and open grid-balancing participation to even everyday power consumers.
+At Chengdu's Shiyang charging station, electric vehicles can feed electricity back to the grid. Liu Chang, a supervisor with State Grid Sichuan's EV service arm, said vehicle owners received payments of 2 yuan (about 0.3 U.S. dollars) per kWh or 3 yuan for grid injections during peak hours amid this summer's heavy power demand.
+Once these distributed resources are connected to the virtual power plants, AI will optimize the charging and discharging schedule under conditions such as the range and battery level set by users, Liu said.
+China's virtual power plants hit a maximum adjustable capacity of 20.428 gigawatts at the end of June 2026, according to the National Energy Administration.
+Industry analysts expect AI to eventually tie generation forecasting, load forecasting and equipment fault detection into one unified coordination framework, connecting power plants, grids, energy storage assets and end users.
+The central government's 15th Five-Year Plan (2026-2030) for the new-type power system backs this approach. It calls for unlocking power-sector data, building an AI-powered new power system, and rolling out digital and intelligent upgrades across the full electricity supply chain.
+An action plan released in April by the central authorities also sets targets for broadening AI adoption throughout the energy sector while expanding clean energy supplies to support AI computing loads by 2030. ■

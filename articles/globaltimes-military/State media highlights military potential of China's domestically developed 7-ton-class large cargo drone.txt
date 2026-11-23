@@ -1,0 +1,34 @@
+TITLE:
+State media highlights military potential of China's domestically developed 7-ton-class large cargo drone
+
+PUBLISHED:
+2026-11-23 16:25:00
+
+SOURCE:
+Global Times Military
+
+CATEGORY:
+Military
+
+URL:
+https://www.globaltimes.cn/page/202611/1374862.shtml
+
+ARTICLE TEXT:
+The fully domestically developed large cargo unmanned aerial vehicle NORINCO LUCA parks at a test flight site in Zhengzhou, Central China's Henan Province, on March 31, 2026. Photo: Liang Rui/GT
+Military affairs experts on a CCTV News military channel program on Sunday offered further analysis of the overall performance and advanced autonomous control capabilities of China's fully domestically developed NORINCO LUCA, a 7-ton-class large cargo unmanned aerial vehicle (UAV), elaborating on its potential military applications.
+The drone recently completed its first cargo transport and airdrop test, with its developers highlighting its potential use in emergency response and disaster relief.
+Military commentator Wang Mingzhi highlighted several key features of the drone during the program, including its large payload capacity and long range. With a range of 3,000 kilometers and a payload capacity of 3.5 tons, the aircraft can deliver supplies over long distances with high efficiency.
+Wang also noted its strong environmental adaptability, saying that its short takeoff and landing capability allows it to operate from relatively simple runways, expanding the range of locations where it can take off and land.
+Another notable feature of the NORINCO LUCA is its straight-through cargo compartment, which makes loading and unloading highly efficient and convenient, Wang said.
+The ability to complete loading and unloading in a short time is particularly important not only in peacetime but also in wartime, he noted, as it allows supplies to be transferred and dispatched more rapidly, improving the efficiency of logistical operations.
+Cargo pallets loaded with goods in the straight-through cargo hold of the NORINCO LUCA. Photo: Courtesy of Norinco Group
+The Global Times learned from its developer, NORINCO UAS, a subsidiary of China's State-owned Norinco Group, that cargo pallets are automatically released from the aircraft according to preset commands. During the process, the onboard system automatically assesses the cargo loading status and manages flight trim, ensuring stable flight as the payload changes. These capabilities demonstrate the drone's technological advantages in unmanned and intelligent cargo transport and delivery missions.
+Wang said its high degree of autonomy, combined with a precision airdrop system, allows the drone to accurately deliver supplies to designated locations over long distances.
+It also has considerable potential for functional expansion, thanks to its modular design. In addition to its large cargo compartment, the aircraft is equipped with hardpoints under its wings, allowing different payloads to be configured according to mission requirements. This could enable it to evolve beyond a conventional cargo transport platform and undertake a wider range of missions, Wang said.
+Military commentator Wei Dongxu added in the interview that the drone could provide substantial logistical support during military operations.
+For instance, in island operations or amphibious landings, it could deliver supplies to beachhead positions. With a range of several thousand kilometers, the drone can cover the distances involved, while each aircraft can carry and deliver 3.5 tons of operational supplies, Wei said in the CCTV News program.
+According to NORINCO UAS, the first cargo transport and airdrop test covered the entire operational process, including cargo loading and inspection, flight-route programming, takeoff, cruise, cargo-door opening, automatic airdrop, parachute-line recovery, landing and assessment of the cargo's landing point.
+The ground control station monitored the flight and airdrop throughout the test. All systems operated normally, while data links remained stable, the developer said.
+The successful test came just eight months after the drone made its maiden flight. NORINCO UAS said it is the world's largest logistics cargo drone to have successfully completed a maiden flight.
+Several large logistics drones are under development or already in service internationally. NORINCO LUCA leads in key performance indicators including payload capacity, airdrop operating envelope, landing accuracy, short takeoff and landing capability, and product maturity, chief designer Geng Jianzhong told the Global Times previously.
+The development team said they will continue evaluating airdrop accuracy, timing control and system performance to support further upgrades, airworthiness certification and practical applications.
