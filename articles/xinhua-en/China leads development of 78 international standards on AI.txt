@@ -1,0 +1,25 @@
+TITLE:
+China leads development of 78 international standards on AI
+
+PUBLISHED:
+2026-11-24
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261124/460cc151a2e34af0bf2ea0ebae97cc82/c.html
+
+ARTICLE TEXT:
+BEIJING, Nov. 24 (Xinhua) -- China has spearheaded the development of 78 international standards on artificial intelligence (AI), turning its industrial practices and technological innovations into global public goods, according to the State Administration for Market Regulation (SAMR).
+Sun Wei, deputy head of the department of standards innovation under the SAMR, told a press conference Tuesday that the body has made active efforts to help improve the international standards system architecture for AI.
+Working with leading companies and top research institutions, the SAMR has led the development of 29 foundational and common international standards, covering key areas that include data governance, human-computer interaction, security and trustworthiness, Sun said.
+In addition, the SAMR has coordinated the efforts of 15 technical standards bodies in developing 49 international standards for sector-specific applications, including smart cities and intelligent manufacturing, according to the official.
+Sectoral application standards act as a key lever to drive the scaled and standardized implementation of AI technologies.
+In recent years, the SAMR has expanded its efforts to advance international standards in key areas, such as smart manufacturing, smart cities, smart logistics and smart water management, drawing on China's extensive application scenarios and mature industrial practices.
+Sun said China's systematic efforts to develop application-oriented standards across multiple industries offered technical standards and practical solutions for wider international adoption, supporting AI-empowered real economy development and inclusive, shared digital transformation.
+The SAMR also revealed that, in response to common risks such as deepfakes and model "poisoning" in generative AI, China has jointly developed with multiple countries a guideline on addressing risks in generative AI.
+According to the SAMR, this marked the world's first international standards proposal targeting generative AI governance and can provide key support for promoting the formation of a global consensus on risk management. ■

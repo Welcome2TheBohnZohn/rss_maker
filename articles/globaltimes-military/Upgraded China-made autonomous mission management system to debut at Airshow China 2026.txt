@@ -1,0 +1,38 @@
+TITLE:
+Upgraded China-made autonomous mission management system to debut at Airshow China 2026
+
+PUBLISHED:
+2026-11-24 19:03:00
+
+SOURCE:
+Global Times Military
+
+CATEGORY:
+Military
+
+URL:
+https://www.globaltimes.cn/page/202611/1374958.shtml
+
+ARTICLE TEXT:
+FH series UAVs are displayed at Airshow China 2021 in Zhuhai, South China's Guangdong Province. Photo: Courtesy of China Aerospace Science and Technology Corporation
+An upgraded version of China's domestically developed Hongshan autonomous mission management system will be unveiled at the upcoming 16th China International Aviation and Aerospace Exhibition, also known as Airshow China, which is set for December 7 to 13 in Zhuhai, South China's Guangdong Province, China Space News reported on Monday evening.
+Unlike the debut of the original version at the 2024 airshow, where the system focused on demonstrations of coordinated drone swarm flights, the upgraded version expands its capabilities to integrated unmanned and counter-unmanned operations. It can connect different types of unmanned platforms and use AI algorithms to complete multiple tasks.
+Independently developed by the Aerospace Times Feihong Technology Co (ATFTC) under the state-owned China Aerospace Science and Technology Corp, the Hongshan system was designed to meet the demands of large-scale coordinated unmanned operations, said the report.
+Built on an open architecture for multi-agent coordination and management, the system can flexibly integrate different types of military and civilian unmanned platforms, including drones, unmanned ground vehicles and unmanned surface vessels. Taking into account mission objectives, environmental information and system capability models, it supports closed-loop operations, from the fusion of reconnaissance and intelligence to digital battlefield simulation, AI-generated strike plans and assessments of operational effectiveness. 
+The company said the system offers clear situational awareness, rapid decision-making, effective control and traceability, with capabilities comparable to international counterparts and advantages in certain areas.
+During the exhibition, the company will set up a command-and-control center at the venue. Using satellite communications and drone data links, the system will establish a high-bandwidth, low-latency information network, enabling commands issued at Zhuhai Jinwan Airport to reach an aerospace base in the Damao Banner, North China's Inner Mongolia Autonomous Region, about 2,600 kilometers away, almost instantly.
+From what has been seen so far, the Hongshan system seems to have overcome several long-standing challenges, including communication delays, differences in data formats across unmanned platforms, and the need for precise timing synchronization, all of which usually make real-time command and control over long distances difficult, Chinese military affairs expert Song Zhongping told the Global Times on Tuesday.
+Addressing these challenges requires a distributed architecture combining space, air and ground communication links with cloud-based computing. Autonomous decision-making capabilities at the remote end are also essential to compensate for satellite transmission delays and therefore maintain operational responsiveness, Song said.
+The Hongshan system's role as the "brain" of an unmanned operational network lies not only in its current capabilities but also in its potential for further development.
+At this year's airshow, its multi-agent coordination architecture will enable different types of unmanned equipment to autonomously form operational groups, share situational information and coordinate in response to changing conditions, completing the entire operational process through closed-loop simulation.
+The system will also allow new equipment and algorithms to be rapidly integrated, while continuously refining coordination strategies through data accumulated in operational confrontations.
+Meanwhile, the company has established an integration standards framework for unmanned operations that features a unified architecture, compatible interfaces, interoperable data and efficient coordination. It aims to break down data silos between equipment from different manufacturers and across different models, allowing various unmanned platforms to be integrated into the Hongshan system.
+Song said the system's interoperability could facilitate bringing previously fragmented unmanned platforms into an integrated network that can be coordinated across military services and dynamically reconfigured, turning the capabilities of individual platforms into broader operational advantages. This is where its real value lies.
+China Space News noted that unmanned combat forces have become a major development priority for the world's leading military powers, reshaping modern warfare and the rules of military confrontation.
+At the 13th Airshow China in 2021, the FH series included stealth drones, loitering munitions and integrated reconnaissance-strike UAVs.
+Among the products on display, two eye-catching ones were the FH-95 electronic warfare and armed reconnaissance UAV system and the FH-97 high-speed stealth drone.
+The FH-97 is a medium-range, high-speed UAV designed for rapid reconnaissance and surveillance, target positioning verification, artillery correction and damage assessment. The FH-95, meanwhile, is designed for all-weather, round-the-clock reconnaissance and surveillance missions.
+At that time, Chen Jianguo, then general manager and a researcher with ATFTC, said electronic warfare had become an essential component of modern warfare, with electronic warfare, reconnaissance and early-warning drones playing an increasingly important role. Such platforms can conduct remote detection beyond defensive perimeters or carry out tactical feints and saturation attacks in coordination with manned aircraft.
+At the 14th Airshow China in 2022, the FH-97A attracted attention for its resemblance to the J-20 stealth fighter. An upgraded version of the FH-97, the FH-97A has an electro-optical tracking and targeting system added to its nose, according to CCTV News.
+Designed for air combat, the UAV features stealth capabilities, high maneuverability, short takeoff and landing, reusability, radar evasion and decoy capabilities. It is designed to operate alongside manned stealth fighters in future combat scenarios, CCTV said.
+According to an introduction to Airshow China 2026, the Lianzhou unmanned equipment exhibition zone will serve as a platform for showcasing drones and counter-drone systems. Dynamic counter-drone demonstrations will be a major highlight, with participating companies presenting various countermeasures and their latest technological developments. Several new drone models will also take part in flight demonstrations.

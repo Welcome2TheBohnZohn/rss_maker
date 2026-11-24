@@ -1,0 +1,48 @@
+TITLE:
+China's investment in new-type power grids expected to exceed 5 trillion yuan: What makes them different?
+
+PUBLISHED:
+2026-11-24
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1124/c90000-20522618.html
+
+ARTICLE TEXT:
+China's investment in new-type power grids expected to exceed 5 trillion yuan: What makes them different?
+China has built the world's largest power supply system. In the first nine months of this year, the country's total electricity consumption surpassed 8.07 trillion kilowatt-hours, up 3.9 percent year on year.
+Meanwhile, China's power system is undergoing a series of changes on both the supply and demand sides.
+New energy is playing an increasingly prominent role in China's power mix, but it also brings greater volatility and uncertainty to the power grid. At the same time, the continued growth of emerging industries is creating higher demands for power quality.
+Photo shows a photovoltaic power station on Tunbashan Mountain in Mengshan county, Wuzhou, south China's Guangxi Zhuang autonomous region. (Photo/Wu Guangsheng)
+A meeting of the Political Bureau of the Communist Party of China (CPC) Central Committee held on April 28, 2026, called for efforts to step up the planning and construction of water networks, new-type power grids, computing infrastructure, new-generation communications networks, urban underground pipelines, and logistics systems. The development of new-type power grids has thus been incorporated into the country's top-level design.
+A robust power grid is essential to ensuring an adequate, safe, and reliable electricity supply. How is China advancing the rollout of these systems?
+"Compared with traditional power grids, building new-type power grids demands greater systems thinking. It should be rooted in regional resource endowments, industrial structures, load characteristics and distribution, while coordinating planning with the territorial spatial layout across time and space. This will enable the optimal allocation of energy resources across regions on a larger scale," said Yan Xiaoqing, director of the energy strategy research office of the energy institute under the State Grid Energy Research Institute Co., Ltd.
+A power grid consists of a backbone transmission network, distribution networks and smart microgrids, much like a three-tier road network of expressways, urban and rural roads, and neighborhood streets, Yan explained. The key to developing new-type power grids is to optimize this new grid architecture, Yan said, noting that the effective coordination among the main grid, distribution networks and microgrids levels provides reliable electricity support for the energy transition and high-quality development.
+"During the 15th Five-Year Plan period (2026-2030), investment in China's new-type power grids is expected to exceed 5 trillion yuan (about $749.87 billion). 15 additional ultra-high-voltage direct-current (UHVDC) transmission links are expected to be commissioned. Efforts will also be made to upgrade distribution networks through digital and intelligent technologies and accelerate the development of smart microgrids," said Yang Zhengang, senior manager of the planning management division of China Southern Power Grid's planning department.
+If the new architecture provides the framework, new technologies serve as its supporting tools.
+New energy storage systems: A "stabilizer" for power grids
+Photo shows an energy storage project in Pinglu county, Yuncheng, north China's Shanxi province. (Photo/Quan Yongjun)
+In Huangjiabu township, Yuyao, Ningbo, east China's Zhejiang province, 49 white energy storage containers stand in rows across the site of a 50-megawatt/100-megawatt-hour independent energy storage power station operated by a new energy company based in Ningbo.
+Inside the containers, different battery technologies serve distinct purposes. Lithium iron phosphate batteries on the eastern side offer large storage capacity and are used for peak shaving and valley filling, while lithium titanate batteries in the northwest respond more rapidly and are designed to address fluctuations in grid frequency. When the grid experiences fluctuations, the latter can adjust their power output within tens of milliseconds, compared with about 30 seconds for conventional thermal power units.
+Ningbo was the first city in China to surpass 10 million kilowatts of installed distributed photovoltaic (PV) capacity. But PV power generation depends on weather conditions: even a passing cloud can cause sharp fluctuations in output.
+From peak shaving and valley filling to rapid power response, new energy storage systems help ensure that fluctuating green electricity can not only be generated but also used reliably. They effectively serve as a readily available "power bank" and "stabilizer" for the urban grid.
+Artificial intelligence: Turning fluctuations into predictability
+This year, the summer peak in electricity consumption arrived more than a month earlier than usual.
+In late May, "Tianxiang," an artificial intelligence (AI) large model developed by China Southern Power Grid for meteorological forecasting, accurately identified the extreme heat expected in the second half of the month a week in advance.
+Another AI-powered load forecasting agent, "Tianyan," predicted electricity demand under high-temperature conditions 14 days ahead. It identified the prospect of high evening peak loads in south China's Guangdong province and a sharp decline in renewable energy output in southwest China's Yunnan province, helping power dispatch authorities prepare for the challenges posed by extreme heat.
+From forecasting and simulation to planning and inspection, AI is increasingly being integrated into every aspect of power grid operations.
+AI represents one of the most important technological directions for new-type power grids, said Xiao Liang, a technical expert at the dispatching and control center of China Southern Power Grid. AI helps optimize the allocation of grid resources and ensure the security of electricity supply, according to Xiao.
+New services: Making power supply more flexible
+A robotic dog conducts an inspection at a substation in Daxi township, Wenling, east China's Zhejiang province. (Photo/Xu Weijie)
+Ultimately, upgrades to grid architecture and technology are aimed at improving services.
+In Shenzhen, a "power plant" without a physical facility -- a virtual power plant -- is providing a new form of electricity service to the city.
+"As a new model in the power sector, the virtual power plant creates a pool of resources that can be flexibly coordinated. It brings together distributed and adjustable resources, including charging piles, building air-conditioning systems, and distributed energy storage facilities, and deeply integrates them with AI technologies to participate in power grid regulation," said Li Jiangnan, senior manager of the virtual power plant's management center.
+The center's management platform has connected 61 operators and more than 14,000 users, aggregating over 1.4 million kilowatts of real-time adjustable load capacity, equivalent to that of a medium-sized coal-fired power plant, Li said.
+The development of new-type power grids represents a profound transformation in grid architecture, technologies, and services, requiring coordinated planning and systematic measures.
+Tan Hongjiang, deputy director of the electricity department of China's National Energy Administration, said the administration would continue to advance the development of new-type power grids by optimizing new grid architecture, making breakthroughs in key new technologies, upgrading new power grid services, and stepping up efforts to advance the implementation of major tasks and projects.
+Copyright © 2026 People's Daily Online. All Rights Reserved.

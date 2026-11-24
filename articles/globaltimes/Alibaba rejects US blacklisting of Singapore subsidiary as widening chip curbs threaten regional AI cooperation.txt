@@ -1,0 +1,38 @@
+TITLE:
+Alibaba rejects US blacklisting of Singapore subsidiary as widening chip curbs threaten regional AI cooperation
+
+PUBLISHED:
+2026-11-24 21:19:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374969.shtml
+
+ARTICLE TEXT:
+Concept picture of AI Photo: VCG
+Chinese tech giant Alibaba has rejected as erroneous US decision to add its Singapore subsidiary to the Entity List, vowing to pursue all legal avenues to protect its legitimate rights and reputation, as Washington increasingly extends its chip export controls to overseas business networks on the grounds of potential security risks.
+The expanding restrictions, based on presumed risks rather than proven violations, could disrupt normal commercial activities and undermine AI investment and industrial cooperation across Southeast Asia, a Chinese industry analyst said on Tuesday.
+The US Department of Commerce moved on Monday to blacklist Alibaba's Singapore-based subsidiary Apex Enterprise Solutions alongside six other Southeast Asian entities, including Megaspeed International, a cloud computing company under US investigation over suspected circumvention of chip export controls, Reuters and Bloomberg reported.
+The Commerce Department's Bureau of Industry and Security (BIS) cited a significant risk that the seven entities were or could become involved in diverting advanced computing products to unauthorized users or uses. But the rule did not detail any specific violations by Apex.
+"Adding Apex Enterprise Solutions to the Entity List is erroneous because Apex has never diverted advanced computing chips subject to US export restrictions. We will seek all legal avenues to protect our rights and reputation," Alibaba told the Global Times on Tuesday.
+Alibaba challenged its inclusion on the Pentagon's 1260H list of companies allegedly supporting the Chinese military in June. The company secured an initial legal victory in late October, when a US federal judge ruled in its favor and blocked certain Pentagon restrictions, Reuters reported on October 27.
+Besides Apex and Megaspeed International, the latest rule lists MSFusion, PT Megaspeed International and Speedmatrix under Malaysia, Swiftdata under Singapore, and Megaspeed (Thailand) under Thailand, according to the BIS document.
+Several of the newly listed companies had previously defended the legitimacy or independence of their business operations.
+MSFusion denied having any equity links with Megaspeed International in a November 16 statement on its website, stressing that its operations, management and decision-making were free from any direct or indirect external control, Malaysian newspaper The Star reported on Tuesday.
+Megaspeed said in a statement on its website on November 12 that it took its compliance obligations under US export control laws "extremely seriously" and had retained a US law firm to independently verify its export control compliance practices.
+The latest listings signal a broader shift in US export control policy, Ma Jihua, a veteran industry analyst, told the Global Times on Tuesday. "As China's AI capabilities advance, Washington is continually 'patching' its control regime to target overseas subsidiaries, business partners and affiliated entities."
+US restrictions are increasingly based on presumed risks rather than proven violations. Companies could find themselves subject to restrictions simply for being part of a particular supply chain or business network, Ma said, adding that this exposes businesses to growing compliance risks and makes it increasingly difficult to determine what constitutes permissible commercial activity.
+The latest blacklisting coincided with Nvidia's announcement on Monday that 
+Jensen Huang had been reinstated
+ as president and CEO, with its board saying his return "poses no national security risk." Nvidia shares surged more than 31 percent, adding about $1 trillion to its market value.
+Huang's reinstatement followed weeks of intense US media coverage of espionage allegations involving a former Megaspeed executive and mounting political scrutiny of the chipmaker. Chinese Foreign Ministry spokesperson Guo Jiakun dismissed the "Chinese spy" allegation as "purely unsubstantiated and directed at smearing China."
+Greater US scrutiny will force companies to reassess the compliance risks of overseas subsidiaries, suppliers and partners, complicating operations and weighing on investment decisions, Ma noted. Over time, the restrictions could accelerate Chinese investment in domestically developed chips and computing infrastructure, he added.
+The economic repercussions extend well beyond Chinese companies. Banks and private credit funds financing Southeast Asian data centers and AI chip purchases face the risk of losing key Chinese customers, with tighter US chip controls prompting lenders to reassess planned financing deals, Bloomberg reported.
+The Semiconductor Industry Association has said that excessive export controls could cost American chipmakers key markets and weaken their competitiveness. Overseas customers accounted for more than 70 percent of their revenue in 2025, according to the association. By restricting access to these markets, Washington risks undermining the very technological edge it seeks to protect.
+Ma warned that mounting operational and financing pressures could slow Southeast Asia's digital transformation. Yet the region's commercial interest in the Chinese market could drive it toward more independent technology partnerships, potentially fragmenting global computing markets and raising costs.
+"From chips and computing power to large AI models, successive rounds of US restrictions have failed to halt China's technological progress. The effectiveness of administrative measures is limited in the face of strong market forces, and such restrictions could ultimately prove counterproductive," Ma said.

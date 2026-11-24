@@ -1,0 +1,44 @@
+TITLE:
+200kW-class heavy-fuel aircraft engine to be unveiled at Zhuhai airshow
+
+PUBLISHED:
+2026-11-24 22:20:00
+
+SOURCE:
+Global Times Military
+
+CATEGORY:
+Military
+
+URL:
+https://www.globaltimes.cn/page/202611/1374982.shtml
+
+ARTICLE TEXT:
+Yousun DB626 engine (190kW) Photo: Anhui Haery Aviation Power Co Ltd 
+A Chinese aircraft engine manufacturer will showcase a new 200kW-class heavy-fuel piston engine at an upcoming international airshow in Zhuhai, South China's Guangdong Province, highlighting the continued development of domestically produced propulsion systems for unmanned aircraft.
+Anhui Haery Aviation Power Co Ltd (also known as Hangrui Power in China) will officially exhibit its new Yousun DB626 engine at the 16th China International Aviation and Aerospace Exhibition, according to the company. The exhibition, also known as Airshow China, is set to run from December 7 to 13, 2026.
+The engine is based on Haery's existing DB416 platform, but features a six-cylinder configuration instead of four cylinders. The company describes it as a new power option for larger unmanned aircraft and general aviation platforms.
+The DB626 adopts a horizontally opposed, six-cylinder, four-stroke, liquid-cooled configuration. Its core systems, including the single-cylinder combustion system, fuel injection system, full-authority digital engine control system (FADEC) and liquid-cooling system, are shared with the DB416, according to the manufacturer.
+Rather than developing an entirely new engine architecture, Haery has expanded the existing platform by adding two cylinders and increasing displacement. The approach allows the new model to build on technologies already used in the DB416 while extending the platform's power output, the company said.
+The DB626 retains the heavy-fuel compression-ignition technology used in the DB416 and can operate on diesel as well as RP-3 and RP-5 aviation kerosene. It is also equipped with a high-pressure common-rail fuel injection system and a turbocharged, intercooled intake system.
+Its FADEC system is designed to monitor engine operating conditions and provide an interface with aircraft flight control systems, the manufacturer said.
+Haery has also outlined a range of operating environments for the new engine, including high-altitude regions, maritime operations, cargo transportation and emergency response.
+The company said that the DB626 can maintain its continuous power output at an altitude of 4,000 meters, with a maximum operating altitude of 12,000 meters. It is designed to operate in temperatures ranging from -40 C to 71 C, while its stated time between overhauls exceeds 1,000 hours.
+The DB626's development comes as China expands the application of unmanned aircraft beyond traditional aerial observation and surveying toward cargo transportation, emergency services and other commercial operations. 
+The availability of suitable domestic engines is an important part of supporting this expansion, particularly for platforms requiring longer endurance and heavier payloads.
+Haery's previous engine applications offer a glimpse into the role of domestic heavy-fuel propulsion systems in China's unmanned aviation sector, including their integration into military UAV platforms.
+In August 2022, a heavy-fuel version of China's CH-4 Rainbow unmanned aerial vehicle completed a series of flight tests after having replaced its original engine with a domestically developed heavy-fuel engine. 
+The upgraded aircraft completed tests covering autonomous takeoff and landing, waypoint navigation, full-payload transportation, maximum service ceiling and flight endurance, according to China Aerospace Science and Technology Corporation (CASC). The aircraft was developed by its subsidiary Aerospace CH UAV Co, Ltd.
+A subsequent report by the Anhui-based Dajiang News identified the engine as Haery's DB416 Yunque model, developed with independent intellectual property rights and domestic production capabilities.
+The CH-4 is one of China's best-known medium-altitude reconnaissance and strike UAV platforms. The aircraft is designed for long-endurance operations and can carry reconnaissance equipment as well as precision-guided weapons. 
+Its upgraded heavy-fuel version was intended to improve endurance, payload capacity and operating performance in challenging environments.
+The integration of the DB416 into the CH-4 also represented a step forward for domestic propulsion-system development for a major Chinese UAV platform, according to the media reports.
+The Rainbow UAV family has developed into a broader product portfolio, with models serving different operational requirements. 
+According to Rainbow UAV's annual report, the company's aircraft products have applications in both defense and civilian sectors. 
+Beyond military missions, the platforms have also been developed for resource exploration, maritime monitoring, emergency response, forest fire prevention, communications and meteorological observation.
+Haery's heavy-fuel engines have also found applications in China's emerging commercial unmanned aviation sector. 
+In April, the HH-200 commercial unmanned transport aircraft, developed by the Aviation Industry Corporation of China (AVIC), completed its maiden flight powered by two DB442 heavy-fuel piston engines made by Haery, according to a report by the local Wuhu News.
+The HH-200 is designed for cargo transportation, with a planned payload capacity of 1,000 kilograms and a range of 1,000 kilometers. 
+Its maiden flight provided another example of domestically developed heavy-fuel engines being integrated into larger unmanned aircraft, extending their applications beyond reconnaissance and other defense-related missions into commercial logistics.
+The upcoming Airshow China will offer an opportunity to examine the latest developments in the company's engine portfolio, as China's aviation industry continues to explore domestic propulsion solutions for a wider range of unmanned aircraft applications.
+More than 1,100 companies from nearly 50 countries and regions are expected to participate in the 16th Airshow China, according to the Xinhua News Agency.
