@@ -1,0 +1,48 @@
+TITLE:
+From novelty to trend: How smart wearables are opening a fresh consumer frontier
+
+PUBLISHED:
+2026-11-23 21:43:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1374883.shtml
+
+ARTICLE TEXT:
+Buyers try on smart glasses at the service robotics exhibition area of the 140th China Import and Export Fair (Canton Fair) in Guangzhou, South China's Guangdong Province, on October 17, 2026. Photo: VCG
+Every morning, when a resident of Beijing's Dongcheng district surnamed Zhou lifts her wrist, her smartwatch reads her heart rate, blood oxygen, pulse, and sleep patterns, and a one-page health report arrives on her phone. The daily "micro-checkup" has become routine in her household. 
+Not far away, another local resident, surnamed Li, snaps photos with a pair of artificial intelligence (AI) glasses in the street. 
+"AI glasses are really convenient, especially when I'm out travelling. I can take photos and shoot videos whenever I want, and they transfer straight to my phone, so it's easy to share them on WeChat Moments or edit them into a video," Li told the Global Times.
+The two scenes sit at the opposite ends of a shift underway in China's consumer electronics market. The wearables, once synonymous with the watches and the fitness bands, now extend across the body - AI glasses, smart rings, bone-conduction earphones, powered exoskeletons - with use cases spreading from sleep tracking and business communication to rehabilitation.
+The numbers have followed. In September, KPMG released a report on China's smart wearables market, highlighting that China's smart wearables market grew from 69.5 billion yuan ($9.8 billion) in 2021 to 105.3 billion yuan in 2025, a compound annual growth rate of 11 percent. That pace is close to the 12.2 percent recorded globally over the same period.
+Category data points to where the new demand is concentrated. In the first three quarters of 2026, sales revenue from smart glasses on major e-commerce platforms rose 110 percent, while revenue from exoskeleton walking aid devices increased 46.4 percent and that from embodied intelligent robots rose 22.6 percent, according to data from the Chinese Ministry of Commerce.
+Residents' consumption is continuing to upgrade toward development-oriented, quality-driven spending, with demand steadily rising for fitness, health management and emotional companionship. New scenarios built around wearable devices are emerging rapidly, giving rise to a smart wearables market that is richly layered and finely segmented by use case, Hu Qimu, a professor at the Maritime Silk Road Institute of Huaqiao University, told the Global Times on Monday.
+Powering up with AI
+Product-side innovation has been a key engine driving smart wearables out of their niche, but it is not the only one.
+On April 27, at the China (Anhui) Science and Technology Innovation Achievement Transformation Fair, a teenager, who otherwise cannot stand on his own, tried out a lower-limb rehabilitation exoskeleton robot equipped with a brain-computer interface (BCI) developed by Aibo Intelligent Technology, iFlytek's assistive technology subsidiary.
+Using the device's high-performance actuators and a hybrid force-position control algorithm, the user was able to move forward as the robotic legs guided his gait.
+The iFlytek Aibo HM-700 series of exoskeleton robots integrates an intelligent power system, advanced sensor technology, and smart control algorithms to detect a wearer's movement intentions in real time, providing precise, efficient assistance for hip flexion, according to the information the company shared with the Global Times on Monday. 
+By offering powered support for activities such as walking or navigating stairs, the system alleviates the burden on the lower limbs and reduces physical exertion. The company said the lower-limb exoskeleton robots are currently in use across more than 100 hospitals nationwide, having served patients on more than 10,000 occasions. 
+Targeting market demand, more scenario innovation is taking root on the supply side.
+Alibaba is accelerating its wearable AI strategy with the global debut of Qwen Glasses at Mobile World Congress Barcelona, unifying its AI ecosystem under the flagship Qwen brand, Alibaba said in March 2026. 
+The latest Qwen Glasses run on Alibaba's most advanced Qwen AI model, enabling real-time translation, high-definition (HD) capture, meeting transcription, and visual recognition.
+The company said in March that Qwen Glasses would fully integrate with the Qwen App. Users in China would soon be able to complete hands-free actions, such as ordering food delivery, booking hotels or hailing rides, via simple voice commands, the company said. 
+As AI wearables have upgraded their "perception," Chinese companies, with stronger manufacturing integration and faster market iteration in smart home, electric mobility and consumer robotics, are better able to "proactively understand user intent" through multi-sensor fusion and compact versions of large language models (LLMs) running on-device, Tian Feng, former dean of SenseTime's Intelligence Industry Research Institute, told the Global Times on Monday.
+In an interview with the Global Times, Gian Paolo Bassi, Senior Vice President of Mainstream Innovation and Customer Role Experience at France-based Dassault Systèmes, said that China is one of the world's most important and dynamic AI markets, with its own LLMs and a wide range of other AI tools.
+The company regards China as an ideal testing ground for deploying and iterating industrial AI, because its computing capacity ranks among the largest anywhere, and it offers every kind of LLM and AI tool, Bassi noted.
+Backed by the industry chain
+Beyond the products themselves, it is a mature, densely packed industrial base that gives China's smart wearables industry its ability to answer fragmented demand fast. 
+In Huaqiangbei, the Shenzhen district known as "China's No.1 electronics street," more than 115,000 businesses supply the world with over 1 million types of electronic components and consumer devices. 
+Because the full chain - from design and engineering to tooling, assembly, marketing and export - sits inside that footprint, the district has compressed the product cycle to what local officials describe as "designed today, mass-produced tomorrow, shipped overseas within a week," the Xinhua News Agency reported on Sunday.  
+"Smart wearables sit at the intersection of technology-intensive and manufacturing-intensive work, and their competitiveness depends on efficient coordination between upstream and downstream players," Hu said. 
+Regions such as the Yangtze River Delta and the Pearl River Delta have already built industrial clusters spanning chips, sensors, and finished-device assembly; the technological strength of leading firms and the flexible production capacity of specialist suppliers along the chain reinforce each other, together forming an overall competitive advantage and steadily shoring up the industry's "smart" manufacturing foundation, Hu noted.
+In June this year, China's Ministry of Commerce and seven other government departments released an implementation guideline document to accelerate the development of "AI plus" consumption.
+Regarding goods consumption, the document calls for increasing the supply of new AI products, upgrading consumer electronics, household appliances and home products, cultivating the smart wearables market, and promoting AI-powered robots for eldercare, companionship and daily assistance.
+The China Internet Network Information Center said in March of this year that in 2025, the number of AI enterprises in China exceeded 6,000, with the scale of the core industry projected to surpass 1.2 trillion yuan.
+Data released by the World Intellectual Property Organization (WIPO) showed that in 2025, China became the world's leading holder of AI patents, accounting for 60 percent of the global total.
+Several interviewees told the Global Times that China's smart wearables industry is now entering a stage of high-quality development. Going forward, as technology keeps advancing, sub-segments mature, and wearables become more deeply embedded in public settings, the devices will reach every corner of daily life, making them an important pillar of a new phase of consumption upgrading, they said.

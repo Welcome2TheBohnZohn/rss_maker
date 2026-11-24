@@ -1,0 +1,32 @@
+TITLE:
+Chinese LLMs top API usage for 30 straight weeks
+
+PUBLISHED:
+2026-11-23
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202611/23/WS6b04568de4b03ebf8519e240.html
+
+ARTICLE TEXT:
+Chinese-developed large language models continued to dominate Application Programming Interface usage on OpenRouter, an artificial intelligence model aggregation platform, with the weekly token processing volume surpassing that of their peers in the United States for the 30th consecutive week, according to the platform's latest data released on Monday.
+The platform recorded a total of 210 trillion tokens — the smallest unit of data processed by AI models — processed globally during the week from Nov 16 to Sunday, up 8.25 percent from the previous week. Chinese models accounted for six of the top nine most-used models, processing a combined 111.16 trillion tokens, although their weekly volume declined 6.67 percent from the previous week.
+DeepSeek maintained a strong lead, with its V4.1 Flash 1017 and V4.1 Flash models taking the top two positions, processing approximately 65.1 trillion and 15.4 trillion tokens, respectively. Z.ai's GLM 5.3 Flash ranked third with 12.2 trillion tokens, while Tencent's newly launched Hy4 Flash came fourth with 10.2 trillion tokens.
+MiniMax's M3.1 Flash and Moonshot AI's Kimi K3.1 Pro ranked seventh and eighth, with 4.29 trillion and 4.07 trillion tokens, respectively. The six Chinese models together accounted for more than half of all tokens processed on the platform during the week.
+Roger Sheng, vice-president analyst for semiconductor and AI infrastructure at US market research company Gartner, said the strong showing of Chinese models on OpenRouter reflects their competitive edge in cost-effectiveness, but US developers are also making efforts to lower token costs while continuing to improve model quality.
+"This puts greater pressure on Chinese developers to secure sufficient computing capacity to keep pace with advances in US models," Sheng said.
+Three US-developed models ranked among the top nine — OpenAI's GPT-6 Luna, Anthropic's Claude Opus 5.5 and Nvidia's Nemotron 3 Ultra — with a combined weekly processing volume of 19.21 trillion tokens, up 29.53 percent week-on-week.
+"The week-on-week fluctuations could reflect structural shifts, such as users switching between providers in response to pricing changes, new model releases or constraints on computing capacity," said Pan Helin, a member of the Ministry of Industry and Information Technology's expert committee on information and communications economics.
+Experts also cautioned that OpenRouter's rankings provide only a partial picture of the market, as they capture traffic passing through the platform but exclude usage routed through other intermediaries and do not represent the full volume of AI model calls globally.
+"The figures should therefore be treated as a reference point rather than a comprehensive measure of market demand or competitiveness," Pan said.
+However, Chinese models' dominance of token usage has not necessarily translated into an equivalent advantage in monetization, the platform showed.
+A separate OpenRouter ranking, which measures the share of spending on different tasks of the models, paints a different picture, with overseas models maintaining a strong position among applications that attract higher spending.
+In software implementation tasks, which account for the largest share of spending among all task subcategories on the platform at 16.2 percent, Claude Opus 5.5 accounted for 22 percent of spending, more than double the 10.1 percent share of China's Kimi K3.1 Pro, which ranked second.
+Guo Tao, an angel investor and senior AI expert, said the key lies in converting widespread model adoption into sustainable revenue and profitability, rather than relying primarily on low-cost API services to attract users.
+"To build a sustainable path to profitability, companies need to move beyond competing on low prices and expand into higher-value services, including industry-specific solutions, private deployments and end-to-end AI agent services," Guo said.
+lijiaying@chinadaily.com.cn

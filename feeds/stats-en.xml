@@ -7,80 +7,206 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 16:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:21:51 +0000</lastBuildDate>
     <item>
-      <title>Total Retail Sales of Consumer Goods from January to October 2026</title>
-      <link>https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965878.html</link>
-      <description>Published: 2026-11-17 10:00:00
+      <title>Market Prices of Important Means of Production in Circulation,November 11-...</title>
+      <link>https://www.stats.gov.cn/english/PressRelease/202611/t20261123_1965936.html</link>
+      <description>Published: 2026-11-24 09:30:00
 
-Total Retail Sales of Consumer Goods from January to October 2026
-From January to October 2026, the total retail sales of consumer goods reached 41,646.4 billion yuan, up by 1.0% year on year. Specifically, the retail sales of consumer goods excluding automobiles reached 38,381.1 billion yuan, up by 2.8%. In October, the total retail sales of consumer goods reached 4,646.3 billion yuan, up by 0.4% year on year. Specifically, the retail sales of consumer goods excluding automobiles reached 4,316.2 billion yuan, up by 2.5%.
-By location of business units, from January to October 2026, the retail sales of consumer goods in urban areas reached 35,991.8 billion yuan, up by 0.9% year on year; those in rural areas were 5,654.6 billion yuan, up by 2.2%. In October, the retail sales of consumer goods in urban areas reached 4,009.8 billion yuan, up by 0.2% year on year; those in rural areas were 636.5 billion yuan, up by 1.5%.
-By consumption pattern, from January to October 2026, retail sales of goods were 36,926.1 billion yuan, up by 0.9% year on year; the income of the catering industry was 4,720.3 billion yuan, up by 2.2%. In October, retail sales of goods were 4,122.8 billion yuan, up by 0.3% year on year; the income of the catering industry was 523.5 billion yuan, up by 0.7%.
-By retail format, from January to October 2026, the retail sales of convenience stores and supermarkets among retail enterprises (units) above the designated size increased by 5.1% and 3.5% year on year, respectively; those of specialty stores, department stores and brand-exclusive stores decreased by 2.2%, 3.5% and 11.0%, respectively.
-From January to October 2026, China’s online retail sales of goods and services reached 16,981.1 billion yuan, up by 3.7% year on year. Specifically, the online retail sales of goods were 10,727.4 billion yuan, up by 2.9%; among the online retail sales of goods, those of food, clothing, and daily necessities increased by 15.3%, 1.8%, and 0.1%, respectively. The online retail sales of services were 6,253.7 billion yuan, up by 5.0%.
-Total Retail Sales of Consumer Goods in October 2026
-| Indicator | October |  | January - October |  | 
-|  | Absolute Value (100 million yuan) | Growth Rate Y/Y (%) | Absolute Value (100 million yuan) | Growth Rate Y/Y (%) | 
-| Total retail sales of consumer goods | 46463 | 0.4 | 416464 | 1.0 | 
-| Of which: Retail sales of consumer goods excluding automobiles | 43162 | 2.5 | 383811 | 2.8 | 
-| Of which: Retail sales of enterprises (units) above the designated size | 16425 | -4.9 | 155937 | -1.9 | 
-| Of which: Online retail sales of goods | - | - | 107274 | 2.9 | 
-| By location |  |  |  |  | 
-| Urban | 40098 | 0.2 | 359918 | 0.9 | 
-| Rural | 6365 | 1.5 | 56546 | 2.2 | 
-| By consumption pattern |  |  |  |  | 
-| Income of the catering industry | 5235 | 0.7 | 47203 | 2.2 | 
-| Of which: Income of the catering industry by enterprises (units) above the designated size | 1459 | -2.9 | 14007 | 0.9 | 
-| Retail sales of goods | 41228 | 0.3 | 369261 | 0.9 | 
-| Of which: Retail sales of goods by enterprises (units) above the designated size | 14966 | -5.1 | 141930 | -2.1 | 
-| Of which: Grain, oil and food | 1954 | 0.5 | 19622 | 6.1 | 
-| Beverages | 264 | 0.3 | 2690 | 4.9 | 
-| Tobacco and liquor | 485 | 2.5 | 5547 | 11.7 | 
-| Clothes, shoes, hats and textiles | 1411 | -2.0 | 12133 | 3.8 | 
-| Cosmetics | 546 | 2.8 | 4025 | 5.6 | 
-| Gold, silver and jewelry | 255 | -28.7 | 2850 | -5.4 | 
-| Daily necessities | 742 | -0.4 | 7133 | 3.4 | 
-| Sports &amp; recreational articles | 156 | 1.0 | 1384 | -2.9 | 
-| Household appliances and audio-video equipment | 884 | 2.5 | 8902 | -4.2 | 
-| Traditional Chinese and Western medicines | 617 | 3.7 | 6017 | 4.0 | 
-| Cultural and office appliances | 451 | 4.1 | 4107 | 6.0 | 
-| Furniture | 162 | -2.6 | 1451 | -4.5 | 
-| Telecommunication equipment | 1166 | 6.5 | 9183 | 16.5 | 
-| Petroleum and petroleum products | 1889 | 4.4 | 17723 | -4.6 | 
-| Motor vehicles | 3301 | -21.4 | 32653 | -15.5 | 
-| Building and decoration materials | 98 | -11.2 | 964 | -9.9 | 
-| Note: The growth rates in this table are not adjusted for price factors. |  |  |  |  | 
+Market Prices of Important Means of Production in Circulation,November 11-20, 2026
+China Economic Monitoring and Analysis Center
+SCI International
+In mid-November 2026, according to the monitoring of market prices of 50 kinds of important means of production under 9 categories in the national circulation field, the prices of 11 products increased, 38 kinds decreased, and one kind remained flat compared with those in early November 2026.
+Market Prices of Important Means of Production in Circulation
+(November 11-20, 2026)
+| Products | Units | Current Price (yuan) | Price Change over Previous Period (yuan) | ±Rate (%) | 
+|---|---|---|---|---|
+| I. Ferrous Metals |  |  |  |  | 
+| Rebar (Φ20mm, HRB400E) | ton | 3141.6 | -10.8 | -0.3 | 
+| Wire (Φ8-10mm, HPB300) | ton | 3346.8 | -15.2 | -0.5 | 
+| Ordinary Medium Plate (20mm, Q235) | ton | 3330.6 | -57.3 | -1.7 | 
+| Ordinary Hot-Rolled Sheet (4.75-11.5mm, Q235) | ton | 3182.9 | -24.4 | -0.8 | 
+| Seamless Steel Pipe (219*6, 20#) | ton | 3998.1 | -5.0 | -0.1 | 
+| Angle Steel (5#) | ton | 3386.2 | -10.8 | -0.3 | 
+| II. Nonferrous Metals |  |  |  |  | 
+| Electrolytic Copper (1#) | ton | 107780.7 | -1998.6 | -1.8 | 
+| Aluminum Ingot (A00) | ton | 22800.0 | -607.1 | -2.6 | 
+| Lead Ingot (1#) | ton | 15900.0 | -42.9 | -0.3 | 
+| Zinc Ingot (0#) | ton | 25034.3 | -467.1 | -1.8 | 
+| III. Chemical Products |  |  |  |  | 
+| Sulfuric Acid (98%) | ton | 1435.4 | -49.2 | -3.3 | 
+| Caustic Soda (Liquid Caustic Soda, 32%) | ton | 580.7 | -3.5 | -0.6 | 
+| Methyl Alcohol (Superior Quality) | ton | 3446.2 | -145.3 | -4.0 | 
+| Pure Benzene (Petroleum Benzene, Industrial Grade) | ton | 7858.6 | -858.6 | -9.8 | 
+| Ethyl Alcohol (95.0%) | ton | 5575.0 | -4.6 | -0.1 | 
+| Polyethylene (LLDPE, Melt Index 2 Film Material) | ton | 9525.5 | -793.1 | -7.7 | 
+| Polypropylene (Wire Drawing Material) | ton | 10503.6 | -771.4 | -6.8 | 
+| Glacial Acetic Acid (99.5% and above) | ton | 3750.0 | -339.3 | -8.3 | 
+| Butadiene Rubber (BR9000) | ton | 15919.0 | -197.7 | -1.2 | 
+| Polyester Filament (POY150D/48F) | ton | 8685.7 | -471.4 | -5.1 | 
+| Lithium Iron Phosphate (Standard Power Grade) | ton | 42880.6 | -423.6 | -1.0 | 
+| IV. Petroleum and Gas |  |  |  |  | 
+| Liquefied Natural Gas (LNG) | ton | 7260.5 | -340.0 | -4.5 | 
+| Liquefied Petroleum Gas (LPG) | ton | 7073.5 | -798.7 | -10.1 | 
+| Gasoline (95#, National VI Emission Standard) | ton | 10305.0 | -762.3 | -6.9 | 
+| Diesel Oil (0#, National VI Emission Standard) | ton | 9253.8 | -475.6 | -4.9 | 
+| Paraffin (58#, Semi-refined) | ton | 7785.0 | 5.4 | 0.1 | 
+| V. Coal |  |  |  |  | 
+| Anthracite (Washed, Medium Pieces) | ton | 1584.5 | 67.1 | 4.4 | 
+| Shanxi Superior Mixed Coal (5500 kilocalories) | ton | 1020.0 | 4.1 | 0.4 | 
+| Coking Coal (Main Coking Coal) | ton | 2150.0 | -103.6 | -4.6 | 
+| Coke (Quasi Primary Metallurgical Coke) | ton | 1860.7 | -35.7 | -1.9 | 
+| VI. Non-metallic Mineral Products |  |  |  |  | 
+| Ordinary Portland Cement (P.O 42.5 in Bulk) | ton | 273.1 | -0.2 | -0.1 | 
+| Float Flat Glass (5/6mm) | ton | 1075.2 | 1.7 | 0.2 | 
+| Polysilicon (Dense Grade) | kg | 41.0 | 0.0 | 0.0 | 
+| VII. Agricultural Products (Mainly Used for Processing) |  |  |  |  | 
+| Rice (Japonica Rice) | ton | 3973.6 | -5.3 | -0.1 | 
+| Wheat (National Standard Grade III) | ton | 2450.8 | -3.5 | -0.1 | 
+| Corn (Yellow Corn Grade II) | ton | 2159.9 | 7.3 | 0.3 | 
+| Cotton (Ginned Cotton, White Cotton Grade III) | ton | 16491.7 | 229.8 | 1.4 | 
+| Live Hog (Three-way Crossbred) | kg | 9.0 | 0.3 | 3.4 | 
+| Soybean (Soy) | ton | 4864.0 | -2.5 | -0.1 | 
+| Soybean Meal (Crude Protein Content≥43%) | ton | 3132.0 | -12.1 | -0.4 | 
+| Peanut (For Oil Processing) | ton | 7515.5 | 32.2 | 0.4 | 
+| White Sugar (National Standard Grade I) | ton | 5114.3 | -41.4 | -0.8 | 
+| VIII. Agricultural Means of Production |  |  |  |  | 
+| Urea (Small and Medium Granules) | ton | 1768.6 | -1.4 | -0.1 | 
+| Phosphate Fertilizer (55% Monoammonium Phosphate) | ton | 3661.3 | 31.1 | 0.9 | 
+| Potassium Fertilizer (62% White Muriate of Potash, Port Price) | ton | 2727.1 | -42.4 | -1.5 | 
+| Compound Fertilizer (Compound Fertilizer of Potassium Sulfate, 45% NPK) | ton | 3379.0 | -27.0 | -0.8 | 
+| Pesticide (Glyphosate, 95% Technical Material) | ton | 28714.3 | -285.7 | -1.0 | 
+| IX. Forest Products |  |  |  |  | 
+| Natural Rubber (Standard Rubber SCRWF) | ton | 19023.8 | 480.9 | 2.6 | 
+| Pulp (Imported Coniferous Pulp) | ton | 4904.7 | 17.0 | 0.3 | 
+| Corrugated Paper (AA Grade, 120g) | ton | 2905.2 | -54.4 | -1.8 | 
+| Notes: The previous period was November 1-10, 2026. |  |  |  |  | 
 Annotations:
 1. Notes on Indicators
-Total retail sales of consumer goods refer to the revenue of enterprises (units or self-employed individuals) from sales of non-production and non-business physical goods to individuals and social groups, as well as the income obtained from providing catering services.
-Online retail sales of goods and services refer to the total retail sales of goods and services through public online trading platforms (including self-built websites and third-party platforms).
-2. Statistical Coverage
-Legal entities, industrial activity units, and self-employed individuals engaged in goods retail activities or providing catering services. Specifically, enterprises (units) above the designated size refer to wholesale enterprises (units or self-employed individuals) with an annual main business revenue of 20 million yuan or above, retail enterprises (units or self-employed individuals) with an annual main business revenue of 5 million yuan or above, and enterprises (units or self-employed individuals) providing accommodation and catering services with an annual main business revenue of 2 million yuan or above.
-3. Survey Method
-A comprehensive survey is conducted for enterprises (units) above the designated size, while a sampling survey is carried out for enterprises (units) below the designated size.
-4. Statistical Standard
-As the coverage of enterprises above the designated size (units or self-employed individuals) engaged in wholesale and retail trades, accommodation, and the catering industry changes every year, to ensure comparability between the data of the current year and those of the previous year, the year-on-year growth rates of the retail sales of consumer goods and other indicators for enterprises above the designated size are calculated based on the same statistical coverage of enterprises (units or self-employed individuals) as in the current period, which is different from the coverage of data published last year. The main reason is that each year, some enterprises (units or self-employed individuals) are included in the survey after reaching the designated standard, while others are excluded from the survey due to their smaller scale and failure to meet the designated standard. There are also influences from enterprises (units or self-employed individuals) that are newly established, bankrupt, or have their business licenses canceled (revoked).
-As the coverage of key online platforms included in the statistics on online retail sales of goods and services changes every year, to ensure comparability between the data of the current year and those of the previous year, the year-on-year growth rate of online retail sales of goods and services is calculated based on the same statistical coverage of platforms as in the current period, which is different from the coverage of data published last year. The main reason is that every year, some platforms are included in the survey, while others are excluded due to failure to meet the requirements of statistical rules.
-5. Revision of Month-on-Month Data
-In accordance with the automatic correction results based on the seasonal adjustment model, the month-on-month growth rates of total retail sales of consumer goods since October 2025 have been revised. The revised results and the month-on-month data for October 2026 are as follows:
-| Year | Month | Growth Rate M/M (%) | 
-| 2025 | October | 0.11 | 
-|  | November | -0.14 | 
-|  | December | -0.08 | 
-| 2026 | January | 0.15 | 
-|  | February | 0.28 | 
-|  | March | 0.11 | 
-|  | April | -0.26 | 
-|  | May | -0.10 | 
-|  | June | 0.25 | 
-|  | July | 0.07 | 
-|  | August | -0.21 | 
-|  | September | 0.34 | 
-|  | October | 0.02 | 
-6. Explanation of Adjustments to Indicators
-To reflect the development of the online consumption market in a more comprehensive way, the statistical indicators for online consumption have been improved, with the coverage of the online service platforms expanded to strengthen the measurement of online services retail sales in line with the evolving momentum of online consumption. Accordingly, the original indicator “online retail sales” has been adjusted to “online retail sales of goods and services”, with the definition unchanged and the statistical coverage expanded. The indicator “online retail sales of physical goods” has been adjusted to “online retail sales of goods,” with the definition and statistical coverage unchanged, and the indicator “online retail sales of services” has been introduced as a new indicator. The online retail sales of goods and services are not comparable with the online retail sales.</description>
-      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965878.html</guid>
+Market prices of important means of production in circulation refer to the wholesale prices and selling prices of enterprises trading important means of production. Different from producer prices, market prices of means of production include producer prices, as well as circulation expenses, profits, and taxes of the enterprises. Producer prices and market prices influence each other. Due to a time lag, their movements may show divergence in a certain period of time.
+2. Monitoring Content
+The monitoring of market prices of important means of production in circulation includes the prices of 50 kinds of products under 9 categories. For details of product categories and specifications, please see the attached table.
+3. Monitoring Coverage
+The monitoring covers nearly 2,000 wholesalers, agents, and dealers of more than 300 trading markets in 31 provinces (autonomous regions and municipalities).
+4. Monitoring Methods
+Price monitoring methods include information officers gathering prices on-site or requesting prices by telephone, instant messaging tools, e-mail, and so on.
+5. Statistics on Price Movement Counts
+The number of products with price increases, decreases, and no change is counted based on the percentage change (%).
+Attached Table: Specifications of Market Price Monitoring Products of Important Means of Production in Circulation
+| No. | Monitored Products | Specifications | Explanation | 
+|---|---|---|---|
+|  | I. Ferrous Metals |  |  | 
+| 1 | Rebar | Φ20mm, HRB400E | Yield Strength≥400MPa | 
+| 2 | Wire | Φ8-10mm, HPB300 | Yield Strength≥300MPa | 
+| 3 | Ordinary Medium Plate | 20mm, Q235 | Yield Strength≥235MPa | 
+| 4 | Ordinary Hot-Rolled Sheet | 4.75-11.5mm, Q235 | Yield Strength≥235MPa, Width 1500mm | 
+| 5 | Seamless Steel Pipe | 219*6, 20# | 20# Steel, Yield Strength≥245MPa | 
+| 6 | Angle Steel | 5# | Yield Strength≥235MPa | 
+|  | II. Nonferrous Metals |  |  | 
+| 7 | Electrolytic Copper | 1# | Mass Fraction of Copper and Silver≥99.95% | 
+| 8 | Aluminum Ingot | A00 | Mass Fraction of Aluminum≥99.7% | 
+| 9 | Lead Ingot | 1# | Mass Fraction of Lead≥99.994% | 
+| 10 | Zinc Ingot | 0# | Mass Fraction of Zinc≥99.995% | 
+|  | III. Chemical Products |  |  | 
+| 11 | Sulfuric Acid | 98% | Mass Fraction of H2SO4≥98% | 
+| 12 | Caustic Soda (Liquid Caustic Soda) | 32% | Mass Fraction of NaOH≥32% Ionic Membrane | 
+| 13 | Methyl Alcohol | Superior Quality | Mass Fraction of Water≤0.10% | 
+| 14 | Pure Benzene (Petroleum Benzene) | Industrial Grade | Benzene Purity≥99.8% | 
+| 15 | Ethyl Alcohol | 95.0% | Standard-grade Ethyl Alcohol | 
+| 16 | Polyethylene (LLDPE) | Melt Index 2 Film Material | Melt Index: 2.0±0.5g/10min | 
+| 17 | Polypropylene | Wire Drawing Material | Melt Index: 3.0±0.9g/10min | 
+| 18 | Glacial Acetic Acid | 99.5% and above | Acetic Acid Purity≥99.5% | 
+| 19 | Butadiene Rubber | BR9000 | In Blocks, Oyster White, Ash Content≤0.20% | 
+| 20 | Polyester Filament | POY150D/48F | Semi-dull, 167 Dtex, AA Grade | 
+| 21 | Lithium Iron Phosphate | Standard Power Grade | Energy Density≥120Wh/kg | 
+|  | IV. Petroleum and Gas |  |  | 
+| 22 | Liquefied Natural Gas | LNG | Methane Content≥75%, Density≥430kg/m3 | 
+| 23 | Liquefied Petroleum Gas | LPG | Saturated Vapor Pressure: 1380-1430kPa | 
+| 24 | Gasoline | 95# | National Emission Standard VI | 
+| 25 | Diesel Oil | 0# | National Emission Standard VI | 
+| 26 | Paraffin | 58#, Semi-refined | Melting Point No Lower Than 58℃ | 
+|  | V. Coal |  |  | 
+| 27 | Anthracite | Washed, Medium Pieces | Volatile Matter≤8% | 
+| 28 | Shanxi Superior Mixed Coal | 5500 kilocalories | Mixed Coal of High Quality, Calorific Value: 5500 Kilocalories | 
+| 29 | Coking Coal | Main Coking Coal | Sulphur Content &lt;1% | 
+| 30 | Coke | Quasi Primary Metallurgical Coke | 12.01%≤Ash Content≤13.50% | 
+|  | VI. Non-metallic Mineral Products |  |  | 
+| 31 | Ordinary Portland Cement | P.O 42.5 in Bulk | Compressive Strength: 42.5MPa | 
+| 32 | Float Flat Glass | 5/6mm | Transparent Glass, with a Thickness of 5/6mm | 
+| 33 | Polysilicon | Dense Grade | Purity: 6N-9N | 
+|  | VII. Agricultural Products (Mainly Used for Processing) |  |  | 
+| 34 | Rice | Japonica Rice | Impurity≤0.25%, Moisture≤15.5% | 
+| 35 | Wheat | National Standard Grade III | Impurity≤1.0%, Moisture≤12.5% | 
+| 36 | Corn | Yellow Corn Grade II | Impurity≤1.0%, Moisture≤14.0% | 
+| 37 | Cotton (Ginned Cotton) | White Cotton Grade III | Fiber Length≥28mm, White or Oyster White | 
+| 38 | Live Hog | Three-way Crossbred | Meat hog produced by three-way crossbreeding of foreign pig breeds | 
+| 39 | Soybean | Soy | Impurity≤1.0%, Moisture≤13.0% | 
+| 40 | Soybean Meal | Crude Protein Content≥43% | Crude Protein≥43%, Moisture≤13.0% | 
+| 41 | Peanut | For Oil Processing | Impurity≤1.0%, Moisture≤9.0% | 
+| 42 | White Sugar | National Standard Grade I | Sucrose Content≥99.6g/100g | 
+|  | VIII. Agricultural Means of Production |  |  | 
+| 43 | Urea | Small and Medium Granules | Total Nitrogen≥46%, Moisture≤1.0% | 
+| 44 | Phosphate Fertilizer | Monoammonium Phosphate | Total Nutrients (N+P2O5) = 55% | 
+| 45 | Potassium Fertilizer | Muriate of Potash | K2O=62% | 
+| 46 | Compound Fertilizer | Compound Fertilizer of Potassium Sulfate | NPK Content: 45% | 
+| 47 | Pesticide (Glyphosate) | 95% Technical Material | Mass Fraction Of Glyphosate≥95% | 
+|  | IX. Forest Products |  |  | 
+| 48 | Natural Rubber | Standard Rubber SCRWF | Impurity≤0.05%, Ash Content≤0.5% | 
+| 49 | Pulp | Imported Coniferous Pulp | Tensile Index≥85.0N·m/g, Burst Index≥6.5KPa·m2/g, Tearing Index≥9.0mN·m2/g | 
+| 50 | Corrugated Paper | AA Grade, 120g | 120±5g/m2 |</description>
+      <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202611/t20261123_1965936.html</guid>
+    </item>
+    <item>
+      <title>Latest Releases</title>
+      <link>http://www.stats.gov.cn/english/PressRelease/</link>
+      <description>Published: 2026-11-24
+
+Chinese(GB)
+RSS
+Organizational Chart
+Data
+Communiqués
+Legal Framework
+Classifications &amp; Methods
+Latest Releases
+International Cooperation
+Understanding Statistics
+Agency
+Release Calendar
+Home
+&gt;
+Latest Releases
+1.Market Prices of Important Means of Production in Circulation,November 11-20, 2026
+2026-11-24
+2.Industrial Production Operation in October 2026
+2026-11-17
+3.Investment in Fixed Assets from January to October 2026
+2026-11-17
+4.Investment in Real Estate Development from January to October 2026
+2026-11-17
+5.Total Retail Sales of Consumer Goods from January to October 2026
+2026-11-17
+6.Energy Production in October 2026
+2026-11-17
+7.National Economy was Generally Stable with Innovation-Led and High-Quality Development ...
+2026-11-16
+8.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
+2026-11-16
+9.Market Prices of Important Means of Production in Circulation,November 1-10, 2026
+2026-11-14
+10.Consumer Price Index in October 2026
+2026-11-10
+11.Industrial Producer Price Indexes in October 2026
+2026-11-10
+12.Market Prices of Important Means of Production in Circulation,October 21-31, 2026
+2026-11-04
+13.Purchasing Managers’ Index for October 2026
+2026-11-01
+14.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
+2026-10-31
+15.Profits of Industrial Enterprises above the Designated Size from January to September i...
+2026-10-28</description>
+      <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
     </item>
     <item>
       <title>Investment in Real Estate Development from January to October 2026</title>
@@ -382,58 +508,6 @@ According to the results of automatic correction based on the seasonal adjustmen
 |  | September | 0.61 | 
 |  | October | 0.21 |</description>
       <guid isPermaLink="false">https://www.stats.gov.cn/english/PressRelease/202611/t20261117_1965883.html</guid>
-    </item>
-    <item>
-      <title>Latest Releases</title>
-      <link>http://www.stats.gov.cn/english/PressRelease/</link>
-      <description>Published: 2026-11-17
-
-Chinese(GB)
-RSS
-Organizational Chart
-Data
-Communiqués
-Legal Framework
-Classifications &amp; Methods
-Latest Releases
-International Cooperation
-Understanding Statistics
-Agency
-Release Calendar
-Home
-&gt;
-Latest Releases
-1.Industrial Production Operation in October 2026
-2026-11-17
-2.Investment in Fixed Assets from January to October 2026
-2026-11-17
-3.Investment in Real Estate Development from January to October 2026
-2026-11-17
-4.Total Retail Sales of Consumer Goods from January to October 2026
-2026-11-17
-5.Energy Production in October 2026
-2026-11-17
-6.National Economy was Generally Stable with Innovation-Led and High-Quality Development ...
-2026-11-16
-7.Sales Prices of Commercial Residential Buildings in 70 Medium and Large-sized Cities in...
-2026-11-16
-8.Market Prices of Important Means of Production in Circulation,November 1-10, 2026
-2026-11-14
-9.Consumer Price Index in October 2026
-2026-11-10
-10.Industrial Producer Price Indexes in October 2026
-2026-11-10
-11.Market Prices of Important Means of Production in Circulation,October 21-31, 2026
-2026-11-04
-12.Purchasing Managers’ Index for October 2026
-2026-11-01
-13.Business Revenue of Enterprises above the Designated Size Engaged in Culture and Relate...
-2026-10-31
-14.Profits of Industrial Enterprises above the Designated Size from January to September i...
-2026-10-28
-15.Market Prices of Important Means of Production in Circulation,October 11-20, 2026
-2026-10-24</description>
-      <guid isPermaLink="false">http://www.stats.gov.cn/english/PressRelease/</guid>
     </item>
     <item>
       <title>National Economy was Generally Stable with Innovation-Led and High-Quality Development in October</title>

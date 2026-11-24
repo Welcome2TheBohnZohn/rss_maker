@@ -1,0 +1,19 @@
+TITLE:
+新闻1+1｜黎曼猜想，被AI“证明”之后
+
+PUBLISHED:
+2026-11-23 22:12:00
+
+SOURCE:
+CCTV Chinese
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://tv.cctv.com/2026/11/23/VIDEL7tEQGLhXSmf0B5EfcJH261123.shtml
+
+ARTICLE TEXT:
+本期节目主要内容：
+
+当地时间11月20日，美国人工智能公司Anthropic一数学家称，他借助该公司Claude大模型发现了黎曼猜想的证明方法。黎曼猜想由德国数学家黎曼于1859年提出，核心是揭示素数的分布规律。然而，这份证明公开的只有4页说明和约1700万行Lean形式化代码。（《新闻1+1》 20261123 黎曼猜想，被AI“证明”之后）
