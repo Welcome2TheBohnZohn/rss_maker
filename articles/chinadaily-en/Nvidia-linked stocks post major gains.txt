@@ -1,0 +1,32 @@
+TITLE:
+Nvidia-linked stocks post major gains
+
+PUBLISHED:
+2026-11-24
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202611/24/WS6b05a070e4b03ebf8519e71c.html
+
+ARTICLE TEXT:
+Nvidia-linked Chinese tech stocks surged on Tuesday after the United States chip company reinstated Jensen Huang as chief executive. However, analysts cautioned that Huang's return does not signal any easing of US restrictions on advanced chip exports to China, and that Beijing must redouble its efforts to domestically develop artificial intelligence chips.
+Foxconn Industrial Internet Co, a key Nvidia supplier, reached the daily trading limit of 10 percent at the Shanghai Stock Exchange within five minutes of opening, before closing the day with gains of around 7 percent. Meanwhile, Shenzhen Aoni Electronic Co jumped 20 percent and Victory Giant Technology gained more than 6 percent at the Shenzhen Stock Exchange.
+The gains were triggered by Nvidia's announcement late on Monday that its board had unanimously voted to restore Huang's roles as president, CEO and board member, less than two weeks after his resignation. Nvidia shares closed up 31.48 percent on the day, adding roughly $952 billion in market value in a single session — the largest one-day gain for a US company on record.
+Roger Sheng, vice-president of the US research firm Gartner, said, "Huang's return is definitely good news for Chinese companies embedded in Nvidia's industrial chain, as well as for global AI investment, as it eliminates a major uncertainty. At the very least, it serves as a buffer against the US AI bubble bursting too quickly."
+Data from JPMorgan Asset Management showed that the estimated AI capital expenditure of major US hyperscale cloud providers in 2026 is $799 billion, compared with $75 billion in China.
+But analysts also warned that the underlying policy environment has not changed. During Huang's absence, Nvidia announced that it would stop selling its custom-made H200 AI chips to China, closing a special supply channel that Huang had personally negotiated with the US government.
+The company has also established a committee for security and export control oversight — a new standing committee responsible for overseeing the company's export control compliance at the board level.
+"None of that will change in the short term just because Huang is back. Instead, Huang will handle China-related business more cautiously, which only further underlines the need for China to strengthen domestic substitution," Sheng said.
+Meanwhile, amid persisting US curbs, China's domestic AI chip industry has made measurable progress. Nvidia's share of China's data center AI chip market fell to 34 percent in the first half of this year — a significant drop from its previous near-monopoly levels. Huawei's share rose to 28 percent, and the domestic sector as a whole now commands a clear majority, with nine of 11 domestic chipmakers posting year-on-year growth in shipments, according to data from US market research firm International Data Corp.
+Core advantages in AI
+A senior executive of a Chinese large language model company, speaking to China Daily on condition of anonymity, said that domestically produced AI chips have already been used in AI inference — a relatively simple task — on scale, and that some chips are also being used for training, which is more demanding. In other words, Chinese AI chips have, to some extent, gained greater recognition from large language model companies.
+"The saga of Huang's departure and return has underscored the turbulence in the global semiconductor supply chain. In a world of intertwined change and upheaval, China's AI industry and its chip sector can move forward hand in hand and carve out a path of their own," the executive said.
+Hua Ning, senior director of Asia-Pacific business operations at the Institute of Electrical and Electronics Engineers, the world's largest organization of technical professionals, said China has three core advantages in AI.
+"First, government policy guidance; second, China's massive and unparalleled scale of engineers; and third, China's very comprehensive industrial chain. Such strengths make the country a crucial player on the global AI stage," Hua said.
+Charlie Dai, vice-president and principal analyst at market research company Forrester, said, "Huang's return shows that he remains the central figure on Nvidia's technology road map, ecosystem building and customer confidence. However, the more realistic risks include customers developing their own chips, export controls, intensifying competition and fluctuations in the AI infrastructure investment cycle."
+masi@chinadaily.com.cn

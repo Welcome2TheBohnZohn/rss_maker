@@ -2,7 +2,7 @@ TITLE:
 China leads development of 78 international standards on AI
 
 PUBLISHED:
-2026-11-24
+2026-11-25
 
 SOURCE:
 Xinhua English
@@ -11,10 +11,10 @@ CATEGORY:
 Authoritative PRC Media
 
 URL:
-https://english.news.cn/20261124/460cc151a2e34af0bf2ea0ebae97cc82/c.html
+https://english.news.cn/20261125/e1414216c1e44e03b72e442014b0951b/c.html
 
 ARTICLE TEXT:
-BEIJING, Nov. 24 (Xinhua) -- China has spearheaded the development of 78 international standards on artificial intelligence (AI), turning its industrial practices and technological innovations into global public goods, according to the State Administration for Market Regulation (SAMR).
+BEIJING, Nov. 25 (Xinhua) -- China has spearheaded the development of 78 international standards on artificial intelligence (AI), turning its industrial practices and technological innovations into global public goods, according to the State Administration for Market Regulation (SAMR).
 Sun Wei, deputy head of the department of standards innovation under the SAMR, told a press conference Tuesday that the body has made active efforts to help improve the international standards system architecture for AI.
 Working with leading companies and top research institutions, the SAMR has led the development of 29 foundational and common international standards, covering key areas that include data governance, human-computer interaction, security and trustworthiness, Sun said.
 In addition, the SAMR has coordinated the efforts of 15 technical standards bodies in developing 49 international standards for sector-specific applications, including smart cities and intelligent manufacturing, according to the official.
