@@ -7,7 +7,183 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 01:28:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:40:24 +0000</lastBuildDate>
+    <item>
+      <title>China, Laos, Myanmar, Thailand launch 171st joint Mekong patrol amid cross-border crime challenges</title>
+      <link>https://www.globaltimes.cn/page/202611/1375044.shtml</link>
+      <description>Published: 2026-11-25 20:25:00
+
+Chinese law enforcement officers take part in the joint patrol operation along the Mekong River. Photo: CCTV News
+A joint patrol involving law enforcement authorities from China, Laos, Myanmar and Thailand is in full swing along the Mekong River this week, as the four countries step up efforts to combat cross-border crimes such as drug trafficking, illegal border crossings and smuggling.
+ The 171st joint patrol operation began on Sunday, with three Chinese law enforcement vessels departing from Jingha Police Wharf in the Xishuangbanna Dai autonomous prefecture, Southwest China's Yunnan Province, according to state broadcaster CCTV.
+Commanders from the four countries boarded Chinese vessel No.53108, which is serving as the fleet's command center for the operation.
+Law enforcement vessels from Laos and Myanmar respectively departed from Mengmo in Laos and Wanbang in Myanmar. After conducting separate patrols along designated sections, the vessels are expected to meet at a predetermined location to form a joint fleet, CCTV said. 
+The operation will combine full-route joint patrols, section-based cruises and coordinated ground-river enforcement. Teams are expected to inspect key waterways, riverside ports and ferry crossings, targeting drug trafficking, illegal border crossings, cross-border smuggling and other criminal activities, while identifying potential safety hazards, according to CCTV.
+The four countries will also hold a multilateral information-exchange meeting to share updates on security conditions along the river, assess emerging criminal trends and discuss closer cooperation in intelligence-sharing, case investigations and joint prevention measures.
+China will rotate personnel stationed at two joint patrol liaison points in Mengmo and Ban Xiangguo in Laos. Chinese law enforcement officers will also visit relevant departments in Laos, Myanmar and Thailand to discuss practical cooperation to combat crime along the Mekong River and the China-Laos Railway, according to the report. 
+The latest operation comes as transnational criminal networks continue to pose challenges to security in the Mekong subregion, particularly in drug production and trafficking.
+The Mekong River, which is known as the Lancang River in China, is an important transportation route connecting countries in the region. Its cross-border nature means that criminal activities can extend beyond the jurisdiction of any single country, making information-sharing and coordinated enforcement particularly important.
+The Thai Office of the Narcotics Control Board has also identified the Mekong as a trafficking route for illicit drugs from the Golden Triangle and the upper Mekong to countries further downstream. Its "Safe Mekong" cooperation framework emphasizes that drug production and trafficking in the region cannot be addressed by one country acting alone.
+The four-country joint patrol mechanism was established in December 2011, following a deadly attack on two cargo ships on the Mekong River in October of that year, in which 13 Chinese sailors were killed. 
+The incident exposed serious security challenges facing commercial shipping in the region and prompted the four countries to strengthen coordinated law enforcement.
+Since then, the mechanism has developed beyond vessel patrols to include joint command arrangements, intelligence exchanges, emergency response coordination and law enforcement training.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1375044.shtml</guid>
+    </item>
+    <item>
+      <title>Chinese humanoid robot maker, funds pledge at least 1b yuan for industry partners</title>
+      <link>https://www.globaltimes.cn/page/202611/1375037.shtml</link>
+      <description>Published: 2026-11-25 18:33:00
+
+A humanoid robot demonstrates how to scoop popcorn into a container at EngineAI's 2026 World Developer Conference in Shenzhen, South China's Guangdong Province, on November 25, 2026. Photo: Tao Mingyang/Global Times
+Chinese humanoid robot maker EngineAI announced on Wednesday that it will work with industry funds to provide at least 1 billion yuan ($210 million) in support for partners developing commercial applications. 
+Industry analysts said that opening robot platforms to more developers can accelerate breakthroughs in humanoid robotics, while collecting different users' problems and experiences, creating what the industry called "a two-way exchange."
+Zhao Tongyang, EngineAI's founder and CEO, announced the plan at the company's 2026 World Developer Conference in Shenzhen, Guangdong Province, on Wednesday. The company outlined its CoRun approach to sharing development work across teams and its Engine Plan for developing partners.
+The fund will support joint projects involving technology companies, universities and research institutes, Zhao said. Investment would give the partners a long-term stake in each other's success. As more applications come into use, the operating data they generate could help developers improve the machines and attract more partners, he said.
+"Some of you have brought code and want to try it on a real machine," Zhao said, adding that others already have a working product and are looking for their first customers. EngineAI would offer engineering support and access to robots, data and computing resources. Once a partner has an application to demonstrate, the company can introduce it to customers facing the same problem.
+Zhao also described how partners had already found different jobs for the same hardware. Duolun Technology used EngineAI's T800 and PM01 platforms to develop applications for directing traffic, teaching road safety and helping students get to school safely, he said. At a Luxshare Precision factory in Suzhou, East China's Jiangsu Province, the T800 was connected to the plant's management system so it could receive an order, navigate to a pickup point, collect materials and deliver them.
+Shi Fan, an assistant professor in the Department of Electrical and Computer Engineering at the National University of Singapore, said that he saw a parallel with open-source development at Chinese AI companies. In his own field, researchers already use open-source tools "to control robots, train them and get them to keep learning." Sharing those tools allows more teams to build on existing work and expands the community familiar with the manufacturer's platform, he said.
+Even with 1 billion or 10 billion yuan, a single manufacturer would struggle to develop applications across so many industries on its own, Li Qinglin, a representative of TurkeyBro, an engineer resource community targeting embodied AI, told the Global Times. 
+"What humanoid robots lack most right now are real-world applications," Pan Wenqiang, a representative of robot software developer Flykor, told the Global Times. The company specializes in adapting robots for particular uses and works with several manufacturers, including EngineAI, Unitree Robotics and AgiBot. Pan said that cooperation was more efficient than companies working alone because each application depends on businesses at several stages: manufacturers supply the machines, developers adapt the software for the job, and service providers keep the robots working after delivery.
+Other Chinese manufacturers are opening up different parts of the development process, too. 
+Unitree provides a Python interface that developers can use to run software on its G1 and H1 humanoids. AgiBot has released data from real robots, including expert demonstrations and human corrections during operation. It has also announced plans to work with the OpenAtom Foundation on common technical interfaces and joint testing for humanoids.
+At the APEC CEO Summit in Shenzhen on November 17, Unitree founder Wang Xingxing said that recent advances suggested a tipping point could come soon, the 21st Century Business Herald reported. Wang offered a more specific timeframe at the World Internet Conference Wuzhen Summit on November 4, saying that 2027 would likely mark a tipping point for the robotics industry and its AI models, according to the Securities Times. 
+Asked whether an open ecosystem could bring a breakthrough closer, Shi said, "I think it will definitely speed things up." Each new use gives developers a chance to identify a problem and work with the manufacturer to resolve it, he said.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1375037.shtml</guid>
+    </item>
+    <item>
+      <title>A Chinese man's enduring dedication to forest</title>
+      <link>https://www.globaltimes.cn/page/202611/1375014.shtml</link>
+      <description>Published: 2026-11-25 12:35:00
+
+Xie Peng points at a digital monitoring platform at the Fengyu state-owned ecological forest farm in Xi'an, northwest China's Shaanxi Province, on Nov. 5, 2026. (Xinhua/Zhang Youlin)
+A few clicks are all it takes for Xie Peng to virtually traverse his beat in the Qinling Mountains in northwest China's Shaanxi Province.
+In a control room, the 53-year-old ranger moves his eyes across a three-dimensional map, examining the forest's ridgelines and peering into its ravines. Live footage from drones brings remote stretches of rugged terrain into view.
+The Fengyu state-owned ecological forest farm, which Xie heads, oversees 215,597 mu of woodland, or nearly 144 square kilometers.
+Roughly 60 percent of the forest farm's territory lies within the core protection zone of the Qinling Mountains, home to rare and endangered wildlife including giant pandas, golden monkeys and crested ibises.
+Yet Xie knows this forest in ways no digital map can capture.
+For almost three decades, he has walked its ridges in mud, snow and summer heat. During this time, he has witnessed not only the forest's recovery, but also a transformation in the work of protecting it.
+JOB TRANSFORMED
+When Xie entered the forestry service in 1996, at the age of 23, the mountains were still valued largely for the timber they provided.
+His first posting was at a timber inspection station near a mountain pass. He spent his days checking trucks carrying logs out of the forest and stopping unauthorized shipments.
+Two years later, the job began to change. China launched its Natural Forest Protection Program, and Shaanxi Province halted commercial logging in the natural forests of the Qinling Mountains.
+For Xie and his fellow rangers, the task was no longer to monitor what was being taken out of the mountains, but to safeguard what remained.
+"From then on, our responsibilities shifted to forest-fire prevention, forest-resource protection and surveys, and the protection of wild animals and plants," Xie recalled.
+That same year, Xie joined the Communist Party of China (CPC). Over the following decades, ecological conservation in the Qinling Mountains became an increasingly prominent national priority.
+In 2018, illegal villa construction in the protected areas of the mountains led to disciplinary action against senior provincial and municipal officials, underscoring the importance of protecting the region.
+A year later, Xie became head of the forest farm and secretary of its Party branch. His responsibilities extended beyond patrolling the mountains himself to leading the team charged with protecting them.
+LEADING FROM THE FRONT
+The forest farm currently has 63 employees spread across eight ranger stations, 45 of them CPC members. Three joined the Party after Xie took over in 2019.
+With the stations scattered across rugged terrain, coordinating the work of the team is no easy task.
+Xie, notably, did not lead from behind a desk. On patrols that could last eight hours on foot, he made a point of going together with the rangers and often led the way.
+The Party branch also took its activities deep into the mountains. During one Party Day-themed event, all Party members hiked to a remote section of the forest, each carrying two large bags. They collected plastic bottles and other litter along the trails, then carried the rubbish back down.
+"I may be the person in charge, but I am a Party member first," he said. "Being a Party member means setting an example through your actions. When the Party branch takes the lead, everyone feels a stronger sense of mission and is more motivated to do their job well."
+Fire prevention is another regular part of the team's work. The forest farm holds large-scale fire drills every spring and autumn. In the month leading up to each exercise, rangers typically train two or three times a week. Individual outposts also conduct their own drills, preparing groups to respond to possible fires in the areas under their watch.
+Party meetings, too, sometimes take place in the mountains. With the eight stations scattered across the mountains, rangers cannot always return to the main office after a day in the forest.
+When they have to stay at an outpost after dark, Xie said, group meetings are held there instead. Concerns raised by frontline rangers are discussed at these meetings and, when necessary, passed on to the authorities.
+One issue was the harsh conditions at remote stations.
+Electricity reached the outposts gradually between 2004 and 2012. Before then, rangers relied on candles or kerosene lamps for light and simple coal stoves for warmth. Even after power lines were installed, heating remained inadequate. At the highest stations, winter temperatures can plunge below minus 20 degrees Celsius.
+As Party secretary, Xie relayed rangers' concerns to local authorities. The district head then traveled up the mountain and spent two hours listening to the workers at a remote station. Shortly afterward, transformers were upgraded and electric boilers installed.
+"In the past, it was hard for a forest farm like ours to meet the district head or the local Party secretary," Xie said. "Now senior local officials come directly to the mountain stations, listen to our needs, and help resolve practical problems."
+BEYOND THE SCREEN
+Work has grown more sophisticated, but has not become any less physical. Xie still makes at least 50 patrols a year, keeps a detailed weekly record of his work, gives up weekends to have joint enforcement operations, and prevents visitors from entering restricted habitats.
+Technology has given the rangers a wider view of the terrain. Since 2021, the forest farm has gradually built a monitoring system that combines satellite imagery, drones and surveillance cameras.
+Sixteen high-definition cameras can zoom in and capture images from as far as 20 kilometers away, provided the line of sight is clear. Satellite images are compared each month to detect changes in the forest, while drones survey stretches of terrain difficult to reach on foot.
+Technology, however, has its limits. Mobile signals often disappear in deep valleys, and cameras cannot see through dense forest canopy.
+Years of patrolling have made the rangers intimately familiar with their assigned areas. They can often spot changes that a camera might miss.
+The impact of the rangers' work can be seen in the forest itself. By the end of 2024, the Fengyu forest farm had gone 28 consecutive years without a forest fire. Over the past decade, the team has restored 25,000 mu of forest land and planted more than 280,000 trees. Forest coverage has risen from 78.5 percent to 88.5 percent.
+Wildlife indicates another sign of the forest's recovery. An infrared camera captured a leopard moving through the undergrowth in August 2022.
+On June 28, 2025, Xie and his fellow rangers spotted 19 golden takins grazing on a hillside, just over 100 meters away. They kept their distance, careful not to disturb the animals.
+Nearly three decades after he first stood at a checkpoint inspecting timber trucks, Xie is still walking the ridgelines of the Qinling Mountains. The job has changed and so have his tools. But the goal remains the same: protecting the forest and the life it sustains.
+"Our mission is to take good care of the forest, let the trees grow, protect wildlife and plants, and allow people and nature to live in harmony," he said.
+Rangers stage a forest fire emergency drill at the Fengyu state-owned ecological forest farm in Xi'an, northwest China's Shaanxi Province, on Nov. 5, 2026. (Xinhua/Zhang Youlin)</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1375014.shtml</guid>
+    </item>
+    <item>
+      <title>Taiwan island fans' invitation to 'Pursuit of Jade' stars to visit the region highlights growing enthusiasm for cross-Straits youth exchanges: Taiwan Affairs Office</title>
+      <link>https://www.globaltimes.cn/page/202611/1375013.shtml</link>
+      <description>Published: 2026-11-25 12:31:00
+
+Zhang's still in Pursuit of Jade Photo: Courtesy of Douban 
+When asked to comment on the enthusiastic invitation from fans on the island of Taiwan for the two lead actors of 
+Pursuit of Jade
+, a Chinese mainland costume drama popular in Taiwan region, to visit the island for exchanges, spokesperson for the State Council Taiwan Affairs Office said on Wednesday that this was the most vivid demonstration of young people on both sides across the Taiwan Straits reaching out to one another. 
+Zhang Linghe and Tian Xiwei, the lead actors of 
+Pursuit of Jade
+, recently took part in an online fan meeting for audiences on both sides of the Straits. Many Taiwan local fans enthusiastically expressed their strong desire to invite the two actors to visit the island for exchanges. Both Zhang and Tian said they were eager to visit the island to explore its landscape, experience local life and taste the local delicacies. 
+Zhang Han, a spokesperson for the State Council Taiwan Affairs Office, said on Wednesday that they have noted the reports, including discussions at the fan meeting about traditional Chinese culture, such as shadow puppetry, Qinqiang opera, flower hairpin adornments and traditional Chinese medicine. 
+Zhang Linghe wrote a calligraphy piece reading "united through drama, together for our shared land," while Tian recalled her university-era visit to the island of Taiwan. Many fans in Taiwan voiced hopes of meeting the two actors in person and looked forward to them visiting soon, according to the spokesperson. 
+"I believe this is the most vivid demonstration of young people on both sides across the Taiwan Straits reaching out to one another. Emotional and cultural resonance serve as a natural bond that brings people across the Straits closer together," Zhang Han said. 
+"We welcome mainland cultural and artistic professionals to engage with audiences on the island and support cross-Straits cooperation in film and television production to create more outstanding works together," Zhang Han added. 
+The Democratic Progressive Party (DPP) authorities' deliberate efforts to obstruct cross-Straits exchanges run counter to public opinion and lack public support, the spokesperson said. 
+Zhang Linghe was previously denied permission to hold an in-person fan meeting in Taiwan region, with the Taiwan's so-called Mainland Affairs Council citing his alleged "demeaning" remarks about the island's status and insufficient details about the event's nature and purpose, the Xinhua News Agency reported.
+Global Times</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1375013.shtml</guid>
+    </item>
+    <item>
+      <title>Chinese, Pakistani astronauts achieve first-ever 'space handshake' in China's Tiangong space station</title>
+      <link>https://www.globaltimes.cn/page/202611/1375010.shtml</link>
+      <description>Published: 2026-11-25 12:02:00
+
+This real-time image captured at Beijing Aerospace Control Center on Nov. 25, 2026 shows China's Shenzhou-24 crewed spaceship docking with the Tiangong space station. China's Shenzhou-24 crewed spaceship successfully docked with the Tiangong space station at 11:56 a.m. (Beijing Time) on Wednesday, according to the China Manned Space Agency (CMSA). The spaceship made a fast, automated rendezvous and docking with the front port of Tiangong's core module Tianhe. The whole docking process took approximately 3.5 hours, said the CMSA. The astronaut trio aboard the spaceship, which comprises Chinese astronauts Tang Hongbo, Wu Yi and Pakistani astronaut Muhammad Zeeshan Ali, the first foreigner to visit Tiangong, will then enter the Tianhe module. The Shenzhou-23 crew members in the space station are ready to receive the new arrivals. (Xinhua/Jin Liwang)
+China's Tiangong space station welcomed its first-ever "space handshake" between Chinese and foreign astronauts on Wednesday as the Shenzhou-24 crew entered the station, marking a historic moment in China's space history.
+The Shenzhou-24 crew, comprising Chinese astronaut and mission commander Tang Hongbo, Chinese flight engineer Wu Yi and Pakistani payload specialist Muhammad Zeeshan Ali, entered China's Tiangong space station, where they met with the three Shenzhou-23 astronauts, who have been in orbit for about six months. Ali has made history by becoming the first foreigner to board Tiangong. 
+Chinese President Xi Jinping and Pakistani President Asif Ali Zardari exchanged congratulations on Wednesday on the joint spaceflight mission carried out by astronauts from the two countries, according to the Xinhua News Agency.
+In his message, the Chinese President said the joint space exploration of astronauts from China and Pakistan is a vivid embodiment of the deep-rooted friendship between the two countries, as well as another important achievement in bilateral cooperation. China stands ready to work with Pakistan and other countries to champion the peaceful use of outer space and deepen space cooperation, he said. 
+The mission is a showcase of China's continued technological innovations in the Long March rocket, Shenzhou spacecraft and Tiangong space station, supporting the opening-up and shared use of the China Space Station and multilateral cooperation under China's manned space program, Chinese analysts said.
+Shenzhou-24 crewed spacecraft ready for launch Photo: Fan Wei /Global Times
+History made  
+Shenzhou-24 crewed spacecraft and its three-member crew were carried by a Long March-2F Y24 carrier rocket, which lifted off at 8:18 am on Wednesday from Jiuquan Satellite Launch Center in Northwest China's Gobi Desert. 
+After entering orbit, the Shenzhou-24 crewed spacecraft successfully docked with the forward port of the space station's Tianhe core module at 11:56 am Beijing time on Wednesday. The Shenzhou-23 crew in orbit opened the hatch of the space station at 2:35 p.m. and welcomed the new arrivals. 
+The entire docking process took approximately 3.5 hours, according to the China Manned Space Agency (CMSA).
+The two crews then took group pictures of the ninth space get-together in China's aerospace history. They will now start a new in-orbit handover round. 
+After completing a short-term joint flight, Ali will return to Earth aboard the Shenzhou-23 spacecraft alongside two Shenzhou-23 crew members. The other two Shenzhou-24 astronauts will stay in orbit for roughly six months along with Shenzhou-23 astronaut Zhu Yangzhu, who has already spent six months in orbit and will remain aboard Tiangong to complete a year-long stay experiment.
+This was the 8th crewed launch mission since the implementation of the China Space Station application and development program, and the 41st flight mission of China's manned space program. The Long March-2F carrier rocket maintained its stable condition for the high-profile mission.
+"Although the overall mission plan remained largely unchanged, the rocket team completed 12 technical improvements to further strengthen safety for the flight," Li Wenqing, a technical expert with China Aerospace Science and Technology Corporation (CASC), told the Global Times. The improvements covered both rocket and ground systems, focusing on reliability, safety redundancy and more efficient launch-site operations.
+The team optimized the structure and rubber compound formulation of seals in the rocket's pressurization and propellant feed system, while tightening acceptance standards. These improvements enhanced the system's sealing performance, reliability and safety redundancy, Li said.
+The rocket team also added a manual forced-separation control channel between the rocket and launch tower as a backup for the automatic system, while increasing redundancy in separation signals between systems to improve launch reliability.
+The movable launch platform also underwent considerable upgrades, including improved displays and human-machine interaction, automatic rotation and speed adjustment, and an upgraded health monitoring system. These changes improved its automation, reliability and operational safety, Li said
+He Pengju, overall technical lead for launch and tracking operations, told the Global Times that strong winds and sandstorms were more likely during the seasonal transition. The center implemented zoned temperature and humidity controls in the launch area. 
+After the launch, the Long March-2F Y25 carrier rocket will enter emergency rescue standby under the program's rolling backup plan, continuing to support space station missions, the Global Times learned from the launch center. 
+Rapid docking
+The mission marked the first time a Shenzhou crewed spacecraft carried a foreign astronaut on trip between Earth and space, as well as the first joint flight involving Chinese and foreign astronauts in China's manned space program. The mission represents a major step forward in international cooperation at the China Space Station.
+Pakistani Prime Minister Shehbaz Sharif described Pakistan's participation in the mission as a reflection of living proof of the ironclad friendship, thanking China for making Pakistan part of this historic mission, the prime minister's office said in a X post on Wednesday.
+Ali, the first foreign astronaut to participate in a Chinese crewed space mission,  learned to speak Chinese. Before his departure, he quoted a line from a Chinese poem: "Someday the roc will ride the wind and mount ninety thousand li into the sky." The "roc" refers to an ancient mythical bird and the unit of distance known as a li is equivalent to half a kilometer.
+Pakistan's Ambassador to China Syed Ali Asad Gillani said in an interview with CCTV News that he was pleasantly surprised by the Pakistani astronaut's proficiency in Chinese. He said Chinese has now become an international language in space. "Learn Chinese well - you never know, it might take you all the way to space!"
+Li Zhe, an expert at CASC, told the Global Times that the spacecraft and space station teams coordinated closely and made detailed preparations for the Pakistani astronaut's flight.
+The development team conducted multiple rounds of integrated crew-spacecraft tests involving the primary and backup Shenzhou-24 crews, including the Pakistani astronaut. After arriving at the Jiuquan launch site, the crew took part in spacecraft familiarization and a full-system launch rehearsal, while the space station team provided training on in-orbit living arrangements, equipment operations, experiments and emergency procedures, Li said.
+The Pakistani astronaut experienced the spacecraft's rapid rendezvous and docking capability. After liftoff, Shenzhou-24 used an autonomous rapid rendezvous and docking mode lasting only about 3.5 hours and successfully docked with the forward port of the space station's Tianhe core module. This marked the fourth time a Shenzhou spacecraft had used the 3.5-hour docking mode.
+"Unlike radial rendezvous and docking, which requires continuous dynamic adjustments, front-port docking has a stable parking point and is relatively less demanding in terms of flight control," Li said. The 3.5-hour mode is the standard plan, but ground controllers can switch to a five hour or longer docking plan if necessary to ensure the safety of the astronauts, spacecraft and space station.
+"The value of 3.5-hour rapid rendezvous and docking goes beyond speed," Li said. Early Shenzhou missions took two days and dozens of orbits to complete rendezvous and docking. The faster mode reduces astronauts' physical fatigue and psychological stress during the journey to orbit, while improving the space station's ability to conduct emergency rescue and evacuation.
+The joint flight with a foreign astronaut and the use of mature rapid rendezvous and docking technology highlight the China Space Station's openness to international cooperation and the continued development of China's manned spaceflight capabilities.
+Joint space experiments
+The mission will also feature four scientific experiments carried out by both Chinese and Pakistani astronauts aboard the China Space Station, covering biology, crops and advanced materials. The Pakistani astronaut will operate the experiments in orbit, collecting data for joint research in space. 
+The four experiments focus on cyanobacteria, quinoa, graphene hybrid composites and self-healing carbon fiber composites. Some will be conducted in the life-ecology experiment cabinet in the Wentian lab module, while others will expose materials to the vacuum, radiation and extreme temperature changes outside the space station.
+"The cyanobacteria experiment aims to explore a potential 'green microfactory' for future deep-space missions," Huang Kun, an expert with the China Space Station's space application system, told the Global Times. 
+Proposed by Pakistan's Space and Upper Atmosphere Research Commission (SUPARCO), the experiment will examine how microgravity and space radiation affect cyanobacteria's photosynthesis, growth and carbon-fixation capacity. The findings could support research into oxygen regeneration and space-based biomanufacturing, Huang said.
+The quinoa experiment focuses on food security in space. Led by the University of Agriculture Faisalabad (UAF), in Pakistan, it will send 32 quinoa seed samples outside the cabin to study how cosmic radiation and microgravity affect their longevity and nutritional properties. The findings could help identify high-quality varieties for space cultivation and provide reference data for crop breeding on Earth, Huang said.
+Huang said graphene hybrid composites are lightweight and offer radiation-shielding potential, while self-healing carbon fiber composites are designed to repair microcracks caused by temperature changes, radiation and micrometeoroid impacts, using solar heating outside the cabin to restore their mechanical properties.
+Both materials experiments will use the space station's external materials exposure facility. The graphene hybrid material will be exposed alongside an aluminum control sample for one year, with detectors recording particle tracks for later comparison of their shielding, mechanical and thermal properties. The self-healing carbon fiber samples, including pre-cracked and intact controls, will be monitored by imaging in orbit and retrieved after one year to assess crack repair, Huang said.
+With the Pakistani astronaut operating the experiments in orbit, China-Pakistan space cooperation will extend beyond joint spaceflight to the joint design and implementation of scientific experiments.</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1375010.shtml</guid>
+    </item>
+    <item>
+      <title>Participant in Shanghai hospital's weight-loss competition sheds 16.1 kilograms in three months</title>
+      <link>https://www.globaltimes.cn/page/202611/1375005.shtml</link>
+      <description>Published: 2026-11-25 11:25:00
+
+Photo: Screenshot from thepaper.cn
+A participant who initially weighed more than 100 kilograms lost 16.1 kilograms in three months in a weight-loss competition organized by a top-tier Shanghai hospital, reducing body fat mass by 13.6 kilograms and waist circumference by 21 centimeters. His fatty liver disease also improved from severe to mild, thepaper.cn reported. 
+The participant, surnamed Wu, who is 177 centimeters tall, was crowned the competition's overall weight-loss champion, according to the report.
+According to Shanghai Tenth People's Hospital, which held the competition, a total of 261 participants, with an average age of 36, signed up for the science-based weight-loss competition which opened registration in early May. 
+After three months, 224 participants completed the competition, losing an average of 7.25 kilograms and reducing their waist circumference by an average of 10 centimeters through tailored nutrition, exercise and health management.
+Bu Le, director of the obesity and metabolic syndrome (weight management) department at the hospital, said more than 70 percent of participants lost at least 5 percent of their body weight, with nearly half shedding at least 10 percent. Most participants also showed improvements in body fat, waist circumference, visceral fat and fatty liver indicators. 
+In addition to Wu, the competition also named champions for the greatest body-fat reduction and waistline slimming.
+The competition's body-fat reduction champion surnamed Wang, in his 50s, shed 9.4 kilograms in three months, including 9.1 kilograms of body fat. His visceral fat area returned to a normal range while his skeletal muscle mass remained largely unchanged.
+The competition's waistline reduction champion, surnamed Jiang, lost 14.3 kilograms in three months, including 11.2 kilograms of body fat, and reduced her waist circumference by 24.5 centimeters, the largest reduction among all participants. Her visceral fat area decreased and her metabolic indicators also improved following online training and nutritionist support. 
+According to Bu, the competition prioritized fat loss, muscle preservation, waist reduction and improved metabolic health, with waist circumference and visceral fat considered more meaningful indicators than weight loss alone. Excess visceral fat is closely linked to insulin resistance, fatty liver disease, abnormal blood lipids and cardiovascular diseases and metabolic risks. 
+Global Times</description>
+      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1375005.shtml</guid>
+    </item>
     <item>
       <title>China successfully launches Shenzhou-24 crewed spaceship with Pakistani astronaut as first foreign guest</title>
       <link>https://www.globaltimes.cn/page/202611/1374997.shtml</link>
@@ -20,9 +196,8 @@ During the mission, the crew will carry out a range of experiments and applicati
 To date, a total of 31 Chinese astronauts and one foreign astronaut have made 50 spaceflight trips. The mission also marks the 680th flight of the Long March series of carrier rockets and the 24th flight of the Shenzhou spaceship.
 The Shenzhou-24 crewed spacecraft carried by the Long March-2F Y24 carrier rocket, lifts off from the Jiuquan Satellite Launch Center in Northwest China's Gobi Desert on November 25, 2026. Photo: Fan Wei/Global Times
 Shenzhou-24 crewed spacecraft ready for launch Photo: Fan Wei /Global Times
- 
-At a press conference on Tuesday, Zhang Jingbo, spokesperson for the China Manned Space Agency (CMSA), announced that the Shenzhou-24 crew would be led by mission commander Tang Hongbo, Chinese flight engineer Wu Yi and Pakistani payload specialist Mohammad Zeeshan Ali. Tang is set to make his third visit to the China Space Station, while Wu will undertake his first spaceflight.  
-Pakistani astronaut Mohammad Zeeshan Ali is going to be the first foreign astronaut to visit China Space Station. 
+At a press conference on Tuesday, Zhang Jingbo, spokesperson for the China Manned Space Agency (CMSA), announced that the Shenzhou-24 crew would be led by mission commander Tang Hongbo, Chinese flight engineer Wu Yi and Pakistani payload specialist Muhammad Zeeshan Ali. Tang is set to make his third visit to the China Space Station, while Wu will undertake his first spaceflight.  
+Pakistani astronaut Muhammad Zeeshan Ali is going to be the first foreign astronaut to visit China Space Station. 
 After entering orbit, the Shenzhou-24 spacecraft is scheduled to use a 3.5-hour autonomous rapid rendezvous and docking strategy, connecting to the forward port of the Tianhe core module to form a three-spacecraft, three-module combination, according to the CMSA.
 This was the 8th crewed launch mission since the implementation of the China Space Station application and development program, and the 41st flight mission of China's manned space program. The Long March-2F carrier rocket maintained its stable condition for the high-profile mission.
 "Although the overall mission plan remained largely unchanged, the rocket team completed 12 technical improvements to further strengthen safety for the flight," Li Wenqing, a technical expert with China Aerospace Science and Technology Corporation (CASC), told the Global Times. The improvements covered both rocket and ground systems, focusing on reliability, safety redundancy and more efficient launch-site operations.
@@ -34,55 +209,6 @@ At a media meeting on Tuesday, Tang recalled the excitement of first entering th
 Flight engineer Wu said six months of joint training had enabled the crew to move from simply understanding one another to being able to anticipating each other's actions, despite language and cultural differences. Ali said seven months of training in China had equipped him with flight skills and enabled him to communicate in Chinese with his crewmates. He said he was carrying the hopes of 250 million Pakistanis.
 After the launch, the Long March-2F Y25 carrier rocket will enter emergency rescue standby under the program's rolling backup plan, continuing to support space station missions, the Global Times learned from the launch center.</description>
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1374997.shtml</guid>
-    </item>
-    <item>
-      <title>From White Rabbit candy to AI glasses, 'China haul' trend shows international visitors' changing shopping lists and everyday discoveries</title>
-      <link>https://www.globaltimes.cn/page/202611/1374992.shtml</link>
-      <description>Published: 2026-11-24 23:36:00
-
-Foreign tourists buy Pop Mart products at a mall in Shanghai on December 20, 2025. Photo: VCG
-At a tea shop in Guangzhou, South China's Guangdong Province, Matteo Picano tried several varieties before settling on Tieguanyin oolong tea from East China's Fujian Province and a bag of high mountain tea. 
-Tea wasn't the only thing on his shopping list. His girlfriend, who is from Northeast China, had introduced him to blind boxes. The two stopped at a blind box store in every city they visited. Among the figures and keychains they bought was a little bird from the Twinkle series. Some of the designs he found in China were unavailable in Italy, the 29-year-old engineer from Rome told the Global Times.
-The little bird became as much a souvenir of China for Picano as the oolong tea. It came from a part of contemporary Chinese pop culture he discovered through the people around him, and exploring it gave him something else to look for on his trip.
-For some people, that introduction to Chinese culture begins online. Earlier this year, TikTok and Instagram users joked that they were in a "very Chinese time" of their lives as they tried habits such as drinking hot water and wearing slippers at home. The trend also went by "Chinamaxxing."
-In the latest "China haul" videos, international visitors show what they bought on a trip to China and talk about why they picked it. Viewers have asked for links to products ranging from action cameras to silk and ceramics.
-Some of the shopping took place during the Asia-Pacific Economic Cooperation (APEC) Leaders' Week in Shenzhen. At a stall in the Huaqiangbei electronics market, Mexico's health secretary, David Kershenobich Stalnikowitz, asked what a leg massager could do, compared prices and bought one for 350 yuan (about $53), The Beijing News reported. 
-As these travelers come to know more of China's everyday life, their idea of what is worth bringing home is changing, too.
-Foreign visitors try out DJI Pocket devices in Shenzhen on April 21, 2026. Photo: VCG
-What visitors are looking for
-In Xi'an, Northwest China's Shaanxi Province, Matteo bought a ceramic bottle shaped like a traditional wine gourd. He had seen vessels like it in Chinese films and television series and had grown curious about them. He also picked up a steel bottle with a filter for brewing tea, something he could use with the leaves he had bought on the trip.
-Picano's interest in history and languages had led him to study Chinese at the Confucius Institute in Rome. Traveling gave him a chance to find out what people in China were watching, buying and collecting. 
-At a comics and video game convention in Guangzhou, he bought trading cards based on the animated film Ne Zha 2. He liked the "cutesy but quirky" look of the Pop Mart figures he found along the way, a combination he said was hard to find in European brands.
-One of Picano's own shopping tips came from a classroom in Rome. His teacher, Tao, had recommended the jasmine ice cream from Beijing's Wuyutai Tea Shop. When he reached the capital, the first local thing he tried was the ice cream his teacher had told him about.
-For some visitors, a particular purchase can determine which city comes first. Andrea Triboldi, another Italian traveler, said that he chose Shenzhen as his first stop because he wanted to see the technology on offer. 
-He had put more than 20 products on his list before leaving for China. His 11-year-old son had his eye on a DJI drone, reported the Xinhua News Agency. At one of the company's flagship stores in Shenzhen, an employee said that international visitors particularly enjoyed trying out the drones in test flights.
-During November's APEC Leaders' Week, many shoppers headed to Shenzhen's Huaqiangbei electronics market to look for AI glasses, which had gained attention on social media. An eyewear vendor said the glasses' translation feature was a particular draw for overseas shoppers.
-Local officials have also responded to that interest. In October, the Shenzhen municipal government's website published an English-language shopping list for Huaqiangbei based on purchases overseas visitors had made earlier this year. It featured eight gadgets, including pocket cameras, translation earbuds and AI glasses.
-At the October launch, shoppers could buy all eight gadgets together for 5,141 yuan. Bought separately at their listed prices, the gadgets would have cost 6,200 yuan in total, according to the Futian district government's website.
-The list was Huaqiangbei's response to a demand that visitors themselves had helped define. 
-As travelers become more familiar with the technology coming out of China, and after doing some research, some are arriving with a clear idea what they are looking for.
-Matteo Picano wears traditional Chinese costume in Xi'an, Shaanxi Province. Photo: Courtesy of Picano
-What becomes part of everyday life
-In Marseille, Marie rarely had a hot drink away from home. In Beijing, she watched classmates and friends carry thermoses, and soon after, she started carrying one, too. She filled it with tea or just hot water. Now she has cups in so many sizes and colors, she said, "they are slowly turning into a collection."
-Marie, a graduate student at Peking University who uses the Chinese name Dai Mingxin, has lived in Beijing since 2017. Soon after arriving, she bought an Honor phone. She was surprised by what she could get for the price. 
-Chinese brands are often her first choice when she shops for clothes, bags or home appliances. "I tend to care more about getting the best quality for the price I'm willing to pay," she told the Global Times.
-Marie finds some of the "Chinamaxxing" videos exaggerated, though she recognizes the excitement of finding a new way to do something. She still gets that feeling in China. 
-For visitors on a short stay, a first encounter with a local routine can happen at the hotel. Some tourists had learned to use e-commerce platforms Taobao and Meituan to have purchases and meals delivered to their rooms. Some ordered takeout just to see a hotel robot deliver it. 
-Sometimes the appeal of a purchase becomes clear once it is in regular use. Marie said an electronic neck massager is the sort of gadget people in France might try out of curiosity at a store display. Marie bought an electronic neck massager after seeing the devices around China. 
-When asked what she would recommend taking home, she named the massager first, saying it "does wonders after a long plane trip home."
-For Mok Jin Jin's family in Malaysia, the feature that made a Chinese-made blender especially useful was a single button. Mok told Xinhua that her mother often uses it to make drinks for the family. She particularly likes being able to press a button and let the blender clean itself. 
-Marie has also seen some of the brands she knows from China turn up in Marseille. Pop Mart, the toy chain Picano made time for in city after city on his first trip to China, now has a shop on Rue Saint-Ferréol in her hometown.
-Other products reached her family in a suitcase. Marie brought Chinese makeup back to France for her mother, who liked the packaging and the quality. Over time, her mother found products she wanted to buy again. Now, whenever she visits her daughter in Beijing, she stocks up on makeup and skincare.
-Who puts it on the list
-Years before travelers began posting their "China hauls," Lao Gan Ma was already a kitchen staple for Jen Phanomrat, co-host of Food52's Either Side Eaters podcast. She remembered when she could only find it in Asian grocery stores. By the time of the podcast, it was already on the shelves in her local convenience store. Her co-host, Katie Quinn, used to buy it regularly in London. The version with black soybeans was Phanomrat's favorite, and Quinn liked the umami the beans brought to the chili oil.
-On TikTok, an introduction to a Chinese product can begin with something as ordinary as making a hot drink. Chinese American creator Sherry Zhu shows viewers how she steeps goji berries in a thermos and talks about wearing slippers indoors. Some viewers of videos about Chinese habits asked where they could buy a pair of Chinese house slippers. Others turned to Zhu for advice about what to do for Chinese New Year. "Cousin Sherry," some called her in the comments.
-Chang Jiang, a professor at Shenzhen University's School of Media and Communication, said that a fuller picture of China was emerging overseas through the accounts of travelers and ordinary social media users. Those accounts give viewers details they can act on, according to Chinese Social Sciences Today. In an August YouTube video, for example, creator Elliot Page and Dylan unpacked clothes and shoes they had bought in Guangzhou and Shenzhen, discussing how the fabrics felt and how the jackets fitted. A viewer considering a similar purchase could see what the clothes looked like on someone who had actually tried them.
-Sometimes the detail that gets passed around is a candy wrapper. On August 5, an X user shared photos of White Rabbit milk candy and its red, white and blue wrapper laid flat, calling it an "absolute masterstroke of graphic design." The post had drawn more than 5 million views. 
-In November, RADII, an English-language website covering contemporary Chinese culture, featured White Rabbit in a guide to snacks worth trying on a trip to China. It pointed readers to red bean and coffee versions of the milk candy and recommended Snack Kingdom in Changsha, Central China's Hunan Province. The store's range has drawn visitors from countries including Russia and Tanzania. A Russian tourist said few snack shops back home offered that much choice. A Tanzanian visitor said the store was also a place to have fun and described the Chinese snacks she tried as less sweet than those she knew at home.
-Observers see the "China haul" trend as a sign of changing tastes among international visitors. Chinese technology and design are giving travelers more reasons to shop, and browsing stores and markets has become part of the trip for some. What seals a purchase can be something as simple as the fit of a jacket, how well a pair of earbuds translates a conversation or the chance to try a familiar candy in a new flavor.
-For Picano, that growing familiarity showed up in what he bought to take back home to Rome. He bought the oolong tea, a little bird from the toy line his girlfriend had introduced him to and a bottle he could use to brew the tea. 
-Zhu Xuanlin contributed to this story.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1374992.shtml</guid>
     </item>
     <item>
       <title>International space cooperation opens a new chapter today: Global Times editorial</title>
@@ -123,136 +249,6 @@ ASML's exports to China have long drawn market attention. Berendsen's visit to S
 The current political climate in Washington may fuel calls for tighter restrictions on chip exports to China, adding to the pressure on the Netherlands. But US policy calculations do not necessarily align with Dutch economic interests. Cooperation with China brings tangible benefits to Dutch businesses. The Netherlands has good reason to weigh those benefits on their merits, rather than let pressure from Washington dictate its choices.
 AI is advancing at extraordinary speed, and Shenzhen offers a glimpse of how quickly the technological landscape is evolving. The question for the Netherlands is not simply how to respond to external pressure, but how to retain its place in an industry moving so fast. Pragmatic engagement with China and a willingness to address differences while expanding cooperation would give the Netherlands more room to pursue its own economic and technological interests in a changing world.</description>
       <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1374983.shtml</guid>
-    </item>
-    <item>
-      <title>Shenzhen government thanks residents for their role in APEC success</title>
-      <link>https://www.globaltimes.cn/page/202611/1374963.shtml</link>
-      <description>Published: 2026-11-24 19:57:00
-
-An APEC-themed installation is seen in Shenzhen, South China's Guangdong Province. The 33rd APEC Economic Leaders' Meeting will be held in Shenzhen from November 18 to 19. Photo: Xinhua
-Shenzhen has thanked its residents for helping make the 33rd APEC Economic Leaders' Meeting a success, in a letter released on the municipal government's official WeChat account that highlights how ordinary people went out of their way to welcome international guests, keep the city running smoothly and showcase its appeal to the world. ;The letter quickly drew public attention, with the related topic topping Weibo's trending list on Tuesday.
-In an open letter published on Monday, Shenzhen officials praised residents for their contributions, ranging from voluntarily reducing car use and dressing up for the occasion to learning English, assisting foreign visitors and sharing the city's transformation on social media.
-The letter, titled "You are the pride of the city," said the successful hosting of the summit had brought Shenzhen's international recognition, influence and reputation to an unprecedented level, while emphasizing that the achievement was made possible by the collective efforts of generations of Shenzhen residents.
-One of the most striking contributions came from residents' willingness to adjust their daily routines to ease traffic during the summit. According to the letter, one in every three Shenzhen-registered vehicles voluntarily stayed off the roads, while many residents opted to work from home, take leave, travel or visit relatives and friends.
-The city also praised residents for their efforts to present a welcoming image to international guests. Many people swapped their usual casual outfits for more formal attire, while sanitation and municipal workers worked to keep streets clean and attractive. Delivery workers and couriers took the initiative to learn English and share photos to help improve urban management, while taxi and ride-hailing drivers turned their vehicles into mobile "international reception rooms."
-Earlier, the enthusiasm of local residents had already become a talking point online during APEC week. The hashtag "Shenzhen residents dress up to welcome APEC" topped the trending list on Sina Weibo on Wednesday, sparking widespread discussion. With colorful flags lining the roads, flowers brightening the streets and buses and metro trains sporting fresh looks, the city had been dressing up for its international guests. Residents joined in, too, with many swapping their usual casual wear for more formal outfits - a collective display of civic pride that quickly caught online attention.
-A total of 1,360 conference volunteers and tens of thousands of other city volunteers also played a role, providing directions, translation assistance and other services at venues, airports, border checkpoints, transport hubs and commercial areas.
-Xie Kexin, a Shenzhen resident, said she was deeply touched by the letter, saying that having played her part as an ordinary citizen in helping the city host the APEC meeting was a source of genuine pride and honor.
-In her view, the success of a major international event depends on far more than what unfolds in the spotlight. It also rests on the understanding, cooperation and quiet support of countless local residents. The letter, she said, is a heartfelt gesture showing how much the city values the goodwill and contributions of its people.
-The warm reception Shenzhen received from its residents was matched by praises from visiting world leaders. Leaders attending the summit had praised the city's futuristic atmosphere and rapid development, the Xinhua News Agency reported on Tuesday.
-Yet even as Shenzhen received international recognition for successfully hosting the summit, a BBC feature on the city drew criticism for what Chinese commentators described as a selective and negatively framed a portrayal of its development.
-The BBC report highlighted technologies such as drone food deliveries and autonomous driving before shifting its focus to factory relocations and the grievances of some delivery riders, framing these challenges as evidence that the promise of a better life through hard work in Shenzhen was becoming "less secure."
-The report prompted a wave of criticism and satire on social media. Some users called out what they saw as a deliberately dark visual filter in the BBC's presentation, while others accused the broadcaster of viewing China through preconceived biases rather than presenting a fuller picture.
-Others turned the report's narrative structure into a meme, repeatedly using the phrase "But at what cost?" - echoing the BBC's apparent attempt to juxtapose Shenzhen's technological advances with underlying social challenges. The phrase became a sarcastic reference to what users saw as a familiar pattern in some Western media coverage of China: acknowledging the country's achievements before pivoting to suggest that they must come at a hidden cost.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1374963.shtml</guid>
-    </item>
-    <item>
-      <title>Chinese jade and Pakistani jasmine meet in Shenzhou-24 mission logo</title>
-      <link>https://www.globaltimes.cn/page/202611/1374962.shtml</link>
-      <description>Published: 2026-11-24 19:55:00
-
-Official logo of China's Shenzhou-24 crewed space mission Photo: CMSA
-An ancient Chinese jade ornament and Pakistan's national flower appear together in the official logo of China's Shenzhou-24 crewed space mission, a blend of traditional cultural heritage and international cooperation in space exploration, as Pakistani astronaut Muhammad Zeeshan Ali is set to join the crew and become the first foreign astronaut to board the China Space Station, according to the China Manned Space Agency (CMSA).
-The Shenzhou-24 crewed spaceship is scheduled to be launched at 8:18 am on Wednesday from the Jiuquan Satellite Launch Center in Northwest China, the CMSA announced at a press conference on Tuesday.
-Chinese astronauts Tang Hongbo and Wu Yi, together with the Pakistani astronaut Muhammad Zeeshan Ali, will carry out the Shenzhou-24 crewed spaceflight mission, with Tang serving as commander, CMSA said. 
-The official logo is the work of designer Lü Zhou, who sought to create a visual identity reflecting both China's cultural heritage and the mission's international significance - timed as China prepares to welcome its first foreign astronaut to its space station.
-One of the most distinctive elements is the image of a dragon-patterned jade huang, a crescent-shaped jade ornament traditionally used in ancient Chinese rituals.
-Lü said its curved shape fits naturally into the logo's circular design, while its distinctive form gives the insignia a recognizable Chinese identity. 
-According to Zhouli, or the Rites of Zhou, a Confucian classic documenting the laws and institutions of the Zhou Dynasty (1046 BC-256 BC), six types of jade objects were used to pay tribute to the four directions and to the heavens and Earth. Among them, the dark-colored jade huang was used in rituals honoring the north, CMSA reported.
-Shenzhou-24 will embark on its journey from Jiuquan, in Northwest China, a geographical connection that Lü sees as more than a coincidence.
-For him, it represents a symbolic connection across thousands of years. The jade huang embodies ancient Chinese people's reverence for heaven and Earth, as well as generations of aspirations to explore the skies. Its journey through history, he said, mirrors the Chinese nation's enduring desire to look toward the stars, according to the report. 
-Alongside the jade ornament, a flower adds an international dimension to the logo: jasmine, the national flower of Pakistan.
-During the design process, Lü experimented extensively with ways to integrate the flower's shape with other visual elements, weighing not only its appearance but also its placement and the message it could convey.Lü combined the flower with the mission designation "SZ-24" by placing the jasmine beside the designation on the right - since the logo as a whole is an axially symmetrical, this introduced a more dynamic element to the otherwise balanced composition.
-The placement was intended to make the flower appear to blossom within the mission itself, symbolically reflecting Chinese and Pakistani astronauts working together in space and the mutual appreciation of different civilizations, the report said. 
-If viewers are prompted to explore the cultural significance of the jade huang or to learn about the meaning of the jasmine flower and the joint mission it represents, Lü said, the logo will have fulfilled its role as a form of visual communication.
-Lü was invited by the CMSA to watch the launch in person at the Jiuquan Satellite Launch Center on Wednesday. 
-Global Times</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1374962.shtml</guid>
-    </item>
-    <item>
-      <title>Upgraded China-made autonomous mission management system to debut at Airshow China 2026</title>
-      <link>https://www.globaltimes.cn/page/202611/1374958.shtml</link>
-      <description>Published: 2026-11-24 19:03:00
-
-FH series UAVs are displayed at Airshow China 2021 in Zhuhai, South China's Guangdong Province. Photo: Courtesy of China Aerospace Science and Technology Corporation
-An upgraded version of China's domestically developed Hongshan autonomous mission management system will be unveiled at the upcoming 16th China International Aviation and Aerospace Exhibition, also known as Airshow China, which is set for December 7 to 13 in Zhuhai, South China's Guangdong Province, China Space News reported on Monday evening.
-Unlike the debut of the original version at the 2024 airshow, where the system focused on demonstrations of coordinated drone swarm flights, the upgraded version expands its capabilities to integrated unmanned and counter-unmanned operations. It can connect different types of unmanned platforms and use AI algorithms to complete multiple tasks.
-Independently developed by the Aerospace Times Feihong Technology Co (ATFTC) under the state-owned China Aerospace Science and Technology Corp, the Hongshan system was designed to meet the demands of large-scale coordinated unmanned operations, said the report.
-Built on an open architecture for multi-agent coordination and management, the system can flexibly integrate different types of military and civilian unmanned platforms, including drones, unmanned ground vehicles and unmanned surface vessels. Taking into account mission objectives, environmental information and system capability models, it supports closed-loop operations, from the fusion of reconnaissance and intelligence to digital battlefield simulation, AI-generated strike plans and assessments of operational effectiveness. 
-The company said the system offers clear situational awareness, rapid decision-making, effective control and traceability, with capabilities comparable to international counterparts and advantages in certain areas.
-During the exhibition, the company will set up a command-and-control center at the venue. Using satellite communications and drone data links, the system will establish a high-bandwidth, low-latency information network, enabling commands issued at Zhuhai Jinwan Airport to reach an aerospace base in the Damao Banner, North China's Inner Mongolia Autonomous Region, about 2,600 kilometers away, almost instantly.
-From what has been seen so far, the Hongshan system seems to have overcome several long-standing challenges, including communication delays, differences in data formats across unmanned platforms, and the need for precise timing synchronization, all of which usually make real-time command and control over long distances difficult, Chinese military affairs expert Song Zhongping told the Global Times on Tuesday.
-Addressing these challenges requires a distributed architecture combining space, air and ground communication links with cloud-based computing. Autonomous decision-making capabilities at the remote end are also essential to compensate for satellite transmission delays and therefore maintain operational responsiveness, Song said.
-The Hongshan system's role as the "brain" of an unmanned operational network lies not only in its current capabilities but also in its potential for further development.
-At this year's airshow, its multi-agent coordination architecture will enable different types of unmanned equipment to autonomously form operational groups, share situational information and coordinate in response to changing conditions, completing the entire operational process through closed-loop simulation.
-The system will also allow new equipment and algorithms to be rapidly integrated, while continuously refining coordination strategies through data accumulated in operational confrontations.
-Meanwhile, the company has established an integration standards framework for unmanned operations that features a unified architecture, compatible interfaces, interoperable data and efficient coordination. It aims to break down data silos between equipment from different manufacturers and across different models, allowing various unmanned platforms to be integrated into the Hongshan system.
-Song said the system's interoperability could facilitate bringing previously fragmented unmanned platforms into an integrated network that can be coordinated across military services and dynamically reconfigured, turning the capabilities of individual platforms into broader operational advantages. This is where its real value lies.
-China Space News noted that unmanned combat forces have become a major development priority for the world's leading military powers, reshaping modern warfare and the rules of military confrontation.
-At the 13th Airshow China in 2021, the FH series included stealth drones, loitering munitions and integrated reconnaissance-strike UAVs.
-Among the products on display, two eye-catching ones were the FH-95 electronic warfare and armed reconnaissance UAV system and the FH-97 high-speed stealth drone.
-The FH-97 is a medium-range, high-speed UAV designed for rapid reconnaissance and surveillance, target positioning verification, artillery correction and damage assessment. The FH-95, meanwhile, is designed for all-weather, round-the-clock reconnaissance and surveillance missions.
-At that time, Chen Jianguo, then general manager and a researcher with ATFTC, said electronic warfare had become an essential component of modern warfare, with electronic warfare, reconnaissance and early-warning drones playing an increasingly important role. Such platforms can conduct remote detection beyond defensive perimeters or carry out tactical feints and saturation attacks in coordination with manned aircraft.
-At the 14th Airshow China in 2022, the FH-97A attracted attention for its resemblance to the J-20 stealth fighter. An upgraded version of the FH-97, the FH-97A has an electro-optical tracking and targeting system added to its nose, according to CCTV News.
-Designed for air combat, the UAV features stealth capabilities, high maneuverability, short takeoff and landing, reusability, radar evasion and decoy capabilities. It is designed to operate alongside manned stealth fighters in future combat scenarios, CCTV said.
-According to an introduction to Airshow China 2026, the Lianzhou unmanned equipment exhibition zone will serve as a platform for showcasing drones and counter-drone systems. Dynamic counter-drone demonstrations will be a major highlight, with participating companies presenting various countermeasures and their latest technological developments. Several new drone models will also take part in flight demonstrations.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1374958.shtml</guid>
-    </item>
-    <item>
-      <title>US politicians push stricter chip curbs on China amid Jensen Huang's return</title>
-      <link>https://www.globaltimes.cn/page/202611/1374957.shtml</link>
-      <description>Published: 2026-11-24 18:45:00
-
-Jensen Huang Photo: VCG
-Jensen Huang's reinstatement as Nvidia CEO sent ripples through global stock markets as investors regained confidence in the artificial intelligence (AI) narrative, but it also triggered a strong backlash among some US lawmakers, many of whom seized the latest turn of events as a fresh opportunity to advance their anti-China agendas.
-Amid Huang's dramatic reversal of fortunes and the rollercoaster performance of Nvidia's stock price, Chinese analysts said the real driver behind the unfolding Nvidia drama is US politicians' continued attempt to contain China's development. The so-called national security concerns and corporate governance issues are nothing but excuses — "political chips" that can be deployed or discarded as needed to push anti-China agenda.
-They warned that any moves aimed at containing China's tech development are doomed to fail, and that the outright politicization of trade and economic matters will further damage predictability in the US business environment and erode its long-term competitiveness.
-Ripple effect
-"I want to thank all of you. I am terribly sorry for putting you through all of this… I've made some very terrible mistakes… I am going to work on coming back," Huang told a room full of Nvidia employees, according to video clips circulating on Chinese internet platforms on Tuesday.
-Facing a cheering crowd, Huang bowed with his hand on his heart.
-Nvidia announced on Monday that Huang has been reinstated as president, CEO and a member of the board, effective immediately. The company's stock price surged nearly 31.5 percent on Monday.
-US President Donald Trump said on Monday after the corporate statement that Nvidia's board of directors had made the correct decision to reinstate Huang, according to a post on Truth Social.
-"The Country needs Jensen's leadership at Nvidia in order to ensure the Success and Prosperity of not only the Company, but the American Economy. The US Government has no reason to believe that Jensen's return to Nvidia poses any risk to National Security."
-Ironically, this came just 11 days after Huang stepped down as CEO on November 12, amid fierce criticism from certain US politicians and media outlets.
-Huang's return was also closely watched by Chinese public. "Huang did not wear his signature leather jacket on this day," one Chinese netizen noticed. However, more people commented that the abrupt about-face regarding Huang's role amounted to stock price manipulation that caused many investors to suffer heavy losses. "It is like child's play," one netizen wrote on Sina Weibo.
-Huang previously resigned amid intense scrutiny surrounding his affair with a Singapore-based business executive, who some US media reports and officials alleged had links to Chinese intelligence. Some US officials also sought to link Nvidia's leadership crisis to Washington's chip export restrictions on China. The Chinese Foreign Ministry has dismissed the "Chinese spy" allegation as "purely unsubstantiated and directed at smearing China."
-When asked about Jensen Huang's return to Nvidia, China's Foreign Ministry spokesperson Guo Jiakun said at a regular press briefing on Tuesday that "We have no comment on this."
-Huang's dramatic reversal of fortunes came after a 23 percent plunge in Nvidia shares last week. 
-Chinese analysts said the drama surrounding the Nvidia CEO could be part of Washington's efforts to cope with a plunge in US stocks, for which Nvidia's success story is a vital pillar. It has laid bare the deepening politicization of trade and economic matters in the US and its impact on corporate governance.
-"Such frequent shifts are indeed telling. First, Washington invokes national security as a pretext to suppress a specific company. Then, it appears to adjust its stance because of stock market or broader financial considerations. For businesses, this creates profound uncertainty," Zhou Mi, a senior researcher at the Chinese Academy of International Trade and Economic Cooperation, told the Global Times on Tuesday.
-"What can be granted today can just as easily be taken away tomorrow — and that is what any company would fear most. National security has been reduced to a pretext, a handy tool for direct intervention in corporate affairs. This will have a deeply detrimental impact on the development of the US business environment," Zhou said.
-"One has to wonder whether Nvidia's governance is now decided not inside its boardroom but in the White House — Washington weighed in, the board listened, and Huang was reinstated," Shen Yi, director of the International Research Institute of Global Cyberspace Governance at Fudan University, told the Global Times on Tuesday.
-"Whatever the legal formalities, the episode suggests the US business environment and the unwritten rules of politics-business relations are being redefined," Shen said.
-Political storm
-The cheering on Wall Street and at Nvidia's headquarters was matched by fury on Capitol Hill, according to media reports.
-According to Reuters, US lawmakers from both parties sharply criticized Nvidia's decision to reinstate Huang, with several arguing that Congress should tighten restrictions on China's access to advanced Nvidia AI chips and scrutinize the circumstances surrounding Huang's return.
-A number of US politicians also used this turn of events to give a further push to their anti-China agenda.
-Senate Intelligence Committee Chairman Tom Cotton on Monday called on Congress to pass the Chip Security Act, a bill seeking to address legally exported advanced chips later being diverted to China, per Reuters.
-Senate Democratic leader Chuck Schumer wrote on X that Democrats would wield their full power to investigate any wrongdoing by the Trump administration, Jensen Huang and other Nvidia executives, and "anyone selling out our national security for financial gain."
-Democratic lawmakers last week opened a probe into what influence Nvidia was able to wield over the Commerce Department's investigation. Some asked Huang to testify before Congress.
-The US Commerce Department on Monday added Singapore-based Megaspeed, the cloud company at the center of the Nvidia controversy, to its trade blacklist, following criticism from lawmakers and administration officials.
-The latest move by US politicians reflected the McCarthyist logic and used national security pretext to launch a witch hunt, analysts said.
-"In the face of tightening US export controls, Chinese companies have options for responding to changes in US policy, including adopting domestic solutions in areas where homegrown chips can already meet their needs," said Xiang Ligang, director-general of the Zhongguancun Modern Information Consumer Application Industry Technology Alliance. "Once customers find reliable substitutions, Nvidia's competitive advantage will be weakened."
-"Huang's dismissal and subsequent reinstatement had little to do with him personally; they were not the result of his own capabilities or actions. He was merely a pawn in American political maneuvering, and the fundamental problems facing Nvidia remain unresolved," Xiang told the Global Times.
-"This political sparring is set to continue. Things are unlikely to get any easier for Jensen Huang and Nvidia. This grand political drama has not come to an end," Xiang said.</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1374957.shtml</guid>
-    </item>
-    <item>
-      <title>Chinese ministry employee sentenced to death over espionage for foreign spy agency</title>
-      <link>https://www.globaltimes.cn/page/202611/1374951.shtml</link>
-      <description>Published: 2026-11-24 17:21:00
-
-Photo: Screenshot from Baomiguan 
-An employee in an unspecified Chinese ministry who was once stationed overseas has been sentenced to death for espionage after providing more than 100 pieces of confidential information collected through his work to a foreign intelligence agency in exchange for over 1 million yuan in payments. Baomiguan, a WeChat public account linked to China's National Administration of State Secrets Protection, disclosed the case in an article on Monday. 
-While stationed in an unnamed country, the ministry employee surnamed Ma was approached by an intelligence officer named Kailin from another country, who initially used language learning and communication as pretexts before probing into politically sensitive issues and the personnel and operations of the Chinese institution in country where Ma is stationed. 
-Ma disclosed a substantial amount of sensitive information about the Chinese institution to Kailin and provided her with an internal telephone directory. Kailin later introduced him to her colleague named Tang Zheng, who demanded that Ma join the intelligence agency with Kailin and threatened to expose his past illegal activities to Chinese authorities if he refuses. 
-Ma accepted espionage assignments from the intelligence agency of country of Kailin, signed a "cooperation agreement" that included clauses of "confidentiality" and "loyalty," and regularly received a fixed monthly payment. Tang also supplied Ma with a laptop to transmit and receive intelligence. 
-After completing his overseas assignment and returning to China, Ma spent an extended period stealing classified information from documents and materials accessed through his work and transmitting the information to the foreign country via an espionage website. He provided more than 100 pieces of intelligence in exchange for payments and performance-based bonuses and collected the payments through meetings held either in China or overseas. 
-Ma was eventually apprehended. The court found that Ma provided state secrets to a foreign intelligence agency over an extended period, with nine items classified as top secret and 26 classified as secret. In return, Ma received more than 1 million yuan ($150,143) in espionage payments. 
-The court sentenced Ma to death for espionage, deprived him of his political rights for life, and ordered the confiscation of all his personal property. 
-The article warned that foreign espionage and intelligence agencies are increasingly using sophisticated and deceptive tactics such as emotional manipulation, financial incentives, threats and blackmail to target personnel in key positions at government bodies, stressing that such cases offer serious lessons. 
-Global Times</description>
-      <guid isPermaLink="false">https://www.globaltimes.cn/page/202611/1374951.shtml</guid>
     </item>
     <item>
       <title>What is China's takeaway from Jensen Huang's saga?</title>

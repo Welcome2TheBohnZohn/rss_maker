@@ -1,0 +1,30 @@
+TITLE:
+Chinese humanoid robot maker, funds pledge at least 1b yuan for industry partners
+
+PUBLISHED:
+2026-11-25 18:33:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1375037.shtml
+
+ARTICLE TEXT:
+A humanoid robot demonstrates how to scoop popcorn into a container at EngineAI's 2026 World Developer Conference in Shenzhen, South China's Guangdong Province, on November 25, 2026. Photo: Tao Mingyang/Global Times
+Chinese humanoid robot maker EngineAI announced on Wednesday that it will work with industry funds to provide at least 1 billion yuan ($210 million) in support for partners developing commercial applications. 
+Industry analysts said that opening robot platforms to more developers can accelerate breakthroughs in humanoid robotics, while collecting different users' problems and experiences, creating what the industry called "a two-way exchange."
+Zhao Tongyang, EngineAI's founder and CEO, announced the plan at the company's 2026 World Developer Conference in Shenzhen, Guangdong Province, on Wednesday. The company outlined its CoRun approach to sharing development work across teams and its Engine Plan for developing partners.
+The fund will support joint projects involving technology companies, universities and research institutes, Zhao said. Investment would give the partners a long-term stake in each other's success. As more applications come into use, the operating data they generate could help developers improve the machines and attract more partners, he said.
+"Some of you have brought code and want to try it on a real machine," Zhao said, adding that others already have a working product and are looking for their first customers. EngineAI would offer engineering support and access to robots, data and computing resources. Once a partner has an application to demonstrate, the company can introduce it to customers facing the same problem.
+Zhao also described how partners had already found different jobs for the same hardware. Duolun Technology used EngineAI's T800 and PM01 platforms to develop applications for directing traffic, teaching road safety and helping students get to school safely, he said. At a Luxshare Precision factory in Suzhou, East China's Jiangsu Province, the T800 was connected to the plant's management system so it could receive an order, navigate to a pickup point, collect materials and deliver them.
+Shi Fan, an assistant professor in the Department of Electrical and Computer Engineering at the National University of Singapore, said that he saw a parallel with open-source development at Chinese AI companies. In his own field, researchers already use open-source tools "to control robots, train them and get them to keep learning." Sharing those tools allows more teams to build on existing work and expands the community familiar with the manufacturer's platform, he said.
+Even with 1 billion or 10 billion yuan, a single manufacturer would struggle to develop applications across so many industries on its own, Li Qinglin, a representative of TurkeyBro, an engineer resource community targeting embodied AI, told the Global Times. 
+"What humanoid robots lack most right now are real-world applications," Pan Wenqiang, a representative of robot software developer Flykor, told the Global Times. The company specializes in adapting robots for particular uses and works with several manufacturers, including EngineAI, Unitree Robotics and AgiBot. Pan said that cooperation was more efficient than companies working alone because each application depends on businesses at several stages: manufacturers supply the machines, developers adapt the software for the job, and service providers keep the robots working after delivery.
+Other Chinese manufacturers are opening up different parts of the development process, too. 
+Unitree provides a Python interface that developers can use to run software on its G1 and H1 humanoids. AgiBot has released data from real robots, including expert demonstrations and human corrections during operation. It has also announced plans to work with the OpenAtom Foundation on common technical interfaces and joint testing for humanoids.
+At the APEC CEO Summit in Shenzhen on November 17, Unitree founder Wang Xingxing said that recent advances suggested a tipping point could come soon, the 21st Century Business Herald reported. Wang offered a more specific timeframe at the World Internet Conference Wuzhen Summit on November 4, saying that 2027 would likely mark a tipping point for the robotics industry and its AI models, according to the Securities Times. 
+Asked whether an open ecosystem could bring a breakthrough closer, Shi said, "I think it will definitely speed things up." Each new use gives developers a chance to identify a problem and work with the manufacturer to resolve it, he said.
