@@ -1,0 +1,44 @@
+TITLE:
+The intelligent economy: A new engine for China's development
+
+PUBLISHED:
+2026-11-26
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1126/c90000-20523280.html
+
+ARTICLE TEXT:
+The intelligent economy: A new engine for China's development
+Staff members use a hexapod robot for intelligent inspection operations at a substation in Lai'an county, Chuzhou, east China's Anhui province. (Photo/Lyu Hua)
+Artificial intelligence (AI) is reshaping economic and social development at an unprecedented pace and scale, yielding profound and far-reaching impacts.
+A newly released Chinese large language model draws developers from around the world; smart vehicles travel along urban roads; robotic arms work with precision on factory floors; and driverless mining trucks move through underground mines.
+A new form of the economy, driven primarily by AI and encompassing a wide range of activities in production, distribution and application, is taking shape at an accelerating speed.
+In recent years, China's intelligent economy has expanded rapidly, improved significantly in quality and continued to optimize its structure.
+A robotic arm manufactures high-performance carbon fiber raw materials in a smart workshop of a new materials enterprise in Rongcheng, east China's Shandong province. (Photo/Li Xinjun)
+On one side, the intelligent economy drives the industrialization of AI, turning advances in AI technology into industrial applications and building a growing core AI industry.
+On the other, it promotes the intelligent transformation of industries, using the "AI Plus" initiative to bring AI applications into the real economy and drive its transformation and upgrading.
+The intelligent economy is a towering structure, while algorithms, computing power, data and energy form its foundation. Only with a solid foundation can the intelligent economy grow and thrive.
+Today, China's domestic large AI models are advancing rapidly in a competitive race, with homegrown foundation models ranking among the world's leading offerings. China is helping lead the development of the global open-source AI ecosystem, and Chinese open-source models rank first worldwide in download volume.
+The country's total intelligent computing capacity ranks second globally, while computing clusters with over 10,000 accelerators are being deployed at an accelerating rate. China's data resources system is becoming more robust, with 120,000 high-quality datasets already established.
+The country's energy infrastructure provides ample supply: China generates about 1/3 of the world's electricity and has built the world's largest and fastest-growing renewable energy system. Deeper coordination between computing infrastructure and power supply is enabling a steady flow of green electricity, giving China an important advantage in AI development.
+China's AI industry has maintained annual growth of more than 20 percent for consecutive years, building a comprehensive industrial ecosystem spanning foundational resources, technologies and models, and industry applications.
+The value of the intelligent economy lies not only in creating new industries, but also in transforming existing ones. While AI first gained widespread adoption in areas such as the internet, it is now rapidly becoming integrated into key production processes across traditional industries.
+Intelligent upgrades are enabling large amounts of previously underused production capacity to meet overseas demand for customized products at scale and with greater efficiency. AI cuts power grid dispatch cycles from hours down to minutes, helping tackle the problem of renewable energy consumption amid massive grid integration.
+At unmanned ports, massive cargo ships can start operations immediately upon berthing, and cargo gets transferred right after arrival. This embeds "China efficiency" into key global shipping hubs.
+Historical evidence shows that breakthroughs in technological capability consistently create new pathways for economic expansion. The next phase of AI industrialization holds substantial promise. AI agents are evolving from content generation tools into autonomous task executors, while humanoid robotics are advancing from demonstration stages to practical industrial deployment.
+By combining China's vast market demand and diverse application scenarios with its strong manufacturing capabilities and varied business models, the country can foster a wider range of industrial applications and nurture more world-class companies. By the end of the 15th Five-Year Plan period (2026-2030), the size of industries related to AI is expected to exceed 10 trillion yuan ($1.49 trillion).
+An engineer trains a robot to perform tasks in different scenarios at an embodied AI data collection and training base in Huzhou, east China's Zhejiang province. (Photo/Yao Haixiang)
+The potential for intelligent transformation across industries is equally significant, with upgrades offering scope for growth many times over.
+China's manufacturing sector has ranked first globally in overall scale for 16 consecutive years. Every one-percentage-point increase in the adoption of AI across manufacturing would bring thousands of industrial enterprises above the designated size into the ranks of intelligent production. Smart cars, smart homes and other applications will also unlock new sources of growth.
+According to a policy paper released by the State Council on thoroughly implementing the "AI Plus" initiative, by 2030 AI will comprehensively support high-quality development in China, with adoption rates for next-generation intelligent terminals and AI agents exceeding 90 percent. The intelligent economy will become a major growth driver for China's economy.
+The outline of China's 15th Five-Year Plan calls for the comprehensive implementation of the "AI Plus" initiative and stresses the need to seize the commanding heights of AI applications in industry and empower industries across the board.
+To develop the intelligent economy, China will pursue a coordinated approach that combines targeted breakthroughs, stronger links across the system and broad-based application.
+At the level of individual technologies, China will focus on key areas and make breakthroughs in critical core technologies. At the level of industrial coordination, it will strengthen synergies among essential factors of production and establish a robust system of production factors suited to the needs of the intelligent economy. At the level of broad-based application, it will tap into ubiquitous real-world scenarios and leverage the advantages of China's enormous market to accelerate the deployment of AI solutions.
+By strengthening technological capabilities, the supporting ecosystem and real-world applications in an integrated manner, China will continue to expand, improve and strengthen its intelligent economy.
+Copyright © 2026 People's Daily Online. All Rights Reserved.

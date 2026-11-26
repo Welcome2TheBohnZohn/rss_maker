@@ -1,0 +1,46 @@
+TITLE:
+China's 2030 roadmap targets 6G, computing networks, 'paving way for new industries and growth models'
+
+PUBLISHED:
+2026-11-26 20:41:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1375120.shtml
+
+ARTICLE TEXT:
+6G File Photo: VCG
+China unveiled a 2030 roadmap for building a next-generation communications network on Thursday, placing 6G, computing infrastructure, and advances in core technologies at the heart of its push toward an intelligent economy. The plan calls for launching commercial 6G services when appropriate and promoting breakthroughs in high-end chips and key software and their large-scale adoption.
+Jointly issued by the Ministry of Industry and Information Technology (MIIT), the Cyberspace Administration of China, and the National Development and Reform Commission (NDRC), the plan outlines the coordinated development of four types of networks - foundational, space-based, international, and integrated networks.
+It also calls for greater intelligence across networks, stronger security and resilience, and greener, lower-carbon operations, backed by a stronger industrial ecosystem and greater policy and resource support, with the aim of building on China's competitive strengths and leading position in the information and communications industry.
+The roadmap is part of a broader push to develop six major infrastructure networks during China's 15th Five-Year Plan period (2026-30). The MIIT described the new network as the "nervous system" of the economy and society, underpinning the digital and intelligent transformation of five other infrastructure networks covering water, next-generation power grids, computing, urban underground pipelines, and logistics.
+Chinese experts likened China's initiative to the US "information superhighway" plan of the 1990s, emphasizing its potential to reshape the economy. Just as the internet paved the way for e-commerce and the sharing economy, the new infrastructure could give rise to a new generation of industries and business models.
+China's advantage lies in its vast market and diverse industrial applications. Bringing communications, computing, and energy infrastructure into closer alignment could help turn these strengths into a more powerful engine for technological innovation and industrial upgrading, while opening up new avenues for international economic cooperation, experts said.
+Wiring the AI era
+The new network will be built around technologies such as 5G-Advanced (5G-A), 6G, 10-gigabit optical networks, and satellite internet, providing a broad range of information services, from sensing and data transmission to storage, computing, and intelligence, according to the plan.
+The MIIT identified four major advances over conventional communications networks: extending connectivity beyond people to machines, objects, and AI agents; expanding coverage across land, sea, air, and space; delivering higher access speeds, lower latency, and greater connection density; and integrating communications, sensing, navigation, computing, and intelligence.
+China has already built the world's largest information and communications network, with advanced technological capabilities. With communications technologies evolving rapidly, AI driving digital transformation, and network security challenges growing more complex, building the new infrastructure moderately ahead of demand will help China seize opportunities in digital industrial transformation and support high-quality economic and social development, the ministry said.
+"The initiative is essentially about building infrastructure suited to the needs of an intelligent economy," Liu Gang, chief economist of the Chinese Institute of New Generation Artificial Intelligence Development Strategies and director of the Institute of Economics at Nankai University, told the Global Times on Thursday.
+Traditional communications networks are designed primarily to transmit information. AI, however, requires a range of capabilities, from sensing, storage, and computing to analysis, decision-making, and execution, Liu said, adding that it places far greater demands on what networks can do and how they perform.
+"Technologies such as 6G and satellite internet could support a wide range of industrial applications, from autonomous driving and the low-altitude economy to intelligent manufacturing, helping drive China's industrial upgrading and structural improvements in the manufacturing sector," Liu noted.
+Sharing infrastructure across different services could generate economies of scale and lower the cost of industrial development, Hu Qimu, a professor at the Maritime Silk Road Institute of Huaqiao University, told the Global Times.
+"Functions that previously required several separate networks could be delivered through a single integrated network. Businesses can use the same infrastructure for communications, computing, and AI services, creating greater scope for industrial convergence and upgrading," Hu said.
+The plan also gives considerable weight to the development of computing infrastructure. It calls for supporting computing power providers in the orderly development of clusters with more than 10,000 accelerator cards, building 400Gbps and 800Gbps transmission links between computing hubs and areas with high demand, and introducing 1.6Tbps transmission systems on a trial basis.
+The country will also develop a multilevel computing infrastructure spanning hub, regional, and edge facilities, and establish a unified national platform to monitor and schedule computing resources, according to the plan.
+The emphasis on connectivity and coordinated resource allocation reflects the differing computing needs of AI applications, Liu said. Autonomous driving, for instance, requires nearby computing resources for real-time responses, while less time-sensitive data processing can draw on facilities in western China. Linking these resources would help meet growing demand from industry and scientific research more efficiently.
+Large-scale computing clusters, meanwhile, are particularly important for AI model training. Their development could spur wider adoption of domestically developed computing chips, improve hardware-software compatibility, and accelerate technological improvements, Liu noted.
+Innovation without borders
+Alongside its push to build infrastructure for an intelligent economy, China is placing greater emphasis on technological self-reliance and international cooperation.
+The roadmap aims to strengthen China's self-reliance and control over industrial and supply chains by 2030. It calls for breakthroughs in 6G, ultra-high-speed optical communications, and satellite communications, as well as closer collaboration across the chip, software, and communications equipment industries to accelerate the development and widespread adoption of high-end chips and key software.
+The roadmap also seeks to expand China's global digital connectivity by extending submarine cable links along Asia-Pacific and Asia-Europe routes, advancing the development of a BRICS submarine cable network, coordinating the overseas deployment of data centers and cloud infrastructure, and supporting the global expansion of computing services, AI models, and applications.
+The plans come amid growing US restrictions on access to key technologies. Recent measures include new controls on remote access to advanced AI chips and additional Entity List designations, while US lawmakers are weighing further restrictions on exports of chipmaking equipment to China.
+Developing homegrown technologies could help China overcome external restrictions, but the strategic gains extend further, Hu said. "Wider industrial adoption could enable China to develop business models suited to its industrial strengths and gain a greater voice in shaping international standards and industry rules."
+Efforts to shape international 6G standards are gathering pace across major economies. Industry groups in the US, Japan, and South Korea are working to coordinate their 6G technology roadmaps and identify common technical requirements, while the EU's 2026 ICT standardization plan seeks European leadership in setting global standards for key 6G technologies.
+However, diverging standards could drive up costs and limit interoperability across markets, undermining the economies of scale on which the global telecommunications industry relies, industry analysts said.
+China's roadmap, meanwhile, emphasizes international cooperation, calling for active participation in international standard-setting bodies such as the International Telecommunication Union (ITU) and the 3rd Generation Partnership Project (3GPP), alongside further opening-up of value-added telecommunications services through pilot programs.
+Greater alignment on technical standards and industry rules could help reduce cross-border investment risks, Hu said. China's emphasis on international standards cooperation could also help prevent market fragmentation and create new opportunities for industrial cooperation in the digital economy.

@@ -1,0 +1,20 @@
+TITLE:
+What will shape the China-US AI future? | Short documentary
+
+PUBLISHED:
+2026-11-25
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202611/25/WS6b06ee25e4b03ebf8519ea72.html
+
+ARTICLE TEXT:
+The US is betting big on AI. Tech giants are pouring hundreds of billions of dollars into chips, data centers, and power — all to build the world's most advanced models and keep their weights closed.
+But China's open-weight breakthroughs are challenging that playbook.
+From DeepSeek to Moonshot AI's Kimi K3, Chinese developers are closing the gap at a fraction of the cost and releasing the weights of the world's leading models for developers worldwide to build on.
+Open versus closed is more than a technical choice. It represents two different paths for AI's future. Will AI concentrate power in a few hands or give more countries the tools to shape their own futures? Join MediaUnlocked for more insights.

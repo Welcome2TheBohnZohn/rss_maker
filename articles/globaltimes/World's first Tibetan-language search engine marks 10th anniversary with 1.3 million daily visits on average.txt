@@ -1,0 +1,26 @@
+TITLE:
+World's first Tibetan-language search engine marks 10th anniversary with 1.3 million daily visits on average
+
+PUBLISHED:
+2026-11-26 21:42:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1375125.shtml
+
+ARTICLE TEXT:
+Tourists pose for photos at Potala Palace square in Lhasa, Southwest China's Xizang Autonomous Region on October 15, as the 2026 "Winter Tour in Xizang" campaign launches. From October 15, 2026 to March 15, 2027, all A-level scenic spots in Xizang (except temple sites) are open to visitors free of charge. Photo: CNS Photo
+Yongzin.com, the world's first Tibetan-language search engine, now records an average of 1.3 million visits per day as it marked its 10th launch anniversary. 
+The search engine serves users across all 34 provincial-level regions in China and 96 countries and regions worldwide, including the US, France, Japan, Russia and Singapore, China News Service reported on Thursday. 
+Serving as a unified gateway to major Tibetan-language websites across China, a major source of Tibetan-language information on the internet and a resource-sharing hub, yongzin.com has evolved into a comprehensive Tibetan-language online system built around information sharing and search services. The system integrates a Tibetan-language search engine, multi-platform applications, an automatic Tibetan word-segmentation and intelligent language analysis system, and a high-efficiency web crawler. 
+Over the past decade, the platform has undergone continuous upgrades, addressing gaps in the supply of Tibetan-language online information while expanding its range of services. Initially offering searches for webpages, news, images, audio and video, it has gradually expanded to include a Tibetan-language encyclopedia, document library and question-and-answer system. It has also launched supporting products such as a mobile app and a Tibetan-Chinese (Putonghua)-English input tool, with total mobile downloads exceeding 3 million. 
+At present, the platform's document library contains more than 90,000 volumes and articles of Tibetan ancient texts, academic literature and folk writings. Its collections cover more than 30 fields, including politics, economics, history, literature, Tibetan medicine and natural sciences. 
+The recently launched version 3.0 of the search engine has undergone a complete overhaul of its underlying architecture. It introduces four new modules including Tibetan optical character recognition (OCR), bidirectional Chinese-Tibetan machine translation, Tibetan academic search and a Tibetan calligraphy section. It also integrates Tibetan-language voice search, with speech recognition accuracy exceeding 92 percent.
+In addition, the bidirectional Chinese-Tibetan machine translation module, powered by a large AI model, can accurately translate Chinese-language documents into Tibetan, making information more accessible to grass-roots rural and pastoral communities. The Tibetan academic search function overcomes the limitations of the previous version, which only supported title searches, by enabling advanced searches by author, keywords and full text, filling a gap in specialized Tibetan-language academic search services. The newly launched Tibetan calligraphy section also enriches the digital presentation of the Tibetan ethnic culture. 
+According to the platform's development plan, the yongzin.com platform will complete the integration of its speech synthesis function by the end of this year, adding audio playback to help users access news reports and classical texts. 
+Global Times
