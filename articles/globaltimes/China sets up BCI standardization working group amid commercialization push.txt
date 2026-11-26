@@ -1,0 +1,33 @@
+TITLE:
+China sets up BCI standardization working group amid commercialization push
+
+PUBLISHED:
+2026-11-25 21:51:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1375058.shtml
+
+ARTICLE TEXT:
+A medical worker uses a brain imaging device to assess a patient's brain activity at a hospital in Bengbu, east China's Anhui Province, July 17, 2026. Bengbu, a traditional industrial city, has stepped up the development of its brain-computer interface (BCI) industry in recent years. By strengthening collaboration among industry, research institutes and medical institutions, Bengbu has built an innovation ecosystem that supports both BCI research and clinical application, aiming to become an emerging BCI innovation hub in the Yangtze River Delta region. Photo: Xinhua
+China has taken a significant step by advancing efforts to standardize the technology that connects human minds to computers. According to a report by chinanews.com.cn, the Ministry of Industry and Information Technology (MIIT) announced the establishment of a new working group under its brain-computer interface (BCI) standardization technical committee at an industry conference on Wednesday.
+According to the MIIT, the working group has eight sub-teams covering general standards, hardware, software, data, product systems, applications, safety governance and the medical sector.
+This structure is designed to span the full BCI value chain, from research and development to commercial deployment, and it includes members from universities, research institutes, companies and hospitals, said the report.
+Industry observers said that the move reflects China's effort to pair government-led standard setting with industrialization, as leading neurotechnology companies such as Neuralink are accelerating global competition in this field. They said that standards are seen as a crucial bridge between laboratory innovation and large-scale application.
+According to the ministry, the working committee's general group will focus on common technical principles, typical technology models and universal testing and evaluation standards. The hardware group will work on standards for neural signal acquisition, signal preprocessing and output interfaces. 
+The applications group will target use cases in industrial, consumer, transportation and education settings, developing standards for scenario release, deployment and adaptation testing.
+At Wednesday's event, organizers also released an evaluation report on BCI decoding algorithms, a key component of the BCI system, aimed at making performance testing more comparable across the industry.
+Sun Cong, vice president of the Wuhan Yiruide Medical Equipment New Technology Co, told the Global Times on Wednesday that the evaluation report helps solve one of the industry's biggest bottlenecks: comparability.
+"Different companies have used different datasets and metrics, so a 90 percent accuracy rate and an 85 percent accuracy rate could not really be compared," Sun said.
+"Hospitals and regulators had no way to judge which figure was more credible. This report standardizes the four steps of data preparation, algorithm testing, performance calculation and result analysis, and validates them through motor-imagery tasks. It is like giving decoding algorithms a unified ruler."
+He added that the new evaluation framework could serve as a basis for procurement, regulatory review and reimbursement decisions, helping high-quality products stand out while curbing exaggerated performance claims.
+In the first half of 2026, the BCI sector showed accelerating momentum across all segments, from product registration and clinical trials to production capacity building, the Xinhua News Agency reported.
+In a recent development, a team led by the School of Computer Science at Zhejiang University announced an invasive BCI system called DeepAxtiv for precision treatment of treatment-resistant depression, according to the official WeChat account of the university on Tuesday.
+The team said that it had conducted six prospective clinical trials in patients with severe treatment-resistant depression. Early results also showed significantly better efficacy than the current average international level, according to the university.
+According to industry experts, China's BCI industry is moving beyond single laboratory demonstrations toward high-throughput data collection, real-time decoding, closed-loop interaction and real-world applications, with the supply chain expanding into device engineering, system integration and product transformation. 
+Data from the China Academy of Information and Communications Technology showed that the number of BCI companies worldwide has risen from about 800 last year to 1,175 in 2026. In China, more than 77 percent of related companies are concentrated in the Beijing-Tianjin-Hebei region, the Yangtze River Delta and the Guangdong-Hong Kong-Macao Greater Bay Area.

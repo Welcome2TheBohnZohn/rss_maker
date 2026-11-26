@@ -1,0 +1,31 @@
+TITLE:
+AI face blending makes it harder to trace unauthorized use, expert warns
+
+PUBLISHED:
+2026-11-25 22:33:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1375063.shtml
+
+ARTICLE TEXT:
+Photo: VCG
+A short video featuring a character who bears a striking resemblance to Chinese actor Peng Yuchang, in both appearance and voice, has recently sparked online discussions about AI face-blending technology. Peng's studio has also issued a statement alleging that his facial features have been used without authorization in AI training and face-blending content and calling on those responsible to stop infringement.
+"AI face blending is a form of generative deep synthesis, and its technical approach is fundamentally different from that of replacement-based face swapping," Yang Jinwei, head of the AI Authenticity Verification Department at Beijing RealAI Intelligent Technology Co, told the media.
+In traditional AI face swapping, the process begins with a source face and a target face. Facial landmarks are aligned and the poses normalized, after which the source face's texture is mapped onto and rendered over the target person's head. Essentially, it is a process of replacement, with a clearly identifiable source image, according to Capital News, a news platform operated by the Beijing Daily Group.
+Face blending, by contrast, relies on a facial feature encoder to convert faces into high-dimensional latent vectors. These vectors encode identity-related information, including facial contours, the arrangement of facial features, the distance between the eyebrows and eyes, nose and lip characteristics, skin tone and texture, and habitual expressions. The system then combines multiple facial vectors through weighted interpolation and feature blending before feeding them into a diffusion model or generative adversarial network to render an entirely new face image, according to Capital News.
+"Creators can either import multiple face images and adjust the weights assigned to different features, or use text prompts and parameter settings to define characteristics such as face shape, facial features, age and expression," Yang said.
+"Some creators of infringing content seek to retain enough resemblance for viewers to recognize the public figure being imitated, while altering facial details to evade automated detection tools that platforms use to compare images against original photos," he noted.
+Lower technical barriers have also reduced the cost of using other people's facial and vocal features without permission. Feng Anrong, a screenwriter, director and head of an AI production team, told the Global Times that some producers of low-cost, high-volume short dramas seek to maximize profits through unauthorized AI face swapping and voice cloning.
+"Many low-cost, high-volume productions essentially operate like commercial in-feed advertisements, relying on unauthorized AI face blending and voice cloning to reduce production costs," Feng said. "Such productions are often made in bulk and promoted by paying for increased traffic. Rather than relying on the revenue-sharing model used by traditional short-drama platforms, they may therefore fall outside conventional content review mechanisms." 
+The large-scale production and distribution of such content also pose challenges for platforms seeking to identify and remove infringing material. Zhang Peng, a cultural studies researcher at Nanjing Normal University, told the Global Times that such content may evade some basic automated detection systems, but this does not mean it cannot be identified or that it leaves no traces.
+"AI technology has lowered the cost and technical barriers to replicating people's facial and vocal characteristics. Meanwhile, technical limitations in platform moderation and the high costs individuals face when pursuing legal remedies make it difficult to promptly curb infringing content," Zhang said. "For platforms, detection needs to move beyond simply comparing images and also examine facial features, the origins of generated content and whether the necessary authorization was obtained."
+Zhang suggested that platforms improve the traceability of AI-generated content through measures such as digital watermarking, content-tracing technologies and databases of authorized uses, while also strengthening content moderation and complaint-handling mechanisms.
+As AI-generated appearances do not need to be an exact match for the people being imitated, determining whether a person's rights have been infringed has become an important issue in legal practice. 
+Li Yunkai, an intellectual property lawyer at the Beijing Tian Yuan Law Firm, told the Global Times that the key to determining whether an AI-generated image infringes a person's portrait rights is not whether it looks exactly like the individual, but whether ordinary members of the public can identify the person.
+"Comments under videos and discussions on social media platforms may also serve as reference points when assessing whether an individual is identifiable," Li said. "If generated content places an identifiable person in vulgar scenarios, falsely portrays them as endorsing a product, or associates them with negative stories, it may also infringe their reputation rights, and those distributing the content may bear corresponding liability."
