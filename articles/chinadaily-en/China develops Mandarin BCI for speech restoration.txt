@@ -1,0 +1,32 @@
+TITLE:
+China develops Mandarin BCI for speech restoration
+
+PUBLISHED:
+2026-11-27
+
+SOURCE:
+China Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://www.chinadaily.com.cn/a/202611/27/WS6b0974e4e4b03ebf8519f18f.html
+
+ARTICLE TEXT:
+Chinese researchers have enabled a patient with amyotrophic lateral sclerosis to communicate through thought alone, marking the country's first clinical trial of a wireless, invasive Mandarin brain-computer interface.
+Performed in September at Huashan Hospital Affiliated with Fudan University in Shanghai, the procedure involved implanting two 256-channel, minimally invasive electrode arrays into the brain of a patient surnamed Li. When Li forms words in her mind, the system captures neural signals from speech-related brain regions, decodes them via deep-learning algorithms, and translates them into both on-screen text and synthesized speech.
+For Li, whose ALS has left her barely able to move her lips, the technology has restored both her voice and her agency. "I have rekindled my hope for life," she communicated through the system, her words rendered in a vocal clone of her own voice. "The surgical trauma was minimal, recovery was quick, and I feel comfortable now."
+Li's descent into silence began in 2024 with tongue numbness, slurred speech, and arm weakness, culminating in an ALS diagnosis in 2025. As the disease progressed, even her husband could understand only about 20 percent of her attempts to speak.
+After more than a month of postoperative training, Li achieved encouraging results in spontaneous speech tests with theoretical coverage of the entire Chinese lexicon.
+During attempted speech, the system decodes more than 95 percent of characters in real time at roughly 80 characters per minute. During imagined speech, accuracy exceeds 90 percent at speeds of around 110 characters per minute — outpacing conventional assistive technologies such as scalp EEG or eye-tracking systems, which typically yield fewer than 40 characters per minute.
+"This first clinical trial has preliminarily verified the safety and effectiveness of the technology, which holds promise for millions of patients with speech impairments nationwide," said Mao Ying, head of Huashan Hospital. He added that the breakthrough not only offers new communication options for patients with dysarthria, but also charts a path toward a Mandarin-oriented BCI technical framework.
+The milestone represents a leap in overcoming the linguistic hurdles unique to Mandarin Chinese. Unlike English, which relies primarily on phoneme combinations, Mandarin is a tonal language. The syllable "ma", for instance, means "mother", "hemp", "horse" or "scold" depending entirely on pitch inflection.
+"In the past, international research on speech BCIs mainly focused on English," said Lu Junfeng, associate dean of Fudan University's Institute of Modern Languages and Linguistics and an associate chief physician at Huashan Hospital. "Because Mandarin has a unique tonal system and a vast number of homophones, we could not simply replicate foreign technical routes."
+To solve this, a multidisciplinary team from Fudan University, the Chinese Academy of Sciences, ShanghaiTech University, and Shanghai-based neurotech firm StairMed engineered a novel dual-target strategy.
+Using StairMed's wireless BCI system, surgeons implanted ultraflexible electrodes into two distinct brain regions, collecting 256 channels of neural data from each. One pathway isolates phoneme-related articulatory motor signals, while the other captures the tonal neural patterns essential to Mandarin comprehension.
+"Helping patients speak from their brains is not just about improving quality of life, but about restoring their right to equal expression, allowing them to be seen by the world and embraced by society, even while living with illness," said Lu.
+Zhang Menghan, dean of Fudan University's Institute of Modern Languages and Linguistics, noted that combining insights from clinical medicine and linguistics not only advances Chinese-language BCIs, but also opens new avenues for understanding the fundamental neural mechanisms of speech perception and production.
+The implications extend well beyond China. "Of the more than 7,000 languages spoken globally today, over half are tonal," said Li Yuanning, a researcher at ShanghaiTech University. "The technical route we have pioneered can also serve as an important reference for research into other tonal languages."
+Looking ahead, the team plans to refine decoding accuracy, enhance device portability, and expand clinical trials, with the goal of bringing the technology to more patients with speech impairments nationwide within the next two to three years.
+"Enabling patients to connect with the outside world through their own forms of expression is the ultimate goal of restoring language function," said Poo Mu-ming, a CAS academician and academic director of the Center for Excellence in Brain Science and Intelligence Technology. "In the future, this could pave the way for true human-machine integration."
