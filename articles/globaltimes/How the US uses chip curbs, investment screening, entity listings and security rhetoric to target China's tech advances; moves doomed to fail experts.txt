@@ -1,0 +1,59 @@
+TITLE:
+How the US uses chip curbs, investment screening, entity listings and security rhetoric to target China's tech advances; moves doomed to fail: experts
+
+PUBLISHED:
+2026-11-26 22:27:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1375133.shtml
+
+ARTICLE TEXT:
+Razor wire at the US Capitol Photo: VCG
+Democrats have vowed to launch sweeping investigations into Nvidia CEO Jensen Huang, the company and the Trump administration following Huang's reinstatement, opening a new front in Washington's increasingly contentious debate over how access to advanced AI chips is regulated.
+Huang's return to Nvidia is unlikely to mark the end of the controversy. Instead, it could signal the beginning of another round of political and policy battles over China's access to advanced computing technology, analysts said. Some lawmakers who oppose his reinstatement may use the controversy to push for tighter chip export controls, potentially bringing China hawks from both parties closer together on restricting China's technological development.
+It is noteworthy that Republicans and Democrats may differ over the methods and political tactics they employ, but they share a broader objective of maintaining US technological superiority and limiting China's progress in advanced AI, according to experts. The Huang episode is far from an isolated incident. The Global Times found that Washington has been deploying a broader set of measures, ranging from chip and computing-power restrictions to investment screening, entity-list designations and narratives portraying China's technological advances as so-called "security threats."
+What lies behind this multi-pronged strategy? And how far is Washington prepared to go to slow China's technological rise?
+Foreign visitors learn about new robots at the 2026 World Robot Conference in Beijing on August 19, 2026. Photo: VCG
+From chip restrictions to broader legislative push 
+House Democratic Leader Hakeem Jeffries, who is set to become House speaker when the new Congress convenes, and Senate Democratic Leader Chuck Schumer have strongly opposed Huang's reinstatement, vowing to launch a wide-ranging investigation into Nvidia.
+He Weiwen, a senior fellow at the Center for China and Globalization, told the Global Times that the congressional investigation may target Nvidia and Huang personally, focusing on whether the company's China dealings violated US export control laws and whether commercial interests created substantive "national security" risks.
+Meanwhile, it may also target the Trump administration, focusing on whether the White House broke congressional law in clearing the way for Nvidia, and if so, what motivated it and whether officials' personal financial interests were involved. "This track goes directly to the legitimacy and political responsibility of the executive branch," He noted.
+The investigation could last months or even years, and its impact will extend beyond any legal conclusion: it will further deteriorate the overall environment for US high-tech exports abroad, especially to China, the expert said.
+Meanwhile, lawmakers from both parties are seeking to write tougher export controls into law, making restrictions on China's access to advanced AI chips more difficult for future administrations to reverse. 
+For instance, Republican Senator Tom Cotton has urged Congress to pass the Chip Security Act, which would require chipmakers to track the locations of advanced AI processors and notify the government if they suspect that chips have reached prohibited users. Democratic Senator Elizabeth Warren has argued that Huang's return makes it more urgent to codify bipartisan export control measures into law.
+Republican Senator Pete Ricketts, meanwhile, has backed the Multilateral Alignment of Technology Controls on Hardware Act. 
+The bill seeks to pressure US allies to tighten restrictions on advanced chipmaking equipment supplied to China, or face potential unilateral US restrictions.
+Their convergence suggests that the debate surrounding Huang's reinstatement could provide fresh momentum for a broader, bipartisan effort to tighten controls on China's access to advanced technology.
+China has consistently opposed any practice of overstretching the concept of national security and abusing export controls. 
+"Should the relevant bills be enacted into law, they would severely undermine the international economic and trade order and disrupt the stability of the global semiconductor industrial and supply chains," warned the Chinese Ministry of Commerce spokesperson.
+A protester displays a banner reading "China Is Not Our Enemy" during the first hearing of the House Select Committee on Strategic Competition between the US and China on February 28, 2023. Photo: VCG
+Expanding campaign on AI models
+"China's sci-tech progress relies on independent innovation and open cooperation," China's Foreign Ministry Spokesperson Mao Ning stressed at a regular press conference on November 12. 
+In reality, beyond chips and computing power, Washington is also extending its restrictions to the use and procurement of Chinese AI models.
+On October 19, the US Department of Homeland Security required the agencies to remove DeepSeek products as well as third-party products and services developed using DeepSeek from their IT systems, according to a notice made public.
+On the same day, the US government expanded its use of sanctions against Chinese technology-related entities under the Protecting American Intellectual Property Act. The action is seen as a sign of Washington's growing willingness to use intellectual property protection and sanctions to target entities connected to China's emerging technology sector.
+Washington has also increasingly framed competition over AI models as a "national security" issue.
+On September 8, the NSA, FBI and CISA jointly issued a cybersecurity advisory accusing China-based AI companies of conducting industrial-scale knowledge distillation campaigns to extract proprietary capabilities from US frontier models. The advisory acknowledged that knowledge distillation is a legitimate and widely used AI development technique, but it still alleged that some Chinese companies were using it on an industrial scale to obtain restricted capabilities from US models.
+Chinese analysts pointed out that Washington has sought to turn competition over model capabilities into another front in its broader "national security" campaign against China's AI industry.
+At the congressional level, Chinese AI and robotics companies have also increasingly become subjects of scrutiny.
+Chinese industry insiders slammed Washington's hegemonic bullying of Chinese artificial intelligence firms, saying its claims lack factual basis and risk fueling confrontation and mistrust in the AI sector, undermining the industry's development.
+Besides, Washington is also seeking to coordinate with allies to build a more tightly aligned technology supply chain.
+On November 15, the US and nine other governments signed the San Francisco Declaration on the Secure Foundations of Enduring Prosperity at the Pax Silica Founders Retreat in San Francisco. Although the declaration does not explicitly establish a China-specific export-control alliance, its emphasis on trusted technology partnerships, supply-chain diversification and reducing strategic dependencies has broader implications for global technology competition.
+Beyond formal restrictions, Washington is also seeking to shape international perceptions of Chinese AI through public narratives via media tools. Some US policymakers and commentators have increasingly framed Chinese open-source models in terms of security, ideological influence and potential vulnerabilities.
+Wang Shouyang, a distinguished research fellow at the Chinese Academy of Sciences, told the Global Times in a previous interview that the US is trying to use a "chilling effect" in its competition with China in AI - leveraging public opinion and cognitive influence to create an environment in which companies in the US and around the world "dare not use, do not want to use and cannot publicly use" Chinese open-source models.
+For example, the US media outlet Axios, citing sources' opinions, reported on July 20 that "instead of a ban, another source familiar with government discussions described a push to highlight potential backdoors and lack of security with Chinese models, and the governance issue that brings." It added that while such measures do not amount to an outright ban, they "would have a chilling effect on Chinese open-source tech and US companies that rely on it."
+Containment strategies a 'dead end'
+He Weiwen noted that partisan maneuvering and the China-focused "national security" narrative continue to advance in parallel.
+"Throughout the power struggle among the White House, Congress, and Silicon Valley, China remains the predetermined target. From scrutinizing companies' normal commercial ties with the Chinese market to tightening chip export controls against China, US political circles consistently fold their protectionist policies into a 'national security' narrative," He said, noting that China has never intervened in this internal American dispute, yet it has been forced to serve as the backdrop for every accusation.
+"The fundamental aim of the US' crackdown on China's tech industry is to severely hold back the country's technological development and keep it permanently lagging behind the US. Looking at the actual results of the tech war so far, however, this goal has not been achieved," Xiang Ligang, director-general of the Zhongguancun Modern Information Consumer Application Industry Technology Alliance, told the Global Times.
+Xiang said that China's relevant tech industries continue to develop normally. Businesses in telecommunications, artificial intelligence, computing, PCs, smartphones and even smart vehicles are all still advancing steadily. "The US pressure has in fact had the opposite effect: it has spurred China's technological development and stimulated greater investment and progress in high-tech fields," he stressed.
+For example, the US has blocked China's access to EUV lithography machines, aiming to lock down its ability to iterate on advanced process nodes. Yet Chinese tech giant Huawei has released the Kirin 9050 Pro - the first chip to implement Tau Scaling Law and LogicFolding technologies - shifting from reliance on new lithography processes to a fundamental redesign at the architectural level.
+Moreover, despite the continued tightening of US advanced computing export controls on China, DeepSeek's innovations in Mixture-of-Experts and Multi-head Latent Attention broke the equation that "compute blockade equals capability blockade." These advances helped maintain the competitiveness of China's AI models, while the company's open-source strategy further accelerated global progress in artificial intelligence.
+From chips and operating systems to industrial software, every supply cutoff has forced the accelerated emergence of an independent technological pathway, and every attempt to choke off access has driven the industrial chain to turn its weaknesses into a priority list of key research challenges. 
+He Weiwen noted that Washington needs to wake up from the outdated Cold War mindset of the 1950s, break free from its obsession with zero-sum games, stop arbitrarily wielding the "national security" stick to stigmatize and contain China's tech industry, and return to the path of mutually beneficial cooperation in the semiconductor and AI sectors between China and the US. "Political maneuvering that insists on fabricating imaginary enemies is a dead end," he said.
