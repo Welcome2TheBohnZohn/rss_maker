@@ -1,0 +1,29 @@
+TITLE:
+ITU adopts first-ever resolution on spectrum use for lunar exploration; move to ease spectrum conflicts, boost intl co-op: expert
+
+PUBLISHED:
+2026-11-27 19:51:00
+
+SOURCE:
+Global Times
+
+CATEGORY:
+PRC Non-Authoritative Media
+
+URL:
+https://www.globaltimes.cn/page/202611/1375186.shtml
+
+ARTICLE TEXT:
+A full moon is pictured in Harbin, northeast China's Heilongjiang Province, Dec. 4, 2025. This year's second-largest full moon to the eyes of lunar observers will appear on Friday morning, but the best viewing time falls on Thursday evening. (Xinhua/Zhang Tao)
+A new resolution on lunar exploration, jointly submitted by China, Russia and Brazil, was formally adopted at the 2026 Plenipotentiary Conference of the International Telecommunication Union (ITU), the global body responsible for managing radio-frequency spectrum and satellite orbits, on Thursday. Analysts believe it will not only boost cross-border scientific collaboration on lunar exploration, but also mark a major breakthrough for China's efforts to play a deeper role in formulating international rules governing radiocommunication in Earth‑Moon space. 
+Calling for innovative radiocommunication solutions to support lunar missions, the resolution is the first of its kind dedicated to lunar exploration adopted by ITU's highest decision-making body. ITU's official release described it as a "landmark" document.
+According to the ITU, potential areas for innovation include technical and regulatory frameworks to enable communications between systems operating on the lunar surface and in lunar orbit. The resolution also promotes efficient spectrum utilization, compatibility with existing radiocommunication services, and protection against harmful interference. 
+Mario Maniewicz, Director of the ITU Radiocommunication Bureau, said the resolution highlights the essential role of radio services for nearly all activities carried out by humans or robots on and around the Moon. It calls for further technical studies on communications between surface and orbital systems, including sophisticated spectrum-sharing arrangements for different radio services. 
+Radio frequencies are essential to lunar missions, supporting applications such as communications, navigation and remote sensing. 
+ITU governs radiocommunication activities for lunar exploration under the Radio Regulations, the international treaty governing the global use of radio-frequency spectrum and associated satellite orbits. To date, 10 countries have submitted radio frequency filings for projects on or around the Moon, according to the ITU. 
+Chinese aerospace expert Song Zhongping told the Global Times on Friday that radio spectrum is a scarce strategic electromagnetic resource with limited capacity across specific time, space and frequency bands. Adjacent frequency bands used simultaneously in the same location are highly susceptible to electromagnetic interference. Moreover, the great distance between Earth and the Moon requires dedicated deep-space frequency bands to be reserved and protected from interference originating from Earth and other signal sources.
+"This necessitates unified planning and allocation by the ITU," Song added.
+The expert noted the resolution will lower the risk of mutual interference among lunar exploration missions of different countries and reduce spectrum conflicts.
+"It will also boost cross-border scientific collaboration on lunar exploration, enabling joint observation and data sharing among lunar payloads and relay satellites from various nations," Song said. "It will promote interoperability among deep-space communication standards and protocols, paving the way for future initiatives including the joint construction of lunar research stations and multinational crewed lunar landing missions."
+The resolution also represents a major breakthrough in China's active participation in formulating international rules governing radiocommunication in the Earth-Moon space, analysts said. 
+Radio-frequency spectrum resources are shared deep-space resources belonging to all humankind and should be equally accessible for all nations, said Song, noting that unilateral appropriation and exclusion should be opposed and that rules governing their use should be jointly formulated by all countries.
