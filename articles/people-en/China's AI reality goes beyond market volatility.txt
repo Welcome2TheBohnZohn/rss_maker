@@ -1,0 +1,34 @@
+TITLE:
+China's AI reality goes beyond market volatility
+
+PUBLISHED:
+2026-11-28
+
+SOURCE:
+People Daily English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://en.people.cn/n3/2026/1128/c90000-20524131.html
+
+ARTICLE TEXT:
+China's AI reality goes beyond market volatility
+BEIJING, Nov. 27 (Xinhua) -- As valuations across the global artificial intelligence (AI) industry come under renewed scrutiny, China's AI sector has also experienced market swings, prompting questions about its growth prospects, with some even warning of a bubble on the verge of bursting.
+Yet such assessments risk conflating market volatility with the long-term trajectory of an entire industry, while overlooking a more fundamental question: Is meaningful progress of an industry defined by financial investment returns, or by technological advances and its ability to address real-world needs?
+Evidence from China's AI sector points to an industry with tangible momentum. In 2025, China's core AI industries were valued at over 1.2 trillion yuan (about 179 billion U.S. dollars), up 40 percent year on year, with the number of AI enterprises exceeding 6,200, according to industry authorities.
+More importantly, AI in China is moving rapidly out of the lab, to factory floors, logistics networks, power grids and hospitals. Official data showed that more than 30 percent of large industrial enterprises in China have adopted AI, and leading smart factories have embedded the technology in over 70 percent of their operations.
+While investors tend to focus on balance sheets, Chinese industries are looking at broader productivity gains. A September study by the International Labour Organization on AI adoption in Chinese enterprises found efficiency gains of 30 to 100 percent across core workflows. In smart manufacturing, production efficiency improvements reached 20 to 30 percent.
+The global uptake of Chinese AI models speaks to the sector's technological progress. On OpenRouter, a leading global AI platform, Chinese AI models recorded 119.1 trillion tokens in weekly usage between Nov. 9 and 15, ranking first worldwide for the 29th consecutive week. The open-source approach of Chinese models has offered cost-effective solutions for businesses worldwide.
+These advances have come despite an increasingly restrictive external environment. Expanding technology controls from the West have constrained Chinese firms' access to advanced AI chips, semiconductor manufacturing equipment and related technologies.
+It highlights an inherent contradiction: If China's AI industry were merely a speculative bubble, what would explain the sustained efforts to contain its development as a strategic threat?
+External restrictions may raise costs, but are unlikely to derail China's AI development. While it still has considerable ground to make up in advanced AI chips and computing infrastructure, the country has laid out a clear strategic roadmap that makes AI a priority in its long-term development.
+In its 15th Five-Year Plan (2026-2030), China has called for breakthroughs in core AI technologies and the full implementation of the "AI Plus" initiative, which aims to integrate AI into technological innovation, industrial development and a wide range of economic and social activities.
+China is also well placed to turn these ambitions into reality. Backed by a vast domestic market, a dynamic industrial ecosystem, solid infrastructure and diverse application scenarios, the country is aiming to bring the scale of AI-related industries to over 10 trillion yuan by the end of 2030.
+China's vast power supply gives its AI industry another solid foundation for scaling up, as the country generates about one-third of the world's electricity and has built the world's largest and fastest-growing renewable energy system.
+The country has also been accelerating efforts to expand its computing capacity. Data from the National Data Administration showed that China's intelligent computing capacity reached 1.59 million PFLOPS at the end of 2025, ranking second globally. Meanwhile, closer coordination between computing infrastructure and energy supply is channeling more green power to AI development.
+Barriers that divide the global AI industry risk fragmenting technology ecosystems and undermining international cooperation. Against this backdrop, China's open-source AI models offer the developing world an affordable way to narrow the AI gap and harness the technology to boost productivity.
+The debate over China's AI industry points to a larger truth about the future of the technology: Progress is rarely linear, and the path forward will inevitably be uneven. Market enthusiasm may fuel its boom, but only continuous innovation and real-world applications can sustain it.
+China has both the industrial and technological foundation and momentum to carry this progress forward. Ultimately, the industry's trajectory will be shaped not by short-term market swings, but by its ability to exercise patience, keep innovation flowing across borders, and deliver lasting economic value for China and the wider world.
+Copyright © 2026 People's Daily Online. All Rights Reserved.

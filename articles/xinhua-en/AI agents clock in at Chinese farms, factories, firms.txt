@@ -1,0 +1,43 @@
+TITLE:
+AI agents clock in at Chinese farms, factories, firms
+
+PUBLISHED:
+2026-11-28
+
+SOURCE:
+Xinhua English
+
+CATEGORY:
+Authoritative PRC Media
+
+URL:
+https://english.news.cn/20261128/2b1fa1145f424792a5639d60a6d32607/c.html
+
+ARTICLE TEXT:
+BEIJING, Nov. 28 (Xinhua) -- At ZTE's manufacturing base in east China's Nanjing, the warehouse is in constant motion. Across more than 100,000 storage locations stacked on multiple levels, four-way shuttle vehicles dart between shelves, while lifts and stacker cranes move materials up and down.
+Behind this choreography is a growing digital workforce at this base consisting of over 80 AI agents. "Which box should be delivered to which point on the production line, and when, is all decided by multiple agents working together," said Zhou Jianfeng, vice president of ZTE, a telecommunications service provider.
+When the factory winds down for the night, a warehouse-optimization agent remains at work. Using the next day's production orders, it identifies which materials will be needed most and arranges for them to be moved closer to the production lines before the morning shift begins.
+The monthly distance traveled in collecting materials has dropped from more than 400,000 meters to about 160,000 meters, Zhou said, pointing to the plant's rapidly growing digital workforce. Daily token consumption in the base's supply chain operations alone has exceeded 9 billion, according to the firm.
+These gains at ZTE are part of a wider push by Chinese businesses to deploy AI agents across the real economy. As this technology takes on more tasks, the promise of higher productivity is accompanied by questions over whether it can deliver reliable returns and how its adoption will affect employment, experts said.
+NEW CO-WORKERS WITH NO DESKS
+In Hangzhou, capital of east China's Zhejiang Province, 29-year-old entrepreneur Zhang Qianchao has taken the idea a step further. He put together a workforce of around 80 AI agents to set up a cross-border e-commerce venture for custom baseball caps.
+"Agents not only assist me with design and analysis, but also help me connect efficiently with potential clients," Zhang said.
+New to cross-border e-commerce, he used AI tools to build a workflow spanning product selection, design and overseas delivery, doing so in just two months.
+Zhang's online store began receiving orders from markets including Europe and the United States less than two months after its launch. Now he can generate over 2,000 new cap designs a month.
+AI agents can help businesses cut costs and improve efficiency in repetitive, rule-based tasks such as customer service and marketing, said Chen Xi, a researcher at the Chinese Academy of Macroeconomic Research under the National Development and Reform Commission.
+As companies accelerate their digital transformation, however, AI agents are extending automation beyond routine processes to more complex decision-making tasks, helping the technology gain traction and opening up new market opportunities, Chen added.
+ADOPTION GATHERS PACE
+The rise of the open-source OpenClaw project earlier this year put AI agents in the public spotlight in China. Chinese technology giants have since rolled out workplace products like Doubao Work, QwenWork and Kimi Work, while businesses are increasingly adopting such tools across a growing range of operations.
+At dairy producer Mengniu, employee Wang Guoyin used Tencent's WorkBuddy platform to develop an AI-assisted cattle diagnostic tool, drawing on veterinary literature and his farm experience, and achieving success despite having no programming background.
+When farm workers report symptoms like reduced appetite, a body temperature of 39.5 degrees Celsius or falling milk production, the agent asks follow-up questions and provides diagnostic suggestions. The company said the time needed to assess a case at an individual farm had fallen from roughly 1.5 days to two hours.
+AI agents are finding their way into more business operations. A survey by Chinese research organization Shaqiu think tank found that the share of Chinese enterprises using AI agents had climbed from 17.3 percent at the end of 2024 to 40.3 percent in the first half of 2026.
+Advances in foundation models from Chinese developers including DeepSeek, Zhipu and MiniMax, alongside improvements in key capabilities such as task understanding, planning, tool use and multi-agent collaboration, have helped speed up the adoption of AI agents, said Zhong Xinlong, a researcher at the China Center for Information Industry Development.
+THE BROADER TEST
+Yet wider adoption does not necessarily translate into financial returns for businesses.
+KPMG's global tech report 2026 found that 88 percent of surveyed organizations were incorporating agentic AI into their systems, but only 24 percent reported achieving a return on investment across multiple AI use cases.
+One challenge is that AI agents still lack the reliability needed to perform lengthy tasks over extended periods, limiting their adoption in core business operations. As a result, companies have yet to see widespread returns on their investments, Zhong said.
+Security is another constraint on wider adoption. Risks such as data leaks, unauthorized operations and loss of control over agents' behavior continue to hinder their large-scale deployment, Zhong added.
+Beyond the business scenario, the spread of AI agents is also raising questions about the future of work. Against this backdrop, China is seeking to balance efforts to expand AI applications with measures to cushion their impact on employment.
+Under its "AI plus" initiative, China aims to raise the adoption rate of applications, including AI agents and next-generation smart terminals, to more than 90 percent by 2030. At the same time, guidelines issued last month call for using AI to both create jobs and improve employment opportunities while mitigating job displacement.
+The transition could bring mismatches in the labor market, with routine jobs coming under pressure even while demand for workers with interdisciplinary skills remains unmet, said Lyu Weifeng, secretary-general of the China Software Industry Association.
+"People are the ultimate purpose of technological development. In the age of AI and automation, it is even more important to put people first and recognize human value," noted Lu Ming, a professor of economics at Shanghai Jiao Tong University, located in east China. ■
